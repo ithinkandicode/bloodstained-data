@@ -1,0 +1,47 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 10428
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 327
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 10316
+ImportCount: 4
+ImportOffset: 10204
+DependsOffset: 10420
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: d414adf0-a08c-4406-84e9-8890e503ff0c
+Generations: 1
+CompressionFlags: 0
+PackageSource: 1753823975
+Unversioned: False
+AssetRegistryDataOffset: 10424
+BulkDataStartOffset: 58311
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 10428
+
+
+TYPE DATA FOR PB_DT_EnchantParameterType:
+Type_5_BF08F4064B9CF244C30C7788588CFDF5 (313|0) -> ByteProperty (21|0) 
+IsShard_22_B55CC7A74F39BCC3C9CAF89C8205672C (175|0) -> BoolProperty (17|0) 
+IsGradeValue_40_F9BFCF7648702BD90301C7A165225A46 (174|0) -> BoolProperty (17|0) 
+EquipType_25_DEF1C32D420ACBA29D5AA0B5D0AE0D20 (121|0) -> ByteProperty (21|0) 
+ItemID_31_461716F74C5895124D82E0B3CA33B6B3 (176|0) -> NameProperty (209|0) 
+RankMinValue_13_9BFEECC74D2F4182BE533180CAB65B5D (222|0) -> FloatProperty (127|0) 
+RankMaxValue_14_AA320341476CDE86FC5AAA8C355BA3A5 (221|0) -> FloatProperty (127|0) 
+GradeMinValue_17_91AE73DD41FDAAC8F8DA31AD866DCA50 (134|0) -> FloatProperty (127|0) 
+GradeMaxvalue_18_93F3C28741CDEF08451A2C8C3D6083A0 (133|0) -> FloatProperty (127|0) 
+EquipValue_28_5CFE97924D56254C9B62AF83698220FC (122|0) -> FloatProperty (127|0) 
+DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB (40|0) -> FloatProperty (127|0) 

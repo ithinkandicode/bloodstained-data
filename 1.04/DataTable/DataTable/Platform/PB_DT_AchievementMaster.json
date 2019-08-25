@@ -1,0 +1,450 @@
+[
+  {
+    "Key": "ACHIEVE_01",
+    "Value": {
+      "DefaultId": "ACHIEVE_01",
+      "IsMetaAchievement": true,
+      "MetasRequiringThis": []
+    }
+  },
+  {
+    "Key": "ACHIEVE_02",
+    "Value": {
+      "DefaultId": "ACHIEVE_02",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE_03",
+    "Value": {
+      "DefaultId": "ACHIEVE_03",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE_05",
+    "Value": {
+      "DefaultId": "ACHIEVE_05",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE_04",
+    "Value": {
+      "DefaultId": "ACHIEVE_04",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE_06",
+    "Value": {
+      "DefaultId": "ACHIEVE_06",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE_08",
+    "Value": {
+      "DefaultId": "ACHIEVE_08",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE_09",
+    "Value": {
+      "DefaultId": "ACHIEVE_09",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE_07",
+    "Value": {
+      "DefaultId": "ACHIEVE_07",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ]
+    }
+  }
+]

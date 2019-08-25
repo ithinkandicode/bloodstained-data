@@ -1,0 +1,2306 @@
+[
+  {
+    "Key": "Enemy_001",
+    "Value": {
+      "UniqueID": "N3003",
+      "Area1": "SYS_SEN_AreaName001",
+      "Area2": "SYS_SEN_AreaName002",
+      "Area3": "SYS_SEN_AreaName003",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_026",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": "/Game/Core/Character/N3003/Data/N3003_Generator"
+    }
+  },
+  {
+    "Key": "Enemy_002",
+    "Value": {
+      "UniqueID": "N3006",
+      "Area1": "SYS_SEN_AreaName001",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_029",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_003",
+    "Value": {
+      "UniqueID": "N3005",
+      "Area1": "SYS_SEN_AreaName001",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_028",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_004",
+    "Value": {
+      "UniqueID": "N3007",
+      "Area1": "SYS_SEN_AreaName001",
+      "Area2": "SYS_SEN_AreaName002",
+      "Area3": "SYS_SEN_AreaName003",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_041",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_005",
+    "Value": {
+      "UniqueID": "N3013",
+      "Area1": "SYS_SEN_AreaName001",
+      "Area2": "SYS_SEN_AreaName003",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_035",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_006",
+    "Value": {
+      "UniqueID": "N3015",
+      "Area1": "SYS_SEN_AreaName001",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_031",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_007",
+    "Value": {
+      "UniqueID": "N3051",
+      "Area1": "SYS_SEN_AreaName002",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_072",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_008",
+    "Value": {
+      "UniqueID": "N3004",
+      "Area1": "SYS_SEN_AreaName002",
+      "Area2": "SYS_SEN_AreaName003",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_027",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_009",
+    "Value": {
+      "UniqueID": "N3029",
+      "Area1": "SYS_SEN_AreaName002",
+      "Area2": "SYS_SEN_AreaName003",
+      "Area3": "SYS_SEN_AreaName013",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_032",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_010",
+    "Value": {
+      "UniqueID": "N3073",
+      "Area1": "SYS_SEN_AreaName003",
+      "Area2": "SYS_SEN_AreaName005",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_034",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_011",
+    "Value": {
+      "UniqueID": "N3105",
+      "Area1": "SYS_SEN_AreaName003",
+      "Area2": "SYS_SEN_AreaName004",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_115",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_012",
+    "Value": {
+      "UniqueID": "N3080",
+      "Area1": "SYS_SEN_AreaName003",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_039",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_013",
+    "Value": {
+      "UniqueID": "N3066",
+      "Area1": "SYS_SEN_AreaName004",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_036",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_014",
+    "Value": {
+      "UniqueID": "N3042",
+      "Area1": "SYS_SEN_AreaName004",
+      "Area2": "SYS_SEN_AreaName013",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_033",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_015",
+    "Value": {
+      "UniqueID": "N3065",
+      "Area1": "SYS_SEN_AreaName004",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_030",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_016",
+    "Value": {
+      "UniqueID": "N3011",
+      "Area1": "SYS_SEN_AreaName003",
+      "Area2": "SYS_SEN_AreaName004",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_038",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_017",
+    "Value": {
+      "UniqueID": "N3091",
+      "Area1": "SYS_SEN_AreaName004",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_105",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_018",
+    "Value": {
+      "UniqueID": "N3034",
+      "Area1": "SYS_SEN_AreaName004",
+      "Area2": "SYS_SEN_AreaName005",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_064",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_019",
+    "Value": {
+      "UniqueID": "N3075",
+      "Area1": "SYS_SEN_AreaName004",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_091",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_020",
+    "Value": {
+      "UniqueID": "N3100",
+      "Area1": "SYS_SEN_AreaName001",
+      "Area2": "SYS_SEN_AreaName005",
+      "Area3": "SYS_SEN_AreaName006",
+      "Area4": "SYS_SEN_AreaName007",
+      "Unlockkey": "Archive_Unlock_Tips_110",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": true,
+      "AreaInputPath": "/Game/Core/Character/N3100/Data/Parent/Chr_N3100"
+    }
+  },
+  {
+    "Key": "Enemy_021",
+    "Value": {
+      "UniqueID": "N3104",
+      "Area1": "SYS_SEN_AreaName004",
+      "Area2": "SYS_SEN_AreaName005",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_114",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_022",
+    "Value": {
+      "UniqueID": "N3053",
+      "Area1": "SYS_SEN_AreaName004",
+      "Area2": "SYS_SEN_AreaName005",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_077",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_023",
+    "Value": {
+      "UniqueID": "N3079",
+      "Area1": "SYS_SEN_AreaName005",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_095",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_024",
+    "Value": {
+      "UniqueID": "N3055",
+      "Area1": "SYS_SEN_AreaName005",
+      "Area2": "SYS_SEN_AreaName007",
+      "Area3": "SYS_SEN_AreaName013",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_079",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_025",
+    "Value": {
+      "UniqueID": "N3001",
+      "Area1": "SYS_SEN_AreaName005",
+      "Area2": "SYS_SEN_AreaName009",
+      "Area3": "SYS_SEN_AreaName013",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_047",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_026",
+    "Value": {
+      "UniqueID": "N3116",
+      "Area1": "SYS_SEN_AreaName003",
+      "Area2": "SYS_SEN_AreaName005",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_123",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_027",
+    "Value": {
+      "UniqueID": "N3082",
+      "Area1": "SYS_SEN_AreaName006",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_037",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": "/Game/Core/Character/N3082/Data/N3082_Generator"
+    }
+  },
+  {
+    "Key": "Enemy_028",
+    "Value": {
+      "UniqueID": "N3090",
+      "Area1": "SYS_SEN_AreaName005",
+      "Area2": "SYS_SEN_AreaName006",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_104",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_029",
+    "Value": {
+      "UniqueID": "N3084",
+      "Area1": "SYS_SEN_AreaName004",
+      "Area2": "SYS_SEN_AreaName006",
+      "Area3": "SYS_SEN_AreaName013",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_098",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_030",
+    "Value": {
+      "UniqueID": "N2002",
+      "Area1": "SYS_SEN_AreaName006",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_014",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_031",
+    "Value": {
+      "UniqueID": "N3033",
+      "Area1": "SYS_SEN_AreaName007",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_063",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_032",
+    "Value": {
+      "UniqueID": "N3017",
+      "Area1": "SYS_SEN_AreaName007",
+      "Area2": "SYS_SEN_AreaName009",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_050",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_033",
+    "Value": {
+      "UniqueID": "N3063",
+      "Area1": "SYS_SEN_AreaName007",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_082",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_034",
+    "Value": {
+      "UniqueID": "N3103",
+      "Area1": "SYS_SEN_AreaName007",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_113",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_035",
+    "Value": {
+      "UniqueID": "N3064",
+      "Area1": "SYS_SEN_AreaName013",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_083",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_036",
+    "Value": {
+      "UniqueID": "N3010",
+      "Area1": "SYS_SEN_AreaName013",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_044",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_037",
+    "Value": {
+      "UniqueID": "N3099",
+      "Area1": "SYS_SEN_AreaName005",
+      "Area2": "SYS_SEN_AreaName007",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_109",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_038",
+    "Value": {
+      "UniqueID": "N3008",
+      "Area1": "SYS_SEN_AreaName006",
+      "Area2": "SYS_SEN_AreaName009",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_042",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_039",
+    "Value": {
+      "UniqueID": "N3111",
+      "Area1": "SYS_SEN_AreaName005",
+      "Area2": "SYS_SEN_AreaName006",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_120",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_040",
+    "Value": {
+      "UniqueID": "N3114",
+      "Area1": "SYS_SEN_AreaName009",
+      "Area2": "SYS_SEN_AreaName011",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_041",
+    "Value": {
+      "UniqueID": "N3058",
+      "Area1": "SYS_SEN_AreaName009",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_073",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_042",
+    "Value": {
+      "UniqueID": "N3019",
+      "Area1": "SYS_SEN_AreaName009",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_052",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_043",
+    "Value": {
+      "UniqueID": "N2009",
+      "Area1": "SYS_SEN_AreaName007",
+      "Area2": "SYS_SEN_AreaName014",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_020",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_044",
+    "Value": {
+      "UniqueID": "N3025",
+      "Area1": "SYS_SEN_AreaName009",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_058",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_045",
+    "Value": {
+      "UniqueID": "N3043",
+      "Area1": "SYS_SEN_AreaName006",
+      "Area2": "SYS_SEN_AreaName011",
+      "Area3": "SYS_SEN_AreaName013",
+      "Area4": "SYS_SEN_AreaName015",
+      "Unlockkey": "Archive_Unlock_Tips_066",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_046",
+    "Value": {
+      "UniqueID": "N3092",
+      "Area1": "SYS_SEN_AreaName011",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_106",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_047",
+    "Value": {
+      "UniqueID": "N3024",
+      "Area1": "SYS_SEN_AreaName011",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_057",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_048",
+    "Value": {
+      "UniqueID": "N3070",
+      "Area1": "SYS_SEN_AreaName007",
+      "Area2": "SYS_SEN_AreaName011",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_086",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": "/Game/Core/Character/N3070/Deta/Chr_N3070"
+    }
+  },
+  {
+    "Key": "Enemy_049",
+    "Value": {
+      "UniqueID": "N3102",
+      "Area1": "SYS_SEN_AreaName005",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_112",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_050",
+    "Value": {
+      "UniqueID": "N3009",
+      "Area1": "SYS_SEN_AreaName005",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_043",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_051",
+    "Value": {
+      "UniqueID": "N3087",
+      "Area1": "SYS_SEN_AreaName003",
+      "Area2": "SYS_SEN_AreaName004",
+      "Area3": "SYS_SEN_AreaName005",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_101",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_052",
+    "Value": {
+      "UniqueID": "N3072",
+      "Area1": "SYS_SEN_AreaName007",
+      "Area2": "SYS_SEN_AreaName013",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_088",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_053",
+    "Value": {
+      "UniqueID": "N3012",
+      "Area1": "SYS_SEN_AreaName005",
+      "Area2": "SYS_SEN_AreaName007",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_045",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_054",
+    "Value": {
+      "UniqueID": "N3052",
+      "Area1": "SYS_SEN_AreaName003",
+      "Area2": "SYS_SEN_AreaName005",
+      "Area3": "SYS_SEN_AreaName008",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_076",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_055",
+    "Value": {
+      "UniqueID": "N3085",
+      "Area1": "SYS_SEN_AreaName005",
+      "Area2": "SYS_SEN_AreaName007",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_099",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_056",
+    "Value": {
+      "UniqueID": "N3109",
+      "Area1": "SYS_SEN_AreaName007",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_119",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": "/Game/Core/Character/N3109/Data/Chr_3109"
+    }
+  },
+  {
+    "Key": "Enemy_057",
+    "Value": {
+      "UniqueID": "N3037",
+      "Area1": "SYS_SEN_AreaName007",
+      "Area2": "SYS_SEN_AreaName008",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_119",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": "/Game/Core/Character/N3109/Data/Chr_3109_Tank"
+    }
+  },
+  {
+    "Key": "Enemy_058",
+    "Value": {
+      "UniqueID": "N3077",
+      "Area1": "SYS_SEN_AreaName005",
+      "Area2": "SYS_SEN_AreaName008",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_093",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_059",
+    "Value": {
+      "UniqueID": "N3093",
+      "Area1": "SYS_SEN_AreaName007",
+      "Area2": "SYS_SEN_AreaName008",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_107",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_060",
+    "Value": {
+      "UniqueID": "N3110",
+      "Area1": "SYS_SEN_AreaName007",
+      "Area2": "SYS_SEN_AreaName008",
+      "Area3": "SYS_SEN_AreaName013",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_040",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_061",
+    "Value": {
+      "UniqueID": "N3098",
+      "Area1": "SYS_SEN_AreaName013",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_108",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_062",
+    "Value": {
+      "UniqueID": "N3078",
+      "Area1": "SYS_SEN_AreaName013",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_094",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_063",
+    "Value": {
+      "UniqueID": "N3022",
+      "Area1": "SYS_SEN_AreaName013",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_055",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_064",
+    "Value": {
+      "UniqueID": "N3044",
+      "Area1": "SYS_SEN_AreaName013",
+      "Area2": "SYS_SEN_AreaName015",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_067",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_065",
+    "Value": {
+      "UniqueID": "N3076",
+      "Area1": "SYS_SEN_AreaName013",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_092",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_066",
+    "Value": {
+      "UniqueID": "N3089",
+      "Area1": "SYS_SEN_AreaName013",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_103",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_067",
+    "Value": {
+      "UniqueID": "N3056",
+      "Area1": "SYS_SEN_AreaName005",
+      "Area2": "SYS_SEN_AreaName008",
+      "Area3": "SYS_SEN_AreaName013",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_080",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_068",
+    "Value": {
+      "UniqueID": "N3014",
+      "Area1": "SYS_SEN_AreaName015",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_046",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_069",
+    "Value": {
+      "UniqueID": "N3002",
+      "Area1": "SYS_SEN_AreaName015",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_048",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_070",
+    "Value": {
+      "UniqueID": "N3112",
+      "Area1": "SYS_SEN_AreaName015",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_121",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_071",
+    "Value": {
+      "UniqueID": "N2010",
+      "Area1": "SYS_SEN_AreaName015",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_021",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_072",
+    "Value": {
+      "UniqueID": "N3115",
+      "Area1": "SYS_SEN_AreaName015",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_073",
+    "Value": {
+      "UniqueID": "N3101",
+      "Area1": "SYS_SEN_AreaName012",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_111",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_074",
+    "Value": {
+      "UniqueID": "N3059",
+      "Area1": "SYS_SEN_AreaName012",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_074",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": "/Game/Core/Character/N3059/Deta/Chr_N3059"
+    }
+  },
+  {
+    "Key": "Enemy_075",
+    "Value": {
+      "UniqueID": "N3113",
+      "Area1": "SYS_SEN_AreaName011",
+      "Area2": "SYS_SEN_AreaName012",
+      "Area3": "SYS_SEN_AreaName013",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_122",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_076",
+    "Value": {
+      "UniqueID": "N3083",
+      "Area1": "SYS_SEN_AreaName014",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_097",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_077",
+    "Value": {
+      "UniqueID": "N3032",
+      "Area1": "SYS_SEN_AreaName014",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_062",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_078",
+    "Value": {
+      "UniqueID": "N3119",
+      "Area1": "SYS_SEN_AreaName014",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_025",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_079",
+    "Value": {
+      "UniqueID": "N3123",
+      "Area1": "SYS_SEN_AreaName014",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_025",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_080",
+    "Value": {
+      "UniqueID": "N3086",
+      "Area1": "SYS_SEN_AreaName014",
+      "Area2": "SYS_SEN_AreaName015",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_100",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_081",
+    "Value": {
+      "UniqueID": "N3071",
+      "Area1": "SYS_SEN_AreaName014",
+      "Area2": "SYS_SEN_AreaName016",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_087",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_082",
+    "Value": {
+      "UniqueID": "N3035",
+      "Area1": "SYS_SEN_AreaName007",
+      "Area2": "SYS_SEN_AreaName011",
+      "Area3": "SYS_SEN_AreaName016",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_065",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_083",
+    "Value": {
+      "UniqueID": "N3054",
+      "Area1": "SYS_SEN_AreaName016",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_078",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_084",
+    "Value": {
+      "UniqueID": "N3074",
+      "Area1": "SYS_SEN_AreaName016",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_090",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_085",
+    "Value": {
+      "UniqueID": "N3117",
+      "Area1": "SYS_SEN_AreaName016",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_124",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": "/Game/Core/Character/N3117/Data/Chr_3117"
+    }
+  },
+  {
+    "Key": "Enemy_086",
+    "Value": {
+      "UniqueID": "N3020",
+      "Area1": "SYS_SEN_AreaName016",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_053",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_087",
+    "Value": {
+      "UniqueID": "N3067",
+      "Area1": "SYS_SEN_AreaName018",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_085",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_088",
+    "Value": {
+      "UniqueID": "N3030",
+      "Area1": "SYS_SEN_AreaName018",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_060",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_089",
+    "Value": {
+      "UniqueID": "N3045",
+      "Area1": "SYS_SEN_AreaName018",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_068",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_090",
+    "Value": {
+      "UniqueID": "N3016",
+      "Area1": "SYS_SEN_AreaName018",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_049",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_091",
+    "Value": {
+      "UniqueID": "N3023",
+      "Area1": "SYS_SEN_AreaName018",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_056",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_092",
+    "Value": {
+      "UniqueID": "N3028",
+      "Area1": "SYS_SEN_AreaName018",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_059",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_093",
+    "Value": {
+      "UniqueID": "N3038",
+      "Area1": "SYS_SEN_AreaName018",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_059",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": "/Game/Core/Character/N3038/Data/Chr_3038"
+    }
+  },
+  {
+    "Key": "Enemy_094",
+    "Value": {
+      "UniqueID": "N3081",
+      "Area1": "SYS_SEN_AreaName018",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_096",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_095",
+    "Value": {
+      "UniqueID": "N2003",
+      "Area1": "SYS_SEN_AreaName018",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_015",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_096",
+    "Value": {
+      "UniqueID": "N2008",
+      "Area1": "SYS_SEN_AreaName007",
+      "Area2": "SYS_SEN_AreaName018",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_019",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_097",
+    "Value": {
+      "UniqueID": "N3021",
+      "Area1": "SYS_SEN_AreaName018",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_054",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_098",
+    "Value": {
+      "UniqueID": "N3031",
+      "Area1": "SYS_SEN_AreaName019",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_061",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy_099",
+    "Value": {
+      "UniqueID": "N3088",
+      "Area1": "SYS_SEN_AreaName019",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_102",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N3018",
+      "Area1": "SYS_SEN_AreaName019",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_051",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N3120",
+      "Area1": "SYS_SEN_AreaName019",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_025",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N3057",
+      "Area1": "SYS_SEN_AreaName019",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_081",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": false,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N3121",
+      "Area1": "SYS_SEN_AreaName020",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_025",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": "/Game/Core/Character/N3121/Data/Chr_N3121_Generator"
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N3122",
+      "Area1": "SYS_SEN_AreaName020",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_025",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N3124",
+      "Area1": "SYS_SEN_AreaName020",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_025",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N2015",
+      "Area1": "SYS_SEN_AreaName020",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_025",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N3106",
+      "Area1": "SYS_SEN_AreaName016",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_116",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N3107",
+      "Area1": "SYS_SEN_AreaName004",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_117",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N3108",
+      "Area1": "SYS_SEN_AreaName008",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_118",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N1001",
+      "Area1": "SYS_SEN_AreaName001",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_001",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N1011",
+      "Area1": "SYS_SEN_AreaName003",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_010",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N1003",
+      "Area1": "SYS_SEN_AreaName005",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_003",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N2004",
+      "Area1": "SYS_SEN_AreaName007",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_016",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N1005",
+      "Area1": "SYS_SEN_AreaName006",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_005",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N2001",
+      "Area1": "SYS_SEN_AreaName009",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_013",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N1006",
+      "Area1": "SYS_SEN_AreaName011",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_006",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N1012",
+      "Area1": "SYS_SEN_AreaName008",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_012",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N1002",
+      "Area1": "SYS_SEN_AreaName005",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_002",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N2014",
+      "Area1": "SYS_SEN_AreaName015",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_024",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N2007",
+      "Area1": "SYS_SEN_AreaName012",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_018",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N2006",
+      "Area1": "SYS_SEN_AreaName014",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_017",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N1011_STRONG",
+      "Area1": "SYS_SEN_AreaName016",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_011",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N1004",
+      "Area1": "SYS_SEN_AreaName018",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_004",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N1008",
+      "Area1": "SYS_SEN_AreaName019",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_007",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N1009_Enemy",
+      "Area1": "SYS_SEN_AreaName019",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_008",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": "/Game/Core/Character/N5020/Data/Chr_N5020"
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N1013_Bael",
+      "Area1": "SYS_SEN_AreaName019",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_008",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": "/Game/Core/Character/N1013/Data/Chr_N1013_Bael"
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N2012",
+      "Area1": "SYS_SEN_AreaName019",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_022",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  },
+  {
+    "Key": "Enemy",
+    "Value": {
+      "UniqueID": "N2013",
+      "Area1": "SYS_SEN_AreaName008",
+      "Area2": "None",
+      "Area3": "None",
+      "Area4": "None",
+      "Unlockkey": "Archive_Unlock_Tips_023",
+      "UpLimit": 45,
+      "DownLimit": 45,
+      "LeftLimit": 45,
+      "RightLimit": 45,
+      "IsAreaInputManual": true,
+      "IsAreaCheckRefChild": false,
+      "AreaInputPath": ""
+    }
+  }
+]

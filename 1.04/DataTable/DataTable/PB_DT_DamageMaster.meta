@@ -1,0 +1,99 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 26650
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 1021
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 26538
+ImportCount: 4
+ImportOffset: 26426
+DependsOffset: 26642
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 02b58df5-51b9-4a0e-8edc-dc7e0999a620
+Generations: 1
+CompressionFlags: 0
+PackageSource: 1717508644
+Unversioned: False
+AssetRegistryDataOffset: 26646
+BulkDataStartOffset: 1464325
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 26650
+
+
+TYPE DATA FOR PB_DT_DamageMaster:
+DamageId (64|0) -> IntProperty (166|0) 
+ArtsID (24|0) -> ByteProperty (39|0) 
+DamageType (68|0) -> IntProperty (166|0) 
+ShardId (954|0) -> NameProperty (705|0) 
+SA_Attack (948|0) -> IntProperty (166|0) 
+SA_Correction (949|0) -> FloatProperty (134|0) 
+STR_Correction (979|0) -> FloatProperty (134|0) 
+INT_Correction (165|0) -> FloatProperty (134|0) 
+FixedDamage (132|0) -> FloatProperty (134|0) 
+SurfaceId (991|0) -> NameProperty (705|0) 
+NoWeaponSE (714|0) -> BoolProperty (33|0) 
+ZAN (1019|0) -> BoolProperty (33|0) 
+DAG (58|0) -> BoolProperty (33|0) 
+TOT (1006|0) -> BoolProperty (33|0) 
+FLA (133|0) -> BoolProperty (33|0) 
+ICE (160|0) -> BoolProperty (33|0) 
+LIG (180|0) -> BoolProperty (33|0) 
+HOL (156|0) -> BoolProperty (33|0) 
+DAR (69|0) -> BoolProperty (33|0) 
+POI (929|0) -> BoolProperty (33|0) 
+CUR (52|0) -> BoolProperty (33|0) 
+STO (977|0) -> BoolProperty (33|0) 
+OverrideHitEffectId (718|0) -> NameProperty (705|0) 
+OverrideSoundEffectId (719|0) -> NameProperty (705|0) 
+IsIceDamage (169|0) -> BoolProperty (33|0) 
+SpecialEffectId (975|0) -> NameProperty (705|0) 
+SpecialEffectDenominator (974|0) -> FloatProperty (134|0) 
+Dir (81|0) -> ByteProperty (39|0) 
+BlastMin (30|0) -> FloatProperty (134|0) 
+BlastMax (29|0) -> FloatProperty (134|0) 
+ForceMin (138|0) -> FloatProperty (134|0) 
+ForceMax (137|0) -> FloatProperty (134|0) 
+KnockBackDistance (172|0) -> FloatProperty (134|0) 
+KnockBackOffsetAngle (175|0) -> FloatProperty (134|0) 
+KnockBackLimitAngleMin (174|0) -> FloatProperty (134|0) 
+KnockBackLimitAngleMax (173|0) -> FloatProperty (134|0) 
+AttackHitStop (25|0) -> FloatProperty (134|0) 
+DefenceHitStop (76|0) -> FloatProperty (134|0) 
+IsRapidHit (170|0) -> BoolProperty (33|0) 
+RapidHitTime (941|0) -> FloatProperty (134|0) 
+DamageFlashRed (62|0) -> FloatProperty (134|0) 
+DamageFlashGreen (61|0) -> FloatProperty (134|0) 
+DamageFlashBlue (60|0) -> FloatProperty (134|0) 
+DamageNoiseRed (67|0) -> FloatProperty (134|0) 
+DamageNoiseGreen (66|0) -> FloatProperty (134|0) 
+DamageNoiseBlue (65|0) -> FloatProperty (134|0) 
+DamageFlashSec (63|0) -> FloatProperty (134|0) 
+GroupId (146|0) -> NameProperty (705|0) 
+IsAttachAttack (168|0) -> BoolProperty (33|0) 
+AttackId (26|0) -> NameProperty (705|0) 
+DispHitEffectForAlly (82|0) -> BoolProperty (33|0) 
+StepEntry (976|0) -> ByteProperty (39|0) 
+Melle_Add (188|0) -> FloatProperty (134|0) 
+Magic_Add (183|0) -> FloatProperty (134|0) 
+BloodEffectStr (32|0) -> StrProperty (981|0) 
+BulletEraser (38|0) -> BoolProperty (33|0) 
+NoDamage (710|0) -> BoolProperty (33|0) 
+WallBreak (1013|0) -> BoolProperty (33|0) 
+RateDamage (943|0) -> FloatProperty (134|0) 
+AddCriticalPercent (18|0) -> FloatProperty (134|0) 
+NoNumericParticle (713|0) -> BoolProperty (33|0) 
+NoDeath (711|0) -> BoolProperty (33|0) 
+DontStopMutekiTimer (83|0) -> BoolProperty (33|0) 

@@ -1,0 +1,890 @@
+[
+  {
+    "Key": "Alkhahest",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Potion",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "HighPotion",
+    "Value": {
+      "AddShop": "Event_06_001_0000"
+    }
+  },
+  {
+    "Key": "Ether",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "HighEther",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Antidote",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Poison",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Flour",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Rice",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Egg",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "DragonsEgg",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Salt",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Sugar",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "SoySauce",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Pepper",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Ginger",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "MocoOil",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "MilkofZagan",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "MocoOnion",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Uni",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "YorktonMeat",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "ZaganMeat",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Lemon",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Butter",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Cheese",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Soda",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Pasta",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "PieDough",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "WhiteSauce",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Currypowder",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Knife",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Baselard",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Kukuri",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "PoisonKukri",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Rapier",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Epe",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Stinger",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "ShortSword",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "LongSword",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "WolfBalt",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Mulgres",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Mace",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Morgenstern",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "McAutil",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Claymore",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Perex",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Flanders",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Gram",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "KungFuShoes",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "KillerBoots",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Rabbitboots",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Spear",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Reims",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Partizan",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Dull",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Noda",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Tsurumaru",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Awhip",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Ibarakaswhip",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "FireWhip",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Musketon",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Branderbus",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Tanegasima",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Softpoint",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Hollowpoint",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "ArmorPiercing",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Firebullet",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Icebullet",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Thunderbrett",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "CriticalBullet",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "AriesHorns",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Headband",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "PirateTriangleCap",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "DurahanMaherm",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Dogsberet",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "CowboyHat",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Magushat",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Skinbreastplate",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Tunic",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Countrydress",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Copperbreastplate",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Chemisedress",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Scalearmor",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Ironbreastplate",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Brigandine",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Eyeglasses",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Bottleglasses",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Stonemask",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Elfearcap",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Moonring",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Speedstar",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Ring",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Criticalring",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Muffler",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Batwing",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Outlinestyle",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "SwingTentacle",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "BoonsLore",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "FireCannon",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "Ceruleansplash",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "Raginggirl",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "ChaseArrow",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "CurseDray",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "Headfail",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "GunMastery",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "SummonButt",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "ResistThunder",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "Releasetoade",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "SummonYorkton",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "EntangleBind",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "SummonGilemund",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "GreatSwordMastery",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "StraightArrow",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "SwordMastery",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "SummonAme",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "SummonBugs",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "CastleMap1",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "Limestone",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Ruby",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "AmethystDebris",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Steel",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Obsidian",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Bronze",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Iron",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "Squares",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "MeltingSkull",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "FrogEye",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "BatFeather",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "MeltedBone",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "ManeLion",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "DemonCloth",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "CannonDebris",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "MonsterBirdTears",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "DemonDogSkin",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "DemonDogFang",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "8BitCoin",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "16BitCoin",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "32BitCoin",
+    "Value": {
+      "AddShop": "Event_01_001_0000"
+    }
+  },
+  {
+    "Key": "UniDon",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "PorkCurry",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "Steak",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "Tonkatsu",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "GingerPork",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "FishAndChips",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "Flan",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "LemonPie",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "Lemonade",
+    "Value": {
+      "AddShop": "Non"
+    }
+  },
+  {
+    "Key": "MacaroniAndCheese",
+    "Value": {
+      "AddShop": "Non"
+    }
+  }
+]

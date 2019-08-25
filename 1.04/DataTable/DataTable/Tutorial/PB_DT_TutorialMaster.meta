@@ -1,0 +1,51 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 2604
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 108
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 2492
+ImportCount: 4
+ImportOffset: 2380
+DependsOffset: 2596
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 8970ae4c-3de5-40f5-ac9c-ad6a39e76fb1
+Generations: 1
+CompressionFlags: 0
+PackageSource: 3466337204
+Unversioned: False
+AssetRegistryDataOffset: 2600
+BulkDataStartOffset: 19317
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 2604
+
+
+TYPE DATA FOR PB_DT_TutorialMaster:
+TutorialTextKey (102|0) -> NameProperty (47|0) 
+NextTutorialID (48|0) -> NameProperty (47|0) 
+IsModal (37|0) -> BoolProperty (7|0) 
+ZOrder (107|0) -> IntProperty (36|0) 
+XPos (104|0) -> FloatProperty (31|0) 
+YPos (106|0) -> FloatProperty (31|0) 
+XAlign (103|0) -> FloatProperty (31|0) 
+YAlign (105|0) -> FloatProperty (31|0) 
+EnablePosition (19|0) -> BoolProperty (7|0) 
+HPadding (35|0) -> IntProperty (36|0) 
+ModalAction (45|0) -> EnumProperty (21|0) 
+DisplayModalAction (14|0) -> BoolProperty (7|0) 
+ModalDelay (46|0) -> FloatProperty (31|0) 
+ItemIconID (38|0) -> NameProperty (47|0) 
+OverrideMenu (52|0) -> BoolProperty (7|0) 

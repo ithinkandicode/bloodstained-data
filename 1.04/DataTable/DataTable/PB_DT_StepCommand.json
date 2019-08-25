@@ -1,0 +1,10 @@
+[
+  {
+    "Key": "Test_000",
+    "Value": {
+      "TargetID": "Zangetsu",
+      "Command": "TestCommand",
+      "Value": 5.5
+    }
+  }
+]

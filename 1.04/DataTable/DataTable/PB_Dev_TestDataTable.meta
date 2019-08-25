@@ -1,0 +1,88 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 2315
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 81
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 2203
+ImportCount: 4
+ImportOffset: 2091
+DependsOffset: 2307
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 0fa36fba-c3cc-49b3-ac04-d14ad45ea0a8
+Generations: 1
+CompressionFlags: 0
+PackageSource: 2058668037
+Unversioned: False
+AssetRegistryDataOffset: 2311
+BulkDataStartOffset: 7139
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 2315
+
+
+TYPE DATA FOR PB_Dev_TestDataTable:
+maxEnemies (53|0) -> IntProperty (40|0) 
+maxEnemiesInTheRoom (54|0) -> IntProperty (40|0) 
+startTime (76|0) -> FloatProperty (37|0) 
+firstMinDuration (36|0) -> FloatProperty (37|0) 
+firstMaxDuration (35|0) -> FloatProperty (37|0) 
+minDuration (58|0) -> FloatProperty (37|0) 
+maxDuration (52|0) -> FloatProperty (37|0) 
+minInterval (59|0) -> FloatProperty (37|0) 
+maxInterval (55|0) -> FloatProperty (37|0) 
+safeZone (74|0) -> FloatProperty (37|0) 
+maxDistance (48|0) -> FloatProperty (37|0) 
+minOffsetHeight (60|0) -> FloatProperty (37|0) 
+maxOffsetHeight (56|0) -> FloatProperty (37|0) 
+onScreen (67|0) -> BoolProperty (8|0) 
+offScreen (64|0) -> BoolProperty (8|0) 
+minDistanceOffScreen (57|0) -> FloatProperty (37|0) 
+maxDistanceOffScreen (49|0) -> FloatProperty (37|0) 
+onFloor (66|0) -> BoolProperty (8|0) 
+maxDistanceToFloor (51|0) -> FloatProperty (37|0) 
+onCeil (65|0) -> BoolProperty (8|0) 
+maxDistanceToCeil (50|0) -> FloatProperty (37|0) 
+rollAngle (72|0) -> FloatProperty (37|0) 
+tag (77|0) -> NameProperty (61|0) 
+character1Id (10|0) -> NameProperty (61|0) 
+character1Rate (11|0) -> IntProperty (40|0) 
+maxCharacter1InTheRoom (43|0) -> IntProperty (40|0) 
+character1State (12|0) -> ByteProperty (9|0) 
+character2Id (13|0) -> NameProperty (61|0) 
+character2Rate (14|0) -> IntProperty (40|0) 
+maxCharacter2InTheRoom (44|0) -> IntProperty (40|0) 
+character2State (15|0) -> ByteProperty (9|0) 
+character3Id (16|0) -> NameProperty (61|0) 
+character3Rate (17|0) -> IntProperty (40|0) 
+maxCharacter3InTheRoom (45|0) -> IntProperty (40|0) 
+character3State (18|0) -> ByteProperty (9|0) 
+character4Id (19|0) -> NameProperty (61|0) 
+character4Rate (20|0) -> IntProperty (40|0) 
+maxCharacter4InTheRoom (46|0) -> IntProperty (40|0) 
+character4State (21|0) -> ByteProperty (9|0) 
+character5Id (22|0) -> NameProperty (61|0) 
+character5Rate (23|0) -> IntProperty (40|0) 
+maxCharacter5InTheRoom (47|0) -> IntProperty (40|0) 
+character5State (24|0) -> ByteProperty (9|0) 
+VolumeActivateDistanceXStopped (79|0) -> FloatProperty (37|0) 
+VolumeActivateDistanceXMoving (78|0) -> FloatProperty (37|0) 
+VolumeActivateDistanceZ (80|0) -> FloatProperty (37|0) 
+AppearOnFrontStopped (7|0) -> BoolProperty (8|0) 
+AppearOnBackStopped (5|0) -> BoolProperty (8|0) 
+AppearOnFrontMoving (6|0) -> BoolProperty (8|0) 
+AppearOnBackMoving (4|0) -> BoolProperty (8|0) 
+playerHeightIsCenter (71|0) -> BoolProperty (8|0) 
+InitPlayerAiming (39|0) -> ByteProperty (9|0) 

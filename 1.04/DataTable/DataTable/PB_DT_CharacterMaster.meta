@@ -1,0 +1,77 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 22741
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 591
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 22629
+ImportCount: 4
+ImportOffset: 22517
+DependsOffset: 22733
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: ef53ead9-4e05-4d08-97e5-ae5c1fac433c
+Generations: 1
+CompressionFlags: 0
+PackageSource: 659762521
+Unversioned: False
+AssetRegistryDataOffset: 22737
+BulkDataStartOffset: 212869
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 22741
+
+
+TYPE DATA FOR PB_DT_CharacterMaster:
+BPCharacterPath (265|0) -> StrProperty (588|0) 
+ArchiveCharacterPath (255|0) -> StrProperty (588|0) 
+ArchiveSkeletalMesh (260|0) -> SoftObjectProperty (585|0) 
+ArchiveAnimSequence (246|0) -> SoftObjectProperty (585|0) 
+ArchiveOutlineMaterial (259|0) -> SoftObjectProperty (585|0) 
+ArchiveActorPath (245|0) -> SoftObjectProperty (585|0) 
+RoomId (580|0) -> NameProperty (573|0) 
+CharacterParamatersId (267|0) -> NameProperty (573|0) 
+STR (587|0) -> IntProperty (281|0) 
+INT (280|0) -> IntProperty (281|0) 
+CON (269|0) -> IntProperty (281|0) 
+MND (285|0) -> IntProperty (281|0) 
+LUC (284|0) -> IntProperty (281|0) 
+ZAN (590|0) -> IntProperty (281|0) 
+DAG (271|0) -> IntProperty (281|0) 
+TOT (589|0) -> IntProperty (281|0) 
+FLA (276|0) -> IntProperty (281|0) 
+ICE (279|0) -> IntProperty (281|0) 
+LIG (283|0) -> IntProperty (281|0) 
+HOL (278|0) -> IntProperty (281|0) 
+DAR (272|0) -> IntProperty (281|0) 
+POI (579|0) -> IntProperty (281|0) 
+CUR (270|0) -> IntProperty (281|0) 
+STO (586|0) -> IntProperty (281|0) 
+SLO (584|0) -> IntProperty (281|0) 
+ItemDrop (282|0) -> NameProperty (573|0) 
+Area1 (262|0) -> StrProperty (588|0) 
+Area2 (263|0) -> StrProperty (588|0) 
+showInAchievents (583|0) -> BoolProperty (264|0) 
+ArchiveStep (261|0) -> ByteProperty (266|0) 
+ArchiveCameraYaw (250|0) -> FloatProperty (277|0) 
+ArchiveCameraYawWidth (251|0) -> FloatProperty (277|0) 
+ArchiveCameraPitch (247|0) -> FloatProperty (277|0) 
+ArchiveCameraPitchWidth (248|0) -> FloatProperty (277|0) 
+ArchiveCameraRangeScale (249|0) -> FloatProperty (277|0) 
+ArchiveLocationX (257|0) -> FloatProperty (277|0) 
+ArchiveLocationZ (258|0) -> FloatProperty (277|0) 
+ArchiveCamMaxX (252|0) -> FloatProperty (277|0) 
+ArchiveCamMaxZ (253|0) -> FloatProperty (277|0) 
+ArchiveCamMinZ (254|0) -> FloatProperty (277|0) 
+ArchiveFullscreenYawAdd (256|0) -> FloatProperty (277|0) 

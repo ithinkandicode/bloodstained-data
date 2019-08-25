@@ -1,0 +1,4144 @@
+[
+  {
+    "Key": "Ssword_BackStab1",
+    "Value": {
+      "ID": "EWpnSPEntry::Ssword_BackStab",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Knife",
+      "WeaponId": "Kukuri",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking",
+        "EArtsCommandStatus::Falling"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "1",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Ssword_BackStab2",
+    "Value": {
+      "ID": "EWpnSPEntry::Ssword_BackStab",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Knife",
+      "WeaponId": "Swordbreaker",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking",
+        "EArtsCommandStatus::Falling"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "1",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Ssword_BackStab3",
+    "Value": {
+      "ID": "EWpnSPEntry::Ssword_BackStab",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Knife",
+      "WeaponId": "Calnwenan",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking",
+        "EArtsCommandStatus::Falling"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "1",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Ssword_BackStab4",
+    "Value": {
+      "ID": "EWpnSPEntry::Ssword_BackStab",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Knife",
+      "WeaponId": "Mandaupasar",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking",
+        "EArtsCommandStatus::Falling"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "1",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Ssword_Throw1",
+    "Value": {
+      "ID": "EWpnSPEntry::Ssword_Throw",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Knife",
+      "WeaponId": "Baselard",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 80,
+      "States": [
+        "EArtsCommandStatus::Walking",
+        "EArtsCommandStatus::Falling",
+        "EArtsCommandStatus::Flying"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Ssword_Throw2",
+    "Value": {
+      "ID": "EWpnSPEntry::Ssword_Throw",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Knife",
+      "WeaponId": "ManGauche",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 80,
+      "States": [
+        "EArtsCommandStatus::Walking",
+        "EArtsCommandStatus::Falling",
+        "EArtsCommandStatus::Flying"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Ssword_Throw3",
+    "Value": {
+      "ID": "EWpnSPEntry::Ssword_Throw",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Knife",
+      "WeaponId": "Calnwenan",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 80,
+      "States": [
+        "EArtsCommandStatus::Walking",
+        "EArtsCommandStatus::Falling",
+        "EArtsCommandStatus::Flying"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Ssword_Throw4",
+    "Value": {
+      "ID": "EWpnSPEntry::Ssword_Throw",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Knife",
+      "WeaponId": "Mandaupasar",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 80,
+      "States": [
+        "EArtsCommandStatus::Walking",
+        "EArtsCommandStatus::Falling",
+        "EArtsCommandStatus::Flying"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Ssword_BackSteal1",
+    "Value": {
+      "ID": "EWpnSPEntry::Ssword_BackSteal",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "HuntedBrad",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": -1,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack1",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "Florenberg",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack2",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "Armas",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack3",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "Caradoborg",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack4",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "Flagarach",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack5",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "Dineslave",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack6",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "Broadsword",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack7",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "Redumbrella",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack8",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "XrossBrade",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack9",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "XrossBrade2",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack10",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "XrossBrade3",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack11",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "BradeOfEU",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack12",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "BradeOfEU2",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack13",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "BradeOfEU3",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack14",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "LightSaber",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack15",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "LightSaber2",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack16",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "LightSaber3",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack17",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "JodoSwordLight",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack18",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "JodoSwordLight2",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack19",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "JodoSwordLight3",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack20",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "SpearCutDownAside",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack21",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "SpearCutDownAside2",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack22",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "SpearCutDownAside3",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack23",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "ClockSowrd",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack24",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "LoveOfPizza",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack25",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "KongSword",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack26",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "SwordOfTheMushroom",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack27",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "PowerSword",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack28",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "SilverAndBlackSword",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack29",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "DungeonNightSword",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack30",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "EvilTheSword",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack31",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "ValkyrieSword",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack32",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Club",
+      "WeaponId": "Yagurushi",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack33",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Club",
+      "WeaponId": "Charwell",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack34",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Club",
+      "WeaponId": "Mistrutein",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack35",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Club",
+      "WeaponId": "StickOfMagiGirl",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack36",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Club",
+      "WeaponId": "StickOfMagiGirl2",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack37",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Club",
+      "WeaponId": "StickOfMagiGirl3",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 120,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_Parry1",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_Parry",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "Burtgang",
+      "CostMP": 15,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "6",
+            "Time": 0.15,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.15,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.15,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_PowerSlash1",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_PowerSlash",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "WolfBalt",
+      "CostMP": 20,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "1",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_PowerSlash2",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_PowerSlash",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "Hoffdo",
+      "CostMP": 20,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "1",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_PowerSlash3",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_PowerSlash",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "Liddyl",
+      "CostMP": 20,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "1",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_PowerSlash4",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_PowerSlash",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Club",
+      "WeaponId": "Morgenstern",
+      "CostMP": 20,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "1",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_PowerSlash5",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_PowerSlash",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Club",
+      "WeaponId": "McAutil",
+      "CostMP": 20,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "1",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_PowerSlash6",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_PowerSlash",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Club",
+      "WeaponId": "StickOfMagiGirl",
+      "CostMP": 20,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "1",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_PowerSlash7",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_PowerSlash",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Club",
+      "WeaponId": "StickOfMagiGirl2",
+      "CostMP": 20,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "1",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_PowerSlash8",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_PowerSlash",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Club",
+      "WeaponId": "StickOfMagiGirl3",
+      "CostMP": 20,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "1",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "NSword_ThrowSword1",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ThrowWeapon",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::ShortSword",
+      "WeaponId": "ValkyrieSword",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking",
+        "EArtsCommandStatus::Falling"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.15,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "2",
+            "Time": 0.15,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.15,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "LSword_GroundMoon1",
+    "Value": {
+      "ID": "EWpnSPEntry::LSword_GroundMoon",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::LargeSword",
+      "WeaponId": "Gram",
+      "CostMP": 60,
+      "ContinueCostMP": true,
+      "Expertise": 80,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "LSword_GroundMoon2",
+    "Value": {
+      "ID": "EWpnSPEntry::LSword_GroundMoon",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::LargeSword",
+      "WeaponId": "Sherdar",
+      "CostMP": 60,
+      "ContinueCostMP": true,
+      "Expertise": 80,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "LSword_GroundMoon3",
+    "Value": {
+      "ID": "EWpnSPEntry::LSword_GroundMoon",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::LargeSword",
+      "WeaponId": "Durandal",
+      "CostMP": 60,
+      "ContinueCostMP": true,
+      "Expertise": 80,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "LSword_SteelCY1",
+    "Value": {
+      "ID": "EWpnSPEntry::Staff_Suchisai",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::LargeSword",
+      "WeaponId": "Perex",
+      "CostMP": 50,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "1",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "LSword_SteelCY2",
+    "Value": {
+      "ID": "EWpnSPEntry::Staff_Suchisai",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::LargeSword",
+      "WeaponId": "Valdish",
+      "CostMP": 50,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "1",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "LSword_SteelCY3",
+    "Value": {
+      "ID": "EWpnSPEntry::Staff_Suchisai",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::LargeSword",
+      "WeaponId": "TurmericBasara",
+      "CostMP": 50,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "1",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Nsword_HundredFlowers1",
+    "Value": {
+      "ID": "EWpnSPEntry::Nsword_HundredFlowers",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Rapir",
+      "WeaponId": "Rapier",
+      "CostMP": 20,
+      "ContinueCostMP": true,
+      "Expertise": 500,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Nsword_HundredFlowers2",
+    "Value": {
+      "ID": "EWpnSPEntry::Nsword_HundredFlowers",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Rapir",
+      "WeaponId": "Stinger",
+      "CostMP": 20,
+      "ContinueCostMP": true,
+      "Expertise": 500,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Nsword_HundredFlowers3",
+    "Value": {
+      "ID": "EWpnSPEntry::Nsword_HundredFlowers",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Rapir",
+      "WeaponId": "Cazilk",
+      "CostMP": 20,
+      "ContinueCostMP": true,
+      "Expertise": 500,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Nsword_Shandy1",
+    "Value": {
+      "ID": "EWpnSPEntry::Nsword_Shandy",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Rapir",
+      "WeaponId": "Miserikorde",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 80,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Nsword_Shandy2",
+    "Value": {
+      "ID": "EWpnSPEntry::Nsword_Shandy",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Rapir",
+      "WeaponId": "Juwuse",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 80,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Spear_Charge1",
+    "Value": {
+      "ID": "EWpnSPEntry::Spear_Charge",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Spear",
+      "WeaponId": "ShingoGempo",
+      "CostMP": 60,
+      "ContinueCostMP": true,
+      "Expertise": 80,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Spear_Charge2",
+    "Value": {
+      "ID": "EWpnSPEntry::Spear_Charge",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Spear",
+      "WeaponId": "Coldgrindingsaw",
+      "CostMP": 60,
+      "ContinueCostMP": true,
+      "Expertise": 80,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Spear_ThreeStaff1",
+    "Value": {
+      "ID": "EWpnSPEntry::Spear_ThreeStaff",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Spear",
+      "WeaponId": "Triplet",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": -1,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Spear_Roll1",
+    "Value": {
+      "ID": "EWpnSPEntry::Spear_Roll",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Spear",
+      "WeaponId": "Reims",
+      "CostMP": 60,
+      "ContinueCostMP": true,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "8",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Spear_Roll2",
+    "Value": {
+      "ID": "EWpnSPEntry::Spear_Roll",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Spear",
+      "WeaponId": "Gayalsals",
+      "CostMP": 60,
+      "ContinueCostMP": true,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "8",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Foot_DropKick1",
+    "Value": {
+      "ID": "EWpnSPEntry::Foot_DropKick",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Boots",
+      "WeaponId": "KillerBoots",
+      "CostMP": 20,
+      "ContinueCostMP": false,
+      "Expertise": 80,
+      "States": [
+        "EArtsCommandStatus::Walking",
+        "EArtsCommandStatus::Falling",
+        "EArtsCommandStatus::Flying"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Foot_DropKick2",
+    "Value": {
+      "ID": "EWpnSPEntry::Foot_DropKick",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Boots",
+      "WeaponId": "Decapitator",
+      "CostMP": 20,
+      "ContinueCostMP": false,
+      "Expertise": 80,
+      "States": [
+        "EArtsCommandStatus::Walking",
+        "EArtsCommandStatus::Falling",
+        "EArtsCommandStatus::Flying"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "WpnSP_ThreeKicks1",
+    "Value": {
+      "ID": "EWpnSPEntry::WpnSP_ThreeKicks",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Boots",
+      "WeaponId": "KungFuShoes",
+      "CostMP": 15,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking",
+        "EArtsCommandStatus::Falling",
+        "EArtsCommandStatus::Flying"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "WpnSP_ThreeKicks2",
+    "Value": {
+      "ID": "EWpnSPEntry::WpnSP_ThreeKicks",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Boots",
+      "WeaponId": "Dragonshoes",
+      "CostMP": 15,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking",
+        "EArtsCommandStatus::Falling",
+        "EArtsCommandStatus::Flying"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Whip_BigAttack1",
+    "Value": {
+      "ID": "EWpnSPEntry::Whip_BigAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Whip",
+      "WeaponId": "Ibarakaswhip",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Whip_BigAttack2",
+    "Value": {
+      "ID": "EWpnSPEntry::Whip_BigAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Whip",
+      "WeaponId": "Snakebyte",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Whip_BigAttack3",
+    "Value": {
+      "ID": "EWpnSPEntry::Whip_BigAttack",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Whip",
+      "WeaponId": "Albireo",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Jsword_BloodSnowStorm1",
+    "Value": {
+      "ID": "EWpnSPEntry::Jsword_BloodSnowStorm",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::JapaneseSword",
+      "WeaponId": "Tsurumaru",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 80,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "1",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Jsword_BloodSnowStorm2",
+    "Value": {
+      "ID": "EWpnSPEntry::Jsword_BloodSnowStorm",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::JapaneseSword",
+      "WeaponId": "Tadanako",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 80,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "1",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "JSowrd_Kabut1",
+    "Value": {
+      "ID": "EWpnSPEntry::JSowrd_Kabut",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::JapaneseSword",
+      "WeaponId": "ShiroTorujiro",
+      "CostMP": 20,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "JSowrd_Kabut2",
+    "Value": {
+      "ID": "EWpnSPEntry::JSowrd_Kabut",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::JapaneseSword",
+      "WeaponId": "OgreWoodenSword",
+      "CostMP": 20,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "JSword_GodSpeed1",
+    "Value": {
+      "ID": "EWpnSPEntry::JSword_GodSpeed",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::JapaneseSword",
+      "WeaponId": "Lightningoff",
+      "CostMP": 50,
+      "ContinueCostMP": false,
+      "Expertise": 80,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "6",
+            "Time": 0.25,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.25,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.25,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.25,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "JSword_GodSpeed2",
+    "Value": {
+      "ID": "EWpnSPEntry::JSword_GodSpeed",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::JapaneseSword",
+      "WeaponId": "MikazukiMaen",
+      "CostMP": 50,
+      "ContinueCostMP": false,
+      "Expertise": 80,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "6",
+            "Time": 0.25,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.25,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.25,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.25,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Jsword_CircleEdge1",
+    "Value": {
+      "ID": "EWpnSPEntry::Jsword_CircleEdge",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::JapaneseSword",
+      "WeaponId": "Swordsman",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "8",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Jsword_CircleEdge2",
+    "Value": {
+      "ID": "EWpnSPEntry::Jsword_CircleEdge",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::JapaneseSword",
+      "WeaponId": "MikazukiMaen",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "8",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Jsword_CircleEdge3",
+    "Value": {
+      "ID": "EWpnSPEntry::Jsword_CircleEdge",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::JapaneseSword",
+      "WeaponId": "Truesixteenthnight",
+      "CostMP": 30,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "4",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "8",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Jsword_GratefulDead1",
+    "Value": {
+      "ID": "EWpnSPEntry::Jsword_GratefulDead",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::JapaneseSword",
+      "WeaponId": "Tsurumaru",
+      "CostMP": 20,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Jsword_GratefulDead2",
+    "Value": {
+      "ID": "EWpnSPEntry::Jsword_GratefulDead",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::JapaneseSword",
+      "WeaponId": "Tadanako",
+      "CostMP": 20,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Jsword_GratefulDead3",
+    "Value": {
+      "ID": "EWpnSPEntry::Jsword_GratefulDead",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::JapaneseSword",
+      "WeaponId": "MikazukiMaen",
+      "CostMP": 20,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "JSword_Parry1",
+    "Value": {
+      "ID": "EWpnSPEntry::JSword_Parry",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::JapaneseSword",
+      "WeaponId": "Noda",
+      "CostMP": 20,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "6",
+            "Time": 0.12,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.12,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.15,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "JSword_Parry2",
+    "Value": {
+      "ID": "EWpnSPEntry::JSword_Parry",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::JapaneseSword",
+      "WeaponId": "ShiroTorujiro",
+      "CostMP": 20,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "6",
+            "Time": 0.12,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.12,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.15,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "JSword_Parry3",
+    "Value": {
+      "ID": "EWpnSPEntry::JSword_Parry",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::JapaneseSword",
+      "WeaponId": "Swordsman",
+      "CostMP": 20,
+      "ContinueCostMP": false,
+      "Expertise": 50,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "6",
+            "Time": 0.12,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.12,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.15,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Invert",
+    "Value": {
+      "ID": "EWpnSPEntry::Invert",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::All",
+      "WeaponId": "None",
+      "CostMP": 0,
+      "ContinueCostMP": false,
+      "Expertise": -1,
+      "States": [
+        "EArtsCommandStatus::Walking",
+        "EArtsCommandStatus::Falling"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "8",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Jump",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Gun_Burst1",
+    "Value": {
+      "ID": "EWpnSPEntry::Gun_Burst",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Gun",
+      "WeaponId": "Branderbus",
+      "CostMP": 80,
+      "ContinueCostMP": true,
+      "Expertise": 80,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Gun_Burst2",
+    "Value": {
+      "ID": "EWpnSPEntry::Gun_Burst",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Gun",
+      "WeaponId": "Trador",
+      "CostMP": 80,
+      "ContinueCostMP": true,
+      "Expertise": 80,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Gun_Burst3",
+    "Value": {
+      "ID": "EWpnSPEntry::Gun_Burst",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Miriam",
+      "WeaponCategory": "EWeaponType::Gun",
+      "WeaponId": "Ursula",
+      "CostMP": 80,
+      "ContinueCostMP": true,
+      "Expertise": 80,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Zangetu_ShizukuJin",
+    "Value": {
+      "ID": "EWpnSPEntry::Zangetu_ShizukuJin",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Zangetsu",
+      "WeaponCategory": "EWeaponType::All",
+      "WeaponId": "None",
+      "CostMP": 0,
+      "ContinueCostMP": false,
+      "Expertise": 100,
+      "States": [
+        "EArtsCommandStatus::Falling"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Zangetu_KiriageZan",
+    "Value": {
+      "ID": "EWpnSPEntry::Zangetu_KiriageZan",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Zangetsu",
+      "WeaponCategory": "EWeaponType::All",
+      "WeaponId": "None",
+      "CostMP": 0,
+      "ContinueCostMP": false,
+      "Expertise": 100,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "2",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "3",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.2,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "Key": "Zangetu_MatterOfVoid",
+    "Value": {
+      "ID": "EWpnSPEntry::Zangetu_MatterOfVoid",
+      "Name": "",
+      "Character": "EPBGameModePlayer::Zangetsu",
+      "WeaponCategory": "EWeaponType::All",
+      "WeaponId": "None",
+      "CostMP": 0,
+      "ContinueCostMP": false,
+      "Expertise": 100,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "6",
+            "Time": 0.25,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "4",
+            "Time": 0.25,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.25,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.25,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
+  }
+]

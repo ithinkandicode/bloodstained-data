@@ -1,0 +1,629 @@
+[
+  {
+    "Key": "TIPS_001",
+    "Value": {
+      "Category": "ETipsCategories::Character",
+      "Name": "ACV_SEN_TIPS_WORD_001",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_001",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_002",
+    "Value": {
+      "Category": "ETipsCategories::Character",
+      "Name": "ACV_SEN_TIPS_WORD_002",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_002",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Event",
+      "UnlockFlag": "Event_02_000_0000",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_003",
+    "Value": {
+      "Category": "ETipsCategories::Character",
+      "Name": "ACV_SEN_TIPS_WORD_003",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_003",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_004",
+    "Value": {
+      "Category": "ETipsCategories::Character",
+      "Name": "ACV_SEN_TIPS_WORD_004",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_004",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Event",
+      "UnlockFlag": "Event_04_001_0000",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_005",
+    "Value": {
+      "Category": "ETipsCategories::Character",
+      "Name": "ACV_SEN_TIPS_WORD_005",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_005",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Event",
+      "UnlockFlag": "Event_06_001_0000",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_006",
+    "Value": {
+      "Category": "ETipsCategories::Character",
+      "Name": "ACV_SEN_TIPS_WORD_006",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_006",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Event",
+      "UnlockFlag": "Event_05_001_0000",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_007",
+    "Value": {
+      "Category": "ETipsCategories::Character",
+      "Name": "ACV_SEN_TIPS_WORD_007",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_007",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Quest",
+      "UnlockFlag": "Qu01_First",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_008",
+    "Value": {
+      "Category": "ETipsCategories::Character",
+      "Name": "ACV_SEN_TIPS_WORD_008",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_008",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Event",
+      "UnlockFlag": "Event_02_000_0000",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_009",
+    "Value": {
+      "Category": "ETipsCategories::Character",
+      "Name": "ACV_SEN_TIPS_WORD_009",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_009",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Craft",
+      "UnlockFlag": "Craft_Baal",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_010",
+    "Value": {
+      "Category": "ETipsCategories::Character",
+      "Name": "ACV_SEN_TIPS_WORD_010",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_010",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Event",
+      "UnlockFlag": "Event_04_001_0000",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_011",
+    "Value": {
+      "Category": "ETipsCategories::Character",
+      "Name": "ACV_SEN_TIPS_WORD_011",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_011",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Quest",
+      "UnlockFlag": "Qu04_First",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_012",
+    "Value": {
+      "Category": "ETipsCategories::Character",
+      "Name": "ACV_SEN_TIPS_WORD_012",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_012",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Quest",
+      "UnlockFlag": "Qu07_001_First",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_013",
+    "Value": {
+      "Category": "ETipsCategories::Character",
+      "Name": "ACV_SEN_TIPS_WORD_013",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_013",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Quest",
+      "UnlockFlag": "Qu03_First",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_014",
+    "Value": {
+      "Category": "ETipsCategories::Character",
+      "Name": "ACV_SEN_TIPS_WORD_014",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_014",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Quest",
+      "UnlockFlag": "Qu06_First",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_015",
+    "Value": {
+      "Category": "ETipsCategories::Character",
+      "Name": "ACV_SEN_TIPS_WORD_015",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_015",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Quest",
+      "UnlockFlag": "Qu05_First",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_016",
+    "Value": {
+      "Category": "ETipsCategories::Character",
+      "Name": "ACV_SEN_TIPS_WORD_016",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_016",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Event",
+      "UnlockFlag": "Event_21_001_0000",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_056",
+    "Value": {
+      "Category": "ETipsCategories::Word",
+      "Name": "SYS_SEN_Attrivute",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_037",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Event",
+      "UnlockFlag": "Event_01_001_0000",
+      "HidePopup": true
+    }
+  },
+  {
+    "Key": "TIPS_057",
+    "Value": {
+      "Category": "ETipsCategories::Word",
+      "Name": "SYS_SEN_ActionAimWithArms",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_038",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Event",
+      "UnlockFlag": "Event_01_003_0000",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_017",
+    "Value": {
+      "Category": "ETipsCategories::Word",
+      "Name": "ACV_SEN_TIPS_WORD_017",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_017",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_018",
+    "Value": {
+      "Category": "ETipsCategories::Word",
+      "Name": "ACV_SEN_TIPS_WORD_018",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_018",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_019",
+    "Value": {
+      "Category": "ETipsCategories::Word",
+      "Name": "ACV_SEN_TIPS_WORD_019",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_019",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_020",
+    "Value": {
+      "Category": "ETipsCategories::Word",
+      "Name": "ACV_SEN_TIPS_WORD_020",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_020",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_021",
+    "Value": {
+      "Category": "ETipsCategories::Word",
+      "Name": "ACV_SEN_TIPS_WORD_021",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_021",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_022",
+    "Value": {
+      "Category": "ETipsCategories::Word",
+      "Name": "ACV_SEN_TIPS_WORD_022",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_022",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Event",
+      "UnlockFlag": "Event_05_001_0000",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_023",
+    "Value": {
+      "Category": "ETipsCategories::Word",
+      "Name": "ACV_SEN_TIPS_WORD_023",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_023",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Event",
+      "UnlockFlag": "Event_13_001_0004",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_024",
+    "Value": {
+      "Category": "ETipsCategories::Word",
+      "Name": "ACV_SEN_TIPS_WORD_024",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_024",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Event",
+      "UnlockFlag": "Event_06_001_0000",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_025",
+    "Value": {
+      "Category": "ETipsCategories::Shard",
+      "Name": "ACV_SEN_TIPS_WORD_025",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_025",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_026",
+    "Value": {
+      "Category": "ETipsCategories::Shard",
+      "Name": "ACV_SEN_TIPS_WORD_026",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_026",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_027",
+    "Value": {
+      "Category": "ETipsCategories::Shard",
+      "Name": "ACV_SEN_TIPS_WORD_027",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_027",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_028",
+    "Value": {
+      "Category": "ETipsCategories::Shard",
+      "Name": "ACV_SEN_TIPS_WORD_028",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_028",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_029",
+    "Value": {
+      "Category": "ETipsCategories::Shard",
+      "Name": "ACV_SEN_TIPS_WORD_029",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_029",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_030",
+    "Value": {
+      "Category": "ETipsCategories::Shard",
+      "Name": "ACV_SEN_TIPS_WORD_030",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_030",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_031",
+    "Value": {
+      "Category": "ETipsCategories::Shard",
+      "Name": "ACV_SEN_TIPS_WORD_031",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_031",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_032",
+    "Value": {
+      "Category": "ETipsCategories::Shard",
+      "Name": "ACV_SEN_TIPS_WORD_032",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_032",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_033",
+    "Value": {
+      "Category": "ETipsCategories::Shard",
+      "Name": "ACV_SEN_TIPS_WORD_033",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_033",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_034",
+    "Value": {
+      "Category": "ETipsCategories::Word",
+      "Name": "ACV_SEN_TIPS_WORD_034",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_034",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_035",
+    "Value": {
+      "Category": "ETipsCategories::Word",
+      "Name": "ACV_SEN_TIPS_WORD_035",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_035",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_036",
+    "Value": {
+      "Category": "ETipsCategories::Word",
+      "Name": "ACV_SEN_TIPS_WORD_036",
+      "Description": "ACV_TXT_TIPS_EXPLAIN_036",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_037",
+    "Value": {
+      "Category": "ETipsCategories::Game",
+      "Name": "TIPS_MSG_EXPLAIN01",
+      "Description": "",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_038",
+    "Value": {
+      "Category": "ETipsCategories::Game",
+      "Name": "TIPS_MSG_EXPLAIN02",
+      "Description": "",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_039",
+    "Value": {
+      "Category": "ETipsCategories::Game",
+      "Name": "TIPS_MSG_EXPLAIN03",
+      "Description": "",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_040",
+    "Value": {
+      "Category": "ETipsCategories::Game",
+      "Name": "TIPS_MSG_EXPLAIN04",
+      "Description": "",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_041",
+    "Value": {
+      "Category": "ETipsCategories::Game",
+      "Name": "TIPS_MSG_EXPLAIN05",
+      "Description": "",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_042",
+    "Value": {
+      "Category": "ETipsCategories::Game",
+      "Name": "TIPS_MSG_EXPLAIN06",
+      "Description": "",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_043",
+    "Value": {
+      "Category": "ETipsCategories::Game",
+      "Name": "TIPS_MSG_EXPLAIN07",
+      "Description": "",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_044",
+    "Value": {
+      "Category": "ETipsCategories::Game",
+      "Name": "TIPS_MSG_EXPLAIN08",
+      "Description": "",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_045",
+    "Value": {
+      "Category": "ETipsCategories::Game",
+      "Name": "TIPS_MSG_EXPLAIN09",
+      "Description": "",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_046",
+    "Value": {
+      "Category": "ETipsCategories::Game",
+      "Name": "TIPS_MSG_EXPLAIN11",
+      "Description": "",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_047",
+    "Value": {
+      "Category": "ETipsCategories::Game",
+      "Name": "TIPS_MSG_EXPLAIN12",
+      "Description": "",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_048",
+    "Value": {
+      "Category": "ETipsCategories::Game",
+      "Name": "TIPS_MSG_EXPLAIN13",
+      "Description": "",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_049",
+    "Value": {
+      "Category": "ETipsCategories::Game",
+      "Name": "TIPS_MSG_EXPLAIN14",
+      "Description": "",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_050",
+    "Value": {
+      "Category": "ETipsCategories::Game",
+      "Name": "TIPS_MSG_EXPLAIN15",
+      "Description": "",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_051",
+    "Value": {
+      "Category": "ETipsCategories::Game",
+      "Name": "TIPS_MSG_EXPLAIN16",
+      "Description": "",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_052",
+    "Value": {
+      "Category": "ETipsCategories::Game",
+      "Name": "TIPS_MSG_EXPLAIN17",
+      "Description": "",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_053",
+    "Value": {
+      "Category": "ETipsCategories::Game",
+      "Name": "TIPS_MSG_EXPLAIN18",
+      "Description": "",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_054",
+    "Value": {
+      "Category": "ETipsCategories::Game",
+      "Name": "TIPS_MSG_EXPLAIN19",
+      "Description": "",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  },
+  {
+    "Key": "TIPS_055",
+    "Value": {
+      "Category": "ETipsCategories::Game",
+      "Name": "TIPS_MSG_EXPLAIN20",
+      "Description": "",
+      "UnlockFlagCategory": "EPBFlagCategoryType::Default",
+      "UnlockFlag": "None",
+      "HidePopup": false
+    }
+  }
+]

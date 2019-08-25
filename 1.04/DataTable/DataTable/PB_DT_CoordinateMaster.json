@@ -1,0 +1,1024 @@
+[
+  {
+    "Key": "HairStyle001",
+    "Value": {
+      "ID": 1,
+      "Category": "ECoodinateCategories::HairStyle",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/HairStyle/HairSalon_Icon_HailStyle1.HairSalon_Icon_HailStyle1",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "HairStyle002",
+    "Value": {
+      "ID": 5,
+      "Category": "ECoodinateCategories::HairStyle",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/HairStyle/HairSalon_Icon_HailStyle5.HairSalon_Icon_HailStyle5",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "HairStyle003",
+    "Value": {
+      "ID": 3,
+      "Category": "ECoodinateCategories::HairStyle",
+      "UnlockItem": "WorldfashionNo03",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/HairStyle/HairSalon_Icon_HailStyle3.HairSalon_Icon_HailStyle3",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "HairStyle004",
+    "Value": {
+      "ID": 4,
+      "Category": "ECoodinateCategories::HairStyle",
+      "UnlockItem": "WorldfashionNo08",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/HairStyle/HairSalon_Icon_HailStyle4.HairSalon_Icon_HailStyle4",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "HairStyle005",
+    "Value": {
+      "ID": 2,
+      "Category": "ECoodinateCategories::HairStyle",
+      "UnlockItem": "WorldfashionNo07",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/HairStyle/HairSalon_Icon_HailStyle2.HairSalon_Icon_HailStyle2",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "HairStyle006",
+    "Value": {
+      "ID": 6,
+      "Category": "ECoodinateCategories::HairStyle",
+      "UnlockItem": "WorldfashionNo06",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/HairStyle/HairSalon_Icon_HailStyle6.HairSalon_Icon_HailStyle6",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "HairStyle007",
+    "Value": {
+      "ID": 7,
+      "Category": "ECoodinateCategories::HairStyle",
+      "UnlockItem": "WorldfashionNo02",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/HairStyle/HairSalon_Icon_HailStyle7.HairSalon_Icon_HailStyle7",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "HairStyle008",
+    "Value": {
+      "ID": 8,
+      "Category": "ECoodinateCategories::HairStyle",
+      "UnlockItem": "Worldfashionfirstissue",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/HairStyle/HairSalon_Icon_HailStyle8.HairSalon_Icon_HailStyle8",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "HairStyle009",
+    "Value": {
+      "ID": 9,
+      "Category": "ECoodinateCategories::HairStyle",
+      "UnlockItem": "WorldfashionNo04",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/HairStyle/HairSalon_Icon_HailStyle9.HairSalon_Icon_HailStyle9",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "HairStyle010",
+    "Value": {
+      "ID": 10,
+      "Category": "ECoodinateCategories::HairStyle",
+      "UnlockItem": "WorldfashionNo10",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/HairStyle/HairSalon_Icon_HailStyle10.HairSalon_Icon_HailStyle10",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "HairStyle011",
+    "Value": {
+      "ID": 11,
+      "Category": "ECoodinateCategories::HairStyle",
+      "UnlockItem": "WorldfashionNo09",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/HairStyle/HairSalon_Icon_HailStyle11.HairSalon_Icon_HailStyle11",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "HairStyle012",
+    "Value": {
+      "ID": 12,
+      "Category": "ECoodinateCategories::HairStyle",
+      "UnlockItem": "WorldfashionNo11",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/HairStyle/HairSalon_Icon_HailStyle12.HairSalon_Icon_HailStyle12",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "HairStyle013",
+    "Value": {
+      "ID": 13,
+      "Category": "ECoodinateCategories::HairStyle",
+      "UnlockItem": "WorldfashionNo12",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": true,
+      "IconPath": {
+        "Package": "/Game/DLC/DLC_0001/UI/HairSalon/HairSalon_Icon_HailStyle13.HairSalon_Icon_HailStyle13",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "HairColor001",
+    "Value": {
+      "ID": 1,
+      "Category": "ECoodinateCategories::HairColor",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/HairColor/HairSalon_Icon_HailColor1.HairSalon_Icon_HailColor1",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "HairColor002",
+    "Value": {
+      "ID": 2,
+      "Category": "ECoodinateCategories::HairColor",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/HairColor/HairSalon_Icon_HailColor2.HairSalon_Icon_HailColor2",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "HairColor003",
+    "Value": {
+      "ID": 3,
+      "Category": "ECoodinateCategories::HairColor",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/HairColor/HairSalon_Icon_HailColor3.HairSalon_Icon_HailColor3",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "HairColor004",
+    "Value": {
+      "ID": 4,
+      "Category": "ECoodinateCategories::HairColor",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/HairColor/HairSalon_Icon_HailColor4.HairSalon_Icon_HailColor4",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "HairColor005",
+    "Value": {
+      "ID": 5,
+      "Category": "ECoodinateCategories::HairColor",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/HairColor/HairSalon_Icon_HailColor5.HairSalon_Icon_HailColor5",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "HairColor006",
+    "Value": {
+      "ID": 6,
+      "Category": "ECoodinateCategories::HairColor",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/HairColor/HairSalon_Icon_HailColor6.HairSalon_Icon_HailColor6",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "ClothMainColor001",
+    "Value": {
+      "ID": 1,
+      "Category": "ECoodinateCategories::ClothingMain",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/CloshMain/HairSalon_Icon_CostumeColor1.HairSalon_Icon_CostumeColor1",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "ClothMainColor002",
+    "Value": {
+      "ID": 6,
+      "Category": "ECoodinateCategories::ClothingMain",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/CloshMain/HairSalon_Icon_CostumeColor2.HairSalon_Icon_CostumeColor2",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "ClothMainColor003",
+    "Value": {
+      "ID": 5,
+      "Category": "ECoodinateCategories::ClothingMain",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/CloshMain/HairSalon_Icon_CostumeColor3.HairSalon_Icon_CostumeColor3",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "ClothMainColor004",
+    "Value": {
+      "ID": 4,
+      "Category": "ECoodinateCategories::ClothingMain",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/CloshMain/HairSalon_Icon_CostumeColor4.HairSalon_Icon_CostumeColor4",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "ClothMainColor005",
+    "Value": {
+      "ID": 3,
+      "Category": "ECoodinateCategories::ClothingMain",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/CloshMain/HairSalon_Icon_CostumeColor5.HairSalon_Icon_CostumeColor5",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "ClothMainColor006",
+    "Value": {
+      "ID": 2,
+      "Category": "ECoodinateCategories::ClothingMain",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/CloshMain/HairSalon_Icon_CostumeColor6.HairSalon_Icon_CostumeColor6",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "ClothSubColor001",
+    "Value": {
+      "ID": 1,
+      "Category": "ECoodinateCategories::ClothingSub",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/ClothSub/HairSalon_Icon_CostumeSub1.HairSalon_Icon_CostumeSub1",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "ClothSubColor002",
+    "Value": {
+      "ID": 6,
+      "Category": "ECoodinateCategories::ClothingSub",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/ClothSub/HairSalon_Icon_CostumeSub2.HairSalon_Icon_CostumeSub2",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "ClothSubColor003",
+    "Value": {
+      "ID": 5,
+      "Category": "ECoodinateCategories::ClothingSub",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/ClothSub/HairSalon_Icon_CostumeSub3.HairSalon_Icon_CostumeSub3",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "ClothSubColor004",
+    "Value": {
+      "ID": 4,
+      "Category": "ECoodinateCategories::ClothingSub",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/ClothSub/HairSalon_Icon_CostumeSub4.HairSalon_Icon_CostumeSub4",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "ClothSubColor005",
+    "Value": {
+      "ID": 3,
+      "Category": "ECoodinateCategories::ClothingSub",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/ClothSub/HairSalon_Icon_CostumeSub5.HairSalon_Icon_CostumeSub5",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "ClothSubColor006",
+    "Value": {
+      "ID": 2,
+      "Category": "ECoodinateCategories::ClothingSub",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/ClothSub/HairSalon_Icon_CostumeSub6.HairSalon_Icon_CostumeSub6",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "SkinColor001",
+    "Value": {
+      "ID": 1,
+      "Category": "ECoodinateCategories::Skin",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/SkinColor/HairSalon_Icon_Skin1.HairSalon_Icon_Skin1",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "SkinColor002",
+    "Value": {
+      "ID": 2,
+      "Category": "ECoodinateCategories::Skin",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/SkinColor/HairSalon_Icon_Skin2.HairSalon_Icon_Skin2",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "SkinColor003",
+    "Value": {
+      "ID": 3,
+      "Category": "ECoodinateCategories::Skin",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/SkinColor/HairSalon_Icon_Skin3.HairSalon_Icon_Skin3",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "SkinColor004",
+    "Value": {
+      "ID": 4,
+      "Category": "ECoodinateCategories::Skin",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/SkinColor/HairSalon_Icon_Skin4.HairSalon_Icon_Skin4",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "SkinColor005",
+    "Value": {
+      "ID": 5,
+      "Category": "ECoodinateCategories::Skin",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/SkinColor/HairSalon_Icon_Skin5.HairSalon_Icon_Skin5",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "SkinColor006",
+    "Value": {
+      "ID": 6,
+      "Category": "ECoodinateCategories::Skin",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/SkinColor/HairSalon_Icon_Skin6.HairSalon_Icon_Skin6",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EyeColor001",
+    "Value": {
+      "ID": 1,
+      "Category": "ECoodinateCategories::Eyes",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/EyeColor/HairSalon_Icon_Eye1.HairSalon_Icon_Eye1",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EyeColor002",
+    "Value": {
+      "ID": 2,
+      "Category": "ECoodinateCategories::Eyes",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/EyeColor/HairSalon_Icon_Eye2.HairSalon_Icon_Eye2",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EyeColor003",
+    "Value": {
+      "ID": 3,
+      "Category": "ECoodinateCategories::Eyes",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/EyeColor/HairSalon_Icon_Eye3.HairSalon_Icon_Eye3",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EyeColor004",
+    "Value": {
+      "ID": 4,
+      "Category": "ECoodinateCategories::Eyes",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/EyeColor/HairSalon_Icon_Eye4.HairSalon_Icon_Eye4",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EyeColor005",
+    "Value": {
+      "ID": 5,
+      "Category": "ECoodinateCategories::Eyes",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/EyeColor/HairSalon_Icon_Eye5.HairSalon_Icon_Eye5",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EyeColor006",
+    "Value": {
+      "ID": 6,
+      "Category": "ECoodinateCategories::Eyes",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/EyeColor/HairSalon_Icon_Eye6.HairSalon_Icon_Eye6",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EyeColor007",
+    "Value": {
+      "ID": 7,
+      "Category": "ECoodinateCategories::Eyes",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/EyeColor/HairSalon_Icon_Eye7.HairSalon_Icon_Eye7",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EyeColor008",
+    "Value": {
+      "ID": 8,
+      "Category": "ECoodinateCategories::Eyes",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/EyeColor/HairSalon_Icon_Eye8.HairSalon_Icon_Eye8",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EyeColor009",
+    "Value": {
+      "ID": 9,
+      "Category": "ECoodinateCategories::Eyes",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/EyeColor/HairSalon_Icon_Eye9.HairSalon_Icon_Eye9",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EyeColor010",
+    "Value": {
+      "ID": 10,
+      "Category": "ECoodinateCategories::Eyes",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/EyeColor/HairSalon_Icon_Eye10.HairSalon_Icon_Eye10",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EyeColor011",
+    "Value": {
+      "ID": 11,
+      "Category": "ECoodinateCategories::Eyes",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/EyeColor/HairSalon_Icon_Eye11.HairSalon_Icon_Eye11",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EyeColor012",
+    "Value": {
+      "ID": 12,
+      "Category": "ECoodinateCategories::Eyes",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/EyeColor/HairSalon_Icon_Eye12.HairSalon_Icon_Eye12",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade001",
+    "Value": {
+      "ID": 1,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_001.HairSalon_Icon_Muff02_001",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade002",
+    "Value": {
+      "ID": 2,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_002.HairSalon_Icon_Muff02_002",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade003",
+    "Value": {
+      "ID": 3,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_003.HairSalon_Icon_Muff02_003",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade004",
+    "Value": {
+      "ID": 4,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_004.HairSalon_Icon_Muff02_004",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade005",
+    "Value": {
+      "ID": 5,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_005.HairSalon_Icon_Muff02_005",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade006",
+    "Value": {
+      "ID": 6,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_006.HairSalon_Icon_Muff02_006",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade007",
+    "Value": {
+      "ID": 7,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_007.HairSalon_Icon_Muff02_007",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade008",
+    "Value": {
+      "ID": 8,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_008.HairSalon_Icon_Muff02_008",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade009",
+    "Value": {
+      "ID": 9,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_009.HairSalon_Icon_Muff02_009",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade010",
+    "Value": {
+      "ID": 10,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_010.HairSalon_Icon_Muff02_010",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade011",
+    "Value": {
+      "ID": 11,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_011.HairSalon_Icon_Muff02_011",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade012",
+    "Value": {
+      "ID": 12,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_012.HairSalon_Icon_Muff02_012",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade013",
+    "Value": {
+      "ID": 13,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_013.HairSalon_Icon_Muff02_013",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade014",
+    "Value": {
+      "ID": 14,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_014.HairSalon_Icon_Muff02_014",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade015",
+    "Value": {
+      "ID": 15,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_015.HairSalon_Icon_Muff02_015",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade016",
+    "Value": {
+      "ID": 16,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_016.HairSalon_Icon_Muff02_016",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade017",
+    "Value": {
+      "ID": 17,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_017.HairSalon_Icon_Muff02_017",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade018",
+    "Value": {
+      "ID": 18,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_018.HairSalon_Icon_Muff02_018",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade019",
+    "Value": {
+      "ID": 19,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_019.HairSalon_Icon_Muff02_019",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade020",
+    "Value": {
+      "ID": 20,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_020.HairSalon_Icon_Muff02_020",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade021",
+    "Value": {
+      "ID": 21,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_021.HairSalon_Icon_Muff02_021",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade022",
+    "Value": {
+      "ID": 22,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_022.HairSalon_Icon_Muff02_022",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade023",
+    "Value": {
+      "ID": 23,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_023.HairSalon_Icon_Muff02_023",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ordermade024",
+    "Value": {
+      "ID": 24,
+      "Category": "ECoodinateCategories::OrdermadeScarf",
+      "UnlockItem": "None",
+      "IsDLC_ChildOfRight": false,
+      "IsDLC_WhiteMiriam": false,
+      "IconPath": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/HairSaloneMenu/Assets/Icon/Ordermade/HairSalon_Icon_Muff02_024.HairSalon_Icon_Muff02_024",
+        "Path": ""
+      }
+    }
+  }
+]

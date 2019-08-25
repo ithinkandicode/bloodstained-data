@@ -1,0 +1,245 @@
+[
+  {
+    "Key": "Code00",
+    "Value": {
+      "CheatCode": "BIGHEAD",
+      "CheatEffect": "EPBCheatCommandType::BigHead",
+      "Option1": "",
+      "Option2": 200
+    }
+  },
+  {
+    "Key": "TheSpeedGamers",
+    "Value": {
+      "CheatCode": "THESPEEDGAMERS",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "ClockSowrd",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "TheSpeedGamers",
+    "Value": {
+      "CheatCode": "TheSpeedGamers",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "ClockSowrd",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "StephenPlays",
+    "Value": {
+      "CheatCode": "STEPHENPLAYS",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "LoveOfPizza",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "ProtonJon",
+    "Value": {
+      "CheatCode": "EGGFARM",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "HumptyDumpty",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "NintendoCapriSun",
+    "Value": {
+      "CheatCode": "INTHEBATHROOM",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "LoveOfBenki",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "Chuggaaconroy",
+    "Value": {
+      "CheatCode": "CHUGGAACONROY",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "Plan9FOSpace",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "Chuggaaconroy",
+    "Value": {
+      "CheatCode": "chuggaaconroy",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "Plan9FOSpace",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "VideoGamesAWESOME!",
+    "Value": {
+      "CheatCode": "AWESOMEVIDEOGAMES",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "BigMustache",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "JoshJepson",
+    "Value": {
+      "CheatCode": "JEPSON",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "KongSword",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "SwimmingBird941",
+    "Value": {
+      "CheatCode": "SWIMMINGBIRD",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "PlagueDoctorFace",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "SwimmingBird941",
+    "Value": {
+      "CheatCode": "swimmingbird",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "PlagueDoctorFace",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "Mega64",
+    "Value": {
+      "CheatCode": "JARVIS MEOWER",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "Mega64Head",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "Mega64",
+    "Value": {
+      "CheatCode": "Jarvis Meower",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "Mega64Head",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "Egoraptor",
+    "Value": {
+      "CheatCode": "HEYIMGRUMP",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "HeyI’mGrump",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "Egoraptor",
+    "Value": {
+      "CheatCode": "Egoraptor",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "HeyI’mGrump",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "GameGrumps",
+    "Value": {
+      "CheatCode": "NOTSOGRUMP",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "I’mNotSoGrump",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "GameGrumps",
+    "Value": {
+      "CheatCode": "Grumps",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "I’mNotSoGrump",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "KindaFunnyGames",
+    "Value": {
+      "CheatCode": "TEAMFAT",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "AKindaFunnyMask",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "TheSw1tcher",
+    "Value": {
+      "CheatCode": "BULLFIGHTER",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "The-BazMask",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "Vinesauce",
+    "Value": {
+      "CheatCode": "SPONGYVINE",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "SwordOfTheMushroom",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "GameSack",
+    "Value": {
+      "CheatCode": "8MEGAPOWER",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "PowerSword",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "AlphaOmegaSin",
+    "Value": {
+      "CheatCode": "ALPHAOMEGASIN",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "SilverAndBlackSword",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "DungeonClan",
+    "Value": {
+      "CheatCode": "DUNGEONITE",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "DungeonNightSword",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "OperationAkumaclan",
+    "Value": {
+      "CheatCode": "AKUMA",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "EvilTheSword",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "OperationAkumaclan",
+    "Value": {
+      "CheatCode": "Akuma",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "EvilTheSword",
+      "Option2": 1
+    }
+  },
+  {
+    "Key": "NIGHTMARE",
+    "Value": {
+      "CheatCode": "NIGHTMARE",
+      "CheatEffect": "EPBCheatCommandType::NIGHTMARE",
+      "Option1": "",
+      "Option2": 0
+    }
+  }
+]

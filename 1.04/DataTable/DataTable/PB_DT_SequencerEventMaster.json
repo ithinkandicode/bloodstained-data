@@ -1,0 +1,80 @@
+[
+  {
+    "Key": "WAIT",
+    "Value": {
+      "Command": "SEQUENCER_EVENT_COMMAND::WAIT",
+      "Target": "",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "Pos": "SEQUENCER_EVENT_POSITION::eRELEATIVE",
+      "Time": 1.0,
+      "NextKey": ""
+    }
+  },
+  {
+    "Key": "CAMERA_NORMAL",
+    "Value": {
+      "Command": "SEQUENCER_EVENT_COMMAND::CAMERA_NORMAL",
+      "Target": "",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "Pos": "SEQUENCER_EVENT_POSITION::eRELEATIVE",
+      "Time": 0.0,
+      "NextKey": ""
+    }
+  },
+  {
+    "Key": "CAMERA_REVERSE",
+    "Value": {
+      "Command": "SEQUENCER_EVENT_COMMAND::CAMERA_REVERSE",
+      "Target": "",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "Pos": "SEQUENCER_EVENT_POSITION::eRELEATIVE",
+      "Time": 0.0,
+      "NextKey": ""
+    }
+  },
+  {
+    "Key": "07LIB_N2004",
+    "Value": {
+      "Command": "SEQUENCER_EVENT_COMMAND::MOVE_X",
+      "Target": "PLAYER",
+      "X": 85300.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "Pos": "SEQUENCER_EVENT_POSITION::eABSOLUTE",
+      "Time": 0.0,
+      "NextKey": "07LIB_N2004_2"
+    }
+  },
+  {
+    "Key": "07LIB_N2004",
+    "Value": {
+      "Command": "SEQUENCER_EVENT_COMMAND::TURN",
+      "Target": "PLAYER",
+      "X": -1.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "Pos": "SEQUENCER_EVENT_POSITION::eRELEATIVE",
+      "Time": 0.0,
+      "NextKey": "07LIB_N2004_3"
+    }
+  },
+  {
+    "Key": "07LIB_N2004",
+    "Value": {
+      "Command": "SEQUENCER_EVENT_COMMAND::WAIT",
+      "Target": "",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "Pos": "SEQUENCER_EVENT_POSITION::eRELEATIVE",
+      "Time": 0.5,
+      "NextKey": "\""
+    }
+  }
+]

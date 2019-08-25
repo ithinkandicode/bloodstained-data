@@ -1,0 +1,40 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 2284
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 117
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 2172
+ImportCount: 4
+ImportOffset: 2060
+DependsOffset: 2276
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 4ef11d36-df12-4745-8f11-24befea8cd16
+Generations: 1
+CompressionFlags: 0
+PackageSource: 1924356503
+Unversioned: False
+AssetRegistryDataOffset: 2280
+BulkDataStartOffset: 19533
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 2284
+
+
+TYPE DATA FOR PB_DT_FindRoute:
+Index_6_4230BBCA458FACB2B96996B096298B19 (104|0) -> IntProperty (105|0) 
+Position_7_6DC14F1044C77F3267CF998408BF24E0 (111|0) -> StructProperty (114|0) 
+ActionType_8_CDBD91924394646D03E0EABEE739F278 (93|0) -> ByteProperty (95|0) 
+ConnectList_13_3C7FDE5848E9CADBA823EFA243904788 (97|0) -> ArrayProperty (94|0) [IntProperty]

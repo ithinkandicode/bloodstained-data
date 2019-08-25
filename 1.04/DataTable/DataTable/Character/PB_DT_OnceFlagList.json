@@ -1,0 +1,620 @@
+[
+  {
+    "Key": "P0000_THROW_KNIFE_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "P0000_CAPTURED_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "P0000_JUMPKICK_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "P000_VIL003_EVENT_CAMSTART",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "P000_VIL003_EVENT_CAMSTART_EX",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "P0000_REFLECTIONARY_WARP_START",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "P0000_REFLECTIONARY_WARP_END",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "P0000_ARTS_SPEARROTATE_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "P0000_ARTS_GODSPEED_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "P0000_ARTS_PARRY_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "P0000_ARTS_BIGATTACK_TAME",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "P0000_ARTS_BIGATTACK_BOMB",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 2
+    }
+  },
+  {
+    "Key": "P0000_ARTS_THREEKICKS_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "P0000_ARTS_THREEKICKS_DAMAGEIGNORE",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "P0000_ARTS_THROW_SWORD",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "P0000_JUMP_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "P0000_FALL_ATTACK_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 4
+    }
+  },
+  {
+    "Key": "P0000_SHANDY_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "P0000_BLOODSTEAL_ONCE",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 2
+    }
+  },
+  {
+    "Key": "P0000_BLOODSTEAL_MPREUCE_ONCE",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 3
+    }
+  },
+  {
+    "Key": "P0000_GUNBURST_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "P0000_DIRECTIONAL_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "P0000_DEFAULT_ATTACK_END",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "P0000_GROUND_MOON_ATTACK",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 4
+    }
+  },
+  {
+    "Key": "P0000_THROW_ATTACK_CHECKGROUND",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "P0000_THROW_ATTACK_CHECKTRANSEND",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "N0000_STARTEVENT_CAMERA_REACH",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N0000_STARTEVENT_START_POSE",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "N1002_ATTACL_SQULIDE_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1002_ATTACL_SQULIDE_FINISH",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "N1002_UMBRELLA_ATTACK_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1002_UMBRELLA_ATTACK_DISTCHECK",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "N1002_RAIN_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1005_FIRE_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1005_FIRE_BULLET_LAUNCH",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "N1005_BITE_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1005_BITE_HIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "N1005_TONGUE_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1005_TONGUE_HIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "N1005_DASH_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1005_COMBINATION",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1005_START_EVENT_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1005_START_EVENT_MANAPPEAR",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "N1005_START_EVENT_END",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 2
+    }
+  },
+  {
+    "Key": "N1005_START_EVENT_JUMP_STOP",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 3
+    }
+  },
+  {
+    "Key": "N1005_START_EVENT_DOUBLEJUMP",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 4
+    }
+  },
+  {
+    "Key": "N1005_START_EVENT_LEFTKEY",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 5
+    }
+  },
+  {
+    "Key": "N1005_DEAD_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1005_DEAD_DESTRUCT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "N1005_DEAD_ATTACH",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 2
+    }
+  },
+  {
+    "Key": "N1005_DEAD_IMPACT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 3
+    }
+  },
+  {
+    "Key": "N1005_MOVE_DEAD_CHECK",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1006_REFLECTION_VOICE",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 9
+    }
+  },
+  {
+    "Key": "N1006_SNAKE_LASER_LAUNCH",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1009_JUMP_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1009_SUMMON_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "N1009_MAGIC_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1009_MAGIC_START",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "N1009_MAGIC_MAIN_ONCE",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 2
+    }
+  },
+  {
+    "Key": "N1009_MAGIC_SELECT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 3
+    }
+  },
+  {
+    "Key": "N1011_DIRECTIONAL_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1011_DIRECTIONAL_REACH",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "N1011_DIRECTIONAL_END",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 2
+    }
+  },
+  {
+    "Key": "N1011_DIRECTIONAL_HIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 3
+    }
+  },
+  {
+    "Key": "N1011_DIRECTIONAL_JUHU",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 4
+    }
+  },
+  {
+    "Key": "N1011_DIRECTIONAL_MASKDESTRUCT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 5
+    }
+  },
+  {
+    "Key": "N1011_DIRECTIONAL_DICIDETARGET",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 6
+    }
+  },
+  {
+    "Key": "N1011_HANDLING_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1011_JUFU_START",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1011_JUMP_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1011_JUMP_START",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "N1011_IDLE_ATTACK_FIRE",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1011_IDLE_ATTACK_DESTRUCT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1011_DAMAGE_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1011_FALL_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1011_MATTERVOID_FIRE",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "N1011_MATTERVOID_PRE",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1011_VOICE_ONCE",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 8
+    }
+  },
+  {
+    "Key": "N1011_EVASION_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1011_DEAD_FIRST",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "N1011_IDLE_ONCE",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "N1011_DEADSEAL_ONE_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1011_DEADSEAL_TWO_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1011_DEADSEAL_THREE_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N1011_FOURDEADKILL_WAIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N2001_DEAD_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N2001_DAMAGE_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "N2007_PROVOCATION_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N2007_PROVOCATION_CAMERA_REACH",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "N2007_PROVOCATION_EFFECT_DELETE",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 2
+    }
+  },
+  {
+    "Key": "N2007_KABUTO_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N2007_KABUTO_LAND",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "N2007_KABUTO_LAND_PRE",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 2
+    }
+  },
+  {
+    "Key": "N2007_JUMPCHAIN_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N2007_EVENT_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N2008_DARKPUNCH_EFFECT_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N2008_DARKPUNCH_BULLET",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "N3005_MOVE_ISREACH",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N3007ATTACK_CATCH_INITIALIZE",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "N3007ATTACK_CATCH_ATTACH",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 1
+    }
+  },
+  {
+    "Key": "N3007ATTACK_CATCH_RELEACE",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 2
+    }
+  },
+  {
+    "Key": "N3074_INVERT_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  },
+  {
+    "Key": "SHOVEL_SHOOTER_INIT",
+    "Value": {
+      "ID_3_0B39D81647F3494D2F2E929278DD9ABF": 0
+    }
+  }
+]

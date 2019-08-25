@@ -1,0 +1,32 @@
+[
+  {
+    "Key": "test",
+    "Value": {
+      "Category": "EPBFlagCategoryType::Default",
+      "CategoryNumber": 0,
+      "MapID": "None",
+      "HasEventSubLevel": true,
+      "HasEnemySubLevel": true
+    }
+  },
+  {
+    "Key": "test2",
+    "Value": {
+      "Category": "EPBFlagCategoryType::Default",
+      "CategoryNumber": 50,
+      "MapID": "None",
+      "HasEventSubLevel": true,
+      "HasEnemySubLevel": true
+    }
+  },
+  {
+    "Key": "NewRow",
+    "Value": {
+      "Category": "EPBFlagCategoryType::Default",
+      "CategoryNumber": 12,
+      "MapID": "None",
+      "HasEventSubLevel": true,
+      "HasEnemySubLevel": true
+    }
+  }
+]

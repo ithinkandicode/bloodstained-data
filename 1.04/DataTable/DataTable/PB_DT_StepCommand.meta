@@ -1,0 +1,39 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 869
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 21
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 757
+ImportCount: 4
+ImportOffset: 645
+DependsOffset: 861
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: fbed9503-3d69-4f00-ac93-8dbb18fc41b1
+Generations: 1
+CompressionFlags: 0
+PackageSource: 3992152869
+Unversioned: False
+AssetRegistryDataOffset: 865
+BulkDataStartOffset: 1025
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 869
+
+
+TYPE DATA FOR PB_DT_StepCommand:
+TargetID (16|0) -> NameProperty (8|0) 
+Command (5|0) -> NameProperty (8|0) 
+Value (19|0) -> FloatProperty (7|0) 

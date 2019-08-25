@@ -1,0 +1,147 @@
+[
+  {
+    "Key": "bell011",
+    "Value": {
+      "Mesh": {
+        "Package": "/Game/Core/Environment/ACT05_SAN/Mesh/SAN_Gimmick_Bell_01.SAN_Gimmick_Bell_01",
+        "Path": ""
+      },
+      "offset_socket": "Start",
+      "offset_end_socket": "End",
+      "parent_socket": "AttachPoint",
+      "ForceX_Max": 0.0,
+      "ForceX_Min": 0.0,
+      "ForceY_Max": 0.0,
+      "ForceY_Min": 0.0,
+      "offset_Max": 0.0,
+      "offset_Min": 0.0,
+      "offset_count": 0.0,
+      "offset_Infinity": false,
+      "time_Max": 0.3,
+      "time_Min": 2.0,
+      "transform_Scale": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      },
+      "ride_bool": false,
+      "ReceiveDecal": false
+    }
+  },
+  {
+    "Key": "bell012",
+    "Value": {
+      "Mesh": {
+        "Package": "/Game/Core/Environment/ACT05_SAN/Mesh/SAN_Gimmick_Bell_00.SAN_Gimmick_Bell_00",
+        "Path": ""
+      },
+      "offset_socket": "Start",
+      "offset_end_socket": "End",
+      "parent_socket": "AttachPoint",
+      "ForceX_Max": 60.0,
+      "ForceX_Min": 30.0,
+      "ForceY_Max": 0.0,
+      "ForceY_Min": 0.0,
+      "offset_Max": 60.0,
+      "offset_Min": 30.0,
+      "offset_count": 0.5,
+      "offset_Infinity": false,
+      "time_Max": 0.3,
+      "time_Min": 2.0,
+      "transform_Scale": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      },
+      "ride_bool": false,
+      "ReceiveDecal": false
+    }
+  },
+  {
+    "Key": "bell013",
+    "Value": {
+      "Mesh": {
+        "Package": "/Game/Core/Environment/ACT05_SAN/Mesh/SAN_Gimmick_BellMesh02.SAN_Gimmick_BellMesh02",
+        "Path": ""
+      },
+      "offset_socket": "Start",
+      "offset_end_socket": "End",
+      "parent_socket": "Root",
+      "ForceX_Max": 15.0,
+      "ForceX_Min": 10.0,
+      "ForceY_Max": 0.0,
+      "ForceY_Min": 0.0,
+      "offset_Max": 15.0,
+      "offset_Min": 10.0,
+      "offset_count": 0.5,
+      "offset_Infinity": false,
+      "time_Max": 0.3,
+      "time_Min": 1.0,
+      "transform_Scale": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      },
+      "ride_bool": true,
+      "ReceiveDecal": false
+    }
+  },
+  {
+    "Key": "bell014",
+    "Value": {
+      "Mesh": {
+        "Package": "/Game/Core/Environment/ACT05_SAN/Mesh/SAN_Gimmick_Bell_02.SAN_Gimmick_Bell_02",
+        "Path": ""
+      },
+      "offset_socket": "Start",
+      "offset_end_socket": "End",
+      "parent_socket": "None",
+      "ForceX_Max": 20.0,
+      "ForceX_Min": 10.0,
+      "ForceY_Max": 0.0,
+      "ForceY_Min": 0.0,
+      "offset_Max": 20.0,
+      "offset_Min": 10.0,
+      "offset_count": 0.5,
+      "offset_Infinity": false,
+      "time_Max": 0.3,
+      "time_Min": 2.0,
+      "transform_Scale": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      },
+      "ride_bool": false,
+      "ReceiveDecal": false
+    }
+  },
+  {
+    "Key": "bell015",
+    "Value": {
+      "Mesh": {
+        "Package": "/Game/Core/Environment/ACT05_SAN/Mesh/SAN_Gimmick_BellMesh03.SAN_Gimmick_BellMesh03",
+        "Path": ""
+      },
+      "offset_socket": "Start",
+      "offset_end_socket": "End",
+      "parent_socket": "AttachPoint",
+      "ForceX_Max": 0.0,
+      "ForceX_Min": 0.0,
+      "ForceY_Max": 0.0,
+      "ForceY_Min": 0.0,
+      "offset_Max": 0.0,
+      "offset_Min": 0.0,
+      "offset_count": 0.5,
+      "offset_Infinity": false,
+      "time_Max": 0.3,
+      "time_Min": 2.0,
+      "transform_Scale": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      },
+      "ride_bool": true,
+      "ReceiveDecal": false
+    }
+  }
+]

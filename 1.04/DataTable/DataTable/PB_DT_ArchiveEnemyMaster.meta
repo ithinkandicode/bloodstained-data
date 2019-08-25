@@ -1,0 +1,49 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 4666
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 258
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 4554
+ImportCount: 4
+ImportOffset: 4442
+DependsOffset: 4658
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 0bfa668d-5036-46bd-b77a-f130928155d8
+Generations: 1
+CompressionFlags: 0
+PackageSource: 2489770128
+Unversioned: False
+AssetRegistryDataOffset: 4662
+BulkDataStartOffset: 63672
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 4666
+
+
+TYPE DATA FOR PB_DT_ArchiveEnemyMaster:
+UniqueID (255|0) -> NameProperty (245|0) 
+Area1 (4|0) -> StrProperty (254|0) 
+Area2 (5|0) -> StrProperty (254|0) 
+Area3 (6|0) -> StrProperty (254|0) 
+Area4 (7|0) -> StrProperty (254|0) 
+Unlockkey (256|0) -> StrProperty (254|0) 
+UpLimit (257|0) -> IntProperty (113|0) 
+DownLimit (12|0) -> IntProperty (113|0) 
+LeftLimit (116|0) -> IntProperty (113|0) 
+RightLimit (251|0) -> IntProperty (113|0) 
+IsAreaInputManual (115|0) -> BoolProperty (9|0) 
+IsAreaCheckRefChild (114|0) -> BoolProperty (9|0) 
+AreaInputPath (8|0) -> StrProperty (254|0) 

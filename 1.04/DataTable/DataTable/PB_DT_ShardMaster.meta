@@ -1,0 +1,90 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 18704
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 535
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 18592
+ImportCount: 4
+ImportOffset: 18480
+DependsOffset: 18696
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 88c076b9-3791-4e7b-a181-ae83ec9e6ebe
+Generations: 1
+CompressionFlags: 0
+PackageSource: 1310580071
+Unversioned: False
+AssetRegistryDataOffset: 18700
+BulkDataStartOffset: 309122
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 18704
+
+
+TYPE DATA FOR PB_DT_ShardMaster:
+ReferencePath (394|0) -> SoftObjectProperty (460|0) 
+ShardType (418|0) -> ByteProperty (121|0) 
+MaxNum (264|0) -> IntProperty (238|0) 
+WeightForCategoryMax (530|0) -> FloatProperty (221|0) 
+EnchantAttribute (181|0) -> ByteProperty (121|0) 
+RankUpType (391|0) -> ByteProperty (121|0) 
+SpecialEffectId (462|0) -> NameProperty (298|0) 
+IsEnableShotInWall (242|0) -> BoolProperty (117|0) 
+IsUseGrade (248|0) -> BoolProperty (117|0) 
+EnhanceStrKey (183|0) -> StrProperty (465|0) 
+maxLevel (261|0) -> IntProperty (238|0) 
+minLevel (276|0) -> IntProperty (238|0) 
+maxRank (265|0) -> IntProperty (238|0) 
+minRank (279|0) -> IntProperty (238|0) 
+BulletSTR (120|0) -> NameProperty (298|0) 
+BulletOverRoom (119|0) -> BoolProperty (117|0) 
+maxGrade (257|0) -> IntProperty (238|0) 
+minGrade (272|0) -> IntProperty (238|0) 
+maxRankValue (266|0) -> FloatProperty (221|0) 
+minRankValue (280|0) -> FloatProperty (221|0) 
+maxGradeValue (258|0) -> FloatProperty (221|0) 
+minGradeValue (273|0) -> FloatProperty (221|0) 
+maxLevelValue (262|0) -> FloatProperty (221|0) 
+minLevelValue (277|0) -> FloatProperty (221|0) 
+minLife (278|0) -> FloatProperty (221|0) 
+maxLife (263|0) -> FloatProperty (221|0) 
+minSize (281|0) -> FloatProperty (221|0) 
+maxSize (267|0) -> FloatProperty (221|0) 
+minGrowthNum (274|0) -> FloatProperty (221|0) 
+maxGrowthNum (259|0) -> FloatProperty (221|0) 
+minSpeed (282|0) -> FloatProperty (221|0) 
+maxSpeed (268|0) -> FloatProperty (221|0) 
+minHoming (275|0) -> FloatProperty (221|0) 
+maxHoming (260|0) -> FloatProperty (221|0) 
+minVarious1 (283|0) -> FloatProperty (221|0) 
+maxVarious1 (269|0) -> FloatProperty (221|0) 
+minVarious2 (284|0) -> FloatProperty (221|0) 
+maxVarious2 (270|0) -> FloatProperty (221|0) 
+minVarious3 (285|0) -> FloatProperty (221|0) 
+maxVarious3 (271|0) -> FloatProperty (221|0) 
+VoiceIdArray (528|0) -> ArrayProperty (111|0) [NameProperty]
+SkillName (459|0) -> NameProperty (298|0) 
+IsSkilled (245|0) -> BoolProperty (117|0) 
+useMP (495|0) -> FloatProperty (221|0) 
+MotionType (289|0) -> ByteProperty (121|0) 
+ShardBulletType (417|0) -> ByteProperty (121|0) 
+isKeepPush (244|0) -> BoolProperty (117|0) 
+isHoldType (243|0) -> BoolProperty (117|0) 
+IsSkipMotionStart (246|0) -> BoolProperty (117|0) 
+IsStopByAccelWorld (247|0) -> BoolProperty (117|0) 
+IsDirectAttackShard (241|0) -> BoolProperty (117|0) 
+IsArmNormalized (240|0) -> BoolProperty (117|0) 
+ArmSpeedRate (110|0) -> FloatProperty (221|0) 
+AnimationSpeed (108|0) -> FloatProperty (221|0) 

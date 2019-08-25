@@ -1,0 +1,209 @@
+[
+  {
+    "Key": "Ssword_BackStab1",
+    "Value": {
+      "ID": "EWpnSPEntry::Ssword_BackStab",
+      "Name": "ITEM_NAME_ARTS_01",
+      "Explanation": "ITEM_EXPLAIN_ARTS_01",
+      "UnlockKey": "Archive_Unlock_Arts_001"
+    }
+  },
+  {
+    "Key": "Ssword_Throw1",
+    "Value": {
+      "ID": "EWpnSPEntry::Ssword_Throw",
+      "Name": "ITEM_NAME_ARTS_02",
+      "Explanation": "ITEM_EXPLAIN_ARTS_02",
+      "UnlockKey": "Archive_Unlock_Arts_002"
+    }
+  },
+  {
+    "Key": "NSword_PowerSlash1",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_PowerSlash",
+      "Name": "ITEM_NAME_ARTS_24",
+      "Explanation": "ITEM_EXPLAIN_ARTS_24",
+      "UnlockKey": "Archive_Unlock_Arts_003"
+    }
+  },
+  {
+    "Key": "NSword_ChargeAttack1",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_ChargeAttack",
+      "Name": "ITEM_NAME_ARTS_03",
+      "Explanation": "ITEM_EXPLAIN_ARTS_03",
+      "UnlockKey": "Archive_Unlock_Arts_004"
+    }
+  },
+  {
+    "Key": "NSword_Parry1",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_Parry",
+      "Name": "ITEM_NAME_ARTS_04",
+      "Explanation": "ITEM_EXPLAIN_ARTS_04",
+      "UnlockKey": "Archive_Unlock_Arts_005"
+    }
+  },
+  {
+    "Key": "Ssword_BackSteal1",
+    "Value": {
+      "ID": "EWpnSPEntry::Ssword_BackSteal",
+      "Name": "ITEM_NAME_ARTS_22",
+      "Explanation": "ITEM_EXPLAIN_ARTS_22",
+      "UnlockKey": "Archive_Unlock_Arts_006"
+    }
+  },
+  {
+    "Key": "LSword_GroundMoon1",
+    "Value": {
+      "ID": "EWpnSPEntry::LSword_GroundMoon",
+      "Name": "ITEM_NAME_ARTS_05",
+      "Explanation": "ITEM_EXPLAIN_ARTS_05",
+      "UnlockKey": "Archive_Unlock_Arts_007"
+    }
+  },
+  {
+    "Key": "LSword_SteelCY1",
+    "Value": {
+      "ID": "EWpnSPEntry::Staff_Suchisai",
+      "Name": "ITEM_NAME_ARTS_06",
+      "Explanation": "ITEM_EXPLAIN_ARTS_06",
+      "UnlockKey": "Archive_Unlock_Arts_008"
+    }
+  },
+  {
+    "Key": "Nsword_HundredFlowers1",
+    "Value": {
+      "ID": "EWpnSPEntry::Nsword_HundredFlowers",
+      "Name": "ITEM_NAME_ARTS_07",
+      "Explanation": "ITEM_EXPLAIN_ARTS_07",
+      "UnlockKey": "Archive_Unlock_Arts_009"
+    }
+  },
+  {
+    "Key": "Nsword_Shandy1",
+    "Value": {
+      "ID": "EWpnSPEntry::Nsword_Shandy",
+      "Name": "ITEM_NAME_ARTS_08",
+      "Explanation": "ITEM_EXPLAIN_ARTS_08",
+      "UnlockKey": "Archive_Unlock_Arts_010"
+    }
+  },
+  {
+    "Key": "Spear_Roll1",
+    "Value": {
+      "ID": "EWpnSPEntry::Spear_Roll",
+      "Name": "ITEM_NAME_ARTS_09",
+      "Explanation": "ITEM_EXPLAIN_ARTS_09",
+      "UnlockKey": "Archive_Unlock_Arts_011"
+    }
+  },
+  {
+    "Key": "Spear_Charge1",
+    "Value": {
+      "ID": "EWpnSPEntry::Spear_Charge",
+      "Name": "ITEM_NAME_ARTS_10",
+      "Explanation": "ITEM_EXPLAIN_ARTS_10",
+      "UnlockKey": "Archive_Unlock_Arts_012"
+    }
+  },
+  {
+    "Key": "Spear_ThreeStaff1",
+    "Value": {
+      "ID": "EWpnSPEntry::Spear_ThreeStaff",
+      "Name": "ITEM_NAME_ARTS_11",
+      "Explanation": "ITEM_EXPLAIN_ARTS_11",
+      "UnlockKey": "Archive_Unlock_Arts_013"
+    }
+  },
+  {
+    "Key": "WpnSP_ThreeKicks1",
+    "Value": {
+      "ID": "EWpnSPEntry::WpnSP_ThreeKicks",
+      "Name": "ITEM_NAME_ARTS_13",
+      "Explanation": "ITEM_EXPLAIN_ARTS_13",
+      "UnlockKey": "Archive_Unlock_Arts_014"
+    }
+  },
+  {
+    "Key": "Foot_DropKick1",
+    "Value": {
+      "ID": "EWpnSPEntry::Foot_DropKick",
+      "Name": "ITEM_NAME_ARTS_14",
+      "Explanation": "ITEM_EXPLAIN_ARTS_14",
+      "UnlockKey": "Archive_Unlock_Arts_015"
+    }
+  },
+  {
+    "Key": "Whip_BigAttack1",
+    "Value": {
+      "ID": "EWpnSPEntry::Whip_BigAttack",
+      "Name": "ITEM_NAME_ARTS_15",
+      "Explanation": "ITEM_EXPLAIN_ARTS_15",
+      "UnlockKey": "Archive_Unlock_Arts_016"
+    }
+  },
+  {
+    "Key": "JSword_GodSpeed1",
+    "Value": {
+      "ID": "EWpnSPEntry::JSword_GodSpeed",
+      "Name": "ITEM_NAME_ARTS_16",
+      "Explanation": "ITEM_EXPLAIN_ARTS_16",
+      "UnlockKey": "Archive_Unlock_Arts_017"
+    }
+  },
+  {
+    "Key": "JSowrd_Kabut1",
+    "Value": {
+      "ID": "EWpnSPEntry::JSowrd_Kabut",
+      "Name": "ITEM_NAME_ARTS_17",
+      "Explanation": "ITEM_EXPLAIN_ARTS_17",
+      "UnlockKey": "Archive_Unlock_Arts_018"
+    }
+  },
+  {
+    "Key": "Jsword_BloodSnowStorm1",
+    "Value": {
+      "ID": "EWpnSPEntry::Jsword_BloodSnowStorm",
+      "Name": "ITEM_NAME_ARTS_18",
+      "Explanation": "ITEM_EXPLAIN_ARTS_18",
+      "UnlockKey": "Archive_Unlock_Arts_019"
+    }
+  },
+  {
+    "Key": "Jsword_CircleEdge1",
+    "Value": {
+      "ID": "EWpnSPEntry::Jsword_CircleEdge",
+      "Name": "ITEM_NAME_ARTS_19",
+      "Explanation": "ITEM_EXPLAIN_ARTS_19",
+      "UnlockKey": "Archive_Unlock_Arts_020"
+    }
+  },
+  {
+    "Key": "JSword_Parry1",
+    "Value": {
+      "ID": "EWpnSPEntry::JSword_Parry",
+      "Name": "ITEM_NAME_ARTS_20",
+      "Explanation": "ITEM_EXPLAIN_ARTS_20",
+      "UnlockKey": "Archive_Unlock_Arts_021"
+    }
+  },
+  {
+    "Key": "Jsword_GratefulDead1",
+    "Value": {
+      "ID": "EWpnSPEntry::Jsword_GratefulDead",
+      "Name": "ITEM_NAME_ARTS_21",
+      "Explanation": "ITEM_EXPLAIN_ARTS_21",
+      "UnlockKey": "Archive_Unlock_Arts_022"
+    }
+  },
+  {
+    "Key": "Gun_Burst1",
+    "Value": {
+      "ID": "EWpnSPEntry::Gun_Burst",
+      "Name": "ITEM_NAME_ARTS_23",
+      "Explanation": "ITEM_EXPLAIN_ARTS_23",
+      "UnlockKey": "Archive_Unlock_Arts_023"
+    }
+  }
+]

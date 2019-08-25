@@ -1,0 +1,42 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 1535
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 51
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 1423
+ImportCount: 4
+ImportOffset: 1311
+DependsOffset: 1527
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 6fbd4bdd-a79b-48a4-80a5-e1cb5998587d
+Generations: 1
+CompressionFlags: 0
+PackageSource: 1683147159
+Unversioned: False
+AssetRegistryDataOffset: 1531
+BulkDataStartOffset: 6640
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 1535
+
+
+TYPE DATA FOR PB_DT_ArchiveAchiveMaster:
+Index (37|0) -> IntProperty (38|0) 
+Name (41|0) -> StrProperty (49|0) 
+Category (26|0) -> ByteProperty (25|0) 
+Max (39|0) -> FloatProperty (36|0) 
+Unlockkey (50|0) -> StrProperty (49|0) 
+MiriamOnly (40|0) -> BoolProperty (24|0) 

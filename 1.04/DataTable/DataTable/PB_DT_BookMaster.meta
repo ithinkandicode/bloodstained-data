@@ -1,0 +1,58 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 1672
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 60
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 1560
+ImportCount: 4
+ImportOffset: 1448
+DependsOffset: 1664
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: bf081f25-516c-4e10-a5c9-0433dc751bb3
+Generations: 1
+CompressionFlags: 0
+PackageSource: 3039340854
+Unversioned: False
+AssetRegistryDataOffset: 1668
+BulkDataStartOffset: 16039
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 1672
+
+
+TYPE DATA FOR PB_DT_BookMaster:
+IslibraryBook (40|0) -> BoolProperty (21|0) 
+STR (58|0) -> IntProperty (39|0) 
+CON (23|0) -> IntProperty (39|0) 
+INT (38|0) -> IntProperty (39|0) 
+MND (44|0) -> IntProperty (39|0) 
+LCK (41|0) -> IntProperty (39|0) 
+FLA (30|0) -> IntProperty (39|0) 
+ICE (37|0) -> IntProperty (39|0) 
+LIG (42|0) -> IntProperty (39|0) 
+HOL (36|0) -> IntProperty (39|0) 
+DAR (25|0) -> IntProperty (39|0) 
+POI (51|0) -> IntProperty (39|0) 
+CUR (24|0) -> IntProperty (39|0) 
+STO (57|0) -> IntProperty (39|0) 
+SLO (56|0) -> IntProperty (39|0) 
+AttackSpeedRate (6|0) -> FloatProperty (31|0) 
+MoveSpeedRate (45|0) -> FloatProperty (31|0) 
+GetExperienceUPRate (32|0) -> FloatProperty (31|0) 
+GetExpertiseUPRate (33|0) -> FloatProperty (31|0) 
+FamiliearStatusUpRate (29|0) -> FloatProperty (31|0) 
+DirectionalStatusUpRate (27|0) -> FloatProperty (31|0) 
+RoomTraverseThreshold (52|0) -> IntProperty (39|0) 

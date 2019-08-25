@@ -1,0 +1,44 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 949
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 24
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 837
+ImportCount: 4
+ImportOffset: 725
+DependsOffset: 941
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: e75f2373-8c71-4416-8d62-e49f608c1b05
+Generations: 1
+CompressionFlags: 0
+PackageSource: 1362226988
+Unversioned: False
+AssetRegistryDataOffset: 945
+BulkDataStartOffset: 1242
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 949
+
+
+TYPE DATA FOR PB_DT_SoundSettingMaster:
+decay_near (8|0) -> FloatProperty (9|0) 
+decay_far (6|0) -> FloatProperty (9|0) 
+decay_far_vol (7|0) -> FloatProperty (9|0) 
+max_amb (11|0) -> IntProperty (10|0) 
+max_com_se (12|0) -> IntProperty (10|0) 
+max_com_voice (13|0) -> IntProperty (10|0) 
+max_se (14|0) -> IntProperty (10|0) 
+max_voice (15|0) -> IntProperty (10|0) 

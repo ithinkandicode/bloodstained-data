@@ -1,0 +1,146 @@
+[
+  {
+    "Key": "Event_02_001",
+    "Value": {
+      "SubtitleTextKey": "SST_Event_02_001",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified",
+        "UTTypes": "StructProperty,ByteProperty"
+      }
+    }
+  },
+  {
+    "Key": "Event_02_002",
+    "Value": {
+      "SubtitleTextKey": "SST_Event_02_002",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified",
+        "UTTypes": "StructProperty,ByteProperty"
+      }
+    }
+  },
+  {
+    "Key": "Event_06_001",
+    "Value": {
+      "SubtitleTextKey": "SST_Event_06_001",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified",
+        "UTTypes": "StructProperty,ByteProperty"
+      }
+    }
+  },
+  {
+    "Key": "Event_10_001",
+    "Value": {
+      "SubtitleTextKey": "SST_Event_10_001",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified",
+        "UTTypes": "StructProperty,ByteProperty"
+      }
+    }
+  },
+  {
+    "Key": "Event_10_002",
+    "Value": {
+      "SubtitleTextKey": "SST_Event_10_002",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified",
+        "UTTypes": "StructProperty,ByteProperty"
+      }
+    }
+  },
+  {
+    "Key": "Event_15_001",
+    "Value": {
+      "SubtitleTextKey": "SST_Event_15_001",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified",
+        "UTTypes": "StructProperty,ByteProperty"
+      }
+    }
+  },
+  {
+    "Key": "Event_15_002",
+    "Value": {
+      "SubtitleTextKey": "SST_Event_15_002",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified",
+        "UTTypes": "StructProperty,ByteProperty"
+      }
+    }
+  },
+  {
+    "Key": "Event_B2_001",
+    "Value": {
+      "SubtitleTextKey": "SST_Event_B2_001",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified",
+        "UTTypes": "StructProperty,ByteProperty"
+      }
+    }
+  },
+  {
+    "Key": "Event_14_001",
+    "Value": {
+      "SubtitleTextKey": "SST_Event_14_001",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified",
+        "UTTypes": "StructProperty,ByteProperty"
+      }
+    }
+  }
+]

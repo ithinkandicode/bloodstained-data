@@ -1,0 +1,194 @@
+[
+  {
+    "Key": "Harpy_Kidnap",
+    "Value": {
+      "ParentSocketName": "soc_hold",
+      "ParentSocketNameReverse": "None",
+      "ChildSocketName": "None",
+      "ChildSocketNameReverse": "None",
+      "UseSocketCoordinate": true,
+      "Priority": 0,
+      "LocationInterpolation": 0.0
+    }
+  },
+  {
+    "Key": "N3003_ATTACK_001",
+    "Value": {
+      "ParentSocketName": "SOC_HOLD_ROOT",
+      "ParentSocketNameReverse": "SOC_HOLD_HEAD",
+      "ChildSocketName": "None",
+      "ChildSocketNameReverse": "None",
+      "UseSocketCoordinate": false,
+      "Priority": 0,
+      "LocationInterpolation": 0.0
+    }
+  },
+  {
+    "Key": "N1003_ATTACK_004_OBJECT_ATTACH",
+    "Value": {
+      "ParentSocketName": "SOC_HOLD_EX",
+      "ParentSocketNameReverse": "SOC_HOLD_EX",
+      "ChildSocketName": "None",
+      "ChildSocketNameReverse": "None",
+      "UseSocketCoordinate": true,
+      "Priority": 0,
+      "LocationInterpolation": 0.0
+    }
+  },
+  {
+    "Key": "N1003_ATTACK_003_ATTACH",
+    "Value": {
+      "ParentSocketName": "SOC_HOLD_MAN",
+      "ParentSocketNameReverse": "SOC_HOLD_MAN",
+      "ChildSocketName": "None",
+      "ChildSocketNameReverse": "None",
+      "UseSocketCoordinate": true,
+      "Priority": 0,
+      "LocationInterpolation": 0.0
+    }
+  },
+  {
+    "Key": "P1003_ATTACK_004_OBJECT_ATTACH",
+    "Value": {
+      "ParentSocketName": "SOC_HOLD_EX",
+      "ParentSocketNameReverse": "SOC_HOLD_EX",
+      "ChildSocketName": "None",
+      "ChildSocketNameReverse": "None",
+      "UseSocketCoordinate": false,
+      "Priority": 0,
+      "LocationInterpolation": 0.0
+    }
+  },
+  {
+    "Key": "N1004_GRAB_ATTACH_LH",
+    "Value": {
+      "ParentSocketName": "SOC_HOLD_L",
+      "ParentSocketNameReverse": "SOC_HOLD_L",
+      "ChildSocketName": "None",
+      "ChildSocketNameReverse": "neck_01",
+      "UseSocketCoordinate": false,
+      "Priority": 0,
+      "LocationInterpolation": 0.0
+    }
+  },
+  {
+    "Key": "N1004_GRAB_ATTACH_RH",
+    "Value": {
+      "ParentSocketName": "SOC_HOLD_R",
+      "ParentSocketNameReverse": "SOC_HOLD_R",
+      "ChildSocketName": "None",
+      "ChildSocketNameReverse": "neck_01",
+      "UseSocketCoordinate": false,
+      "Priority": 0,
+      "LocationInterpolation": 0.0
+    }
+  },
+  {
+    "Key": "N1005_ATTACK_DEAD",
+    "Value": {
+      "ParentSocketName": "SOC_HAND_L",
+      "ParentSocketNameReverse": "SOC_HAND_R",
+      "ChildSocketName": "pelvis",
+      "ChildSocketNameReverse": "pelvis",
+      "UseSocketCoordinate": true,
+      "Priority": 0,
+      "LocationInterpolation": 0.0
+    }
+  },
+  {
+    "Key": "N1012_ATTACK_004_ATTACH",
+    "Value": {
+      "ParentSocketName": "SOC_HAND_L",
+      "ParentSocketNameReverse": "SOC_HAND_L",
+      "ChildSocketName": "neck_01",
+      "ChildSocketNameReverse": "neck_01",
+      "UseSocketCoordinate": true,
+      "Priority": 0,
+      "LocationInterpolation": 0.0
+    }
+  },
+  {
+    "Key": "N1003_ATTACK_001",
+    "Value": {
+      "ParentSocketName": "Root",
+      "ParentSocketNameReverse": "None",
+      "ChildSocketName": "None",
+      "ChildSocketNameReverse": "None",
+      "UseSocketCoordinate": true,
+      "Priority": 0,
+      "LocationInterpolation": 0.0
+    }
+  },
+  {
+    "Key": "N2002_HOLD",
+    "Value": {
+      "ParentSocketName": "SOC_HOLD_l",
+      "ParentSocketNameReverse": "SOC_HOLD_r",
+      "ChildSocketName": "pelvis",
+      "ChildSocketNameReverse": "pelvis",
+      "UseSocketCoordinate": false,
+      "Priority": 0,
+      "LocationInterpolation": 0.0
+    }
+  },
+  {
+    "Key": "N2012_SUCKING_BLOOD",
+    "Value": {
+      "ParentSocketName": "SOC_SUCKING_BLOOD",
+      "ParentSocketNameReverse": "SOC_SUCKING_BLOOD",
+      "ChildSocketName": "pelvis",
+      "ChildSocketNameReverse": "pelvis",
+      "UseSocketCoordinate": true,
+      "Priority": 0,
+      "LocationInterpolation": 0.0
+    }
+  },
+  {
+    "Key": "N3009_ATTACK_ATTACH",
+    "Value": {
+      "ParentSocketName": "soc_hold",
+      "ParentSocketNameReverse": "soc_hold",
+      "ChildSocketName": "None",
+      "ChildSocketNameReverse": "None",
+      "UseSocketCoordinate": true,
+      "Priority": 0,
+      "LocationInterpolation": 0.0
+    }
+  },
+  {
+    "Key": "N3072_ATTACK_GRAB",
+    "Value": {
+      "ParentSocketName": "SOC_ATTACH",
+      "ParentSocketNameReverse": "SOC_ATTACH",
+      "ChildSocketName": "None",
+      "ChildSocketNameReverse": "None",
+      "UseSocketCoordinate": false,
+      "Priority": 0,
+      "LocationInterpolation": 0.0
+    }
+  },
+  {
+    "Key": "N3087_ATTACK_ENBRACE",
+    "Value": {
+      "ParentSocketName": "SOC_ATTACH",
+      "ParentSocketNameReverse": "SOC_ATTACH",
+      "ChildSocketName": "pelvis",
+      "ChildSocketNameReverse": "pelvis",
+      "UseSocketCoordinate": false,
+      "Priority": 0,
+      "LocationInterpolation": 0.0
+    }
+  },
+  {
+    "Key": "GIMMIC_CHAIR",
+    "Value": {
+      "ParentSocketName": "SOC_CHAIR",
+      "ParentSocketNameReverse": "SOC_CHAIR",
+      "ChildSocketName": "None",
+      "ChildSocketNameReverse": "None",
+      "UseSocketCoordinate": true,
+      "Priority": 0,
+      "LocationInterpolation": 0.3
+    }
+  }
+]

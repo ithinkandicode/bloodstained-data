@@ -1,0 +1,2585 @@
+[
+  {
+    "Key": "SpeedUP",
+    "Value": {
+      "Id": "SpeedUP",
+      "GroupId": "SpeedUP",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "RegistHoly",
+    "Value": {
+      "Id": "RegistHoly",
+      "GroupId": "RegistHoly",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ChangeHPByPercentage",
+    "Value": {
+      "Id": "ChangeHPByPercentage",
+      "GroupId": "ChangeHPByPercentage",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ChangeMPByPercentage",
+    "Value": {
+      "Id": "ChangeMPByPercentage",
+      "GroupId": "ChangeMPByPercentage",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Optimizer",
+    "Value": {
+      "Id": "Optimizer",
+      "GroupId": "Optimizer",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "BLOOD_STEEL",
+    "Value": {
+      "Id": "BLOOD_STEEL",
+      "GroupId": "BLOOD_STEEL",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "Hit_Gun_Jelly_01",
+        "Hit_Whip_Jelly_01",
+        "Hit_Sword_Medium_Jelly_01",
+        "Hit_Knife_Jelly_01"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "BLOODLESS_DAMAGE1",
+    "Value": {
+      "Id": "BLOODLESS_DAMAGE1",
+      "GroupId": "BLOODLESS_DAMAGE1",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "BLOODLESS_DAMAGE2",
+    "Value": {
+      "Id": "BLOODLESS_DAMAGE2",
+      "GroupId": "BLOODLESS_DAMAGE2",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "HP10000",
+    "Value": {
+      "Id": "HP10000",
+      "GroupId": "HP10000",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "HP10000_MUGEN",
+    "Value": {
+      "Id": "HP10000",
+      "GroupId": "HP10000",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "OpenMap",
+    "Value": {
+      "Id": "OpenMap",
+      "GroupId": "OpenMap",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Potion",
+    "Value": {
+      "Id": "Potion",
+      "GroupId": "Potion",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "HighPotion",
+    "Value": {
+      "Id": "HighPotion",
+      "GroupId": "HighPotion",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ExPotion",
+    "Value": {
+      "Id": "ExPotion",
+      "GroupId": "ExPotion",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Ether",
+    "Value": {
+      "Id": "Ether",
+      "GroupId": "Ether",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "HighEther",
+    "Value": {
+      "Id": "HighEther",
+      "GroupId": "HighEther",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ExEther",
+    "Value": {
+      "Id": "ExEther",
+      "GroupId": "ExEther",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Mithridate",
+    "Value": {
+      "Id": "Mithridate",
+      "GroupId": "Mithridate",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "HolyWater",
+    "Value": {
+      "Id": "HolyWater",
+      "GroupId": "HolyWater",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Stonethaw",
+    "Value": {
+      "Id": "Stonethaw",
+      "GroupId": "Stonethaw",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Waystone",
+    "Value": {
+      "Id": "Waystone",
+      "GroupId": "Waystone",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "GateWaystone",
+    "Value": {
+      "Id": "GateWaystone",
+      "GroupId": "GateWaystone",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "IdolWaystone",
+    "Value": {
+      "Id": "IdolWaystone",
+      "GroupId": "IdolWaystone",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Panacea",
+    "Value": {
+      "Id": "Panacea",
+      "GroupId": "Panacea",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "FaerieMedicine",
+    "Value": {
+      "Id": "FaerieMedicine",
+      "GroupId": "FaerieMedicine",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "FaerieElixir",
+    "Value": {
+      "Id": "FaerieElixir",
+      "GroupId": "FaerieElixir",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "FaerieAllheal",
+    "Value": {
+      "Id": "FaerieAllheal",
+      "GroupId": "FaerieAllheal",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "FaeriePanacea",
+    "Value": {
+      "Id": "FaeriePanacea",
+      "GroupId": "FaeriePanacea",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Rice",
+    "Value": {
+      "Id": "Rice",
+      "GroupId": "Rice",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "RiceBall",
+    "Value": {
+      "Id": "RiceBall",
+      "GroupId": "RiceBall",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "UniDon",
+    "Value": {
+      "Id": "UniDon",
+      "GroupId": "UniDon",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "AppleRisotto",
+    "Value": {
+      "Id": "AppleRisotto",
+      "GroupId": "AppleRisotto",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "EggonRice",
+    "Value": {
+      "Id": "EggonRice",
+      "GroupId": "EggonRice",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Omurice",
+    "Value": {
+      "Id": "Omurice",
+      "GroupId": "Omurice",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ChickenCasserole",
+    "Value": {
+      "Id": "ChickenCasserole",
+      "GroupId": "ChickenCasserole",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Curry&Rice",
+    "Value": {
+      "Id": "Curry&Rice",
+      "GroupId": "Curry&Rice",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "BeefCurry",
+    "Value": {
+      "Id": "BeefCurry",
+      "GroupId": "BeefCurry",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "PorkCurry",
+    "Value": {
+      "Id": "PorkCurry",
+      "GroupId": "PorkCurry",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ChickenCurry",
+    "Value": {
+      "Id": "ChickenCurry",
+      "GroupId": "ChickenCurry",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "SeafoodCurry",
+    "Value": {
+      "Id": "SeafoodCurry",
+      "GroupId": "SeafoodCurry",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "MacaroniGratin",
+    "Value": {
+      "Id": "MacaroniGratin",
+      "GroupId": "MacaroniGratin",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ClassicSpaghetti",
+    "Value": {
+      "Id": "ClassicSpaghetti",
+      "GroupId": "ClassicSpaghetti",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "PastaCarbonara",
+    "Value": {
+      "Id": "PastaCarbonara",
+      "GroupId": "PastaCarbonara",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "PastaVongole",
+    "Value": {
+      "Id": "PastaVongole",
+      "GroupId": "PastaVongole",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "SeaUrchinPasta",
+    "Value": {
+      "Id": "SeaUrchinPasta",
+      "GroupId": "SeaUrchinPasta",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "BerrySpaghetti",
+    "Value": {
+      "Id": "BerrySpaghetti",
+      "GroupId": "BerrySpaghetti",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ShirukoSpaghetti",
+    "Value": {
+      "Id": "ShirukoSpaghetti",
+      "GroupId": "ShirukoSpaghetti",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "SaltRamen",
+    "Value": {
+      "Id": "SaltRamen",
+      "GroupId": "SaltRamen",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "SoyRamen",
+    "Value": {
+      "Id": "SoyRamen",
+      "GroupId": "SoyRamen",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "TonkotsuRamen",
+    "Value": {
+      "Id": "TonkotsuRamen",
+      "GroupId": "TonkotsuRamen",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "MisoRamen",
+    "Value": {
+      "Id": "MisoRamen",
+      "GroupId": "MisoRamen",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "CornChowder",
+    "Value": {
+      "Id": "CornChowder",
+      "GroupId": "CornChowder",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Steak",
+    "Value": {
+      "Id": "Steak",
+      "GroupId": "Steak",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ExquisiteSteak",
+    "Value": {
+      "Id": "ExquisiteSteak",
+      "GroupId": "ExquisiteSteak",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Sukiyaki",
+    "Value": {
+      "Id": "Sukiyaki",
+      "GroupId": "Sukiyaki",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ChickenSauté",
+    "Value": {
+      "Id": "ChickenSauté",
+      "GroupId": "ChickenSauté",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "GarlicChicken",
+    "Value": {
+      "Id": "GarlicChicken",
+      "GroupId": "GarlicChicken",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Tonkatsu",
+    "Value": {
+      "Id": "Tonkatsu",
+      "GroupId": "Tonkatsu",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "MisoCutlet",
+    "Value": {
+      "Id": "MisoCutlet",
+      "GroupId": "MisoCutlet",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "GingerPork",
+    "Value": {
+      "Id": "GingerPork",
+      "GroupId": "GingerPork",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "MeatHotPot",
+    "Value": {
+      "Id": "MeatHotPot",
+      "GroupId": "MeatHotPot",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "FriedPotatoes",
+    "Value": {
+      "Id": "FriedPotatoes",
+      "GroupId": "FriedPotatoes",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Pizza",
+    "Value": {
+      "Id": "Pizza",
+      "GroupId": "Pizza",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "FriedFish",
+    "Value": {
+      "Id": "FriedFish",
+      "GroupId": "FriedFish",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "FishAndChips",
+    "Value": {
+      "Id": "FishAndChips",
+      "GroupId": "FishAndChips",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "SimmeredForneus",
+    "Value": {
+      "Id": "SimmeredForneus",
+      "GroupId": "SimmeredForneus",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ForneusMeunière",
+    "Value": {
+      "Id": "ForneusMeunière",
+      "GroupId": "ForneusMeunière",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ForneusinGarlic",
+    "Value": {
+      "Id": "ForneusinGarlic",
+      "GroupId": "ForneusinGarlic",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "FishHotPot",
+    "Value": {
+      "Id": "FishHotPot",
+      "GroupId": "FishHotPot",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Flan",
+    "Value": {
+      "Id": "Flan",
+      "GroupId": "Flan",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Manju",
+    "Value": {
+      "Id": "Manju",
+      "GroupId": "Manju",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ApplePie",
+    "Value": {
+      "Id": "ApplePie",
+      "GroupId": "ApplePie",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "LemonPie",
+    "Value": {
+      "Id": "LemonPie",
+      "GroupId": "LemonPie",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "StrawberryPie",
+    "Value": {
+      "Id": "StrawberryPie",
+      "GroupId": "StrawberryPie",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "StrawberryCrepe",
+    "Value": {
+      "Id": "StrawberryCrepe",
+      "GroupId": "StrawberryCrepe",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ChocolateCrepe",
+    "Value": {
+      "Id": "ChocolateCrepe",
+      "GroupId": "ChocolateCrepe",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Cookies",
+    "Value": {
+      "Id": "Cookies",
+      "GroupId": "Cookies",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ChocolateCookies",
+    "Value": {
+      "Id": "ChocolateCookies",
+      "GroupId": "ChocolateCookies",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "CinnamonCookies",
+    "Value": {
+      "Id": "CinnamonCookies",
+      "GroupId": "CinnamonCookies",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "SpongeCake",
+    "Value": {
+      "Id": "SpongeCake",
+      "GroupId": "SpongeCake",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ChiffonCake",
+    "Value": {
+      "Id": "ChiffonCake",
+      "GroupId": "ChiffonCake",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "CheeseCake",
+    "Value": {
+      "Id": "CheeseCake",
+      "GroupId": "CheeseCake",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ChocolateCake",
+    "Value": {
+      "Id": "ChocolateCake",
+      "GroupId": "ChocolateCake",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "StrawberryCake",
+    "Value": {
+      "Id": "StrawberryCake",
+      "GroupId": "StrawberryCake",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ScrambledEggs",
+    "Value": {
+      "Id": "ScrambledEggs",
+      "GroupId": "ScrambledEggs",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "RolledOmelette",
+    "Value": {
+      "Id": "RolledOmelette",
+      "GroupId": "RolledOmelette",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "FriedEgg",
+    "Value": {
+      "Id": "FriedEgg",
+      "GroupId": "FriedEgg",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "EggSoufflé",
+    "Value": {
+      "Id": "EggSoufflé",
+      "GroupId": "EggSoufflé",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "AppleJuice",
+    "Value": {
+      "Id": "AppleJuice",
+      "GroupId": "AppleJuice",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "StrawberryAuLait",
+    "Value": {
+      "Id": "StrawberryAuLait",
+      "GroupId": "StrawberryAuLait",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Lemonade",
+    "Value": {
+      "Id": "Lemonade",
+      "GroupId": "Lemonade",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Smoothie",
+    "Value": {
+      "Id": "Smoothie",
+      "GroupId": "Smoothie",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "FruitJuice",
+    "Value": {
+      "Id": "FruitJuice",
+      "GroupId": "FruitJuice",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Nectar",
+    "Value": {
+      "Id": "Nectar",
+      "GroupId": "Nectar",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "DarkMatter",
+    "Value": {
+      "Id": "DarkMatter",
+      "GroupId": "DarkMatter",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "MacaroniAndCheese",
+    "Value": {
+      "Id": "MacaroniAndCheese",
+      "GroupId": "MacaroniAndCheese",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "N3081_HEAL",
+    "Value": {
+      "Id": "N3081_HEAL",
+      "GroupId": "N3081_HEAL",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "N3103_HEAL",
+    "Value": {
+      "Id": "N3103_HEAL",
+      "GroupId": "N3103_HEAL",
+      "LifeTime": 10.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Recover_Mp_flower",
+    "Value": {
+      "Id": "Recover_Mp_flower",
+      "GroupId": "Recover_Mp_flower",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "SE_Item_Get03"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Recover_Mp_Ether",
+    "Value": {
+      "Id": "Recover_Mp_Ether",
+      "GroupId": "Recover_Mp_Ether",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "SE_Item_Get03"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Recover_Mp_HiEther",
+    "Value": {
+      "Id": "Recover_Mp_HiEther",
+      "GroupId": "Recover_Mp_HiEther",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "SE_Item_Get03"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Coin_S",
+    "Value": {
+      "Id": "Coin_S",
+      "GroupId": "Coin_S",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "SE_Item_Get02"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Coin_M",
+    "Value": {
+      "Id": "Coin_M",
+      "GroupId": "Coin_M",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "SE_Item_Get02"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Coin_L",
+    "Value": {
+      "Id": "Coin_L",
+      "GroupId": "Coin_L",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "SE_Item_Get02"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Natural_MP_Recovery",
+    "Value": {
+      "Id": "Natural_MP_Recovery",
+      "GroupId": "Natural_MP_Recovery",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "MaxHPUP",
+    "Value": {
+      "Id": "MaxHPUP",
+      "GroupId": "MaxHPUP",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "MaxMPUP",
+    "Value": {
+      "Id": "MaxMPUP",
+      "GroupId": "MaxMPUP",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "MaxBulletUP",
+    "Value": {
+      "Id": "MaxBulletUP",
+      "GroupId": "MaxBulletUP",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "STRUP_FOREVER",
+    "Value": {
+      "Id": "STRUP_FOREVER",
+      "GroupId": "STRUP_FOREVER",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "CONUP_FOREVER",
+    "Value": {
+      "Id": "CONUP_FOREVER",
+      "GroupId": "CONUP_FOREVER",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "INTUP_FOREVER",
+    "Value": {
+      "Id": "INTUP_FOREVER",
+      "GroupId": "INTUP_FOREVER",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "MNDUP_FOREVER",
+    "Value": {
+      "Id": "MNDUP_FOREVER",
+      "GroupId": "MNDUP_FOREVER",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "LUCUP_FOREVER",
+    "Value": {
+      "Id": "LUCUP_FOREVER",
+      "GroupId": "LUCUP_FOREVER",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "REGIST_ICE",
+    "Value": {
+      "Id": "REGIST_ICE",
+      "GroupId": "REGIST_ICE",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "REGIST_EDGE",
+    "Value": {
+      "Id": "REGIST_EDGE",
+      "GroupId": "REGIST_EDGE",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "REGIST_CURSE",
+    "Value": {
+      "Id": "REGIST_CURSE",
+      "GroupId": "REGIST_CURSE",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "REGIST_THUNDER",
+    "Value": {
+      "Id": "REGIST_THUNDER",
+      "GroupId": "REGIST_THUNDER",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "REGIST_STRUST",
+    "Value": {
+      "Id": "REGIST_STRUST",
+      "GroupId": "REGIST_STRUST",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "REGIST_DARK",
+    "Value": {
+      "Id": "REGIST_DARK",
+      "GroupId": "REGIST_DARK",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "REGIST_FIRE",
+    "Value": {
+      "Id": "REGIST_FIRE",
+      "GroupId": "REGIST_FIRE",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "REGIST_BROW",
+    "Value": {
+      "Id": "REGIST_BROW",
+      "GroupId": "REGIST_BROW",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "REGIST_PETRI",
+    "Value": {
+      "Id": "REGIST_PETRI",
+      "GroupId": "REGIST_PETRI",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "REGIST_POISON",
+    "Value": {
+      "Id": "REGIST_POISON",
+      "GroupId": "REGIST_POISON",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "REGIST_HOLLY",
+    "Value": {
+      "Id": "REGIST_HOLLY",
+      "GroupId": "REGIST_HOLLY",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "REGIST_MAGIC",
+    "Value": {
+      "Id": "REGIST_MAGIC",
+      "GroupId": "REGIST_MAGIC",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "BUFF_STR",
+    "Value": {
+      "Id": "BUFF_STR",
+      "GroupId": "BUFF_STR",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "BUFF_INT",
+    "Value": {
+      "Id": "BUFF_INT",
+      "GroupId": "BUFF_INT",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "BUFF_MND",
+    "Value": {
+      "Id": "BUFF_MND",
+      "GroupId": "BUFF_MND",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "BUFF_CON",
+    "Value": {
+      "Id": "BUFF_CON",
+      "GroupId": "BUFF_CON",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "BUFF_LUCK",
+    "Value": {
+      "Id": "BUFF_LUCK",
+      "GroupId": "BUFF_LUCK",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "BUFF_RATE_STR",
+    "Value": {
+      "Id": "BUFF_RATE_STR",
+      "GroupId": "BUFF_RATE_STR",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "BUFF_RATE_STR_WITH_UPDATE",
+    "Value": {
+      "Id": "BUFF_RATE_STR_WITH_UPDATE",
+      "GroupId": "BUFF_RATE_STR_WITH_UPDATE",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "BUFF_STR_TEMP",
+    "Value": {
+      "Id": "BUFF_STR_TEMP",
+      "GroupId": "BUFF_STR_TEMP",
+      "LifeTime": 60.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": true,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "BUFF_RATE_STR_TEMP",
+    "Value": {
+      "Id": "BUFF_RATE_STR_TEMP",
+      "GroupId": "BUFF_RATE_STR_TEMP",
+      "LifeTime": 60.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": true,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "DEBUFF_STR_WITH_EFFECT",
+    "Value": {
+      "Id": "DEBUFF_STR_WITH_EFFECT",
+      "GroupId": "DEBUFF_STR_WITH_EFFECT",
+      "LifeTime": 20.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "DEBUFF_RATE_STR_WITH_EFFECT",
+    "Value": {
+      "Id": "DEBUFF_RATE_STR_WITH_EFFECT",
+      "GroupId": "DEBUFF_RATE_STR_WITH_EFFECT",
+      "LifeTime": 20.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "DEBUFF_CON_WITH_EFFECT",
+    "Value": {
+      "Id": "DEBUFF_CON_WITH_EFFECT",
+      "GroupId": "DEBUFF_CON_WITH_EFFECT",
+      "LifeTime": 20.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "DEBUFF_RATE_CON_WITH_EFFECT",
+    "Value": {
+      "Id": "DEBUFF_RATE_CON_WITH_EFFECT",
+      "GroupId": "DEBUFF_RATE_CON_WITH_EFFECT",
+      "LifeTime": 20.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "REGENE",
+    "Value": {
+      "Id": "REGENE",
+      "GroupId": "REGENE",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Stone",
+    "Value": {
+      "Id": "Stone",
+      "GroupId": "Stone",
+      "LifeTime": 1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": true,
+      "Truncation": true,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "WeakStone",
+    "Value": {
+      "Id": "WeakStone",
+      "GroupId": "WeakStone",
+      "LifeTime": 20.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": true,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "CursedRaySlow",
+    "Value": {
+      "Id": "CursedRaySlow",
+      "GroupId": "CursedRaySlow",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Poison",
+    "Value": {
+      "Id": "Poison",
+      "GroupId": "Poison",
+      "LifeTime": 30.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": true,
+      "Truncation": false,
+      "NoStartExec": true
+    }
+  },
+  {
+    "Key": "Curse",
+    "Value": {
+      "Id": "Curse",
+      "GroupId": "Curse",
+      "LifeTime": 15.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": true,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Slow",
+    "Value": {
+      "Id": "Slow",
+      "GroupId": "Slow",
+      "LifeTime": 5.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": true,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "SlowOnce",
+    "Value": {
+      "Id": "SlowOnce",
+      "GroupId": "SlowOnce",
+      "LifeTime": 0.25,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ClearPoison",
+    "Value": {
+      "Id": "ClearPoison",
+      "GroupId": "ClearPoison",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ClearStone",
+    "Value": {
+      "Id": "ClearStone",
+      "GroupId": "ClearStone",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ClearCurse",
+    "Value": {
+      "Id": "ClearCurse",
+      "GroupId": "ClearCurse",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ZANGETU_ENCHANT_FLAME",
+    "Value": {
+      "Id": "ZANGETU_ENCHANT_FLAME",
+      "GroupId": "ZANGETU_ENCHANT_FLAME",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ZANGETU_ENCHANT_ICE",
+    "Value": {
+      "Id": "ZANGETU_ENCHANT_ICE",
+      "GroupId": "ZANGETU_ENCHANT_ICE",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ZANGETU_ENCHANT_THUNDER",
+    "Value": {
+      "Id": "ZANGETU_ENCHANT_THUNDER",
+      "GroupId": "ZANGETU_ENCHANT_THUNDER",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ZANGETU_TIME_STOP_TARGET",
+    "Value": {
+      "Id": "ZANGETU_TIME_STOP_TARGET",
+      "GroupId": "ZANGETU_TIME_STOP_TARGET",
+      "LifeTime": 1.25,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "ZANGETU_TIME_STOP_SELF",
+    "Value": {
+      "Id": "ZANGETU_TIME_STOP_SELF",
+      "GroupId": "ZANGETU_TIME_STOP_SELF",
+      "LifeTime": 0.25,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "EnchantFlame",
+    "Value": {
+      "Id": "EnchantFlame",
+      "GroupId": "EnchantFlame",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "EnchantHolly",
+    "Value": {
+      "Id": "EnchantHolly",
+      "GroupId": "EnchantHolly",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "EnchantDarkness",
+    "Value": {
+      "Id": "EnchantDarkness",
+      "GroupId": "EnchantDarkness",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "SwordMastery",
+    "Value": {
+      "Id": "SwordMastery",
+      "GroupId": "SwordMastery",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Fish_and_Chips",
+    "Value": {
+      "Id": "FirstTimeBonus_Fish_and_Chips",
+      "GroupId": "FirstTimeBonus_Fish_and_Chips",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Lemonade",
+    "Value": {
+      "Id": "FirstTimeBonus_Lemonade",
+      "GroupId": "FirstTimeBonus_Lemonade",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Scramble_Egg",
+    "Value": {
+      "Id": "FirstTimeBonus_Scramble_Egg",
+      "GroupId": "FirstTimeBonus_Scramble_Egg",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Sunny_Side_Up",
+    "Value": {
+      "Id": "FirstTimeBonus_Sunny_Side_Up",
+      "GroupId": "FirstTimeBonus_Sunny_Side_Up",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pizza",
+    "Value": {
+      "Id": "FirstTimeBonus_Pizza",
+      "GroupId": "FirstTimeBonus_Pizza",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Fried_Potato",
+    "Value": {
+      "Id": "FirstTimeBonus_Fried_Potato",
+      "GroupId": "FirstTimeBonus_Fried_Potato",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Egg_Roll",
+    "Value": {
+      "Id": "FirstTimeBonus_Egg_Roll",
+      "GroupId": "FirstTimeBonus_Egg_Roll",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pork_Curry",
+    "Value": {
+      "Id": "FirstTimeBonus_Pork_Curry",
+      "GroupId": "FirstTimeBonus_Pork_Curry",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_High_Grade_Steak",
+    "Value": {
+      "Id": "FirstTimeBonus_High_Grade_Steak",
+      "GroupId": "FirstTimeBonus_High_Grade_Steak",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "Healing",
+    "Value": {
+      "Id": "Healing",
+      "GroupId": "Healing",
+      "LifeTime": 0.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "N2014_SPECIAL_DRINK",
+    "Value": {
+      "Id": "N2014_SPECIAL_DRINK",
+      "GroupId": "N2014_SPECIAL_DRINK",
+      "LifeTime": 30.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "MagGlass",
+    "Value": {
+      "Id": "MagGlass",
+      "GroupId": "MagGlass",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "DemagGlass",
+    "Value": {
+      "Id": "DemagGlass",
+      "GroupId": "DemagGlass",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  },
+  {
+    "Key": "GaugeGlass",
+    "Value": {
+      "Id": "GaugeGlass",
+      "GroupId": "GaugeGlass",
+      "LifeTime": -1.0,
+      "StatusNo": 0,
+      "SEIdArray": [
+        "None"
+      ],
+      "ShouldBeSaved": false,
+      "Truncation": false,
+      "NoStartExec": false
+    }
+  }
+]

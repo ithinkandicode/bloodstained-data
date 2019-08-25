@@ -1,0 +1,44 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 6183
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 246
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 6071
+ImportCount: 4
+ImportOffset: 5959
+DependsOffset: 6175
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 030a7191-0019-4c50-8bb5-f30f1fadc240
+Generations: 1
+CompressionFlags: 0
+PackageSource: 1692896081
+Unversioned: False
+AssetRegistryDataOffset: 6179
+BulkDataStartOffset: 53932
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 6183
+
+
+TYPE DATA FOR PB_DT_SpecialEffectDefinitionMaster:
+DefId (71|0) -> NameProperty (164|0) 
+Type (237|0) -> ByteProperty (36|0) 
+Parameter01 (173|0) -> FloatProperty (125|0) 
+Parameter02 (174|0) -> FloatProperty (125|0) 
+Parameter03 (175|0) -> FloatProperty (125|0) 
+ParameterName (176|0) -> NameProperty (164|0) 
+StartRateMin (221|0) -> FloatProperty (125|0) 
+StartRateMax (220|0) -> FloatProperty (125|0) 

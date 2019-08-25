@@ -1,0 +1,1108 @@
+[
+  {
+    "Key": "SEN_EquipSet",
+    "Value": {
+      "Japanese": "装備セット",
+      "English": "Equip Set "
+    }
+  },
+  {
+    "Key": "SEN_EquipMenuTitle",
+    "Value": {
+      "Japanese": "武器やシャードの装備を変更します。",
+      "English": "Change Weapons and Shards."
+    }
+  },
+  {
+    "Key": "SEN_WeaponType_All",
+    "Value": {
+      "Japanese": "全部",
+      "English": "All"
+    }
+  },
+  {
+    "Key": "SEN_WeaponType_ShortSword",
+    "Value": {
+      "Japanese": "剣",
+      "English": "Single-hand Sword"
+    }
+  },
+  {
+    "Key": "SEN_WeaponType_ThrowingKnife",
+    "Value": {
+      "Japanese": "投剣",
+      "English": "Throwing Knife"
+    }
+  },
+  {
+    "Key": "SEN_WeaponType_Knife",
+    "Value": {
+      "Japanese": "短剣",
+      "English": "Dagger"
+    }
+  },
+  {
+    "Key": "SEN_WeaponType_StabbingKnife",
+    "Value": {
+      "Japanese": "突剣",
+      "English": "Rapier"
+    }
+  },
+  {
+    "Key": "SEN_WeaponType_LargeSword",
+    "Value": {
+      "Japanese": "大剣",
+      "English": "Double-hand Sword"
+    }
+  },
+  {
+    "Key": "SEN_WeaponType_JapaneseSword",
+    "Value": {
+      "Japanese": "刀",
+      "English": "Katana"
+    }
+  },
+  {
+    "Key": "SEN_WeaponType_Spear",
+    "Value": {
+      "Japanese": "槍",
+      "English": "Spear"
+    }
+  },
+  {
+    "Key": "SEN_WeaponType_Club",
+    "Value": {
+      "Japanese": "棍棒",
+      "English": "Club"
+    }
+  },
+  {
+    "Key": "SEN_WeaponType_Boots",
+    "Value": {
+      "Japanese": "靴",
+      "English": "Boots"
+    }
+  },
+  {
+    "Key": "SEN_WeaponType_Whip",
+    "Value": {
+      "Japanese": "鞭",
+      "English": "Whip"
+    }
+  },
+  {
+    "Key": "SEN_WeaponType_Gun",
+    "Value": {
+      "Japanese": "銃",
+      "English": "Gun"
+    }
+  },
+  {
+    "Key": "SEN_SortType_Get",
+    "Value": {
+      "Japanese": "入手順",
+      "English": "Acquisition"
+    }
+  },
+  {
+    "Key": "SEN_SortType_Type",
+    "Value": {
+      "Japanese": "種別順",
+      "English": "Type"
+    }
+  },
+  {
+    "Key": "SEN_SortType_Attack",
+    "Value": {
+      "Japanese": "攻撃力順",
+      "English": "Attack"
+    }
+  },
+  {
+    "Key": "SEN_SortType_Num",
+    "Value": {
+      "Japanese": "多い順",
+      "English": "Quantity"
+    }
+  },
+  {
+    "Key": "SEN_SortType_Defence",
+    "Value": {
+      "Japanese": "守備力順",
+      "English": "Defense"
+    }
+  },
+  {
+    "Key": "SEN_SortType_STR",
+    "Value": {
+      "Japanese": "STR順",
+      "English": "STR"
+    }
+  },
+  {
+    "Key": "SEN_SortType_CON",
+    "Value": {
+      "Japanese": "CON順",
+      "English": "CON"
+    }
+  },
+  {
+    "Key": "SEN_SortType_INT",
+    "Value": {
+      "Japanese": "INT順",
+      "English": "INT"
+    }
+  },
+  {
+    "Key": "SEN_SortType_MND",
+    "Value": {
+      "Japanese": "MND順",
+      "English": "MND"
+    }
+  },
+  {
+    "Key": "SEN_SortType_LUC",
+    "Value": {
+      "Japanese": "LUC順",
+      "English": "LUC"
+    }
+  },
+  {
+    "Key": "SEN_UnEquip",
+    "Value": {
+      "Japanese": "装備を外す",
+      "English": "Unequip"
+    }
+  },
+  {
+    "Key": "SEN_Shards",
+    "Value": {
+      "Japanese": "シャード",
+      "English": "Shards"
+    }
+  },
+  {
+    "Key": "SEN_Confirm",
+    "Value": {
+      "Japanese": "決定",
+      "English": "Confirm"
+    }
+  },
+  {
+    "Key": "SEN_Return",
+    "Value": {
+      "Japanese": "戻る",
+      "English": "Return"
+    }
+  },
+  {
+    "Key": "SEN_Change",
+    "Value": {
+      "Japanese": "変更",
+      "English": "Change"
+    }
+  },
+  {
+    "Key": "SEN_Sort",
+    "Value": {
+      "Japanese": "ソート",
+      "English": "Sort"
+    }
+  },
+  {
+    "Key": "SEN_Type",
+    "Value": {
+      "Japanese": "種別順",
+      "English": "Type"
+    }
+  },
+  {
+    "Key": "SEN_Show",
+    "Value": {
+      "Japanese": "表示",
+      "English": "Show"
+    }
+  },
+  {
+    "Key": "unequip_text",
+    "Value": {
+      "Japanese": "装備を外します",
+      "English": "Equipment will be removed"
+    }
+  },
+  {
+    "Key": "SEN_Tools",
+    "Value": {
+      "Japanese": "装備",
+      "English": "Tools"
+    }
+  },
+  {
+    "Key": "SEN_BacktoTitle",
+    "Value": {
+      "Japanese": "タイトルに戻る",
+      "English": "Back to Title"
+    }
+  },
+  {
+    "Key": "SEN_skip",
+    "Value": {
+      "Japanese": "スキップ",
+      "English": "skip"
+    }
+  },
+  {
+    "Key": "SEN_automode",
+    "Value": {
+      "Japanese": "オートモード",
+      "English": "Auto mode"
+    }
+  },
+  {
+    "Key": "SEN_backlog",
+    "Value": {
+      "Japanese": "バックログ",
+      "English": "Backlog"
+    }
+  },
+  {
+    "Key": "SEN_windowclose",
+    "Value": {
+      "Japanese": "ウインドウ消去",
+      "English": "Close Window"
+    }
+  },
+  {
+    "Key": "SEN_DispCcckingBonus",
+    "Value": {
+      "Japanese": "食事初回ボーナス表示",
+      "English": "Show First Time Eating Bonus"
+    }
+  },
+  {
+    "Key": "SEN_HideCookingBonus",
+    "Value": {
+      "Japanese": "食事初回ボーナス非表示",
+      "English": "Hide First Time Bonus"
+    }
+  },
+  {
+    "Key": "SEN_MenuCookingIncDec",
+    "Value": {
+      "Japanese": "錬成数増減",
+      "English": "Craft +/-"
+    }
+  },
+  {
+    "Key": "SEN_MenuCookingIncDecTen",
+    "Value": {
+      "Japanese": "錬成数増減（10個ずつ）",
+      "English": "Craft +/- (x10)"
+    }
+  },
+  {
+    "Key": "SEN_CraftTitle_Craft",
+    "Value": {
+      "Japanese": "素材を元にアイテムを作成します",
+      "English": "Create an item with materials"
+    }
+  },
+  {
+    "Key": "SEN_CraftTitle_Cook",
+    "Value": {
+      "Japanese": "食材を使用してミリアムが調理します",
+      "English": "Miriam will cook using the ingredients"
+    }
+  },
+  {
+    "Key": "SEN_CraftTitle_ShardUpdate",
+    "Value": {
+      "Japanese": "素材を使ってシャードを強化します",
+      "English": "Use material to enhance shard"
+    }
+  },
+  {
+    "Key": "SEN_CraftTitle_Dismantle",
+    "Value": {
+      "Japanese": "アルカへストを使ってアイテムを解体し素材を抽出します",
+      "English": "Alkahest can dismantle items and extract materials"
+    }
+  },
+  {
+    "Key": "SEN_CraftEquip",
+    "Value": {
+      "Japanese": "錬成してすぐ装備",
+      "English": "Craft and equip"
+    }
+  },
+  {
+    "Key": "SEN_Yes",
+    "Value": {
+      "Japanese": "はい",
+      "English": "Yes"
+    }
+  },
+  {
+    "Key": "SEN_No",
+    "Value": {
+      "Japanese": "いいえ",
+      "English": "No"
+    }
+  },
+  {
+    "Key": "SEN_CraftConfirm_Craft",
+    "Value": {
+      "Japanese": "{ItemName}を{Num}個錬成しますか？",
+      "English": "Craft {ItemName} {Num}?"
+    }
+  },
+  {
+    "Key": "SEN_CraftConfirm_Cook",
+    "Value": {
+      "Japanese": "{ItemName}を{Num}個作成しますか？",
+      "English": "Cook {ItemName} {Num}?"
+    }
+  },
+  {
+    "Key": "SEN_CraftConfirm_ShardEnhance",
+    "Value": {
+      "Japanese": "{ItemName}を強化しますか？",
+      "English": "Enhance {ItemName}?"
+    }
+  },
+  {
+    "Key": "SEN_CraftConfirm_ShardDeactivate",
+    "Value": {
+      "Japanese": "{ItemName}を強化解除しますか？",
+      "English": "Deactivate {ItemName}?"
+    }
+  },
+  {
+    "Key": "SEN_CraftConfirm_Dismantle",
+    "Value": {
+      "Japanese": "{ItemName}を{Num}個解体しますか？",
+      "English": "Extract {ItemName} {Num}?"
+    }
+  },
+  {
+    "Key": "SEN_CraftResult_Craft",
+    "Value": {
+      "Japanese": "{ItemName}を{Num}個錬成しました",
+      "English": "{ItemName} crafted {Num}."
+    }
+  },
+  {
+    "Key": "SEN_CraftResult_Cook",
+    "Value": {
+      "Japanese": "{ItemName}を{Num}個作成しました",
+      "English": "{ItemName} cooked {Num}."
+    }
+  },
+  {
+    "Key": "SEN_CraftResult_ShardEnhance",
+    "Value": {
+      "Japanese": "{ItemName}を強化しました",
+      "English": "{ItemName} enhanced."
+    }
+  },
+  {
+    "Key": "SEN_CraftResult_ShardDeactivate",
+    "Value": {
+      "Japanese": "{ItemName}を強化解除しました",
+      "English": "{ItemName} deactivated."
+    }
+  },
+  {
+    "Key": "SEN_CraftResult_Dismantle",
+    "Value": {
+      "Japanese": "{ItemName}を{Num}個解体しました",
+      "English": "{ItemName} extracted {Num}."
+    }
+  },
+  {
+    "Key": "SEN_Header_LoadMenu",
+    "Value": {
+      "Japanese": "セーブデータを選択してロードします",
+      "English": "Select a save data to load."
+    }
+  },
+  {
+    "Key": "SEN_Delete",
+    "Value": {
+      "Japanese": "削除",
+      "English": "Delete"
+    }
+  },
+  {
+    "Key": "MultiDismantle",
+    "Value": {
+      "Japanese": "解体数増減",
+      "English": "Dismantle +/-"
+    }
+  },
+  {
+    "Key": "MultiDismantleBy10",
+    "Value": {
+      "Japanese": "解体数増減（10個ずつ）",
+      "English": "Dismantle +/- (x10)"
+    }
+  },
+  {
+    "Key": "SEN_EquipTitle",
+    "Value": {
+      "Japanese": "装備を変更します。",
+      "English": "Change equipment."
+    }
+  },
+  {
+    "Key": "SEN_ShardTitle",
+    "Value": {
+      "Japanese": "シャードを変更します。",
+      "English": "Change shards."
+    }
+  },
+  {
+    "Key": "SEN_ItemTitle",
+    "Value": {
+      "Japanese": "アイテムの使用と効果の確認をします。",
+      "English": "Confirming items' use and effects."
+    }
+  },
+  {
+    "Key": "SEN_ShortcutTitle",
+    "Value": {
+      "Japanese": "ショートカットを編集します。",
+      "English": "Edit shortcut."
+    }
+  },
+  {
+    "Key": "SEN_Archive",
+    "Value": {
+      "Japanese": "アーカイブを確認します。",
+      "English": "アーカイブを確認します。"
+    }
+  },
+  {
+    "Key": "SEN_System",
+    "Value": {
+      "Japanese": "その他設定",
+      "English": "System & Game settings."
+    }
+  },
+  {
+    "Key": "SEN_Config",
+    "Value": {
+      "Japanese": "各設定を調整します。",
+      "English": "Each setting will be configured."
+    }
+  },
+  {
+    "Key": "SEN_Controls",
+    "Value": {
+      "Japanese": "操作方法",
+      "English": "Controls"
+    }
+  },
+  {
+    "Key": "ConfirmDeleteDataMsg",
+    "Value": {
+      "Japanese": "セーブデータを削除しますか？",
+      "English": "Delete save data?"
+    }
+  },
+  {
+    "Key": "SEN_BuyItemName",
+    "Value": {
+      "Japanese": "購入するもの",
+      "English": "Item name"
+    }
+  },
+  {
+    "Key": "SEN_BuyItemQuantity",
+    "Value": {
+      "Japanese": "購入数",
+      "English": "Quantity"
+    }
+  },
+  {
+    "Key": "SEN_BuyItemPrice",
+    "Value": {
+      "Japanese": "購入ゴールド",
+      "English": "Price"
+    }
+  },
+  {
+    "Key": "SEN_SellItemName",
+    "Value": {
+      "Japanese": "売却するもの",
+      "English": "Item name"
+    }
+  },
+  {
+    "Key": "SEN_SellItemQuantity",
+    "Value": {
+      "Japanese": "売却数",
+      "English": "Quantity"
+    }
+  },
+  {
+    "Key": "SEN_SellItemPrice",
+    "Value": {
+      "Japanese": "売却ゴールド",
+      "English": "Sell price"
+    }
+  },
+  {
+    "Key": "SEN_ShopTitle_PurchaseItems",
+    "Value": {
+      "Japanese": "アイテムを購入します",
+      "English": "Purchase items"
+    }
+  },
+  {
+    "Key": "SEN_ShopTitle_SellItems",
+    "Value": {
+      "Japanese": "アイテムを売却します",
+      "English": "Sell items"
+    }
+  },
+  {
+    "Key": "SEN_ShopTitle_SellShard",
+    "Value": {
+      "Japanese": "シャードを売却します",
+      "English": "Sell Shard"
+    }
+  },
+  {
+    "Key": "Price",
+    "Value": {
+      "Japanese": "価格",
+      "English": "Price"
+    }
+  },
+  {
+    "Key": "Quantity",
+    "Value": {
+      "Japanese": "所持数",
+      "English": "Quantity"
+    }
+  },
+  {
+    "Key": "VolumeMusic",
+    "Value": {
+      "Japanese": "BGM",
+      "English": "Music Volume"
+    }
+  },
+  {
+    "Key": "VolumeAmbience",
+    "Value": {
+      "Japanese": "環境音",
+      "English": "Ambience Volume"
+    }
+  },
+  {
+    "Key": "VolumeSE",
+    "Value": {
+      "Japanese": "効果音",
+      "English": "Sound Effect Volume"
+    }
+  },
+  {
+    "Key": "VolumeVoice",
+    "Value": {
+      "Japanese": "ボイス",
+      "English": "Voice Volume"
+    }
+  },
+  {
+    "Key": "CommandSearch",
+    "Value": {
+      "Japanese": "調べる",
+      "English": "Search"
+    }
+  },
+  {
+    "Key": "CommandAttack",
+    "Value": {
+      "Japanese": "攻撃",
+      "English": "Attack"
+    }
+  },
+  {
+    "Key": "CommandBackStep",
+    "Value": {
+      "Japanese": "バックステップ",
+      "English": "Back Step"
+    }
+  },
+  {
+    "Key": "CommandJump",
+    "Value": {
+      "Japanese": "ジャンプ",
+      "English": "Jump"
+    }
+  },
+  {
+    "Key": "CommandTriggerShard",
+    "Value": {
+      "Japanese": "トリガーシャード",
+      "English": "Trigger Shard"
+    }
+  },
+  {
+    "Key": "CommandDirctionalShard",
+    "Value": {
+      "Japanese": "ディレクショナルシャード",
+      "English": "Directional Shard"
+    }
+  },
+  {
+    "Key": "OtherDisplayAccessory",
+    "Value": {
+      "Japanese": "アクセサリー装備表示",
+      "English": "Display Accessory"
+    }
+  },
+  {
+    "Key": "OtherDisplayScarf",
+    "Value": {
+      "Japanese": "マフラー装備表示",
+      "English": "Display Scarf"
+    }
+  },
+  {
+    "Key": "OtherDisplayHint",
+    "Value": {
+      "Japanese": "ヒント表示",
+      "English": "Display Hint"
+    }
+  },
+  {
+    "Key": "OtherVibration",
+    "Value": {
+      "Japanese": "振動",
+      "English": "Vibration"
+    }
+  },
+  {
+    "Key": "OtherDisplayHeadgear",
+    "Value": {
+      "Japanese": "頭装備表示",
+      "English": "Display Headgear"
+    }
+  },
+  {
+    "Key": "ApplyAll",
+    "Value": {
+      "Japanese": "すべて適用",
+      "English": "Apply All"
+    }
+  },
+  {
+    "Key": "Default",
+    "Value": {
+      "Japanese": "初期設定に戻す",
+      "English": "Default"
+    }
+  },
+  {
+    "Key": "Button",
+    "Value": {
+      "Japanese": "キー",
+      "English": "Button"
+    }
+  },
+  {
+    "Key": "Sound",
+    "Value": {
+      "Japanese": "サウンド",
+      "English": "Sound"
+    }
+  },
+  {
+    "Key": "Etc",
+    "Value": {
+      "Japanese": "その他",
+      "English": "Etc"
+    }
+  },
+  {
+    "Key": "Screen",
+    "Value": {
+      "Japanese": "スクリーン",
+      "English": "Screen"
+    }
+  },
+  {
+    "Key": "Resolution",
+    "Value": {
+      "Japanese": "解像度",
+      "English": "Resolution"
+    }
+  },
+  {
+    "Key": "AffiliatedClanName",
+    "Value": {
+      "Japanese": "所属クラン",
+      "English": "Affiliated Clan"
+    }
+  },
+  {
+    "Key": "FullScreen",
+    "Value": {
+      "Japanese": "フルスクリーン",
+      "English": "Full Screen"
+    }
+  },
+  {
+    "Key": "Window",
+    "Value": {
+      "Japanese": "ウィンドウ",
+      "English": "Window"
+    }
+  },
+  {
+    "Key": "CraftItemName",
+    "Value": {
+      "Japanese": "錬成するもの",
+      "English": "Craft materials"
+    }
+  },
+  {
+    "Key": "CookItemName",
+    "Value": {
+      "Japanese": "調理するもの",
+      "English": "To cook"
+    }
+  },
+  {
+    "Key": "EnhanceShardName",
+    "Value": {
+      "Japanese": "強化するシャード",
+      "English": "Shard to enhance"
+    }
+  },
+  {
+    "Key": "DismantleItemName",
+    "Value": {
+      "Japanese": "解体するもの",
+      "English": "Dismantling"
+    }
+  },
+  {
+    "Key": "NecessaryMaterials",
+    "Value": {
+      "Japanese": "必要素材",
+      "English": "Necessary materials"
+    }
+  },
+  {
+    "Key": "ExtractedMaterials",
+    "Value": {
+      "Japanese": "抽出される素材",
+      "English": "Material to be extracted"
+    }
+  },
+  {
+    "Key": "NecessaryQuantity",
+    "Value": {
+      "Japanese": "必要数/所持数",
+      "English": "Necessary/Quantity"
+    }
+  },
+  {
+    "Key": "ExtractedOwn",
+    "Value": {
+      "Japanese": "抽出数/所持数",
+      "English": "Extracted/Own"
+    }
+  },
+  {
+    "Key": "CraftedNum",
+    "Value": {
+      "Japanese": "錬成数",
+      "English": "Crafted"
+    }
+  },
+  {
+    "Key": "CookedNum",
+    "Value": {
+      "Japanese": "作成数",
+      "English": "Cooked"
+    }
+  },
+  {
+    "Key": "DismantledNum",
+    "Value": {
+      "Japanese": "解体数",
+      "English": "Dismantled"
+    }
+  },
+  {
+    "Key": "Grade",
+    "Value": {
+      "Japanese": "グレード",
+      "English": "Grade"
+    }
+  },
+  {
+    "Key": "PreEnhancement",
+    "Value": {
+      "Japanese": "強化前性能(ランク{rank})",
+      "English": "Pre enhancement(Rank{rank})"
+    }
+  },
+  {
+    "Key": "PostEnhancement",
+    "Value": {
+      "Japanese": "強化後性能(ランク{rank})",
+      "English": "Post enhancement(Rank{rank})"
+    }
+  },
+  {
+    "Key": "ShopEquip",
+    "Value": {
+      "Japanese": "購入後すぐに装備する",
+      "English": "Purchase and equip"
+    }
+  },
+  {
+    "Key": "ShopBuyConfirm",
+    "Value": {
+      "Japanese": "{ItemName}を{Num}個（{Price}ゴールド）購入しますか？",
+      "English": "Purchase {Num} {ItemName}({Price} Gold)?"
+    }
+  },
+  {
+    "Key": "SellItemConfirm",
+    "Value": {
+      "Japanese": "{ItemName}を{Num}個（{Price}ゴールド）売却しますか？",
+      "English": "Sell {Num} {ItemName}({Price} Gold)?"
+    }
+  },
+  {
+    "Key": "BuyQuantity",
+    "Value": {
+      "Japanese": "購入数増減",
+      "English": "Quantity +/-"
+    }
+  },
+  {
+    "Key": "BuyQuantityBy10",
+    "Value": {
+      "Japanese": "購入数増減（10個ずつ）",
+      "English": "Quantity +/- (x10)"
+    }
+  },
+  {
+    "Key": "SellQuantity",
+    "Value": {
+      "Japanese": "売却数増減",
+      "English": "Quantity +/-"
+    }
+  },
+  {
+    "Key": "SellQuantityBy10",
+    "Value": {
+      "Japanese": "売却数増減（10個ずつ）",
+      "English": "Quantity +/- (x10)"
+    }
+  },
+  {
+    "Key": "AreaName01",
+    "Value": {
+      "Japanese": "ガレオン「ミネルヴァ」",
+      "English": "Galleon Minerva"
+    }
+  },
+  {
+    "Key": "AreaName02",
+    "Value": {
+      "Japanese": "アーヴァント村",
+      "English": "Arvantville"
+    }
+  },
+  {
+    "Key": "AreaName03",
+    "Value": {
+      "Japanese": "エントランス",
+      "English": "Entrance"
+    }
+  },
+  {
+    "Key": "AreaName04",
+    "Value": {
+      "Japanese": "静寂の庭園",
+      "English": "Garden of Silence"
+    }
+  },
+  {
+    "Key": "AreaName05",
+    "Value": {
+      "Japanese": "ディアン・ケヒト大聖堂",
+      "English": "Dian Cécht Cathedral"
+    }
+  },
+  {
+    "Key": "AreaName06",
+    "Value": {
+      "Japanese": "双竜の塔",
+      "English": "Tower of Twin Dragons"
+    }
+  },
+  {
+    "Key": "AreaName07",
+    "Value": {
+      "Japanese": "リブリ・エクス・マキナ",
+      "English": "Livre Ex Machina"
+    }
+  },
+  {
+    "Key": "AreaName08",
+    "Value": {
+      "Japanese": "終焉の間",
+      "English": "Hall of Termination"
+    }
+  },
+  {
+    "Key": "AreaName09",
+    "Value": {
+      "Japanese": "魔が駆ける橋梁",
+      "English": "Bridge of Evil"
+    }
+  },
+  {
+    "Key": "AreaName10",
+    "Value": {
+      "Japanese": "廃棄生物隔離施設",
+      "English": "Creature Isolation Facility"
+    }
+  },
+  {
+    "Key": "AreaName11",
+    "Value": {
+      "Japanese": "地下魔導研究棟",
+      "English": "Underground Sorcery Lab"
+    }
+  },
+  {
+    "Key": "AreaName12",
+    "Value": {
+      "Japanese": "裏・魔導研究棟",
+      "English": "Secret Sorcery Lab"
+    }
+  },
+  {
+    "Key": "AreaName13",
+    "Value": {
+      "Japanese": "禁忌地下水洞",
+      "English": "Forbidden Underground Waterway"
+    }
+  },
+  {
+    "Key": "AreaName14",
+    "Value": {
+      "Japanese": "灼岩炎窟",
+      "English": "Inferno Cave"
+    }
+  },
+  {
+    "Key": "AreaName15",
+    "Value": {
+      "Japanese": "隠匿されし砂漠",
+      "English": "Hidden Desert"
+    }
+  },
+  {
+    "Key": "AreaName16",
+    "Value": {
+      "Japanese": "東洋魔導研究棟",
+      "English": "Oriental Sorcery Lab"
+    }
+  },
+  {
+    "Key": "AreaName17",
+    "Value": {
+      "Japanese": "受肉の間",
+      "English": "Hall of Incarnation"
+    }
+  },
+  {
+    "Key": "OK",
+    "Value": {
+      "Japanese": "決定",
+      "English": "OK"
+    }
+  },
+  {
+    "Key": "Use",
+    "Value": {
+      "Japanese": "使う",
+      "English": "Use"
+    }
+  },
+  {
+    "Key": "Buy",
+    "Value": {
+      "Japanese": "買う",
+      "English": "Buy"
+    }
+  },
+  {
+    "Key": "Sell",
+    "Value": {
+      "Japanese": "売る",
+      "English": "Sell"
+    }
+  },
+  {
+    "Key": "OpenCraft",
+    "Value": {
+      "Japanese": "やぁ　いらっしゃい",
+      "English": "Hi, Miriam."
+    }
+  },
+  {
+    "Key": "CloseCraft",
+    "Value": {
+      "Japanese": "またいつでも来てくれ",
+      "English": "Come back anytime."
+    }
+  },
+  {
+    "Key": "OpenShop",
+    "Value": {
+      "Japanese": "あら　いらっしゃい",
+      "English": "Miriam! Welcome."
+    }
+  },
+  {
+    "Key": "CloseShop",
+    "Value": {
+      "Japanese": "ありがとういつでも待ってますわよ",
+      "English": "Thank you. I'll be here if you need me."
+    }
+  },
+  {
+    "Key": "Rank",
+    "Value": {
+      "Japanese": "ランク",
+      "English": "Rank"
+    }
+  },
+  {
+    "Key": "Level",
+    "Value": {
+      "Japanese": "レベル",
+      "English": "Level"
+    }
+  },
+  {
+    "Key": "MPCost",
+    "Value": {
+      "Japanese": "MPコスト",
+      "English": "MP Cost"
+    }
+  }
+]

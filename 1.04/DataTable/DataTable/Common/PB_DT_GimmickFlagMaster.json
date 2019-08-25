@@ -1,0 +1,1040 @@
+[
+  {
+    "Key": "DestructibleWall_Gimmick",
+    "Value": {
+      "Id": 11
+    }
+  },
+  {
+    "Key": "Cannon_Gimmick",
+    "Value": {
+      "Id": 12
+    }
+  },
+  {
+    "Key": "BossDoor_Gimmick",
+    "Value": {
+      "Id": 13
+    }
+  },
+  {
+    "Key": "SIP_Mast",
+    "Value": {
+      "Id": 14
+    }
+  },
+  {
+    "Key": "SIP_Debris",
+    "Value": {
+      "Id": 15
+    }
+  },
+  {
+    "Key": "SIP_000_FirstDoor",
+    "Value": {
+      "Id": 16
+    }
+  },
+  {
+    "Key": "SIP_000_Cutscene",
+    "Value": {
+      "Id": 17
+    }
+  },
+  {
+    "Key": "DropBell",
+    "Value": {
+      "Id": 18
+    }
+  },
+  {
+    "Key": "DropBell1",
+    "Value": {
+      "Id": 19
+    }
+  },
+  {
+    "Key": "GotShard",
+    "Value": {
+      "Id": 20
+    }
+  },
+  {
+    "Key": "GotShard_Trigger",
+    "Value": {
+      "Id": 21
+    }
+  },
+  {
+    "Key": "GotShard_Effective",
+    "Value": {
+      "Id": 22
+    }
+  },
+  {
+    "Key": "GotShard_Directional",
+    "Value": {
+      "Id": 23
+    }
+  },
+  {
+    "Key": "GotShard_Enchant",
+    "Value": {
+      "Id": 24
+    }
+  },
+  {
+    "Key": "GotShard_Familia",
+    "Value": {
+      "Id": 25
+    }
+  },
+  {
+    "Key": "GotShard_Skill",
+    "Value": {
+      "Id": 26
+    }
+  },
+  {
+    "Key": "ShardLantarn001",
+    "Value": {
+      "Id": 27
+    }
+  },
+  {
+    "Key": "ShardLantarn002",
+    "Value": {
+      "Id": 28
+    }
+  },
+  {
+    "Key": "ShardLantarn003",
+    "Value": {
+      "Id": 29
+    }
+  },
+  {
+    "Key": "SIP_002_MagicDoor",
+    "Value": {
+      "Id": 30
+    }
+  },
+  {
+    "Key": "SIP_004_ItemWall",
+    "Value": {
+      "Id": 31
+    }
+  },
+  {
+    "Key": "SIP_003_BreakMast",
+    "Value": {
+      "Id": 32
+    }
+  },
+  {
+    "Key": "SIP_006_DestructibleWall",
+    "Value": {
+      "Id": 33
+    }
+  },
+  {
+    "Key": "SIP_008_BreakWallCannon",
+    "Value": {
+      "Id": 34
+    }
+  },
+  {
+    "Key": "SIP_009_ItemWall",
+    "Value": {
+      "Id": 35
+    }
+  },
+  {
+    "Key": "SIP_014_ItemWall",
+    "Value": {
+      "Id": 36
+    }
+  },
+  {
+    "Key": "SIP_016_ItemWall",
+    "Value": {
+      "Id": 37
+    }
+  },
+  {
+    "Key": "SIP_017_BreakWallCannon",
+    "Value": {
+      "Id": 38
+    }
+  },
+  {
+    "Key": "VIL_008_Drawbridge",
+    "Value": {
+      "Id": 39
+    }
+  },
+  {
+    "Key": "VIL_003_KeyDoor",
+    "Value": {
+      "Id": 40
+    }
+  },
+  {
+    "Key": "VIL_006_ProppedDoor",
+    "Value": {
+      "Id": 41
+    }
+  },
+  {
+    "Key": "VIL_006_WeakRoof",
+    "Value": {
+      "Id": 42
+    }
+  },
+  {
+    "Key": "VIL_006_HardFloor1F",
+    "Value": {
+      "Id": 43
+    }
+  },
+  {
+    "Key": "VIL_006_HardFloor2F",
+    "Value": {
+      "Id": 44
+    }
+  },
+  {
+    "Key": "VIL_009_DestructibleWall",
+    "Value": {
+      "Id": 45
+    }
+  },
+  {
+    "Key": "ENT_000_FallStatue",
+    "Value": {
+      "Id": 46
+    }
+  },
+  {
+    "Key": "ENT_004_BloodSteal",
+    "Value": {
+      "Id": 47
+    }
+  },
+  {
+    "Key": "ENT_002_ItemWall",
+    "Value": {
+      "Id": 48
+    }
+  },
+  {
+    "Key": "ENT_007_LockDoor",
+    "Value": {
+      "Id": 49
+    }
+  },
+  {
+    "Key": "ENT_007_ZangetuJump",
+    "Value": {
+      "Id": 50
+    }
+  },
+  {
+    "Key": "ENT_012_ItemWall",
+    "Value": {
+      "Id": 51
+    }
+  },
+  {
+    "Key": "ENT_013_BOSSBATTLE_ONCE",
+    "Value": {
+      "Id": 52
+    }
+  },
+  {
+    "Key": "ENT_018_DestructibleFloor",
+    "Value": {
+      "Id": 53
+    }
+  },
+  {
+    "Key": "GDN_001_FakeMoon",
+    "Value": {
+      "Id": 54
+    }
+  },
+  {
+    "Key": "GDN_006_RubbleRock",
+    "Value": {
+      "Id": 55
+    }
+  },
+  {
+    "Key": "GDN_006_Equipage_Position",
+    "Value": {
+      "Id": 56
+    }
+  },
+  {
+    "Key": "GDN_006_ItemWall",
+    "Value": {
+      "Id": 57
+    }
+  },
+  {
+    "Key": "GDN_013_DestructibleWall",
+    "Value": {
+      "Id": 58
+    }
+  },
+  {
+    "Key": "GDN_013_DestructibleWall02",
+    "Value": {
+      "Id": 59
+    }
+  },
+  {
+    "Key": "SAN_000_ItemWall",
+    "Value": {
+      "Id": 60
+    }
+  },
+  {
+    "Key": "SAN_013_Rubble",
+    "Value": {
+      "Id": 61
+    }
+  },
+  {
+    "Key": "SAN_019_DestructibleFloor",
+    "Value": {
+      "Id": 62
+    }
+  },
+  {
+    "Key": "SAN_019_DestructibleWall",
+    "Value": {
+      "Id": 63
+    }
+  },
+  {
+    "Key": "SAN_005_ItemWall",
+    "Value": {
+      "Id": 64
+    }
+  },
+  {
+    "Key": "SAN_015_DestructibleCeil",
+    "Value": {
+      "Id": 65
+    }
+  },
+  {
+    "Key": "SAN_012_DestructibleStep1",
+    "Value": {
+      "Id": 66
+    }
+  },
+  {
+    "Key": "SAN_012_DestructibleStep2",
+    "Value": {
+      "Id": 67
+    }
+  },
+  {
+    "Key": "SAN_012_SpinOffCharacterDestroyStatue01",
+    "Value": {
+      "Id": 68
+    }
+  },
+  {
+    "Key": "SAN_012_SpinOffCharacterDestroyStatue02",
+    "Value": {
+      "Id": 69
+    }
+  },
+  {
+    "Key": "KNG_000_ItemWall",
+    "Value": {
+      "Id": 70
+    }
+  },
+  {
+    "Key": "KNG_007_ItemWall",
+    "Value": {
+      "Id": 71
+    }
+  },
+  {
+    "Key": "KNG_013_LockDoor",
+    "Value": {
+      "Id": 72
+    }
+  },
+  {
+    "Key": "KNG_013_DestructibleWall",
+    "Value": {
+      "Id": 73
+    }
+  },
+  {
+    "Key": "KNG_015_DestructibleRoof",
+    "Value": {
+      "Id": 74
+    }
+  },
+  {
+    "Key": "KNG_017_DestructibleWall",
+    "Value": {
+      "Id": 75
+    }
+  },
+  {
+    "Key": "KNG_018_DestructibleStairs",
+    "Value": {
+      "Id": 76
+    }
+  },
+  {
+    "Key": "LIB_003_StepSwitch",
+    "Value": {
+      "Id": 77
+    }
+  },
+  {
+    "Key": "LIB_004_ItemWall",
+    "Value": {
+      "Id": 78
+    }
+  },
+  {
+    "Key": "LIB_005_StepSwitch",
+    "Value": {
+      "Id": 79
+    }
+  },
+  {
+    "Key": "LIB_008_StepSwitch",
+    "Value": {
+      "Id": 80
+    }
+  },
+  {
+    "Key": "LIB_023_StepSwitch",
+    "Value": {
+      "Id": 81
+    }
+  },
+  {
+    "Key": "LIB_032_StepSwitch",
+    "Value": {
+      "Id": 82
+    }
+  },
+  {
+    "Key": "LIB_036_StepSwitch",
+    "Value": {
+      "Id": 83
+    }
+  },
+  {
+    "Key": "LIB_003_BookShelf",
+    "Value": {
+      "Id": 84
+    }
+  },
+  {
+    "Key": "LIB_019_FirstBookshelfBridge",
+    "Value": {
+      "Id": 85
+    }
+  },
+  {
+    "Key": "LIB_019_BookshelfBridge",
+    "Value": {
+      "Id": 86
+    }
+  },
+  {
+    "Key": "LIB_019_ItemWall",
+    "Value": {
+      "Id": 87
+    }
+  },
+  {
+    "Key": "LIB_029_DestructibleCeil",
+    "Value": {
+      "Id": 88
+    }
+  },
+  {
+    "Key": "LIB_009_PushUpOD_First",
+    "Value": {
+      "Id": 89
+    }
+  },
+  {
+    "Key": "LIB_009_PushUpOD_Second",
+    "Value": {
+      "Id": 90
+    }
+  },
+  {
+    "Key": "LIB_025_ItemWall",
+    "Value": {
+      "Id": 91
+    }
+  },
+  {
+    "Key": "TWR_000_HandRayGear",
+    "Value": {
+      "Id": 92
+    }
+  },
+  {
+    "Key": "TWR_006_ItemWall",
+    "Value": {
+      "Id": 93
+    }
+  },
+  {
+    "Key": "TWR_013_ItemWall",
+    "Value": {
+      "Id": 94
+    }
+  },
+  {
+    "Key": "TWR_016_ItemWall",
+    "Value": {
+      "Id": 95
+    }
+  },
+  {
+    "Key": "TWR_009_ElevatorSwitch",
+    "Value": {
+      "Id": 96
+    }
+  },
+  {
+    "Key": "TWR_009_ElevatorFloor0",
+    "Value": {
+      "Id": 97
+    }
+  },
+  {
+    "Key": "TWR_009_ElevatorFloor1",
+    "Value": {
+      "Id": 98
+    }
+  },
+  {
+    "Key": "TWR_009_ElevatorFloor2",
+    "Value": {
+      "Id": 99
+    }
+  },
+  {
+    "Key": "TWR_009_ElevatorFloor3",
+    "Value": {
+      "Id": 100
+    }
+  },
+  {
+    "Key": "TWR_009_LockDoor",
+    "Value": {
+      "Id": 101
+    }
+  },
+  {
+    "Key": "TWR_019_Barricade",
+    "Value": {
+      "Id": 102
+    }
+  },
+  {
+    "Key": "TRN_005_ItemWall",
+    "Value": {
+      "Id": 103
+    }
+  },
+  {
+    "Key": "TAR_007_ItemWall",
+    "Value": {
+      "Id": 104
+    }
+  },
+  {
+    "Key": "TAR_010_IronMaiden",
+    "Value": {
+      "Id": 105
+    }
+  },
+  {
+    "Key": "TRN_001_TicketGate",
+    "Value": {
+      "Id": 106
+    }
+  },
+  {
+    "Key": "TRN_002_MotionDoor",
+    "Value": {
+      "Id": 107
+    }
+  },
+  {
+    "Key": "TRN_002_LeverDoor",
+    "Value": {
+      "Id": 108
+    }
+  },
+  {
+    "Key": "UGD_000_ItemWall",
+    "Value": {
+      "Id": 109
+    }
+  },
+  {
+    "Key": "UGD_003_ItemWall",
+    "Value": {
+      "Id": 110
+    }
+  },
+  {
+    "Key": "UGD_003_DestructibleWall1",
+    "Value": {
+      "Id": 111
+    }
+  },
+  {
+    "Key": "UGD_003_DestructibleWall2",
+    "Value": {
+      "Id": 112
+    }
+  },
+  {
+    "Key": "UGD_006_ItemWall",
+    "Value": {
+      "Id": 113
+    }
+  },
+  {
+    "Key": "UGD_012_ItemWall",
+    "Value": {
+      "Id": 114
+    }
+  },
+  {
+    "Key": "UGD_015_LockDoor",
+    "Value": {
+      "Id": 115
+    }
+  },
+  {
+    "Key": "UGD_020_ItemWall",
+    "Value": {
+      "Id": 116
+    }
+  },
+  {
+    "Key": "UGD_020_051_Destructible",
+    "Value": {
+      "Id": 117
+    }
+  },
+  {
+    "Key": "UGD_031_ItemWall",
+    "Value": {
+      "Id": 118
+    }
+  },
+  {
+    "Key": "UGD_037_ItemWall",
+    "Value": {
+      "Id": 119
+    }
+  },
+  {
+    "Key": "UGD_042_DestructibleWall",
+    "Value": {
+      "Id": 120
+    }
+  },
+  {
+    "Key": "UGD_046_ItemWall",
+    "Value": {
+      "Id": 121
+    }
+  },
+  {
+    "Key": "UGD_056_ItemWall",
+    "Value": {
+      "Id": 122
+    }
+  },
+  {
+    "Key": "SND_001_ItemWall",
+    "Value": {
+      "Id": 123
+    }
+  },
+  {
+    "Key": "SND_019_ItemWall",
+    "Value": {
+      "Id": 124
+    }
+  },
+  {
+    "Key": "SND_002_DestructibleWall",
+    "Value": {
+      "Id": 125
+    }
+  },
+  {
+    "Key": "SND_023_ElevatorFloor0",
+    "Value": {
+      "Id": 126
+    }
+  },
+  {
+    "Key": "SND_023_ElevatorFloor1",
+    "Value": {
+      "Id": 127
+    }
+  },
+  {
+    "Key": "SND_023_ElevatorFloor2",
+    "Value": {
+      "Id": 128
+    }
+  },
+  {
+    "Key": "SND_023_ElevatorFloor3",
+    "Value": {
+      "Id": 129
+    }
+  },
+  {
+    "Key": "ARC_002_DestructibleWall",
+    "Value": {
+      "Id": 130
+    }
+  },
+  {
+    "Key": "ARC_006_DestructibleFloor",
+    "Value": {
+      "Id": 131
+    }
+  },
+  {
+    "Key": "JPN_002_007_Destructible",
+    "Value": {
+      "Id": 132
+    }
+  },
+  {
+    "Key": "JPN_003_DestructibleWall",
+    "Value": {
+      "Id": 133
+    }
+  },
+  {
+    "Key": "JPN_005_DestructibleWall",
+    "Value": {
+      "Id": 134
+    }
+  },
+  {
+    "Key": "JPN_011_ItemWall",
+    "Value": {
+      "Id": 135
+    }
+  },
+  {
+    "Key": "JPN_013_TenguIwa",
+    "Value": {
+      "Id": 136
+    }
+  },
+  {
+    "Key": "RVA_003_DestructibleWall",
+    "Value": {
+      "Id": 137
+    }
+  },
+  {
+    "Key": "RVA_003_ItemWall",
+    "Value": {
+      "Id": 138
+    }
+  },
+  {
+    "Key": "RVA_011_ItemWall",
+    "Value": {
+      "Id": 139
+    }
+  },
+  {
+    "Key": "RVA_014_DestructibleWall",
+    "Value": {
+      "Id": 140
+    }
+  },
+  {
+    "Key": "BIG_002_ItemWall",
+    "Value": {
+      "Id": 141
+    }
+  },
+  {
+    "Key": "BIG_012_ItemWall",
+    "Value": {
+      "Id": 142
+    }
+  },
+  {
+    "Key": "BIG_016_ItemWall",
+    "Value": {
+      "Id": 143
+    }
+  },
+  {
+    "Key": "ICE_003_ItemWall",
+    "Value": {
+      "Id": 144
+    }
+  },
+  {
+    "Key": "ICE_010_ItemWall",
+    "Value": {
+      "Id": 145
+    }
+  },
+  {
+    "Key": "ICE_017_ItemWall",
+    "Value": {
+      "Id": 146
+    }
+  },
+  {
+    "Key": "Drawbridge_VIL08",
+    "Value": {
+      "Id": 147
+    }
+  },
+  {
+    "Key": "HiddenGround_SAN009",
+    "Value": {
+      "Id": 148
+    }
+  },
+  {
+    "Key": "StepSwitch_LIB005",
+    "Value": {
+      "Id": 149
+    }
+  },
+  {
+    "Key": "StepSwitch_LIB008",
+    "Value": {
+      "Id": 150
+    }
+  },
+  {
+    "Key": "StepSwitch_LIB041",
+    "Value": {
+      "Id": 151
+    }
+  },
+  {
+    "Key": "BreakableGround_SAN024",
+    "Value": {
+      "Id": 152
+    }
+  },
+  {
+    "Key": "GDN001_IsFakeMoon",
+    "Value": {
+      "Id": 153
+    }
+  },
+  {
+    "Key": "GND001_IsFakeMoonBreak",
+    "Value": {
+      "Id": 154
+    }
+  },
+  {
+    "Key": "LIB_BossEvent",
+    "Value": {
+      "Id": 155
+    }
+  },
+  {
+    "Key": "Dominiqui_Hair_Up",
+    "Value": {
+      "Id": 156
+    }
+  },
+  {
+    "Key": "BKR88_Door01",
+    "Value": {
+      "Id": 157
+    }
+  },
+  {
+    "Key": "BKR88_Door02",
+    "Value": {
+      "Id": 158
+    }
+  },
+  {
+    "Key": "BKR88_Door03",
+    "Value": {
+      "Id": 159
+    }
+  },
+  {
+    "Key": "BKR88_Door04",
+    "Value": {
+      "Id": 160
+    }
+  },
+  {
+    "Key": "ShardLantarn004",
+    "Value": {
+      "Id": 161
+    }
+  },
+  {
+    "Key": "ShortcutLantarn001",
+    "Value": {
+      "Id": 162
+    }
+  },
+  {
+    "Key": "ShortcutLantarn002",
+    "Value": {
+      "Id": 163
+    }
+  },
+  {
+    "Key": "ShortcutLantarn003",
+    "Value": {
+      "Id": 164
+    }
+  },
+  {
+    "Key": "ShortcutLantarn004",
+    "Value": {
+      "Id": 165
+    }
+  },
+  {
+    "Key": "ShortcutLantarn005",
+    "Value": {
+      "Id": 166
+    }
+  },
+  {
+    "Key": "ShortcutLantarn006",
+    "Value": {
+      "Id": 167
+    }
+  },
+  {
+    "Key": "ShortcutLantarn007",
+    "Value": {
+      "Id": 168
+    }
+  },
+  {
+    "Key": "ShortcutLantarn008",
+    "Value": {
+      "Id": 169
+    }
+  },
+  {
+    "Key": "8bitStageClear",
+    "Value": {
+      "Id": 170
+    }
+  },
+  {
+    "Key": "IGAClear",
+    "Value": {
+      "Id": 171
+    }
+  },
+  {
+    "Key": "GotAllShard",
+    "Value": {
+      "Id": 172
+    }
+  },
+  {
+    "Key": "FamilierLantarn001",
+    "Value": {
+      "Id": 173
+    }
+  },
+  {
+    "Key": "FamilierLantarn002",
+    "Value": {
+      "Id": 174
+    }
+  },
+  {
+    "Key": "FamilierLantarn003",
+    "Value": {
+      "Id": 175
+    }
+  },
+  {
+    "Key": "FamilierLantarn004",
+    "Value": {
+      "Id": 176
+    }
+  },
+  {
+    "Key": "FamilierLantarn005",
+    "Value": {
+      "Id": 177
+    }
+  },
+  {
+    "Key": "FamilierLantarn006",
+    "Value": {
+      "Id": 178
+    }
+  },
+  {
+    "Key": "FamilierLantarn007",
+    "Value": {
+      "Id": 179
+    }
+  },
+  {
+    "Key": "FamilierLantarn008",
+    "Value": {
+      "Id": 180
+    }
+  },
+  {
+    "Key": "FamilierLantarn009",
+    "Value": {
+      "Id": 181
+    }
+  },
+  {
+    "Key": "HavePatchPureMiriam",
+    "Value": {
+      "Id": 182
+    }
+  },
+  {
+    "Key": "SAN_021_LockDoor",
+    "Value": {
+      "Id": 183
+    }
+  }
+]

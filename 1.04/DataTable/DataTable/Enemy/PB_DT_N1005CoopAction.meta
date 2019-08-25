@@ -1,0 +1,50 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 4695
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 129
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 4583
+ImportCount: 4
+ImportOffset: 4471
+DependsOffset: 4687
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 36e176aa-272c-45c4-8c00-5315b6190e20
+Generations: 1
+CompressionFlags: 0
+PackageSource: 1930678169
+Unversioned: False
+AssetRegistryDataOffset: 4691
+BulkDataStartOffset: 37905
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 4695
+
+
+TYPE DATA FOR PB_DT_N1005CoopAction:
+IsMatch_30_C4A73B4B41F9D3FCE244768B76CD8C22 (87|0) -> BoolProperty (33|0) 
+CoopType_28_A72780E140BFFBD6908A40B67AFFAC23 (37|0) -> ByteProperty (34|0) 
+MaleRequest_11_F0D95C40443D1DF8EB93988F3B9281A9 (93|0) -> ByteProperty (34|0) 
+MaleFloatInfo_14_59FA707B413EAC53A7EFD38DCF959B7A (90|0) -> FloatProperty (86|0) 
+MaleFireTime_33_04583A864EE298E786772FB75F723D27 (89|0) -> FloatProperty (86|0) 
+MaleMoveDist_40_9282821440371AF71AF30CA9E8977CAE (92|0) -> FloatProperty (86|0) 
+MaleFireAngle_47_305B7F794B9451F35A5B2DBDE8515E36 (88|0) -> ArrayProperty (4|0) [FloatProperty]
+MaleIsFireAim_50_F00A991C48F9FED59D633DB9ADDEBB3A (91|0) -> BoolProperty (33|0) 
+FemaleRequest_20_58B35B4B4CD5C6151688D697ADAD83D0 (75|0) -> ByteProperty (34|0) 
+FemaleFloatInfo_21_D4ACB24447B20664A6236DB16B1D0656 (72|0) -> FloatProperty (86|0) 
+FemaleFireTime_35_1A1321264EAE910A7413CAA5C453EAA4 (71|0) -> FloatProperty (86|0) 
+FemaleMoveDist_42_3814F98444F83D0270D09088B9E1909E (74|0) -> FloatProperty (86|0) 
+FemaleFireAngle_48_EE10AA5248DF68B01914709A1615CC19 (70|0) -> ArrayProperty (4|0) [FloatProperty]
+FemaleIsFireAim_52_EC40FBF247916968FF30ECAE7ACD7F42 (73|0) -> BoolProperty (33|0) 

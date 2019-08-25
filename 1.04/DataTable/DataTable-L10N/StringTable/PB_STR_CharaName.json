@@ -1,0 +1,23 @@
+{
+  "Name": "CharaExplainStringTable",
+  "Table": {
+    "ENEMY_NAME_N1001": "ウェパル",
+    "ENEMY_NAME_N1011": "斬月",
+    "ENEMY_NAME_N3003": "モート",
+    "ENEMY_NAME_N3004": "モート・ボーン",
+    "ENEMY_NAME_N3005": "モート・カノン",
+    "ENEMY_NAME_N3006": "シーマ",
+    "ENEMY_NAME_N3007": "アエロー",
+    "ENEMY_NAME_N3011": "バルバトス",
+    "ENEMY_NAME_N3013": "ゴースト",
+    "ENEMY_NAME_N3015": "デュラハンマ",
+    "ENEMY_NAME_N3029": "バット",
+    "ENEMY_NAME_N3042": "トード",
+    "ENEMY_NAME_N3065": "プルメパルマ",
+    "ENEMY_NAME_N3066": "モコプラント",
+    "ENEMY_NAME_N3073": "ギーレムント",
+    "ENEMY_NAME_N3080": "サブナック",
+    "ENEMY_NAME_N3082": "セイトマイト",
+    "ENEMY_NAME_N3110": "アックスアウトサイダー"
+  }
+}

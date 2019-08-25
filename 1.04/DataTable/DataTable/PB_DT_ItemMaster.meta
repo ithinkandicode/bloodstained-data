@@ -1,0 +1,52 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 1301
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 40
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 1189
+ImportCount: 4
+ImportOffset: 1077
+DependsOffset: 1293
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 9d63e567-43c2-4181-945c-1b57a2ba2ed4
+Generations: 1
+CompressionFlags: 0
+PackageSource: 1346261981
+Unversioned: False
+AssetRegistryDataOffset: 1297
+BulkDataStartOffset: 1877
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 1301
+
+
+TYPE DATA FOR PB_DT_ItemMaster:
+IconPath (17|0) -> StrProperty (39|0) 
+ItemType (20|0) -> ByteProperty (8|0) 
+NameStrKey (23|0) -> StrProperty (39|0) 
+DescriptionStrKey (12|0) -> StrProperty (39|0) 
+max (21|0) -> IntProperty (18|0) 
+buyPrice (7|0) -> IntProperty (18|0) 
+sellPrice (38|0) -> IntProperty (18|0) 
+Producted (33|0) -> NameProperty (22|0) 
+CarryToBossRushMode (9|0) -> BoolProperty (6|0) 
+ActorTypeID (4|0) -> ByteProperty (8|0) 
+IsForBackersOnly (19|0) -> BoolProperty (6|0) 
+NotInheritable (26|0) -> BoolProperty (6|0) 
+NotListedInArchive (27|0) -> BoolProperty (6|0) 
+NotCountAsCompleteness (25|0) -> BoolProperty (6|0) 
+SECategories (37|0) -> ArrayProperty (5|0) [NameProperty]
+SEAugment (36|0) -> ArrayProperty (5|0) [NameProperty]

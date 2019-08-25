@@ -1,0 +1,1762 @@
+[
+  {
+    "Key": "SpeedUP",
+    "Value": {
+      "GroupId": "SpeedUP",
+      "DefId": "SpeedUP",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "RegistHoly",
+    "Value": {
+      "GroupId": "RegistHoly",
+      "DefId": "RegistHoly",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ChangeHPByPercentage",
+    "Value": {
+      "GroupId": "ChangeHPByPercentage",
+      "DefId": "ChangeHPByPercentage",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ChangeMPByPercentage",
+    "Value": {
+      "GroupId": "ChangeMPByPercentage",
+      "DefId": "ChangeMPByPercentage",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Optimizer",
+    "Value": {
+      "GroupId": "Optimizer",
+      "DefId": "Optimizer",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "BLOOD_STEEL",
+    "Value": {
+      "GroupId": "BLOOD_STEEL",
+      "DefId": "BLOOD_STEEL",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "BLOODLESS_DAMAGE1",
+    "Value": {
+      "GroupId": "BLOODLESS_DAMAGE1",
+      "DefId": "BLOODLESS_DAMAGE1",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "BLOODLESS_DAMAGE2",
+    "Value": {
+      "GroupId": "BLOODLESS_DAMAGE2",
+      "DefId": "BLOODLESS_DAMAGE2",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "HP10000",
+    "Value": {
+      "GroupId": "HP10000",
+      "DefId": "HP10000",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "OpenMap",
+    "Value": {
+      "GroupId": "OpenMap",
+      "DefId": "OpenMap",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Potion",
+    "Value": {
+      "GroupId": "Potion",
+      "DefId": "Potion",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "HighPotion",
+    "Value": {
+      "GroupId": "HighPotion",
+      "DefId": "HighPotion",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ExPotion",
+    "Value": {
+      "GroupId": "ExPotion",
+      "DefId": "ExPotion",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Ether",
+    "Value": {
+      "GroupId": "Ether",
+      "DefId": "Ether",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "HighEther",
+    "Value": {
+      "GroupId": "HighEther",
+      "DefId": "HighEther",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ExEther",
+    "Value": {
+      "GroupId": "ExEther",
+      "DefId": "ExEther",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Mithridate",
+    "Value": {
+      "GroupId": "Mithridate",
+      "DefId": "Mithridate",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "HolyWater",
+    "Value": {
+      "GroupId": "HolyWater",
+      "DefId": "HolyWater",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Stonethaw",
+    "Value": {
+      "GroupId": "Stonethaw",
+      "DefId": "Stonethaw",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Waystone",
+    "Value": {
+      "GroupId": "Waystone",
+      "DefId": "Waystone",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "GateWaystone",
+    "Value": {
+      "GroupId": "GateWaystone",
+      "DefId": "GateWaystone",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "IdolWaystone",
+    "Value": {
+      "GroupId": "IdolWaystone",
+      "DefId": "IdolWaystone",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "PanaceaPoi",
+    "Value": {
+      "GroupId": "Panacea",
+      "DefId": "Mithridate",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "PanaceaCur",
+    "Value": {
+      "GroupId": "Panacea",
+      "DefId": "HolyWater",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "PanaceaSto",
+    "Value": {
+      "GroupId": "Panacea",
+      "DefId": "Stonethaw",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FaerieMedicine",
+    "Value": {
+      "GroupId": "FaerieMedicine",
+      "DefId": "Potion",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FaerieElixir",
+    "Value": {
+      "GroupId": "FaerieElixir",
+      "DefId": "HighPotion",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FaerieAllheal",
+    "Value": {
+      "GroupId": "FaerieAllheal",
+      "DefId": "ExPotion",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FaeriePanaceaPoi",
+    "Value": {
+      "GroupId": "FaeriePanacea",
+      "DefId": "Mithridate",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FaeriePanaceaCur",
+    "Value": {
+      "GroupId": "FaeriePanacea",
+      "DefId": "HolyWater",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FaeriePanaceaSto",
+    "Value": {
+      "GroupId": "FaeriePanacea",
+      "DefId": "Stonethaw",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Rice",
+    "Value": {
+      "GroupId": "Rice",
+      "DefId": "Rice",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "RiceBall",
+    "Value": {
+      "GroupId": "RiceBall",
+      "DefId": "RiceBall",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "UniDon",
+    "Value": {
+      "GroupId": "UniDon",
+      "DefId": "UniDon",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "AppleRisotto",
+    "Value": {
+      "GroupId": "AppleRisotto",
+      "DefId": "AppleRisotto",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "EggonRice",
+    "Value": {
+      "GroupId": "EggonRice",
+      "DefId": "EggonRice",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Omurice",
+    "Value": {
+      "GroupId": "Omurice",
+      "DefId": "Omurice",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ChickenCasserole",
+    "Value": {
+      "GroupId": "ChickenCasserole",
+      "DefId": "ChickenCasserole",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Curry&Rice",
+    "Value": {
+      "GroupId": "Curry&Rice",
+      "DefId": "Curry&Rice",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "BeefCurry",
+    "Value": {
+      "GroupId": "BeefCurry",
+      "DefId": "BeefCurry",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "PorkCurry",
+    "Value": {
+      "GroupId": "PorkCurry",
+      "DefId": "PorkCurry",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ChickenCurry",
+    "Value": {
+      "GroupId": "ChickenCurry",
+      "DefId": "ChickenCurry",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "SeafoodCurry",
+    "Value": {
+      "GroupId": "SeafoodCurry",
+      "DefId": "SeafoodCurry",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "MacaroniGratin",
+    "Value": {
+      "GroupId": "MacaroniGratin",
+      "DefId": "MacaroniGratin",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ClassicSpaghetti",
+    "Value": {
+      "GroupId": "ClassicSpaghetti",
+      "DefId": "ClassicSpaghetti",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "PastaCarbonara",
+    "Value": {
+      "GroupId": "PastaCarbonara",
+      "DefId": "PastaCarbonara",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "PastaVongole",
+    "Value": {
+      "GroupId": "PastaVongole",
+      "DefId": "PastaVongole",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "SeaUrchinPasta",
+    "Value": {
+      "GroupId": "SeaUrchinPasta",
+      "DefId": "SeaUrchinPasta",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "BerrySpaghetti",
+    "Value": {
+      "GroupId": "BerrySpaghetti",
+      "DefId": "BerrySpaghetti",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ShirukoSpaghetti",
+    "Value": {
+      "GroupId": "ShirukoSpaghetti",
+      "DefId": "ShirukoSpaghetti",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "SaltRamen",
+    "Value": {
+      "GroupId": "SaltRamen",
+      "DefId": "SaltRamen",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "SoyRamen",
+    "Value": {
+      "GroupId": "SoyRamen",
+      "DefId": "SoyRamen",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "TonkotsuRamen",
+    "Value": {
+      "GroupId": "TonkotsuRamen",
+      "DefId": "TonkotsuRamen",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "MisoRamen",
+    "Value": {
+      "GroupId": "MisoRamen",
+      "DefId": "MisoRamen",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "CornChowder",
+    "Value": {
+      "GroupId": "CornChowder",
+      "DefId": "CornChowder",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Steak",
+    "Value": {
+      "GroupId": "Steak",
+      "DefId": "Steak",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ExquisiteSteak",
+    "Value": {
+      "GroupId": "ExquisiteSteak",
+      "DefId": "ExquisiteSteak",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Sukiyaki",
+    "Value": {
+      "GroupId": "Sukiyaki",
+      "DefId": "Sukiyaki",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ChickenSauté",
+    "Value": {
+      "GroupId": "ChickenSauté",
+      "DefId": "ChickenSauté",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "GarlicChicken",
+    "Value": {
+      "GroupId": "GarlicChicken",
+      "DefId": "GarlicChicken",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Tonkatsu",
+    "Value": {
+      "GroupId": "Tonkatsu",
+      "DefId": "Tonkatsu",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "MisoCutlet",
+    "Value": {
+      "GroupId": "MisoCutlet",
+      "DefId": "MisoCutlet",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "GingerPork",
+    "Value": {
+      "GroupId": "GingerPork",
+      "DefId": "GingerPork",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "MeatHotPot",
+    "Value": {
+      "GroupId": "MeatHotPot",
+      "DefId": "MeatHotPot",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FriedPotatoes",
+    "Value": {
+      "GroupId": "FriedPotatoes",
+      "DefId": "FriedPotatoes",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Pizza",
+    "Value": {
+      "GroupId": "Pizza",
+      "DefId": "Pizza",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FriedFish",
+    "Value": {
+      "GroupId": "FriedFish",
+      "DefId": "FriedFish",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FishAndChips",
+    "Value": {
+      "GroupId": "FishAndChips",
+      "DefId": "FishAndChips",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "SimmeredForneus",
+    "Value": {
+      "GroupId": "SimmeredForneus",
+      "DefId": "SimmeredForneus",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ForneusMeunière",
+    "Value": {
+      "GroupId": "ForneusMeunière",
+      "DefId": "ForneusMeunière",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ForneusinGarlic",
+    "Value": {
+      "GroupId": "ForneusinGarlic",
+      "DefId": "ForneusinGarlic",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FishHotPot",
+    "Value": {
+      "GroupId": "FishHotPot",
+      "DefId": "FishHotPot",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Flan",
+    "Value": {
+      "GroupId": "Flan",
+      "DefId": "Flan",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Manju",
+    "Value": {
+      "GroupId": "Manju",
+      "DefId": "Manju",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ApplePie",
+    "Value": {
+      "GroupId": "ApplePie",
+      "DefId": "ApplePie",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "LemonPie",
+    "Value": {
+      "GroupId": "LemonPie",
+      "DefId": "LemonPie",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "StrawberryPie",
+    "Value": {
+      "GroupId": "StrawberryPie",
+      "DefId": "StrawberryPie",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "StrawberryCrepe",
+    "Value": {
+      "GroupId": "StrawberryCrepe",
+      "DefId": "StrawberryCrepe",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ChocolateCrepe",
+    "Value": {
+      "GroupId": "ChocolateCrepe",
+      "DefId": "ChocolateCrepe",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Cookies",
+    "Value": {
+      "GroupId": "Cookies",
+      "DefId": "Cookies",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ChocolateCookies",
+    "Value": {
+      "GroupId": "ChocolateCookies",
+      "DefId": "ChocolateCookies",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "CinnamonCookies",
+    "Value": {
+      "GroupId": "CinnamonCookies",
+      "DefId": "CinnamonCookies",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "SpongeCake",
+    "Value": {
+      "GroupId": "SpongeCake",
+      "DefId": "SpongeCake",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ChiffonCake",
+    "Value": {
+      "GroupId": "ChiffonCake",
+      "DefId": "ChiffonCake",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "CheeseCake",
+    "Value": {
+      "GroupId": "CheeseCake",
+      "DefId": "CheeseCake",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ChocolateCake",
+    "Value": {
+      "GroupId": "ChocolateCake",
+      "DefId": "ChocolateCake",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "StrawberryCake",
+    "Value": {
+      "GroupId": "StrawberryCake",
+      "DefId": "StrawberryCake",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ScrambledEggs",
+    "Value": {
+      "GroupId": "ScrambledEggs",
+      "DefId": "ScrambledEggs",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "RolledOmelette",
+    "Value": {
+      "GroupId": "RolledOmelette",
+      "DefId": "RolledOmelette",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FriedEgg",
+    "Value": {
+      "GroupId": "FriedEgg",
+      "DefId": "FriedEgg",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "EggSoufflé",
+    "Value": {
+      "GroupId": "EggSoufflé",
+      "DefId": "EggSoufflé",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "AppleJuice",
+    "Value": {
+      "GroupId": "AppleJuice",
+      "DefId": "AppleJuice",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "StrawberryAuLait",
+    "Value": {
+      "GroupId": "StrawberryAuLait",
+      "DefId": "StrawberryAuLait",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Lemonade",
+    "Value": {
+      "GroupId": "Lemonade",
+      "DefId": "Lemonade",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Smoothie",
+    "Value": {
+      "GroupId": "Smoothie",
+      "DefId": "Smoothie",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FruitJuice",
+    "Value": {
+      "GroupId": "FruitJuice",
+      "DefId": "FruitJuice",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Nectar",
+    "Value": {
+      "GroupId": "Nectar",
+      "DefId": "Nectar",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "DarkMatter",
+    "Value": {
+      "GroupId": "DarkMatter",
+      "DefId": "DarkMatter",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "MacaroniAndCheese",
+    "Value": {
+      "GroupId": "MacaroniAndCheese",
+      "DefId": "MacaroniAndCheese",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "N3081_HEAL",
+    "Value": {
+      "GroupId": "N3081_HEAL",
+      "DefId": "N3081_HEAL",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "N3103_HEAL_STR",
+    "Value": {
+      "GroupId": "N3103_HEAL",
+      "DefId": "BUFF_STR_WITH_PARTICLE",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "eat80HP",
+    "Value": {
+      "GroupId": "eat80HP",
+      "DefId": "eat80HP",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Recover_Mp_flower",
+    "Value": {
+      "GroupId": "Recover_Mp_flower",
+      "DefId": "Recover_Mp_flower",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Recover_Mp_Ether",
+    "Value": {
+      "GroupId": "Recover_Mp_Ether",
+      "DefId": "Recover_Mp_Ether",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Recover_Mp_HiEther",
+    "Value": {
+      "GroupId": "Recover_Mp_HiEther",
+      "DefId": "Recover_Mp_HiEther",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Coin_S",
+    "Value": {
+      "GroupId": "Coin_S",
+      "DefId": "Coin_S",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Coin_M",
+    "Value": {
+      "GroupId": "Coin_M",
+      "DefId": "Coin_M",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Coin_L",
+    "Value": {
+      "GroupId": "Coin_L",
+      "DefId": "Coin_L",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Natural_MP_Recovery",
+    "Value": {
+      "GroupId": "Natural_MP_Recovery",
+      "DefId": "Natural_MP_Recovery",
+      "TriggerInterval": 1.0
+    }
+  },
+  {
+    "Key": "MaxHPUP",
+    "Value": {
+      "GroupId": "MaxHPUP",
+      "DefId": "MaxHPUP",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "MaxHPUPRecover",
+    "Value": {
+      "GroupId": "MaxHPUP",
+      "DefId": "HP_SilentMax",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "MaxMPUP",
+    "Value": {
+      "GroupId": "MaxMPUP",
+      "DefId": "MaxMPUP",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "MaxMPUPRecover",
+    "Value": {
+      "GroupId": "MaxMPUP",
+      "DefId": "MP_SilentMax",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "MaxBulletUP",
+    "Value": {
+      "GroupId": "MaxBulletUP",
+      "DefId": "MaxBulletUP",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "STRUP_FOREVER",
+    "Value": {
+      "GroupId": "STRUP_FOREVER",
+      "DefId": "STRUP_FOREVER",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "CONUP_FOREVER",
+    "Value": {
+      "GroupId": "CONUP_FOREVER",
+      "DefId": "CONUP_FOREVER",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "INTUP_FOREVER",
+    "Value": {
+      "GroupId": "INTUP_FOREVER",
+      "DefId": "INTUP_FOREVER",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "MNDUP_FOREVER",
+    "Value": {
+      "GroupId": "MNDUP_FOREVER",
+      "DefId": "MNDUP_FOREVER",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "LUCUP_FOREVER",
+    "Value": {
+      "GroupId": "LUCUP_FOREVER",
+      "DefId": "LUCUP_FOREVER",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_ICE",
+    "Value": {
+      "GroupId": "REGIST_ICE",
+      "DefId": "REGIST_ICE",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_EDGE",
+    "Value": {
+      "GroupId": "REGIST_EDGE",
+      "DefId": "REGIST_EDGE",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_CURSE",
+    "Value": {
+      "GroupId": "REGIST_CURSE",
+      "DefId": "REGIST_CURSE",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_THUNDER",
+    "Value": {
+      "GroupId": "REGIST_THUNDER",
+      "DefId": "REGIST_THUNDER",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_STRUST",
+    "Value": {
+      "GroupId": "REGIST_STRUST",
+      "DefId": "REGIST_STRUST",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_DARK",
+    "Value": {
+      "GroupId": "REGIST_DARK",
+      "DefId": "REGIST_DARK",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_FIRE",
+    "Value": {
+      "GroupId": "REGIST_FIRE",
+      "DefId": "REGIST_FIRE",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_BROW",
+    "Value": {
+      "GroupId": "REGIST_BROW",
+      "DefId": "REGIST_BROW",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_PETRI",
+    "Value": {
+      "GroupId": "REGIST_PETRI",
+      "DefId": "REGIST_PETRI",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_POISON",
+    "Value": {
+      "GroupId": "REGIST_POISON",
+      "DefId": "REGIST_POISON",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_HOLLY",
+    "Value": {
+      "GroupId": "REGIST_HOLLY",
+      "DefId": "REGIST_HOLLY",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_MAGIC1",
+    "Value": {
+      "GroupId": "REGIST_MAGIC",
+      "DefId": "REGIST_ICE",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_MAGIC2",
+    "Value": {
+      "GroupId": "REGIST_MAGIC",
+      "DefId": "REGIST_THUNDER",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_MAGIC3",
+    "Value": {
+      "GroupId": "REGIST_MAGIC",
+      "DefId": "REGIST_DARK",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_MAGIC4",
+    "Value": {
+      "GroupId": "REGIST_MAGIC",
+      "DefId": "REGIST_FIRE",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_MAGIC5",
+    "Value": {
+      "GroupId": "REGIST_MAGIC",
+      "DefId": "REGIST_HOLLY",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "BUFF_STR",
+    "Value": {
+      "GroupId": "BUFF_STR",
+      "DefId": "BUFF_STR",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "BUFF_INT",
+    "Value": {
+      "GroupId": "BUFF_INT",
+      "DefId": "BUFF_INT",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "BUFF_MND",
+    "Value": {
+      "GroupId": "BUFF_MND",
+      "DefId": "BUFF_MND",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "BUFF_CON",
+    "Value": {
+      "GroupId": "BUFF_CON",
+      "DefId": "BUFF_CON",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "BUFF_LUCK",
+    "Value": {
+      "GroupId": "BUFF_LUCK",
+      "DefId": "BUFF_LUCK",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "BUFF_RATE_STR",
+    "Value": {
+      "GroupId": "BUFF_RATE_STR",
+      "DefId": "BUFF_RATE_STR",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "BUFF_RATE_STR_WITH_UPDATE",
+    "Value": {
+      "GroupId": "BUFF_RATE_STR_WITH_UPDATE",
+      "DefId": "BUFF_RATE_STR_WITH_UPDATE",
+      "TriggerInterval": 0.2
+    }
+  },
+  {
+    "Key": "BUFF_STR_TEMP",
+    "Value": {
+      "GroupId": "BUFF_STR_TEMP",
+      "DefId": "BUFF_STR_WITH_PARTICLE",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "BUFF_RATE_STR_TEMP",
+    "Value": {
+      "GroupId": "BUFF_RATE_STR_TEMP",
+      "DefId": "BUFF_RATE_STR_WITH_PARTICLE",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "DEBUFF_STR_WITH_EFFECT",
+    "Value": {
+      "GroupId": "DEBUFF_STR_WITH_EFFECT",
+      "DefId": "DEBUFF_STR_WITH_EFFECT",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "DEBUFF_RATE_STR_WITH_EFFECT",
+    "Value": {
+      "GroupId": "DEBUFF_RATE_STR_WITH_EFFECT",
+      "DefId": "DEBUFF_RATE_STR_WITH_EFFECT",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "DEBUFF_CON_WITH_EFFECT",
+    "Value": {
+      "GroupId": "DEBUFF_CON_WITH_EFFECT",
+      "DefId": "DEBUFF_CON_WITH_EFFECT",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "DEBUFF_RATE_CON_WITH_EFFECT",
+    "Value": {
+      "GroupId": "DEBUFF_RATE_CON_WITH_EFFECT",
+      "DefId": "DEBUFF_RATE_CON_WITH_EFFECT",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "REGENE",
+    "Value": {
+      "GroupId": "REGENE",
+      "DefId": "REGENE",
+      "TriggerInterval": 1.0
+    }
+  },
+  {
+    "Key": "Stone",
+    "Value": {
+      "GroupId": "Stone",
+      "DefId": "Stone",
+      "TriggerInterval": -1.0
+    }
+  },
+  {
+    "Key": "StoneAnimRate",
+    "Value": {
+      "GroupId": "UnuseGroup",
+      "DefId": "StoneAnimRate",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "StoneWeakness",
+    "Value": {
+      "GroupId": "Stone",
+      "DefId": "StoneWeakness",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "WeakStone",
+    "Value": {
+      "GroupId": "WeakStone",
+      "DefId": "WeakStone",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "CursedRaySlow",
+    "Value": {
+      "GroupId": "CursedRaySlow",
+      "DefId": "CursedRaySlow",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Poison",
+    "Value": {
+      "GroupId": "Poison",
+      "DefId": "Poison",
+      "TriggerInterval": 2.0
+    }
+  },
+  {
+    "Key": "Curse",
+    "Value": {
+      "GroupId": "Curse",
+      "DefId": "Curse",
+      "TriggerInterval": -1.0
+    }
+  },
+  {
+    "Key": "CurseHitPoint",
+    "Value": {
+      "GroupId": "Curse",
+      "DefId": "CurseTempDownMaxHP",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "CurseMagicPoint",
+    "Value": {
+      "GroupId": "Curse",
+      "DefId": "CurseTempDownMaxMP",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Slow",
+    "Value": {
+      "GroupId": "Slow",
+      "DefId": "Slow",
+      "TriggerInterval": -1.0
+    }
+  },
+  {
+    "Key": "SlowRate",
+    "Value": {
+      "GroupId": "Slow",
+      "DefId": "SlowRate",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "SlowOnce",
+    "Value": {
+      "GroupId": "SlowOnce",
+      "DefId": "SlowOnce",
+      "TriggerInterval": -1.0
+    }
+  },
+  {
+    "Key": "SlowOnceRate",
+    "Value": {
+      "GroupId": "SlowOnce",
+      "DefId": "SlowRate",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ClearPoison",
+    "Value": {
+      "GroupId": "ClearPoison",
+      "DefId": "ClearPoison",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ClearStone",
+    "Value": {
+      "GroupId": "ClearStone",
+      "DefId": "ClearStone",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ClearCurse",
+    "Value": {
+      "GroupId": "ClearStone",
+      "DefId": "ClearStone",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ZANGETU_ENCHANT_FLAME",
+    "Value": {
+      "GroupId": "ZANGETU_ENCHANT_FLAME",
+      "DefId": "ZANGETU_ENCHANT_FLAME",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ZANGETU_ENCHANT_ICE",
+    "Value": {
+      "GroupId": "ZANGETU_ENCHANT_ICE",
+      "DefId": "ZANGETU_ENCHANT_ICE",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ZANGETU_ENCHANT_THUNDER",
+    "Value": {
+      "GroupId": "ZANGETU_ENCHANT_THUNDER",
+      "DefId": "ZANGETU_ENCHANT_THUNDER",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ZANGETU_TIME_STOP_TARGET",
+    "Value": {
+      "GroupId": "ZANGETU_TIME_STOP_TARGET",
+      "DefId": "ZANGETU_TIME_STOP_TARGET",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "ZANGETU_TIME_STOP_SELF",
+    "Value": {
+      "GroupId": "ZANGETU_TIME_STOP_SELF",
+      "DefId": "ZANGETU_TIME_STOP_SELF",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "EnchantFlame",
+    "Value": {
+      "GroupId": "EnchantFlame",
+      "DefId": "EnchantFlame",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "EnchantHolly",
+    "Value": {
+      "GroupId": "EnchantHolly",
+      "DefId": "EnchantHolly",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "EnchantDarkness",
+    "Value": {
+      "GroupId": "EnchantDarkness",
+      "DefId": "EnchantDarkness",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "SwordMastery",
+    "Value": {
+      "GroupId": "SwordMastery",
+      "DefId": "SwordMastery",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Fish_and_Chips01",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Fish_and_Chips",
+      "DefId": "Add1INT",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Fish_and_Chips02",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Fish_and_Chips",
+      "DefId": "Add1INT",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Lemonade01",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Lemonade",
+      "DefId": "Add1MPRecoverSpdUp",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Scramble_Egg01",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Scramble_Egg",
+      "DefId": "Add1MND",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Sunny_Side_Up01",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Sunny_Side_Up",
+      "DefId": "Add1MND",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pizza01",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Pizza",
+      "DefId": "Add1CON",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pizza02",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Pizza",
+      "DefId": "Add1CON",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pizza03",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Pizza",
+      "DefId": "Add1CON",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Fried_Potato01",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Fried_Potato",
+      "DefId": "Add1CON",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Egg_Roll01",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Egg_Roll",
+      "DefId": "Add1MND",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pork_Curry01",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Pork_Curry",
+      "DefId": "Add5MaxHP",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pork_Curry02",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Pork_Curry",
+      "DefId": "Add5MaxHP",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pork_Curry03",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Pork_Curry",
+      "DefId": "Add5MaxHP",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pork_Curry04",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Pork_Curry",
+      "DefId": "Add5MaxHP",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pork_Curry05",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Pork_Curry",
+      "DefId": "Add5MaxHP",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pork_Curry06",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Pork_Curry",
+      "DefId": "Add5MaxHP",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pork_Curry07",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Pork_Curry",
+      "DefId": "Add5MaxHP",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pork_Curry08",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Pork_Curry",
+      "DefId": "Add5MaxHP",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pork_Curry09",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Pork_Curry",
+      "DefId": "Add5MaxHP",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pork_Curry10",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Pork_Curry",
+      "DefId": "Add5MaxHP",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pork_Curry11",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Pork_Curry",
+      "DefId": "Add1CON",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pork_Curry12",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Pork_Curry",
+      "DefId": "Add1CON",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pork_Curry13",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Pork_Curry",
+      "DefId": "Add1CON",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pork_Curry14",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Pork_Curry",
+      "DefId": "Add1CON",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pork_Curry15",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Pork_Curry",
+      "DefId": "Add1CON",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pork_Curry16",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Pork_Curry",
+      "DefId": "Add1CON",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pork_Curry17",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Pork_Curry",
+      "DefId": "Add1CON",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_Pork_Curry18",
+    "Value": {
+      "GroupId": "FirstTimeBonus_Pork_Curry",
+      "DefId": "Add1CON",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_High_Grade_Steak01",
+    "Value": {
+      "GroupId": "FirstTimeBonus_High_Grade_Steak",
+      "DefId": "Add1STR",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_High_Grade_Steak02",
+    "Value": {
+      "GroupId": "FirstTimeBonus_High_Grade_Steak",
+      "DefId": "Add1STR",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_High_Grade_Steak03",
+    "Value": {
+      "GroupId": "FirstTimeBonus_High_Grade_Steak",
+      "DefId": "Add1STR",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_High_Grade_Steak04",
+    "Value": {
+      "GroupId": "FirstTimeBonus_High_Grade_Steak",
+      "DefId": "Add1STR",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_High_Grade_Steak05",
+    "Value": {
+      "GroupId": "FirstTimeBonus_High_Grade_Steak",
+      "DefId": "Add1STR",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_High_Grade_Steak06",
+    "Value": {
+      "GroupId": "FirstTimeBonus_High_Grade_Steak",
+      "DefId": "Add1STR",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_High_Grade_Steak07",
+    "Value": {
+      "GroupId": "FirstTimeBonus_High_Grade_Steak",
+      "DefId": "Add1STR",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_High_Grade_Steak08",
+    "Value": {
+      "GroupId": "FirstTimeBonus_High_Grade_Steak",
+      "DefId": "Add1STR",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_High_Grade_Steak09",
+    "Value": {
+      "GroupId": "FirstTimeBonus_High_Grade_Steak",
+      "DefId": "Add1STR",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "FirstTimeBonus_High_Grade_Steak10",
+    "Value": {
+      "GroupId": "FirstTimeBonus_High_Grade_Steak",
+      "DefId": "Add1STR",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "Healing",
+    "Value": {
+      "GroupId": "Healing",
+      "DefId": "Healing",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "N2014_SPECIAL_DRINK_STR",
+    "Value": {
+      "GroupId": "N2014_SPECIAL_DRINK",
+      "DefId": "BUFF_RATE_STR",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "N2014_SPECIAL_DRINK_INT",
+    "Value": {
+      "GroupId": "N2014_SPECIAL_DRINK",
+      "DefId": "BUFF_RATE_INT",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "N2014_SPECIAL_DRINK_MND",
+    "Value": {
+      "GroupId": "N2014_SPECIAL_DRINK",
+      "DefId": "BUFF_RATE_MND",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "N2014_SPECIAL_DRINK_CON",
+    "Value": {
+      "GroupId": "N2014_SPECIAL_DRINK",
+      "DefId": "BUFF_RATE_CON",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "MagGlass",
+    "Value": {
+      "GroupId": "MagGlass",
+      "DefId": "MagGlass",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "DemagGlass",
+    "Value": {
+      "GroupId": "DemagGlass",
+      "DefId": "DemagGlass",
+      "TriggerInterval": 0.0
+    }
+  },
+  {
+    "Key": "GaugeGlass",
+    "Value": {
+      "GroupId": "GaugeGlass",
+      "DefId": "GaugeGlass",
+      "TriggerInterval": 0.0
+    }
+  }
+]

@@ -1,0 +1,48 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 1494
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 30
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 1382
+ImportCount: 4
+ImportOffset: 1270
+DependsOffset: 1486
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 8ed35900-0150-4a5d-9a27-5f08c8456e0f
+Generations: 1
+CompressionFlags: 0
+PackageSource: 2124350435
+Unversioned: False
+AssetRegistryDataOffset: 1490
+BulkDataStartOffset: 2201
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 1494
+
+
+TYPE DATA FOR PB_DT_EffectManID:
+ManID_33_7233976F4861BC7DD092E38C2EF78C6C (21|0) -> IntProperty (9|0) 
+IsOnAttack_34_DAD045A141E678A3B36D61AC27DCE010 (10|0) -> BoolProperty (6|0) 
+IsOnStep_35_1AFA978F429E59D6EBA74195916B0EBE (20|0) -> BoolProperty (6|0) 
+IsOnJump_36_4A3DA81B4E3A083C9E61248D548AB325 (16|0) -> BoolProperty (6|0) 
+IsOnFall_52_2AC67A244AAC2312453F1C8CC4CDE2EC (13|0) -> BoolProperty (6|0) 
+IsOnDamage_53_2465655E41B3FD3BB0A699853B83593A (11|0) -> BoolProperty (6|0) 
+IsOnDead_54_21C1A4554800E024885A6989E82DEAC8 (12|0) -> BoolProperty (6|0) 
+isOnMove_55_CA06C1A24922222E01F00DB3D0817100 (18|0) -> BoolProperty (6|0) 
+IsOnInvert_63_FCDEEE624476068CCD52B286DCED3F34 (15|0) -> BoolProperty (6|0) 
+IsOnLand_64_DDA0A72946315F3C6B65F5AAD13EA685 (17|0) -> BoolProperty (6|0) 
+IsOnShard_65_C48EE9064FBA227B7AFF938A9495B8EB (19|0) -> BoolProperty (6|0) 
+IsOnIdle_68_BBC0624E449758BAE1777A97348A969C (14|0) -> BoolProperty (6|0) 

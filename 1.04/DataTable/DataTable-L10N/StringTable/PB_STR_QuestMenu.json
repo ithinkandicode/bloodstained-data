@@ -1,0 +1,13 @@
+{
+  "Name": "QuestMenuStringTable",
+  "Table": {
+    "QST_Cap_Test_Enemy01": "旦那の敵！",
+    "QST_Cap_Test_Enemy02": "ロザリーの敵！",
+    "QST_Cap_Test_Enemy03": "アネットの敵！",
+    "QST_Cap_Test_Enemy04": "リサの敵！",
+    "QST_Sen_Test_Enemy01": "旦那の敵を取るため\r\nモートを8匹、討伐しよう",
+    "QST_Sen_Test_Enemy02": "妹だったロザリーの敵を取るため\r\nデュラハンマを2匹、討伐しよう",
+    "QST_Sen_Test_Enemy03": "従兄弟だったアネットの敵を取るため\r\nギーレムントを4匹、討伐しよう",
+    "QST_Sen_Test_Enemy04": "隣人だったリサの敵を取るため\r\nサブナックを3匹、討伐しよう"
+  }
+}
