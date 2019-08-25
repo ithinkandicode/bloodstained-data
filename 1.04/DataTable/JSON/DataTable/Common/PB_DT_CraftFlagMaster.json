@@ -1,0 +1,176 @@
+[
+  {
+    "Key": "Craft_First",
+    "Value": {
+      "Id": 1
+    }
+  },
+  {
+    "Key": "Craft_First_Create",
+    "Value": {
+      "Id": 2
+    }
+  },
+  {
+    "Key": "Craft_First_Create_End",
+    "Value": {
+      "Id": 3
+    }
+  },
+  {
+    "Key": "Craft_10YyearsAgo",
+    "Value": {
+      "Id": 4
+    }
+  },
+  {
+    "Key": "Craft_10YyearsAgo_Done",
+    "Value": {
+      "Id": 5
+    }
+  },
+  {
+    "Key": "Craft_Castle",
+    "Value": {
+      "Id": 6
+    }
+  },
+  {
+    "Key": "Craft_Castle_Done",
+    "Value": {
+      "Id": 7
+    }
+  },
+  {
+    "Key": "Craft_GebeShard",
+    "Value": {
+      "Id": 8
+    }
+  },
+  {
+    "Key": "Craft_GebeShard_Done",
+    "Value": {
+      "Id": 9
+    }
+  },
+  {
+    "Key": "Craft_Alfred",
+    "Value": {
+      "Id": 10
+    }
+  },
+  {
+    "Key": "Craft_Alfred_Done",
+    "Value": {
+      "Id": 11
+    }
+  },
+  {
+    "Key": "Craft_DisruptShard",
+    "Value": {
+      "Id": 12
+    }
+  },
+  {
+    "Key": "Craft_DisruptShard_Done",
+    "Value": {
+      "Id": 13
+    }
+  },
+  {
+    "Key": "Craft_LiberLogaeth",
+    "Value": {
+      "Id": 14
+    }
+  },
+  {
+    "Key": "Craft_LiberLogaeth_Done",
+    "Value": {
+      "Id": 15
+    }
+  },
+  {
+    "Key": "Craft_slumber",
+    "Value": {
+      "Id": 16
+    }
+  },
+  {
+    "Key": "Craft_slumber_Done",
+    "Value": {
+      "Id": 17
+    }
+  },
+  {
+    "Key": "Craft_Dominique",
+    "Value": {
+      "Id": 18
+    }
+  },
+  {
+    "Key": "Craft_Dominique_Done",
+    "Value": {
+      "Id": 19
+    }
+  },
+  {
+    "Key": "Craft_Gremory",
+    "Value": {
+      "Id": 20
+    }
+  },
+  {
+    "Key": "Craft_Gremory_Done",
+    "Value": {
+      "Id": 21
+    }
+  },
+  {
+    "Key": "Craft_Zangetu",
+    "Value": {
+      "Id": 22
+    }
+  },
+  {
+    "Key": "Craft_Zangetu_Done",
+    "Value": {
+      "Id": 23
+    }
+  },
+  {
+    "Key": "Craft_Memories",
+    "Value": {
+      "Id": 24
+    }
+  },
+  {
+    "Key": "Craft_Memories_Done",
+    "Value": {
+      "Id": 25
+    }
+  },
+  {
+    "Key": "Craft_Baal",
+    "Value": {
+      "Id": 26
+    }
+  },
+  {
+    "Key": "Craft_Baal_Done",
+    "Value": {
+      "Id": 27
+    }
+  },
+  {
+    "Key": "Craft_Degeneration",
+    "Value": {
+      "Id": 28
+    }
+  },
+  {
+    "Key": "Craft_Degeneration_Done",
+    "Value": {
+      "Id": 29
+    }
+  }
+]

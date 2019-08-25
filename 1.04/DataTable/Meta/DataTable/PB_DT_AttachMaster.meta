@@ -1,0 +1,43 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 1763
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 57
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 1651
+ImportCount: 4
+ImportOffset: 1539
+DependsOffset: 1755
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 9afa282f-0fd9-4a0f-8e8a-1dcd41f0c842
+Generations: 1
+CompressionFlags: 0
+PackageSource: 1469517315
+Unversioned: False
+AssetRegistryDataOffset: 1759
+BulkDataStartOffset: 5520
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 1763
+
+
+TYPE DATA FOR PB_DT_AttachMaster:
+ParentSocketName (33|0) -> NameProperty (27|0) 
+ParentSocketNameReverse (34|0) -> NameProperty (27|0) 
+ChildSocketName (5|0) -> NameProperty (27|0) 
+ChildSocketNameReverse (6|0) -> NameProperty (27|0) 
+UseSocketCoordinate (56|0) -> BoolProperty (4|0) 
+Priority (38|0) -> IntProperty (12|0) 
+LocationInterpolation (13|0) -> FloatProperty (9|0) 

@@ -1,0 +1,5276 @@
+[
+  {
+    "Key": "BACKER_0000",
+    "Value": {
+      "BackerName": "Haruka",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B8FC83"
+    }
+  },
+  {
+    "Key": "BACKER_0001",
+    "Value": {
+      "BackerName": "Austin J. Parish",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#5EC04E"
+    }
+  },
+  {
+    "Key": "BACKER_0002",
+    "Value": {
+      "BackerName": "StarSeeker",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#53BE99"
+    }
+  },
+  {
+    "Key": "BACKER_0003",
+    "Value": {
+      "BackerName": "Jeyu",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#CF709E"
+    }
+  },
+  {
+    "Key": "BACKER_0004",
+    "Value": {
+      "BackerName": "Djip",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#DA4797"
+    }
+  },
+  {
+    "Key": "BACKER_0005",
+    "Value": {
+      "BackerName": "Corporate Cal ",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#808F54"
+    }
+  },
+  {
+    "Key": "BACKER_0006",
+    "Value": {
+      "BackerName": "Denis 'Mugi' Rocas",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#FE9A8B"
+    }
+  },
+  {
+    "Key": "BACKER_0007",
+    "Value": {
+      "BackerName": "Jeremy and HJ Montoya",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#C142D6"
+    }
+  },
+  {
+    "Key": "BACKER_0008",
+    "Value": {
+      "BackerName": "Kristopher Pacheco",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#BA59AD"
+    }
+  },
+  {
+    "Key": "BACKER_0009",
+    "Value": {
+      "BackerName": "ku-ron",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#C4B43A"
+    }
+  },
+  {
+    "Key": "BACKER_0010",
+    "Value": {
+      "BackerName": "Ric01a",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#95D792"
+    }
+  },
+  {
+    "Key": "BACKER_0011",
+    "Value": {
+      "BackerName": "Cesar A. Angulo",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A21181"
+    }
+  },
+  {
+    "Key": "BACKER_0012",
+    "Value": {
+      "BackerName": "Murillo Maciel",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#ED7DC8"
+    }
+  },
+  {
+    "Key": "BACKER_0013",
+    "Value": {
+      "BackerName": "Nickolas Goncharenko",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D90332"
+    }
+  },
+  {
+    "Key": "BACKER_0014",
+    "Value": {
+      "BackerName": "Brian_Matthew_Feurer",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#982A1F"
+    }
+  },
+  {
+    "Key": "BACKER_0015",
+    "Value": {
+      "BackerName": "Nick Donais",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#6F2C11"
+    }
+  },
+  {
+    "Key": "BACKER_0016",
+    "Value": {
+      "BackerName": "Joseph Alexander Guthrie",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#520093"
+    }
+  },
+  {
+    "Key": "BACKER_0017",
+    "Value": {
+      "BackerName": "Thorben Bernsen",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B6B4A0"
+    }
+  },
+  {
+    "Key": "BACKER_0018",
+    "Value": {
+      "BackerName": "Gunlord500 <3",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#CDCF88"
+    }
+  },
+  {
+    "Key": "BACKER_0019",
+    "Value": {
+      "BackerName": "Philip Tremblay(DarkLavos)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E499FE"
+    }
+  },
+  {
+    "Key": "BACKER_0020",
+    "Value": {
+      "BackerName": "Strider Nemesis",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#677392"
+    }
+  },
+  {
+    "Key": "BACKER_0021",
+    "Value": {
+      "BackerName": "Kyle Guebert",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E071D1"
+    }
+  },
+  {
+    "Key": "BACKER_0022",
+    "Value": {
+      "BackerName": "Vicool Macias R",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#88F857"
+    }
+  },
+  {
+    "Key": "BACKER_0023",
+    "Value": {
+      "BackerName": "DagetAwayMaN421",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B17972"
+    }
+  },
+  {
+    "Key": "BACKER_0024",
+    "Value": {
+      "BackerName": "Matthew Potter",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#332F20"
+    }
+  },
+  {
+    "Key": "BACKER_0025",
+    "Value": {
+      "BackerName": "Chatyeah",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B4935E"
+    }
+  },
+  {
+    "Key": "BACKER_0026",
+    "Value": {
+      "BackerName": "Ben Mastrianni ",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A0F265"
+    }
+  },
+  {
+    "Key": "BACKER_0027",
+    "Value": {
+      "BackerName": "PONCHO THE BLUE VOLCANO ",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A4C10E"
+    }
+  },
+  {
+    "Key": "BACKER_0028",
+    "Value": {
+      "BackerName": "Jonathan Llanes Castillo",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#BDB381"
+    }
+  },
+  {
+    "Key": "BACKER_0029",
+    "Value": {
+      "BackerName": "Jose Antonio Sancen Juarez",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#9C873D"
+    }
+  },
+  {
+    "Key": "BACKER_0030",
+    "Value": {
+      "BackerName": "Gavin Sharkey",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#6A4A9F"
+    }
+  },
+  {
+    "Key": "BACKER_0031",
+    "Value": {
+      "BackerName": "Xiaoyao Wang",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#6B3DF6"
+    }
+  },
+  {
+    "Key": "BACKER_0032",
+    "Value": {
+      "BackerName": "Francisco TheBossa Ramos",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#6E6823"
+    }
+  },
+  {
+    "Key": "BACKER_0033",
+    "Value": {
+      "BackerName": "Daniel Cole",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#521A6F"
+    }
+  },
+  {
+    "Key": "BACKER_0034",
+    "Value": {
+      "BackerName": "Priscilla Garone",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F1F8EA"
+    }
+  },
+  {
+    "Key": "BACKER_0035",
+    "Value": {
+      "BackerName": "Ambrocia Merienda",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#5484A9"
+    }
+  },
+  {
+    "Key": "BACKER_0036",
+    "Value": {
+      "BackerName": "Crowbarzero",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#45B905"
+    }
+  },
+  {
+    "Key": "BACKER_0037",
+    "Value": {
+      "BackerName": "Josh Engwer",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#3E9261"
+    }
+  },
+  {
+    "Key": "BACKER_0038",
+    "Value": {
+      "BackerName": "Joaquin Agar Palma",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#411322"
+    }
+  },
+  {
+    "Key": "BACKER_0039",
+    "Value": {
+      "BackerName": "Pentazer the Hippogryph",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#6E85B7"
+    }
+  },
+  {
+    "Key": "BACKER_0040",
+    "Value": {
+      "BackerName": "Clem et Marianne BOURGAIN",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#85F873"
+    }
+  },
+  {
+    "Key": "BACKER_0041",
+    "Value": {
+      "BackerName": "[] ChicaLove []",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#1FE826"
+    }
+  },
+  {
+    "Key": "BACKER_0042",
+    "Value": {
+      "BackerName": "Clay Staton",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#714545"
+    }
+  },
+  {
+    "Key": "BACKER_0043",
+    "Value": {
+      "BackerName": "Jakub \"Reventiz\" Teply",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E91918"
+    }
+  },
+  {
+    "Key": "BACKER_0044",
+    "Value": {
+      "BackerName": "Jonathan Mazurski",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D2F479"
+    }
+  },
+  {
+    "Key": "BACKER_0045",
+    "Value": {
+      "BackerName": "Gourry_Inverse&Inversefam",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D5DA0D"
+    }
+  },
+  {
+    "Key": "BACKER_0046",
+    "Value": {
+      "BackerName": "Jim 'KFang' Chen",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#EED94D"
+    }
+  },
+  {
+    "Key": "BACKER_0047",
+    "Value": {
+      "BackerName": "Cameron S. Auld",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#FDCFC4"
+    }
+  },
+  {
+    "Key": "BACKER_0048",
+    "Value": {
+      "BackerName": "Rick Meves (PFG9000)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B6D238"
+    }
+  },
+  {
+    "Key": "BACKER_0049",
+    "Value": {
+      "BackerName": "Jesse Allen Reed",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#388693"
+    }
+  },
+  {
+    "Key": "BACKER_0050",
+    "Value": {
+      "BackerName": "NerdOfEpic",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#36E7BA"
+    }
+  },
+  {
+    "Key": "BACKER_0051",
+    "Value": {
+      "BackerName": "Ritchie Le",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#DC0A54"
+    }
+  },
+  {
+    "Key": "BACKER_0052",
+    "Value": {
+      "BackerName": "Neo Onyx (JEO)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#0DEAE0"
+    }
+  },
+  {
+    "Key": "BACKER_0053",
+    "Value": {
+      "BackerName": "Joshua K Jordan",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#4571E7"
+    }
+  },
+  {
+    "Key": "BACKER_0054",
+    "Value": {
+      "BackerName": "Dan Kingery",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F808EB"
+    }
+  },
+  {
+    "Key": "BACKER_0055",
+    "Value": {
+      "BackerName": "Eric Polesky",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#9B4E6C"
+    }
+  },
+  {
+    "Key": "BACKER_0056",
+    "Value": {
+      "BackerName": "YAU SAI KIN BRUCE",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A905B1"
+    }
+  },
+  {
+    "Key": "BACKER_0057",
+    "Value": {
+      "BackerName": "Kari 'Zael' Alatalo",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#C46D5C"
+    }
+  },
+  {
+    "Key": "BACKER_0058",
+    "Value": {
+      "BackerName": "Mika Kirisame",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#3D0950"
+    }
+  },
+  {
+    "Key": "BACKER_0059",
+    "Value": {
+      "BackerName": "SketchyGalore",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#CA0F4F"
+    }
+  },
+  {
+    "Key": "BACKER_0060",
+    "Value": {
+      "BackerName": "Nathan Dage Flinders",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#3AFA13"
+    }
+  },
+  {
+    "Key": "BACKER_0061",
+    "Value": {
+      "BackerName": "Swordturtle",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#80B92B"
+    }
+  },
+  {
+    "Key": "BACKER_0062",
+    "Value": {
+      "BackerName": "Ian W",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B90C93"
+    }
+  },
+  {
+    "Key": "BACKER_0063",
+    "Value": {
+      "BackerName": "Soulroar",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#096B43"
+    }
+  },
+  {
+    "Key": "BACKER_0064",
+    "Value": {
+      "BackerName": "leucin",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#6FB514"
+    }
+  },
+  {
+    "Key": "BACKER_0065",
+    "Value": {
+      "BackerName": "<<<TERUOMI>>>",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#714978"
+    }
+  },
+  {
+    "Key": "BACKER_0066",
+    "Value": {
+      "BackerName": "Ben Z - Taimatt",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#9EE563"
+    }
+  },
+  {
+    "Key": "BACKER_0067",
+    "Value": {
+      "BackerName": "M12un03",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#906DC9"
+    }
+  },
+  {
+    "Key": "BACKER_0068",
+    "Value": {
+      "BackerName": "Kira Tachibana",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#897895"
+    }
+  },
+  {
+    "Key": "BACKER_0069",
+    "Value": {
+      "BackerName": "Noah Anzualda",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#22CAB7"
+    }
+  },
+  {
+    "Key": "BACKER_0070",
+    "Value": {
+      "BackerName": "Jacob Evans",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B9C648"
+    }
+  },
+  {
+    "Key": "BACKER_0071",
+    "Value": {
+      "BackerName": "Zach Whitbread (Gazpins)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F365DC"
+    }
+  },
+  {
+    "Key": "BACKER_0072",
+    "Value": {
+      "BackerName": "LittleOni",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#719179"
+    }
+  },
+  {
+    "Key": "BACKER_0073",
+    "Value": {
+      "BackerName": "IvoryFox Larethian",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#99C11B"
+    }
+  },
+  {
+    "Key": "BACKER_0074",
+    "Value": {
+      "BackerName": "Thierry Gaugry",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#70F320"
+    }
+  },
+  {
+    "Key": "BACKER_0075",
+    "Value": {
+      "BackerName": "vato915",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A4AB04"
+    }
+  },
+  {
+    "Key": "BACKER_0076",
+    "Value": {
+      "BackerName": "BlackDragon. Clark",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#079D03"
+    }
+  },
+  {
+    "Key": "BACKER_0077",
+    "Value": {
+      "BackerName": "Traxis",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A09146"
+    }
+  },
+  {
+    "Key": "BACKER_0078",
+    "Value": {
+      "BackerName": "Phil Scopa",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#818814"
+    }
+  },
+  {
+    "Key": "BACKER_0079",
+    "Value": {
+      "BackerName": "MAE Squeakurs",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#8393C2"
+    }
+  },
+  {
+    "Key": "BACKER_0080",
+    "Value": {
+      "BackerName": "Jacob \"Anksik\" Hughes",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#0E8693"
+    }
+  },
+  {
+    "Key": "BACKER_0081",
+    "Value": {
+      "BackerName": "toudy49",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B9FC8C"
+    }
+  },
+  {
+    "Key": "BACKER_0082",
+    "Value": {
+      "BackerName": "ShinAnubisXIII",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#DB4989"
+    }
+  },
+  {
+    "Key": "BACKER_0083",
+    "Value": {
+      "BackerName": "Dr John Conibear",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#986156"
+    }
+  },
+  {
+    "Key": "BACKER_0084",
+    "Value": {
+      "BackerName": "Deven Stewart",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#242B41"
+    }
+  },
+  {
+    "Key": "BACKER_0085",
+    "Value": {
+      "BackerName": "Chris 'Auragar' Thomas",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A9311C"
+    }
+  },
+  {
+    "Key": "BACKER_0086",
+    "Value": {
+      "BackerName": "BonePileStudio",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#26FAE9"
+    }
+  },
+  {
+    "Key": "BACKER_0087",
+    "Value": {
+      "BackerName": "Nicklaus Wolfkiller Doran",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#9DFF6A"
+    }
+  },
+  {
+    "Key": "BACKER_0088",
+    "Value": {
+      "BackerName": "Biran",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#FEB33F"
+    }
+  },
+  {
+    "Key": "BACKER_0089",
+    "Value": {
+      "BackerName": "Chong_Shao",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#6B64CA"
+    }
+  },
+  {
+    "Key": "BACKER_0090",
+    "Value": {
+      "BackerName": "XayDay(Zayed_UAE)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D4A553"
+    }
+  },
+  {
+    "Key": "BACKER_0091",
+    "Value": {
+      "BackerName": "Enrico Bedon",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D116C2"
+    }
+  },
+  {
+    "Key": "BACKER_0092",
+    "Value": {
+      "BackerName": "OTOMO",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#497B31"
+    }
+  },
+  {
+    "Key": "BACKER_0093",
+    "Value": {
+      "BackerName": "Adora Azrael (Rachel Mtz)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#5C7583"
+    }
+  },
+  {
+    "Key": "BACKER_0094",
+    "Value": {
+      "BackerName": "Joe Bauer",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E49722"
+    }
+  },
+  {
+    "Key": "BACKER_0095",
+    "Value": {
+      "BackerName": "Jonny V",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D8085C"
+    }
+  },
+  {
+    "Key": "BACKER_0096",
+    "Value": {
+      "BackerName": "Arturo \"Rt\" Mora",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#2AAE96"
+    }
+  },
+  {
+    "Key": "BACKER_0097",
+    "Value": {
+      "BackerName": "Lorenzo D'Antoni",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#0DBB18"
+    }
+  },
+  {
+    "Key": "BACKER_0098",
+    "Value": {
+      "BackerName": "Hidehiro Ichimaru",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#5EE0CA"
+    }
+  },
+  {
+    "Key": "BACKER_0099",
+    "Value": {
+      "BackerName": "Erick R Hdz Wesche",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#26617C"
+    }
+  },
+  {
+    "Key": "BACKER_0100",
+    "Value": {
+      "BackerName": "Jeff Lindemann",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#096E1F"
+    }
+  },
+  {
+    "Key": "BACKER_0101",
+    "Value": {
+      "BackerName": "The Allen Family",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#4D8D9A"
+    }
+  },
+  {
+    "Key": "BACKER_0102",
+    "Value": {
+      "BackerName": "Kai Schickentanz",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#92310E"
+    }
+  },
+  {
+    "Key": "BACKER_0103",
+    "Value": {
+      "BackerName": "Klokwurk",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#38154E"
+    }
+  },
+  {
+    "Key": "BACKER_0104",
+    "Value": {
+      "BackerName": "Adotaki",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E6BB3E"
+    }
+  },
+  {
+    "Key": "BACKER_0105",
+    "Value": {
+      "BackerName": "Michael A Weber II",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#73B60E"
+    }
+  },
+  {
+    "Key": "BACKER_0106",
+    "Value": {
+      "BackerName": "reist",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#315ABE"
+    }
+  },
+  {
+    "Key": "BACKER_0107",
+    "Value": {
+      "BackerName": "Lord Devil Ray",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#FAEA7A"
+    }
+  },
+  {
+    "Key": "BACKER_0108",
+    "Value": {
+      "BackerName": "Ring_of_Varda",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#3F9AE1"
+    }
+  },
+  {
+    "Key": "BACKER_0109",
+    "Value": {
+      "BackerName": "Brandon (Grymoire)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E4A770"
+    }
+  },
+  {
+    "Key": "BACKER_0110",
+    "Value": {
+      "BackerName": "Erick E. Garcia",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#316988"
+    }
+  },
+  {
+    "Key": "BACKER_0111",
+    "Value": {
+      "BackerName": "Kim Lambert",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "Is my bloodline a blessing or a curse? It does not matter, I shall use this power to protect Miriam!",
+      "Phrase": "#B04AB0"
+    }
+  },
+  {
+    "Key": "BACKER_0112",
+    "Value": {
+      "BackerName": "Timothy Ray Durkin",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "****Rich Evans is my kawaii waifu!****",
+      "Phrase": "#A43065"
+    }
+  },
+  {
+    "Key": "BACKER_0113",
+    "Value": {
+      "BackerName": "Robert E Boidi",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "Glad that i got to be a part of this game, hope you all enjoyed using my weapon. - REDtheBEAST",
+      "Phrase": "#6DD24B"
+    }
+  },
+  {
+    "Key": "BACKER_0114",
+    "Value": {
+      "BackerName": "Jordan {Otenko} Nash",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "\"Time you enjoy wasting is not wasted time.\"  Never let anyone say that what you enjoy is a waste.",
+      "Phrase": "#58F46B"
+    }
+  },
+  {
+    "Key": "BACKER_0115",
+    "Value": {
+      "BackerName": "Sir Pentor",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#655197"
+    }
+  },
+  {
+    "Key": "BACKER_0116",
+    "Value": {
+      "BackerName": "Peter Sutherland",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B38A21"
+    }
+  },
+  {
+    "Key": "BACKER_0117",
+    "Value": {
+      "BackerName": "AdventureVault",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F3313A"
+    }
+  },
+  {
+    "Key": "BACKER_0118",
+    "Value": {
+      "BackerName": "Christian Theissinger",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#204859"
+    }
+  },
+  {
+    "Key": "BACKER_0119",
+    "Value": {
+      "BackerName": "Bryan A R Z Hall",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#C3B9E8"
+    }
+  },
+  {
+    "Key": "BACKER_0120",
+    "Value": {
+      "BackerName": "Anonymous",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#972095"
+    }
+  },
+  {
+    "Key": "BACKER_0121",
+    "Value": {
+      "BackerName": "Patrick Carson ",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#7BFACB"
+    }
+  },
+  {
+    "Key": "BACKER_0122",
+    "Value": {
+      "BackerName": "Rainy Daze",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D74A47"
+    }
+  },
+  {
+    "Key": "BACKER_0123",
+    "Value": {
+      "BackerName": "Alerexic ",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#1199C7"
+    }
+  },
+  {
+    "Key": "BACKER_0124",
+    "Value": {
+      "BackerName": "Leo Giambelluca",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#ABF295"
+    }
+  },
+  {
+    "Key": "BACKER_0125",
+    "Value": {
+      "BackerName": "Tony Zhang",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#053D58"
+    }
+  },
+  {
+    "Key": "BACKER_0126",
+    "Value": {
+      "BackerName": "Joshua Michael French",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#AE0FD2"
+    }
+  },
+  {
+    "Key": "BACKER_0127",
+    "Value": {
+      "BackerName": "TheCruelAngel",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A8DEB1"
+    }
+  },
+  {
+    "Key": "BACKER_0128",
+    "Value": {
+      "BackerName": "prof_frink",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#2C9AA2"
+    }
+  },
+  {
+    "Key": "BACKER_0129",
+    "Value": {
+      "BackerName": "Norman Huizenga  gappvembe",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#412F5C"
+    }
+  },
+  {
+    "Key": "BACKER_0130",
+    "Value": {
+      "BackerName": "Unnamed",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D3B427"
+    }
+  },
+  {
+    "Key": "BACKER_0131",
+    "Value": {
+      "BackerName": "Philip Byrd Jr.",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#34FBAF"
+    }
+  },
+  {
+    "Key": "BACKER_0132",
+    "Value": {
+      "BackerName": "Jose C. Tinajero",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A855C0"
+    }
+  },
+  {
+    "Key": "BACKER_0133",
+    "Value": {
+      "BackerName": "CG HC",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#9FE8C5"
+    }
+  },
+  {
+    "Key": "BACKER_0134",
+    "Value": {
+      "BackerName": "Liam Arthur =^.^=",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#765598"
+    }
+  },
+  {
+    "Key": "BACKER_0135",
+    "Value": {
+      "BackerName": "DiTtO_HuNtEr",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#BB32BA"
+    }
+  },
+  {
+    "Key": "BACKER_0136",
+    "Value": {
+      "BackerName": "Eric McWilliams",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#5F1F06"
+    }
+  },
+  {
+    "Key": "BACKER_0137",
+    "Value": {
+      "BackerName": "Anthony Cowen",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#74E8FC"
+    }
+  },
+  {
+    "Key": "BACKER_0138",
+    "Value": {
+      "BackerName": "L.I.Joe Ciaramelli",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#2C7BD4"
+    }
+  },
+  {
+    "Key": "BACKER_0139",
+    "Value": {
+      "BackerName": "John R Sheimo",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#407E4E"
+    }
+  },
+  {
+    "Key": "BACKER_0140",
+    "Value": {
+      "BackerName": "Adam & Tiffany Chamberlain",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E3F6DB"
+    }
+  },
+  {
+    "Key": "BACKER_0141",
+    "Value": {
+      "BackerName": "Tom \"Tik\" Kennedy",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#340BDD"
+    }
+  },
+  {
+    "Key": "BACKER_0142",
+    "Value": {
+      "BackerName": "Ataru Moroboshi",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#69428A"
+    }
+  },
+  {
+    "Key": "BACKER_0143",
+    "Value": {
+      "BackerName": "Jorge D. Fuentes",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#2716C9"
+    }
+  },
+  {
+    "Key": "BACKER_0144",
+    "Value": {
+      "BackerName": "rarebucky",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B23012"
+    }
+  },
+  {
+    "Key": "BACKER_0145",
+    "Value": {
+      "BackerName": "Connor C.A. Smith",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E9D13C"
+    }
+  },
+  {
+    "Key": "BACKER_0146",
+    "Value": {
+      "BackerName": "Juan de Dios Torreblanca",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#195181"
+    }
+  },
+  {
+    "Key": "BACKER_0147",
+    "Value": {
+      "BackerName": "Karume Deco",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#672A4E"
+    }
+  },
+  {
+    "Key": "BACKER_0148",
+    "Value": {
+      "BackerName": "Diogo M.A. Borges",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#ECCA2A"
+    }
+  },
+  {
+    "Key": "BACKER_0149",
+    "Value": {
+      "BackerName": "Dereck Clark",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B707AF"
+    }
+  },
+  {
+    "Key": "BACKER_0150",
+    "Value": {
+      "BackerName": "Scott Kennedy {Lashen}",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#2BFDAC"
+    }
+  },
+  {
+    "Key": "BACKER_0151",
+    "Value": {
+      "BackerName": "Wolf Sheikah",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#570655"
+    }
+  },
+  {
+    "Key": "BACKER_0152",
+    "Value": {
+      "BackerName": "Aaron Lowe",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#3B433D"
+    }
+  },
+  {
+    "Key": "BACKER_0153",
+    "Value": {
+      "BackerName": "Marco 'Baran' Tsorp",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#864214"
+    }
+  },
+  {
+    "Key": "BACKER_0154",
+    "Value": {
+      "BackerName": "Steven M Leewright Jr",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#0DBCFC"
+    }
+  },
+  {
+    "Key": "BACKER_0155",
+    "Value": {
+      "BackerName": "Anthony Rugal Lemme",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#311825"
+    }
+  },
+  {
+    "Key": "BACKER_0156",
+    "Value": {
+      "BackerName": "Yih-Cheng Wun",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F5D47D"
+    }
+  },
+  {
+    "Key": "BACKER_0157",
+    "Value": {
+      "BackerName": "EstebanT",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#DE4B7E"
+    }
+  },
+  {
+    "Key": "BACKER_0158",
+    "Value": {
+      "BackerName": "Agerra-T'rel",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#51E426"
+    }
+  },
+  {
+    "Key": "BACKER_0159",
+    "Value": {
+      "BackerName": "PhantasticSoul",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#914AA7"
+    }
+  },
+  {
+    "Key": "BACKER_0160",
+    "Value": {
+      "BackerName": "James Wesley Tisdale",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#579DE7"
+    }
+  },
+  {
+    "Key": "BACKER_0161",
+    "Value": {
+      "BackerName": "Daryl Hellewell",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#AE5D29"
+    }
+  },
+  {
+    "Key": "BACKER_0162",
+    "Value": {
+      "BackerName": "Pockey5566",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A0F248"
+    }
+  },
+  {
+    "Key": "BACKER_0163",
+    "Value": {
+      "BackerName": "Marwan Al-Sharekh",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#0584AD"
+    }
+  },
+  {
+    "Key": "BACKER_0164",
+    "Value": {
+      "BackerName": "theANdROId ~A.Toth",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#3D4BF2"
+    }
+  },
+  {
+    "Key": "BACKER_0165",
+    "Value": {
+      "BackerName": "SSJunkers [GMS/BERA]",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#C72E0E"
+    }
+  },
+  {
+    "Key": "BACKER_0166",
+    "Value": {
+      "BackerName": "c=c==(/-_-)/ CC@HK",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#CBB76D"
+    }
+  },
+  {
+    "Key": "BACKER_0167",
+    "Value": {
+      "BackerName": "Sokloeum Moung",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E9202A"
+    }
+  },
+  {
+    "Key": "BACKER_0168",
+    "Value": {
+      "BackerName": "Evelyn & Nevin <3 Always",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#5F864A"
+    }
+  },
+  {
+    "Key": "BACKER_0169",
+    "Value": {
+      "BackerName": "Syfe & Syrnn",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#4059BA"
+    }
+  },
+  {
+    "Key": "BACKER_0170",
+    "Value": {
+      "BackerName": "Master Luby Hoover",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#0370CD"
+    }
+  },
+  {
+    "Key": "BACKER_0171",
+    "Value": {
+      "BackerName": "Dorothy SanVicente",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#94D21E"
+    }
+  },
+  {
+    "Key": "BACKER_0172",
+    "Value": {
+      "BackerName": "Holger Mueller [Oli]",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#7A4635"
+    }
+  },
+  {
+    "Key": "BACKER_0173",
+    "Value": {
+      "BackerName": "Michael Kromheim",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#AFCFCA"
+    }
+  },
+  {
+    "Key": "BACKER_0174",
+    "Value": {
+      "BackerName": "BrandedGatsu",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F88F2B"
+    }
+  },
+  {
+    "Key": "BACKER_0175",
+    "Value": {
+      "BackerName": "Zarv",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B70674"
+    }
+  },
+  {
+    "Key": "BACKER_0176",
+    "Value": {
+      "BackerName": "Kin-ya Godai",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B94244"
+    }
+  },
+  {
+    "Key": "BACKER_0177",
+    "Value": {
+      "BackerName": "Wayne Sanders",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#6F9021"
+    }
+  },
+  {
+    "Key": "BACKER_0178",
+    "Value": {
+      "BackerName": "Streetsk8t ",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#71C3F3"
+    }
+  },
+  {
+    "Key": "BACKER_0179",
+    "Value": {
+      "BackerName": "AJ Shymkiw aka Luchiani",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E1DD61"
+    }
+  },
+  {
+    "Key": "BACKER_0180",
+    "Value": {
+      "BackerName": "Erik White",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E6A0F2"
+    }
+  },
+  {
+    "Key": "BACKER_0181",
+    "Value": {
+      "BackerName": "Tim Christie believes in U",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#932BDB"
+    }
+  },
+  {
+    "Key": "BACKER_0182",
+    "Value": {
+      "BackerName": "Chase Tisdale",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#4C44F6"
+    }
+  },
+  {
+    "Key": "BACKER_0183",
+    "Value": {
+      "BackerName": "Alex Ag Garnica",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#19510F"
+    }
+  },
+  {
+    "Key": "BACKER_0184",
+    "Value": {
+      "BackerName": "jpjzero",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#3A5D43"
+    }
+  },
+  {
+    "Key": "BACKER_0185",
+    "Value": {
+      "BackerName": "Chris Katsuragi",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#2384B4"
+    }
+  },
+  {
+    "Key": "BACKER_0186",
+    "Value": {
+      "BackerName": "Stuart V Chester",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A606D3"
+    }
+  },
+  {
+    "Key": "BACKER_0187",
+    "Value": {
+      "BackerName": "DragonBlade",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#94CFE1"
+    }
+  },
+  {
+    "Key": "BACKER_0188",
+    "Value": {
+      "BackerName": "ThatCAT",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#899166"
+    }
+  },
+  {
+    "Key": "BACKER_0189",
+    "Value": {
+      "BackerName": "Michael A. Foster II",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#467B2C"
+    }
+  },
+  {
+    "Key": "BACKER_0190",
+    "Value": {
+      "BackerName": "Zach West",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#AB47D1"
+    }
+  },
+  {
+    "Key": "BACKER_0191",
+    "Value": {
+      "BackerName": "Verum Fidem",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#65963A"
+    }
+  },
+  {
+    "Key": "BACKER_0192",
+    "Value": {
+      "BackerName": "Joe Turturro",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#8C6197"
+    }
+  },
+  {
+    "Key": "BACKER_0193",
+    "Value": {
+      "BackerName": "Clint(YamaBigDog)Shafer",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#10ED0D"
+    }
+  },
+  {
+    "Key": "BACKER_0194",
+    "Value": {
+      "BackerName": "Rory Starks",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#FCEC1E"
+    }
+  },
+  {
+    "Key": "BACKER_0195",
+    "Value": {
+      "BackerName": "beingthehero",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#FB4BD0"
+    }
+  },
+  {
+    "Key": "BACKER_0196",
+    "Value": {
+      "BackerName": "Frank Bautista",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B98B22"
+    }
+  },
+  {
+    "Key": "BACKER_0197",
+    "Value": {
+      "BackerName": "norg",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#C6E98E"
+    }
+  },
+  {
+    "Key": "BACKER_0198",
+    "Value": {
+      "BackerName": "Maurice Johnson ",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#100DEA"
+    }
+  },
+  {
+    "Key": "BACKER_0199",
+    "Value": {
+      "BackerName": "Brenna (Sindra) W.",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#4ED517"
+    }
+  },
+  {
+    "Key": "BACKER_0200",
+    "Value": {
+      "BackerName": "Marc D Wyzomirski",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#EEA5C5"
+    }
+  },
+  {
+    "Key": "BACKER_0201",
+    "Value": {
+      "BackerName": "Andrew Kaufman",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#94B45F"
+    }
+  },
+  {
+    "Key": "BACKER_0202",
+    "Value": {
+      "BackerName": "Coen van der Geest",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#AC222D"
+    }
+  },
+  {
+    "Key": "BACKER_0203",
+    "Value": {
+      "BackerName": "Joshua Quick",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D41F37"
+    }
+  },
+  {
+    "Key": "BACKER_0204",
+    "Value": {
+      "BackerName": "Tacito_Reis",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#15E224"
+    }
+  },
+  {
+    "Key": "BACKER_0205",
+    "Value": {
+      "BackerName": "karvill Juno",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#1D9555"
+    }
+  },
+  {
+    "Key": "BACKER_0206",
+    "Value": {
+      "BackerName": "Alex Van Trejo",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#BFAA84"
+    }
+  },
+  {
+    "Key": "BACKER_0207",
+    "Value": {
+      "BackerName": "James \"JR\" Ryan",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#177BCD"
+    }
+  },
+  {
+    "Key": "BACKER_0208",
+    "Value": {
+      "BackerName": "Wes TheDwarf McShan",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#EF5AC3"
+    }
+  },
+  {
+    "Key": "BACKER_0209",
+    "Value": {
+      "BackerName": "Hardbarger!",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#CDBE69"
+    }
+  },
+  {
+    "Key": "BACKER_0210",
+    "Value": {
+      "BackerName": "Erik \"Unaz\" J",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#96428E"
+    }
+  },
+  {
+    "Key": "BACKER_0211",
+    "Value": {
+      "BackerName": "Eva Charbonneau-Berube",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#259165"
+    }
+  },
+  {
+    "Key": "BACKER_0212",
+    "Value": {
+      "BackerName": "Hsi-Ming Chang",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F53B50"
+    }
+  },
+  {
+    "Key": "BACKER_0213",
+    "Value": {
+      "BackerName": "Trath Davrol",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#CADA9F"
+    }
+  },
+  {
+    "Key": "BACKER_0214",
+    "Value": {
+      "BackerName": "Radical Raccoon",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#480BC5"
+    }
+  },
+  {
+    "Key": "BACKER_0215",
+    "Value": {
+      "BackerName": "Exinjeru",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#FF65C0"
+    }
+  },
+  {
+    "Key": "BACKER_0216",
+    "Value": {
+      "BackerName": "ShinRaLa",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#94B9C2"
+    }
+  },
+  {
+    "Key": "BACKER_0217",
+    "Value": {
+      "BackerName": "novelalucard",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#99EC9D"
+    }
+  },
+  {
+    "Key": "BACKER_0218",
+    "Value": {
+      "BackerName": "Luna",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#4BA9F1"
+    }
+  },
+  {
+    "Key": "BACKER_0219",
+    "Value": {
+      "BackerName": "Michael Wieboldt",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#143D49"
+    }
+  },
+  {
+    "Key": "BACKER_0220",
+    "Value": {
+      "BackerName": "Sam Nashawaty",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#1D3235"
+    }
+  },
+  {
+    "Key": "BACKER_0221",
+    "Value": {
+      "BackerName": "testing Lin",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#31FE03"
+    }
+  },
+  {
+    "Key": "BACKER_0222",
+    "Value": {
+      "BackerName": "Faithful Pawn",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#99C978"
+    }
+  },
+  {
+    "Key": "BACKER_0223",
+    "Value": {
+      "BackerName": "Carlos(Lito) Diaz",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#195A24"
+    }
+  },
+  {
+    "Key": "BACKER_0224",
+    "Value": {
+      "BackerName": "David Young",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B41C47"
+    }
+  },
+  {
+    "Key": "BACKER_0225",
+    "Value": {
+      "BackerName": "Joakim Hellman",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D9B3C5"
+    }
+  },
+  {
+    "Key": "BACKER_0226",
+    "Value": {
+      "BackerName": "Marc Dunyak",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#4C4C52"
+    }
+  },
+  {
+    "Key": "BACKER_0227",
+    "Value": {
+      "BackerName": "Fiscolance",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E93145"
+    }
+  },
+  {
+    "Key": "BACKER_0228",
+    "Value": {
+      "BackerName": "Legend-dark",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#471CF6"
+    }
+  },
+  {
+    "Key": "BACKER_0229",
+    "Value": {
+      "BackerName": "Saiph Hutson",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B5A1E7"
+    }
+  },
+  {
+    "Key": "BACKER_0230",
+    "Value": {
+      "BackerName": "Rachel =^_^=",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#FAF717"
+    }
+  },
+  {
+    "Key": "BACKER_0231",
+    "Value": {
+      "BackerName": "Blue Rogue",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D4A8E1"
+    }
+  },
+  {
+    "Key": "BACKER_0232",
+    "Value": {
+      "BackerName": "DieBurger",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E25B06"
+    }
+  },
+  {
+    "Key": "BACKER_0233",
+    "Value": {
+      "BackerName": "Gabriel Tremblay",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F28CB1"
+    }
+  },
+  {
+    "Key": "BACKER_0234",
+    "Value": {
+      "BackerName": "Likourgos Christatos",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#ABBCD5"
+    }
+  },
+  {
+    "Key": "BACKER_0235",
+    "Value": {
+      "BackerName": "Jaime A. Castilla",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#53681F"
+    }
+  },
+  {
+    "Key": "BACKER_0236",
+    "Value": {
+      "BackerName": "watz0n",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#31D252"
+    }
+  },
+  {
+    "Key": "BACKER_0237",
+    "Value": {
+      "BackerName": "Justin John saleim",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#4297C3"
+    }
+  },
+  {
+    "Key": "BACKER_0238",
+    "Value": {
+      "BackerName": "John, Erin and Merlin",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#9FA05C"
+    }
+  },
+  {
+    "Key": "BACKER_0239",
+    "Value": {
+      "BackerName": "Arick (Ricko) Allen ",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B2C961"
+    }
+  },
+  {
+    "Key": "BACKER_0240",
+    "Value": {
+      "BackerName": "Johnine Balisi",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#CB7D04"
+    }
+  },
+  {
+    "Key": "BACKER_0241",
+    "Value": {
+      "BackerName": "Darryl 'doomrider7' Reyes",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#9D76B6"
+    }
+  },
+  {
+    "Key": "BACKER_0242",
+    "Value": {
+      "BackerName": "Daniel Darling",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#2C38F8"
+    }
+  },
+  {
+    "Key": "BACKER_0243",
+    "Value": {
+      "BackerName": "Nix",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#4E69A8"
+    }
+  },
+  {
+    "Key": "BACKER_0244",
+    "Value": {
+      "BackerName": "Ojiki Augustine",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#7965C0"
+    }
+  },
+  {
+    "Key": "BACKER_0245",
+    "Value": {
+      "BackerName": "Selphied Chen",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A8A00A"
+    }
+  },
+  {
+    "Key": "BACKER_0246",
+    "Value": {
+      "BackerName": "Amanojaku8",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#300DB4"
+    }
+  },
+  {
+    "Key": "BACKER_0247",
+    "Value": {
+      "BackerName": "Primere",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#CEDAE1"
+    }
+  },
+  {
+    "Key": "BACKER_0248",
+    "Value": {
+      "BackerName": "Akrylis",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#318922"
+    }
+  },
+  {
+    "Key": "BACKER_0249",
+    "Value": {
+      "BackerName": "Stephen Danielson",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#3025B2"
+    }
+  },
+  {
+    "Key": "BACKER_0250",
+    "Value": {
+      "BackerName": "Chevaliers",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#085C7A"
+    }
+  },
+  {
+    "Key": "BACKER_0251",
+    "Value": {
+      "BackerName": "Azaam 'MacaroniArt' Samad",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#2B59E8"
+    }
+  },
+  {
+    "Key": "BACKER_0252",
+    "Value": {
+      "BackerName": "Shawn D Cosgrove",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#21E57A"
+    }
+  },
+  {
+    "Key": "BACKER_0253",
+    "Value": {
+      "BackerName": "Galihad64",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#7E97F3"
+    }
+  },
+  {
+    "Key": "BACKER_0254",
+    "Value": {
+      "BackerName": "Eetu Suoranta",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D3AA31"
+    }
+  },
+  {
+    "Key": "BACKER_0255",
+    "Value": {
+      "BackerName": "Joaquin Miralles",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#39B924"
+    }
+  },
+  {
+    "Key": "BACKER_0256",
+    "Value": {
+      "BackerName": "Wes 'Kokido' Poole",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#CF3AF6"
+    }
+  },
+  {
+    "Key": "BACKER_0257",
+    "Value": {
+      "BackerName": "Rita Dudley",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#3A20E0"
+    }
+  },
+  {
+    "Key": "BACKER_0258",
+    "Value": {
+      "BackerName": "George Albanis",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#80A1C0"
+    }
+  },
+  {
+    "Key": "BACKER_0259",
+    "Value": {
+      "BackerName": "Jon Ogrydziak",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#8F22A1"
+    }
+  },
+  {
+    "Key": "BACKER_0260",
+    "Value": {
+      "BackerName": "Torsten Nasenberg",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B246DB"
+    }
+  },
+  {
+    "Key": "BACKER_0261",
+    "Value": {
+      "BackerName": "Zargon",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#4FFF74"
+    }
+  },
+  {
+    "Key": "BACKER_0262",
+    "Value": {
+      "BackerName": "BIZhijacker",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#33C830"
+    }
+  },
+  {
+    "Key": "BACKER_0263",
+    "Value": {
+      "BackerName": "Charlie 'Hyren' Young",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#BD2A5C"
+    }
+  },
+  {
+    "Key": "BACKER_0264",
+    "Value": {
+      "BackerName": "The Coopers",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D52C8B"
+    }
+  },
+  {
+    "Key": "BACKER_0265",
+    "Value": {
+      "BackerName": "Eric Zamidar",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A07CD6"
+    }
+  },
+  {
+    "Key": "BACKER_0266",
+    "Value": {
+      "BackerName": "Douglas Michaels",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#038185"
+    }
+  },
+  {
+    "Key": "BACKER_0267",
+    "Value": {
+      "BackerName": "Chris Diesel S :-)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#912EC8"
+    }
+  },
+  {
+    "Key": "BACKER_0268",
+    "Value": {
+      "BackerName": "Chris Balnave",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E575BB"
+    }
+  },
+  {
+    "Key": "BACKER_0269",
+    "Value": {
+      "BackerName": "Mark Woo",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#DCA3DE"
+    }
+  },
+  {
+    "Key": "BACKER_0270",
+    "Value": {
+      "BackerName": "CastlePokemetroid CToastM",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B31A1D"
+    }
+  },
+  {
+    "Key": "BACKER_0271",
+    "Value": {
+      "BackerName": "Brian Dayton",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#012EBF"
+    }
+  },
+  {
+    "Key": "BACKER_0272",
+    "Value": {
+      "BackerName": "Christopher Raia",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#639BF1"
+    }
+  },
+  {
+    "Key": "BACKER_0273",
+    "Value": {
+      "BackerName": "Teri Mercer",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#FB3057"
+    }
+  },
+  {
+    "Key": "BACKER_0274",
+    "Value": {
+      "BackerName": "Sio_Onigiri",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#82BE1F"
+    }
+  },
+  {
+    "Key": "BACKER_0275",
+    "Value": {
+      "BackerName": "Avery Yang",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#FAA7A5"
+    }
+  },
+  {
+    "Key": "BACKER_0276",
+    "Value": {
+      "BackerName": "Scotty(KI11AK)D",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#AED897"
+    }
+  },
+  {
+    "Key": "BACKER_0277",
+    "Value": {
+      "BackerName": "Reinhart77",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#649511"
+    }
+  },
+  {
+    "Key": "BACKER_0278",
+    "Value": {
+      "BackerName": "g0-0pz ",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#7BF004"
+    }
+  },
+  {
+    "Key": "BACKER_0279",
+    "Value": {
+      "BackerName": "Marvisto",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A07FFA"
+    }
+  },
+  {
+    "Key": "BACKER_0280",
+    "Value": {
+      "BackerName": "Sul Yong",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#57E70C"
+    }
+  },
+  {
+    "Key": "BACKER_0281",
+    "Value": {
+      "BackerName": "Conflikted",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#05B073"
+    }
+  },
+  {
+    "Key": "BACKER_0282",
+    "Value": {
+      "BackerName": "Darrin Sommers",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#9A15F1"
+    }
+  },
+  {
+    "Key": "BACKER_0283",
+    "Value": {
+      "BackerName": "Dengojin & Shiroi Koumori",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D48A55"
+    }
+  },
+  {
+    "Key": "BACKER_0284",
+    "Value": {
+      "BackerName": "Ryan Smith",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#999FDA"
+    }
+  },
+  {
+    "Key": "BACKER_0285",
+    "Value": {
+      "BackerName": "Autobotdan Daniel Norwalk ",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#3C409F"
+    }
+  },
+  {
+    "Key": "BACKER_0286",
+    "Value": {
+      "BackerName": "Peter J Varga",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#5E84D9"
+    }
+  },
+  {
+    "Key": "BACKER_0287",
+    "Value": {
+      "BackerName": "Nathan Mc. - DSF",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#74EC12"
+    }
+  },
+  {
+    "Key": "BACKER_0288",
+    "Value": {
+      "BackerName": "Kim Seong Chan",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#07A381"
+    }
+  },
+  {
+    "Key": "BACKER_0289",
+    "Value": {
+      "BackerName": "David Eugene Larkin",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#6243C9"
+    }
+  },
+  {
+    "Key": "BACKER_0290",
+    "Value": {
+      "BackerName": "odenut",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#1A19AA"
+    }
+  },
+  {
+    "Key": "BACKER_0291",
+    "Value": {
+      "BackerName": "RnG Joker",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#CA5B64"
+    }
+  },
+  {
+    "Key": "BACKER_0292",
+    "Value": {
+      "BackerName": "infilmity",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#CFE639"
+    }
+  },
+  {
+    "Key": "BACKER_0293",
+    "Value": {
+      "BackerName": "Tom Snider",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#8D861F"
+    }
+  },
+  {
+    "Key": "BACKER_0294",
+    "Value": {
+      "BackerName": "Brandon Douglas Code",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#350D52"
+    }
+  },
+  {
+    "Key": "BACKER_0295",
+    "Value": {
+      "BackerName": "Creed Ironrose",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#2D7259"
+    }
+  },
+  {
+    "Key": "BACKER_0296",
+    "Value": {
+      "BackerName": "SKD CHISEY0 KUUROS",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D5FDD6"
+    }
+  },
+  {
+    "Key": "BACKER_0297",
+    "Value": {
+      "BackerName": "Garuda Illo",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B30232"
+    }
+  },
+  {
+    "Key": "BACKER_0298",
+    "Value": {
+      "BackerName": "Brenan Kade Flinders",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#373FC6"
+    }
+  },
+  {
+    "Key": "BACKER_0299",
+    "Value": {
+      "BackerName": "Guardian Games",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#65B5DB"
+    }
+  },
+  {
+    "Key": "BACKER_0300",
+    "Value": {
+      "BackerName": "Patrick Benedict",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#AEB0A7"
+    }
+  },
+  {
+    "Key": "BACKER_0301",
+    "Value": {
+      "BackerName": "Matt Richardson",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#831716"
+    }
+  },
+  {
+    "Key": "BACKER_0302",
+    "Value": {
+      "BackerName": "Bakawolf",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#3EAC0C"
+    }
+  },
+  {
+    "Key": "BACKER_0303",
+    "Value": {
+      "BackerName": "iMeidai",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#8D446D"
+    }
+  },
+  {
+    "Key": "BACKER_0304",
+    "Value": {
+      "BackerName": "Steker Miller",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#5B41D4"
+    }
+  },
+  {
+    "Key": "BACKER_0305",
+    "Value": {
+      "BackerName": "Pendragon",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#0355E1"
+    }
+  },
+  {
+    "Key": "BACKER_0306",
+    "Value": {
+      "BackerName": "Cagedpixel",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#01FC77"
+    }
+  },
+  {
+    "Key": "BACKER_0307",
+    "Value": {
+      "BackerName": "Danny Vu",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A7F112"
+    }
+  },
+  {
+    "Key": "BACKER_0308",
+    "Value": {
+      "BackerName": "Etienne Delattre",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#EE8F7B"
+    }
+  },
+  {
+    "Key": "BACKER_0309",
+    "Value": {
+      "BackerName": "Jacob Carver",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#DFAF4F"
+    }
+  },
+  {
+    "Key": "BACKER_0310",
+    "Value": {
+      "BackerName": "Keyota",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#CF913A"
+    }
+  },
+  {
+    "Key": "BACKER_0311",
+    "Value": {
+      "BackerName": "Josh M",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#BCBBFF"
+    }
+  },
+  {
+    "Key": "BACKER_0312",
+    "Value": {
+      "BackerName": "Jesse Roberts",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E90074"
+    }
+  },
+  {
+    "Key": "BACKER_0313",
+    "Value": {
+      "BackerName": "Whitney Erickson",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D95E3D"
+    }
+  },
+  {
+    "Key": "BACKER_0314",
+    "Value": {
+      "BackerName": "Michael Carmona ",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#03D47B"
+    }
+  },
+  {
+    "Key": "BACKER_0315",
+    "Value": {
+      "BackerName": "John Rivera",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#44B5D4"
+    }
+  },
+  {
+    "Key": "BACKER_0316",
+    "Value": {
+      "BackerName": "Daniel A Miguel",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#94A5F2"
+    }
+  },
+  {
+    "Key": "BACKER_0317",
+    "Value": {
+      "BackerName": "NWIFSER",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#EF2983"
+    }
+  },
+  {
+    "Key": "BACKER_0318",
+    "Value": {
+      "BackerName": "Matthew Bare",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#5212E5"
+    }
+  },
+  {
+    "Key": "BACKER_0319",
+    "Value": {
+      "BackerName": "moefad87",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#9EB527"
+    }
+  },
+  {
+    "Key": "BACKER_0320",
+    "Value": {
+      "BackerName": "Martin Thoroughgood",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#73C332"
+    }
+  },
+  {
+    "Key": "BACKER_0321",
+    "Value": {
+      "BackerName": "DrCapsaicin",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#83AC70"
+    }
+  },
+  {
+    "Key": "BACKER_0322",
+    "Value": {
+      "BackerName": "Richard James Griffin",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#FB3AA0"
+    }
+  },
+  {
+    "Key": "BACKER_0323",
+    "Value": {
+      "BackerName": "Aarchel",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#ACE528"
+    }
+  },
+  {
+    "Key": "BACKER_0324",
+    "Value": {
+      "BackerName": "Alfred Tsui",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#774B8C"
+    }
+  },
+  {
+    "Key": "BACKER_0325",
+    "Value": {
+      "BackerName": "EarthWormJim-ManuelSilva",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#6B8D49"
+    }
+  },
+  {
+    "Key": "BACKER_0326",
+    "Value": {
+      "BackerName": "Seth Henriksen",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#1B0698"
+    }
+  },
+  {
+    "Key": "BACKER_0327",
+    "Value": {
+      "BackerName": "Niels 'Dutch Dwarf' Simons",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#2CF02E"
+    }
+  },
+  {
+    "Key": "BACKER_0328",
+    "Value": {
+      "BackerName": "Jeremy Tyson Ray",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#07B42E"
+    }
+  },
+  {
+    "Key": "BACKER_0329",
+    "Value": {
+      "BackerName": "Cinza Zeravika",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#CCF2BA"
+    }
+  },
+  {
+    "Key": "BACKER_0330",
+    "Value": {
+      "BackerName": "Blake Edward Tisdale",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#EB5515"
+    }
+  },
+  {
+    "Key": "BACKER_0331",
+    "Value": {
+      "BackerName": "Aubrey Cox",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#146168"
+    }
+  },
+  {
+    "Key": "BACKER_0332",
+    "Value": {
+      "BackerName": "Alan L Matthews",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#897C16"
+    }
+  },
+  {
+    "Key": "BACKER_0333",
+    "Value": {
+      "BackerName": "L.Dardeer (L-Digital)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A5C340"
+    }
+  },
+  {
+    "Key": "BACKER_0334",
+    "Value": {
+      "BackerName": "Andrew J Marti (Bear078)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#398A81"
+    }
+  },
+  {
+    "Key": "BACKER_0335",
+    "Value": {
+      "BackerName": "Chi Teng Wong",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F76268"
+    }
+  },
+  {
+    "Key": "BACKER_0336",
+    "Value": {
+      "BackerName": "Clive Farquhar",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#50C225"
+    }
+  },
+  {
+    "Key": "BACKER_0337",
+    "Value": {
+      "BackerName": "Nick Jeswald",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#0CD3DA"
+    }
+  },
+  {
+    "Key": "BACKER_0338",
+    "Value": {
+      "BackerName": "Mathieu Dumouchel ",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A8B980"
+    }
+  },
+  {
+    "Key": "BACKER_0339",
+    "Value": {
+      "BackerName": "Aldo Malagon",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#4135BD"
+    }
+  },
+  {
+    "Key": "BACKER_0340",
+    "Value": {
+      "BackerName": "Stephybot",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#3D017C"
+    }
+  },
+  {
+    "Key": "BACKER_0341",
+    "Value": {
+      "BackerName": "Scott Helfrich",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#9A5C07"
+    }
+  },
+  {
+    "Key": "BACKER_0342",
+    "Value": {
+      "BackerName": "Adam Zmarzlinski ",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#1EB5D9"
+    }
+  },
+  {
+    "Key": "BACKER_0343",
+    "Value": {
+      "BackerName": "DarkDragon",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A036F7"
+    }
+  },
+  {
+    "Key": "BACKER_0344",
+    "Value": {
+      "BackerName": "Adelaide Walter",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#16D791"
+    }
+  },
+  {
+    "Key": "BACKER_0345",
+    "Value": {
+      "BackerName": "tom.r",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#ACB6C4"
+    }
+  },
+  {
+    "Key": "BACKER_0346",
+    "Value": {
+      "BackerName": "M. James Short",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#BE7B56"
+    }
+  },
+  {
+    "Key": "BACKER_0347",
+    "Value": {
+      "BackerName": "Twinaldo",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#64E7D4"
+    }
+  },
+  {
+    "Key": "BACKER_0348",
+    "Value": {
+      "BackerName": "Repelega brothers",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#15EC09"
+    }
+  },
+  {
+    "Key": "BACKER_0349",
+    "Value": {
+      "BackerName": "Bruce Clawson",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E4CD62"
+    }
+  },
+  {
+    "Key": "BACKER_0350",
+    "Value": {
+      "BackerName": "Oddie Colon",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#978D56"
+    }
+  },
+  {
+    "Key": "BACKER_0351",
+    "Value": {
+      "BackerName": "Orin Spiess",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#067688"
+    }
+  },
+  {
+    "Key": "BACKER_0352",
+    "Value": {
+      "BackerName": "Skander Ben Slimane",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D4F6FD"
+    }
+  },
+  {
+    "Key": "BACKER_0353",
+    "Value": {
+      "BackerName": "BawesomeBurf",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#9165D3"
+    }
+  },
+  {
+    "Key": "BACKER_0354",
+    "Value": {
+      "BackerName": "James B Closs",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E27675"
+    }
+  },
+  {
+    "Key": "BACKER_0355",
+    "Value": {
+      "BackerName": "Caliber345 ",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#5CEA1F"
+    }
+  },
+  {
+    "Key": "BACKER_0356",
+    "Value": {
+      "BackerName": "Ironstar",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#6E842A"
+    }
+  },
+  {
+    "Key": "BACKER_0357",
+    "Value": {
+      "BackerName": "Bolt McLargeHuge",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#AD2D46"
+    }
+  },
+  {
+    "Key": "BACKER_0358",
+    "Value": {
+      "BackerName": "Aaron Akorn Kornick",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F4F466"
+    }
+  },
+  {
+    "Key": "BACKER_0359",
+    "Value": {
+      "BackerName": "Stephen Kessler (Zangril)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#23EB43"
+    }
+  },
+  {
+    "Key": "BACKER_0360",
+    "Value": {
+      "BackerName": "Elfeibian Martinez",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#417D30"
+    }
+  },
+  {
+    "Key": "BACKER_0361",
+    "Value": {
+      "BackerName": "John O'Leary III",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#00165C"
+    }
+  },
+  {
+    "Key": "BACKER_0362",
+    "Value": {
+      "BackerName": "Benjamin \"Terror Van\" Cole",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A5ABFD"
+    }
+  },
+  {
+    "Key": "BACKER_0363",
+    "Value": {
+      "BackerName": "Lamda2nd",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#24AFB8"
+    }
+  },
+  {
+    "Key": "BACKER_0364",
+    "Value": {
+      "BackerName": "ottan03",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#1115BC"
+    }
+  },
+  {
+    "Key": "BACKER_0365",
+    "Value": {
+      "BackerName": "SujeatChiamkitrung",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#7694BF"
+    }
+  },
+  {
+    "Key": "BACKER_0366",
+    "Value": {
+      "BackerName": "Jeremiah Dudek",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#95CC5A"
+    }
+  },
+  {
+    "Key": "BACKER_0367",
+    "Value": {
+      "BackerName": "<Mo>*Edward.Chung*</Mo>",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#9D583C"
+    }
+  },
+  {
+    "Key": "BACKER_0368",
+    "Value": {
+      "BackerName": "Katsuyuki Ohmuro",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#45923E"
+    }
+  },
+  {
+    "Key": "BACKER_0369",
+    "Value": {
+      "BackerName": "Mike Wickham",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#CB6580"
+    }
+  },
+  {
+    "Key": "BACKER_0370",
+    "Value": {
+      "BackerName": "Josue GO",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#203FFD"
+    }
+  },
+  {
+    "Key": "BACKER_0371",
+    "Value": {
+      "BackerName": "Michael BloodCloud",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#7DA600"
+    }
+  },
+  {
+    "Key": "BACKER_0372",
+    "Value": {
+      "BackerName": "Jason Helton",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#76B375"
+    }
+  },
+  {
+    "Key": "BACKER_0373",
+    "Value": {
+      "BackerName": "h.higuchi",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#EFF697"
+    }
+  },
+  {
+    "Key": "BACKER_0374",
+    "Value": {
+      "BackerName": "Daniel Stoughton",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#004E3E"
+    }
+  },
+  {
+    "Key": "BACKER_0375",
+    "Value": {
+      "BackerName": "Hebi Lee !!Voy Sobrao!!!",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D059F7"
+    }
+  },
+  {
+    "Key": "BACKER_0376",
+    "Value": {
+      "BackerName": "RockyMountainGamer",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A764FE"
+    }
+  },
+  {
+    "Key": "BACKER_0377",
+    "Value": {
+      "BackerName": "Tony Duckles",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#720171"
+    }
+  },
+  {
+    "Key": "BACKER_0378",
+    "Value": {
+      "BackerName": "Mikael Sorlie",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#0F9D9F"
+    }
+  },
+  {
+    "Key": "BACKER_0379",
+    "Value": {
+      "BackerName": "reactivearmor",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B591B8"
+    }
+  },
+  {
+    "Key": "BACKER_0380",
+    "Value": {
+      "BackerName": "Joshua Stetson",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#CC4AA9"
+    }
+  },
+  {
+    "Key": "BACKER_0381",
+    "Value": {
+      "BackerName": "Stan dragonFist So",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#17CF88"
+    }
+  },
+  {
+    "Key": "BACKER_0382",
+    "Value": {
+      "BackerName": "Mark Malpass(Dragon Spasm)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#634D96"
+    }
+  },
+  {
+    "Key": "BACKER_0383",
+    "Value": {
+      "BackerName": "Zack (ZMerik) Berg",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B76355"
+    }
+  },
+  {
+    "Key": "BACKER_0384",
+    "Value": {
+      "BackerName": "QuickSciFi (CJRD)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#853887"
+    }
+  },
+  {
+    "Key": "BACKER_0385",
+    "Value": {
+      "BackerName": "Sqeaks again apparently!",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#889F62"
+    }
+  },
+  {
+    "Key": "BACKER_0386",
+    "Value": {
+      "BackerName": "Raleigh Barbee",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#CBAF2A"
+    }
+  },
+  {
+    "Key": "BACKER_0387",
+    "Value": {
+      "BackerName": "cHiLiK",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F88ADE"
+    }
+  },
+  {
+    "Key": "BACKER_0388",
+    "Value": {
+      "BackerName": "Senior Gaming Geek Star Lu",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#41D167"
+    }
+  },
+  {
+    "Key": "BACKER_0389",
+    "Value": {
+      "BackerName": "Erik Lundberg",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#8A0ABB"
+    }
+  },
+  {
+    "Key": "BACKER_0390",
+    "Value": {
+      "BackerName": "Jimmy Vincenti",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F99C83"
+    }
+  },
+  {
+    "Key": "BACKER_0391",
+    "Value": {
+      "BackerName": "Richard M. Hill",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#AE55C5"
+    }
+  },
+  {
+    "Key": "BACKER_0392",
+    "Value": {
+      "BackerName": "JP Thomsen",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#C69548"
+    }
+  },
+  {
+    "Key": "BACKER_0393",
+    "Value": {
+      "BackerName": "idiotsavant0728",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#ADD940"
+    }
+  },
+  {
+    "Key": "BACKER_0394",
+    "Value": {
+      "BackerName": "USHIKUDAIBUTU",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#2F932E"
+    }
+  },
+  {
+    "Key": "BACKER_0395",
+    "Value": {
+      "BackerName": "Jose L. Martinez Gonzalez",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B0CDC3"
+    }
+  },
+  {
+    "Key": "BACKER_0396",
+    "Value": {
+      "BackerName": "Proximius",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#6C204C"
+    }
+  },
+  {
+    "Key": "BACKER_0397",
+    "Value": {
+      "BackerName": "Elena Pereira",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#3D9DC9"
+    }
+  },
+  {
+    "Key": "BACKER_0398",
+    "Value": {
+      "BackerName": "Mark Zirkelbach Jr",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#418411"
+    }
+  },
+  {
+    "Key": "BACKER_0399",
+    "Value": {
+      "BackerName": "Martijn Bruning",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#81190D"
+    }
+  },
+  {
+    "Key": "BACKER_0400",
+    "Value": {
+      "BackerName": "Jared Boynowski",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#735EB3"
+    }
+  },
+  {
+    "Key": "BACKER_0401",
+    "Value": {
+      "BackerName": "Robert James Paine",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#847811"
+    }
+  },
+  {
+    "Key": "BACKER_0402",
+    "Value": {
+      "BackerName": "Idward",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#85AD97"
+    }
+  },
+  {
+    "Key": "BACKER_0403",
+    "Value": {
+      "BackerName": "[Retro]Kenjoca",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#FE5A41"
+    }
+  },
+  {
+    "Key": "BACKER_0404",
+    "Value": {
+      "BackerName": "Tattered Seraph",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#EF69FA"
+    }
+  },
+  {
+    "Key": "BACKER_0405",
+    "Value": {
+      "BackerName": "Hauke Fischer",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#349AD3"
+    }
+  },
+  {
+    "Key": "BACKER_0406",
+    "Value": {
+      "BackerName": "Kelly Mohammed",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#0808BE"
+    }
+  },
+  {
+    "Key": "BACKER_0407",
+    "Value": {
+      "BackerName": "Abnormal Freak",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E01E8B"
+    }
+  },
+  {
+    "Key": "BACKER_0408",
+    "Value": {
+      "BackerName": "Joachim 'Onkel Jo' Hesse",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#7FEDA0"
+    }
+  },
+  {
+    "Key": "BACKER_0409",
+    "Value": {
+      "BackerName": "Jeff(Deflesh) & Taira_Rox",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#279DEE"
+    }
+  },
+  {
+    "Key": "BACKER_0410",
+    "Value": {
+      "BackerName": "Agar3s",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#4E840D"
+    }
+  },
+  {
+    "Key": "BACKER_0411",
+    "Value": {
+      "BackerName": "Marc Gilfillan",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#DCBB89"
+    }
+  },
+  {
+    "Key": "BACKER_0412",
+    "Value": {
+      "BackerName": "Nathaniel Awesome!",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#996C43"
+    }
+  },
+  {
+    "Key": "BACKER_0413",
+    "Value": {
+      "BackerName": "Tim&Bonnie",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D8D017"
+    }
+  },
+  {
+    "Key": "BACKER_0414",
+    "Value": {
+      "BackerName": "Mufflon",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#4E0763"
+    }
+  },
+  {
+    "Key": "BACKER_0415",
+    "Value": {
+      "BackerName": "Gabriel Sateraas",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#2AF0F5"
+    }
+  },
+  {
+    "Key": "BACKER_0416",
+    "Value": {
+      "BackerName": "Ralph Egas",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#043C2B"
+    }
+  },
+  {
+    "Key": "BACKER_0417",
+    "Value": {
+      "BackerName": "Zen Skeleton",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F3EB60"
+    }
+  },
+  {
+    "Key": "BACKER_0418",
+    "Value": {
+      "BackerName": "Andrew Iverson",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F8F10C"
+    }
+  },
+  {
+    "Key": "BACKER_0419",
+    "Value": {
+      "BackerName": "Craig Austin",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D7937D"
+    }
+  },
+  {
+    "Key": "BACKER_0420",
+    "Value": {
+      "BackerName": "John Liu",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#11B526"
+    }
+  },
+  {
+    "Key": "BACKER_0421",
+    "Value": {
+      "BackerName": "Yuuta Kikuya",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#4D501C"
+    }
+  },
+  {
+    "Key": "BACKER_0422",
+    "Value": {
+      "BackerName": "John Wells",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#AFB5DE"
+    }
+  },
+  {
+    "Key": "BACKER_0423",
+    "Value": {
+      "BackerName": "Manfredo Valdes",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#3F4BC6"
+    }
+  },
+  {
+    "Key": "BACKER_0424",
+    "Value": {
+      "BackerName": "Jeff Williams (alfzer0)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#6C374E"
+    }
+  },
+  {
+    "Key": "BACKER_0425",
+    "Value": {
+      "BackerName": "Jesse Dubinsky",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#EDAF97"
+    }
+  },
+  {
+    "Key": "BACKER_0426",
+    "Value": {
+      "BackerName": "Sargon Gale",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#2C1F9C"
+    }
+  },
+  {
+    "Key": "BACKER_0427",
+    "Value": {
+      "BackerName": "kamemonster=RexHK",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B2E009"
+    }
+  },
+  {
+    "Key": "BACKER_0428",
+    "Value": {
+      "BackerName": "Scott Ericson ^_^",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F931BA"
+    }
+  },
+  {
+    "Key": "BACKER_0429",
+    "Value": {
+      "BackerName": "Patrick Skelly",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#39CF58"
+    }
+  },
+  {
+    "Key": "BACKER_0430",
+    "Value": {
+      "BackerName": "John Wallihan",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E59172"
+    }
+  },
+  {
+    "Key": "BACKER_0431",
+    "Value": {
+      "BackerName": "nakodid",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E59829"
+    }
+  },
+  {
+    "Key": "BACKER_0432",
+    "Value": {
+      "BackerName": "Ghostdog",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#5C9806"
+    }
+  },
+  {
+    "Key": "BACKER_0433",
+    "Value": {
+      "BackerName": "Eric P. Villarreal",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#0C36A1"
+    }
+  },
+  {
+    "Key": "BACKER_0434",
+    "Value": {
+      "BackerName": "Andrew J Gebhardt",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#291E43"
+    }
+  },
+  {
+    "Key": "BACKER_0435",
+    "Value": {
+      "BackerName": "A fan ;)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#856CB0"
+    }
+  },
+  {
+    "Key": "BACKER_0436",
+    "Value": {
+      "BackerName": "Miles 'McDareth' Clark",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A71851"
+    }
+  },
+  {
+    "Key": "BACKER_0437",
+    "Value": {
+      "BackerName": "Shane Farrell",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A5D504"
+    }
+  },
+  {
+    "Key": "BACKER_0438",
+    "Value": {
+      "BackerName": "Renee (Gaawa-chan)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#7B2362"
+    }
+  },
+  {
+    "Key": "BACKER_0439",
+    "Value": {
+      "BackerName": "Yaen",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B42A78"
+    }
+  },
+  {
+    "Key": "BACKER_0440",
+    "Value": {
+      "BackerName": "E(pic) B(rew) Hunter",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#9BC0FB"
+    }
+  },
+  {
+    "Key": "BACKER_0441",
+    "Value": {
+      "BackerName": "Mwisk/Hardle",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D97666"
+    }
+  },
+  {
+    "Key": "BACKER_0442",
+    "Value": {
+      "BackerName": "Alae & Sara!!",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#C394A1"
+    }
+  },
+  {
+    "Key": "BACKER_0443",
+    "Value": {
+      "BackerName": "Bradford \"Paco\" M.",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B84F4D"
+    }
+  },
+  {
+    "Key": "BACKER_0444",
+    "Value": {
+      "BackerName": "DantheManDroid",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#173294"
+    }
+  },
+  {
+    "Key": "BACKER_0445",
+    "Value": {
+      "BackerName": "MiltyKiss",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#43FC6F"
+    }
+  },
+  {
+    "Key": "BACKER_0446",
+    "Value": {
+      "BackerName": "Hasani Wompdevil Deziaueto",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#CEA491"
+    }
+  },
+  {
+    "Key": "BACKER_0447",
+    "Value": {
+      "BackerName": "Cory Kelley",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#9E8D3F"
+    }
+  },
+  {
+    "Key": "BACKER_0448",
+    "Value": {
+      "BackerName": "Marcuszka Pierwszy",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E0AA2D"
+    }
+  },
+  {
+    "Key": "BACKER_0449",
+    "Value": {
+      "BackerName": "kapao",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#87329A"
+    }
+  },
+  {
+    "Key": "BACKER_0450",
+    "Value": {
+      "BackerName": "James R. Weitzel",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#977A18"
+    }
+  },
+  {
+    "Key": "BACKER_0451",
+    "Value": {
+      "BackerName": "Steven Jason Hall",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#2C1A50"
+    }
+  },
+  {
+    "Key": "BACKER_0452",
+    "Value": {
+      "BackerName": "Sagenaruto68",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#0E559A"
+    }
+  },
+  {
+    "Key": "BACKER_0453",
+    "Value": {
+      "BackerName": "Nola Winnicki",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#37D97A"
+    }
+  },
+  {
+    "Key": "BACKER_0454",
+    "Value": {
+      "BackerName": "Michael Kuk",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B4E417"
+    }
+  },
+  {
+    "Key": "BACKER_0455",
+    "Value": {
+      "BackerName": "wikipoem",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#4D3AA2"
+    }
+  },
+  {
+    "Key": "BACKER_0456",
+    "Value": {
+      "BackerName": "Blaine Ray",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#36CF34"
+    }
+  },
+  {
+    "Key": "BACKER_0457",
+    "Value": {
+      "BackerName": "Cattleya J",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#08FD38"
+    }
+  },
+  {
+    "Key": "BACKER_0458",
+    "Value": {
+      "BackerName": "Chris 'pnkfloyd71' Lajoie",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#0EAF20"
+    }
+  },
+  {
+    "Key": "BACKER_0459",
+    "Value": {
+      "BackerName": "Cobalt the Kobold",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#C5FE0C"
+    }
+  },
+  {
+    "Key": "BACKER_0460",
+    "Value": {
+      "BackerName": "Michael L Becker",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#17059F"
+    }
+  },
+  {
+    "Key": "BACKER_0461",
+    "Value": {
+      "BackerName": "Carol Finkenstadt",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#19EAE1"
+    }
+  },
+  {
+    "Key": "BACKER_0462",
+    "Value": {
+      "BackerName": "Amir \"Dude Bro\" Hematyar",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#601697"
+    }
+  },
+  {
+    "Key": "BACKER_0463",
+    "Value": {
+      "BackerName": "Alexander Calvo",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#59D617"
+    }
+  },
+  {
+    "Key": "BACKER_0464",
+    "Value": {
+      "BackerName": "Rob Wagner",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#65C10C"
+    }
+  },
+  {
+    "Key": "BACKER_0465",
+    "Value": {
+      "BackerName": "Daniel Andres",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E4B825"
+    }
+  },
+  {
+    "Key": "BACKER_0466",
+    "Value": {
+      "BackerName": "Dampire666",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#8BB682"
+    }
+  },
+  {
+    "Key": "BACKER_0467",
+    "Value": {
+      "BackerName": "Crowdtheory ^_-b",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#FA14D9"
+    }
+  },
+  {
+    "Key": "BACKER_0468",
+    "Value": {
+      "BackerName": "Peter Lewis",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B966D8"
+    }
+  },
+  {
+    "Key": "BACKER_0469",
+    "Value": {
+      "BackerName": "Liam_ BigNasty_Utting",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#0C98D8"
+    }
+  },
+  {
+    "Key": "BACKER_0470",
+    "Value": {
+      "BackerName": "afraidofflames",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#27796F"
+    }
+  },
+  {
+    "Key": "BACKER_0471",
+    "Value": {
+      "BackerName": "Jose Luis Morales",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#29649C"
+    }
+  },
+  {
+    "Key": "BACKER_0472",
+    "Value": {
+      "BackerName": "Johnny Evasiuk",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#34A794"
+    }
+  },
+  {
+    "Key": "BACKER_0473",
+    "Value": {
+      "BackerName": "Rory Vardamis ",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#1C6ED6"
+    }
+  },
+  {
+    "Key": "BACKER_0474",
+    "Value": {
+      "BackerName": "Aubrey 'Kirtaner' Cottle",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#1C499F"
+    }
+  },
+  {
+    "Key": "BACKER_0475",
+    "Value": {
+      "BackerName": "Kim jeong seok_WonderMoMo",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#1469C8"
+    }
+  },
+  {
+    "Key": "BACKER_0476",
+    "Value": {
+      "BackerName": "Team Bo Hous",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#DB254E"
+    }
+  },
+  {
+    "Key": "BACKER_0477",
+    "Value": {
+      "BackerName": "EsseQuamVideri",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#BB13EA"
+    }
+  },
+  {
+    "Key": "BACKER_0478",
+    "Value": {
+      "BackerName": "BalancedHydra",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#854833"
+    }
+  },
+  {
+    "Key": "BACKER_0479",
+    "Value": {
+      "BackerName": "Molock Da Mac",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A3961D"
+    }
+  },
+  {
+    "Key": "BACKER_0480",
+    "Value": {
+      "BackerName": "Chris \"CloudTypeR\" Dubois",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#13C006"
+    }
+  },
+  {
+    "Key": "BACKER_0481",
+    "Value": {
+      "BackerName": "edf1",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#58B275"
+    }
+  },
+  {
+    "Key": "BACKER_0482",
+    "Value": {
+      "BackerName": "John Anthony Tang",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#634E1C"
+    }
+  },
+  {
+    "Key": "BACKER_0483",
+    "Value": {
+      "BackerName": "NYG&C: Nick & Matt Cintron",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#FEFFDE"
+    }
+  },
+  {
+    "Key": "BACKER_0484",
+    "Value": {
+      "BackerName": "CRISIS TORMENT KAIN - THFN",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F9BE70"
+    }
+  },
+  {
+    "Key": "BACKER_0485",
+    "Value": {
+      "BackerName": "David \"Kirex Tepes\" Gamero",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D15AC0"
+    }
+  },
+  {
+    "Key": "BACKER_0486",
+    "Value": {
+      "BackerName": "Caleb / Javier yeider",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#CCE3DE"
+    }
+  },
+  {
+    "Key": "BACKER_0487",
+    "Value": {
+      "BackerName": "Mateusz *willoc* Gladysz",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#9333B4"
+    }
+  },
+  {
+    "Key": "BACKER_0488",
+    "Value": {
+      "BackerName": "Thomas (Miho is waifu <3)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#0FFD87"
+    }
+  },
+  {
+    "Key": "BACKER_0489",
+    "Value": {
+      "BackerName": "oOJediMindtrick",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#2B64BF"
+    }
+  },
+  {
+    "Key": "BACKER_0490",
+    "Value": {
+      "BackerName": "Jontue Travis",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#CE5F66"
+    }
+  },
+  {
+    "Key": "BACKER_0491",
+    "Value": {
+      "BackerName": "Master Brennan",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#DC7F41"
+    }
+  },
+  {
+    "Key": "BACKER_0492",
+    "Value": {
+      "BackerName": "DuckInADungeon",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#70A579"
+    }
+  },
+  {
+    "Key": "BACKER_0493",
+    "Value": {
+      "BackerName": "Kyle Hutchinson",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#FD1285"
+    }
+  },
+  {
+    "Key": "BACKER_0494",
+    "Value": {
+      "BackerName": "Giladvalkor",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#243E55"
+    }
+  },
+  {
+    "Key": "BACKER_0495",
+    "Value": {
+      "BackerName": "Ronald Smith",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#987625"
+    }
+  },
+  {
+    "Key": "BACKER_0496",
+    "Value": {
+      "BackerName": "Rolando Garcia",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#3FD933"
+    }
+  },
+  {
+    "Key": "BACKER_0497",
+    "Value": {
+      "BackerName": "Matthew N W Bernson",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#94D198"
+    }
+  },
+  {
+    "Key": "BACKER_0498",
+    "Value": {
+      "BackerName": "Pwdrhound",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#282B2F"
+    }
+  },
+  {
+    "Key": "BACKER_0499",
+    "Value": {
+      "BackerName": "David Harder",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#8924C8"
+    }
+  },
+  {
+    "Key": "BACKER_0500",
+    "Value": {
+      "BackerName": "Timbi",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#97D829"
+    }
+  },
+  {
+    "Key": "BACKER_0501",
+    "Value": {
+      "BackerName": "William Paul Baldwin",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#5AC5AA"
+    }
+  },
+  {
+    "Key": "BACKER_0502",
+    "Value": {
+      "BackerName": "Mike Crowley",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#735D75"
+    }
+  },
+  {
+    "Key": "BACKER_0503",
+    "Value": {
+      "BackerName": "Ronnie F'n Clay",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#AF28C9"
+    }
+  },
+  {
+    "Key": "BACKER_0504",
+    "Value": {
+      "BackerName": "Kagan the Devourer",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#717964"
+    }
+  },
+  {
+    "Key": "BACKER_0505",
+    "Value": {
+      "BackerName": "David Puglisi",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F47F37"
+    }
+  },
+  {
+    "Key": "BACKER_0506",
+    "Value": {
+      "BackerName": "Christian Huang",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#970342"
+    }
+  },
+  {
+    "Key": "BACKER_0507",
+    "Value": {
+      "BackerName": "Jorge D. Fuentes (TGMagus)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D87364"
+    }
+  },
+  {
+    "Key": "BACKER_0508",
+    "Value": {
+      "BackerName": "Gilz Taboada",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#DD7FBF"
+    }
+  },
+  {
+    "Key": "BACKER_0509",
+    "Value": {
+      "BackerName": "Oukoro",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F1078B"
+    }
+  },
+  {
+    "Key": "BACKER_0510",
+    "Value": {
+      "BackerName": "Ullthar",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#849598"
+    }
+  },
+  {
+    "Key": "BACKER_0511",
+    "Value": {
+      "BackerName": "Oscar A Ferreiro ",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#88E6B0"
+    }
+  },
+  {
+    "Key": "BACKER_0512",
+    "Value": {
+      "BackerName": "Park Seo-Jin Love",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#BE94EC"
+    }
+  },
+  {
+    "Key": "BACKER_0513",
+    "Value": {
+      "BackerName": "Blakey-san",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E4B032"
+    }
+  },
+  {
+    "Key": "BACKER_0514",
+    "Value": {
+      "BackerName": "Rainebelmont",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E61222"
+    }
+  },
+  {
+    "Key": "BACKER_0515",
+    "Value": {
+      "BackerName": "^_ miyalys _^_ marcus _^",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A09783"
+    }
+  },
+  {
+    "Key": "BACKER_0516",
+    "Value": {
+      "BackerName": "Adrian Andrew McGee",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#3E20FA"
+    }
+  },
+  {
+    "Key": "BACKER_0517",
+    "Value": {
+      "BackerName": "xelasoma ",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#973CF5"
+    }
+  },
+  {
+    "Key": "BACKER_0518",
+    "Value": {
+      "BackerName": "Ever *Hugo* Asunder",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#C223DC"
+    }
+  },
+  {
+    "Key": "BACKER_0519",
+    "Value": {
+      "BackerName": "Matthew Gibson",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#AB6EDD"
+    }
+  },
+  {
+    "Key": "BACKER_0520",
+    "Value": {
+      "BackerName": "Raze",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#02242A"
+    }
+  },
+  {
+    "Key": "BACKER_0521",
+    "Value": {
+      "BackerName": "Russell Jennings",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#52328F"
+    }
+  },
+  {
+    "Key": "BACKER_0522",
+    "Value": {
+      "BackerName": "ThanosOfTitan",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#DF52FE"
+    }
+  },
+  {
+    "Key": "BACKER_0523",
+    "Value": {
+      "BackerName": "Clement BARC",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F20791"
+    }
+  },
+  {
+    "Key": "BACKER_0524",
+    "Value": {
+      "BackerName": "Deska",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#7DCC2E"
+    }
+  },
+  {
+    "Key": "BACKER_0525",
+    "Value": {
+      "BackerName": "Anthraxbees-Mark Archer",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#343939"
+    }
+  },
+  {
+    "Key": "BACKER_0526",
+    "Value": {
+      "BackerName": "Sylvaelric",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#420E1F"
+    }
+  },
+  {
+    "Key": "BACKER_0527",
+    "Value": {
+      "BackerName": "zoko",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#AF0B73"
+    }
+  },
+  {
+    "Key": "BACKER_0528",
+    "Value": {
+      "BackerName": "Steve Burgisser",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#DE19C7"
+    }
+  },
+  {
+    "Key": "BACKER_0529",
+    "Value": {
+      "BackerName": "Duncan Eric Stott BSc, BA",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A9836A"
+    }
+  },
+  {
+    "Key": "BACKER_0530",
+    "Value": {
+      "BackerName": "GManMT540 (Gaige)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#2C6002"
+    }
+  },
+  {
+    "Key": "BACKER_0531",
+    "Value": {
+      "BackerName": "Genisis013",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#0EA3F9"
+    }
+  },
+  {
+    "Key": "BACKER_0532",
+    "Value": {
+      "BackerName": "Ruaidhri Anderson",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#7CCD8F"
+    }
+  },
+  {
+    "Key": "BACKER_0533",
+    "Value": {
+      "BackerName": "NekosYuri",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E4FABB"
+    }
+  },
+  {
+    "Key": "BACKER_0534",
+    "Value": {
+      "BackerName": "Chong Beng Pin & Beng Wei",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#031D71"
+    }
+  },
+  {
+    "Key": "BACKER_0535",
+    "Value": {
+      "BackerName": "Sosa",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#04A6A6"
+    }
+  },
+  {
+    "Key": "BACKER_0536",
+    "Value": {
+      "BackerName": "Chris Sanford",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#C4D183"
+    }
+  },
+  {
+    "Key": "BACKER_0537",
+    "Value": {
+      "BackerName": "Michael Liu",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#489C41"
+    }
+  },
+  {
+    "Key": "BACKER_0538",
+    "Value": {
+      "BackerName": "Issa Kabeer",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D17E10"
+    }
+  },
+  {
+    "Key": "BACKER_0539",
+    "Value": {
+      "BackerName": "Grant McFarlane",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#27C277"
+    }
+  },
+  {
+    "Key": "BACKER_0540",
+    "Value": {
+      "BackerName": "Jonathan E. Alvarez",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#404944"
+    }
+  },
+  {
+    "Key": "BACKER_0541",
+    "Value": {
+      "BackerName": "Jaina Sky",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#DFF6DD"
+    }
+  },
+  {
+    "Key": "BACKER_0542",
+    "Value": {
+      "BackerName": "Randy K.",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A9930F"
+    }
+  },
+  {
+    "Key": "BACKER_0543",
+    "Value": {
+      "BackerName": "Jeremy Rivera",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#AE97A8"
+    }
+  },
+  {
+    "Key": "BACKER_0544",
+    "Value": {
+      "BackerName": "Peter \"Br3wSki\" Tokar",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F38CC2"
+    }
+  },
+  {
+    "Key": "BACKER_0545",
+    "Value": {
+      "BackerName": "Paco Angel (Brett Sessums)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#0EFA7B"
+    }
+  },
+  {
+    "Key": "BACKER_0546",
+    "Value": {
+      "BackerName": "ken ma",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D2E27F"
+    }
+  },
+  {
+    "Key": "BACKER_0547",
+    "Value": {
+      "BackerName": "Jarad Cashman",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#ABBEEB"
+    }
+  },
+  {
+    "Key": "BACKER_0548",
+    "Value": {
+      "BackerName": "Patrick\"Big Patti\"Thompson",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D600A7"
+    }
+  },
+  {
+    "Key": "BACKER_0549",
+    "Value": {
+      "BackerName": "Nolan 'Tatsko' Hall",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#8975EE"
+    }
+  },
+  {
+    "Key": "BACKER_0550",
+    "Value": {
+      "BackerName": "Sheng Yu ",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#236CBA"
+    }
+  },
+  {
+    "Key": "BACKER_0551",
+    "Value": {
+      "BackerName": "Chris DeBroeck",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#135DEB"
+    }
+  },
+  {
+    "Key": "BACKER_0552",
+    "Value": {
+      "BackerName": "Paul Ritter",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#135DEB"
+    }
+  },
+  {
+    "Key": "BACKER_0553",
+    "Value": {
+      "BackerName": "Jacob Olinger, Thaumaturge",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#1E407B"
+    }
+  },
+  {
+    "Key": "BACKER_0554",
+    "Value": {
+      "BackerName": "Malkaveli <Mike Anthony>",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F24546"
+    }
+  },
+  {
+    "Key": "BACKER_0555",
+    "Value": {
+      "BackerName": "Chris Photinopoulos",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B48F0E"
+    }
+  },
+  {
+    "Key": "BACKER_0556",
+    "Value": {
+      "BackerName": "FrictionPin",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#0235F0"
+    }
+  },
+  {
+    "Key": "BACKER_0557",
+    "Value": {
+      "BackerName": "Talon Dean ",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#93A4C5"
+    }
+  },
+  {
+    "Key": "BACKER_0558",
+    "Value": {
+      "BackerName": "Matthew Chambers",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#025354"
+    }
+  },
+  {
+    "Key": "BACKER_0559",
+    "Value": {
+      "BackerName": "Quinn TSANG (WEEWOO)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#21B104"
+    }
+  },
+  {
+    "Key": "BACKER_0560",
+    "Value": {
+      "BackerName": "Connor Stoop",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#7049F4"
+    }
+  },
+  {
+    "Key": "BACKER_0561",
+    "Value": {
+      "BackerName": "Ricky Hmar (Jepute)",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#3768F1"
+    }
+  },
+  {
+    "Key": "BACKER_0562",
+    "Value": {
+      "BackerName": "Axemen #26 Toof-Iddy ",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#1CAA43"
+    }
+  },
+  {
+    "Key": "BACKER_0563",
+    "Value": {
+      "BackerName": "FIIIGO",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#C02461"
+    }
+  },
+  {
+    "Key": "BACKER_0564",
+    "Value": {
+      "BackerName": "Justin P. Benoit",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F21C9F"
+    }
+  },
+  {
+    "Key": "BACKER_0565",
+    "Value": {
+      "BackerName": "Nick is btr thn jake @ gms",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#97B70F"
+    }
+  },
+  {
+    "Key": "BACKER_0566",
+    "Value": {
+      "BackerName": "Jing Liu",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#285EA8"
+    }
+  },
+  {
+    "Key": "BACKER_0567",
+    "Value": {
+      "BackerName": "Jonathan ''JoKa'' Katz",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#11083D"
+    }
+  },
+  {
+    "Key": "BACKER_0568",
+    "Value": {
+      "BackerName": "Pedro Lopez-Crespo Lopez",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#46094C"
+    }
+  },
+  {
+    "Key": "BACKER_0569",
+    "Value": {
+      "BackerName": "leonardi stephane",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#A12980"
+    }
+  },
+  {
+    "Key": "BACKER_0570",
+    "Value": {
+      "BackerName": "Raymond_Pang@@",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#EDEBFC"
+    }
+  },
+  {
+    "Key": "BACKER_0571",
+    "Value": {
+      "BackerName": "Brody @ Draculascastle1",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#288B16"
+    }
+  },
+  {
+    "Key": "BACKER_0572",
+    "Value": {
+      "BackerName": "Askrias",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#B88E9A"
+    }
+  },
+  {
+    "Key": "BACKER_0573",
+    "Value": {
+      "BackerName": "FrostAce",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#952740"
+    }
+  },
+  {
+    "Key": "BACKER_0574",
+    "Value": {
+      "BackerName": "Sicxmade the retroreflux!",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#10DD39"
+    }
+  },
+  {
+    "Key": "BACKER_0575",
+    "Value": {
+      "BackerName": "[DC]DragonGallery",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#ACC721"
+    }
+  },
+  {
+    "Key": "BACKER_0576",
+    "Value": {
+      "BackerName": "Michy Lin",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#C98771"
+    }
+  },
+  {
+    "Key": "BACKER_0577",
+    "Value": {
+      "BackerName": "Sydney Greene",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#0D2F26"
+    }
+  },
+  {
+    "Key": "BACKER_0578",
+    "Value": {
+      "BackerName": "BroDude Jaggies",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#E871B2"
+    }
+  },
+  {
+    "Key": "BACKER_0579",
+    "Value": {
+      "BackerName": "Reis-Shimamura",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#D7A8CD"
+    }
+  },
+  {
+    "Key": "BACKER_0580",
+    "Value": {
+      "BackerName": "Matt Edmonds/Astronaut_79",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#F2F501"
+    }
+  },
+  {
+    "Key": "BACKER_0581",
+    "Value": {
+      "BackerName": "Yashwanth Volety",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#CC3861"
+    }
+  },
+  {
+    "Key": "BACKER_0582",
+    "Value": {
+      "BackerName": "ZY_likes_Lulu_decently",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#471BA8"
+    }
+  },
+  {
+    "Key": "BACKER_0583",
+    "Value": {
+      "BackerName": "ZY_likes_Lulu_decently",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#7AEA11"
+    }
+  },
+  {
+    "Key": "BACKER_0584",
+    "Value": {
+      "BackerName": "NINETEEN/19 A.K.A JAE BREW",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#97E662"
+    }
+  },
+  {
+    "Key": "BACKER_0585",
+    "Value": {
+      "BackerName": "Doug Dennis f(o_O)f",
+      "EntryClan": "EClanType::DungeonClan",
+      "Comment": "",
+      "Phrase": "#C727BF"
+    }
+  }
+]

@@ -1,0 +1,1088 @@
+[
+  {
+    "Key": "Paddy",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Flour",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Egg",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "DragonsEgg",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Sugar",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "SoySauce",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Miso",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Pepper",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Ginger",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Garlic",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Cinnamon",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "MocoOil",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Rennet",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Milk",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "MilkofZagan",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Corn",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Potato",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Tomato",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "MocoOnion",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "DaturaLeaf",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "CerberaLeaf",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Clam",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Uni",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "RedBean",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "CacaoBean",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "ForneusFilet",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "DeeseamaFilet",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "G-LabolasFilet",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "YorktonMeat",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "ZaganMeat",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "HaagentiFilet",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Strawberry",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Apple",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Lemon",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Ambrosia",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "BakingSoda",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Butter",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Cheese",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Soda",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Consommé",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "SaltBroth",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "SoyBroth",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "TonkotsuBroth",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "MisoBroth",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "HeavyCream",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "RedBeanPaste",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Cocoa",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "ChineseNoodles",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Pasta",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Bread",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "PieDough",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "PizzaDough",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "CrepeDough",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "CurryPowder",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "CurrySauce",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "WhiteSauce",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "VongoleSauce",
+    "Value": {
+      "Category": "ECarriedCatalog::FoodStuff"
+    }
+  },
+  {
+    "Key": "Alkhahest",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Sulfur",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Saltpeter",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Mercury",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Sulfate",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Gunpowder",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Ectoplasm",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Bronze",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Iron",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Obsidian",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Steel",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Silver",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "DamascusSteel",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Mithril",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Platinum",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Clystal",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Gold",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Hihiirokane",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Orichalcum",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Hemp",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Cotton",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Felt",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Silk",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Leather",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Halite",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "ElmLumber",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "OakLumber",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "WalnutLumber",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "MahoganyLumber",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "CypressLumber",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Ruby",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Sapphire",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Emerald",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Diamond",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Bixbite",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Alexandrite",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "8BitCoin",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "16BitCoin",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "32BitCoin",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Medal022",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Recklesslimb",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "SharpRazor",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "DevilBookPaperStrip",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "deathBringerDebris",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Mimicchairdebris",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "MonsterBirdTears",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Cyhyraethtear",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Lamastutear",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Giantratteeth",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Batfang",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "DemonDogFang",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Ivory",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Devilsfang",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Gusionfang",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Marbasfang",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Gieremundfang",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Wolfclaw",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Dragonclaw",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Apenail",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Chicomecoatlhorn",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Gaaphorn",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Gamiginhoof",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Glashtynhoof",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "MeltedBone",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Dragonbone",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Knightbone",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Bloodybone",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "MeltingSkull",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Jeneralskull",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Warriorskull",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Bloodyskull",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Mimicshell",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Dethtrapshell",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "CannonDebris",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Gargoyledebris",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Gamiginhair",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Glashtynhair",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "ManeLion",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Marbasmane",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "MonsterBirdHair",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "ThunderbirdFeathers",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "WindFeathers",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Haagentifeather",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "BatFeather",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Toadwing",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Gaapwing",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Giantrattail",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "DevilRoyalTail",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Lilimtail",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Lamastutail",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Lilimear",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Dineseawing",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Tytaniawing",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "FairyPowder",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "TytaniaPoisonedNeedle",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Dragonscales",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Abyssguardianbastard",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "DemonCloth",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Assasincloth",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Lerajecloth",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Ninjacloth",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "DemonDogSkin",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "MonkeyFur",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Buerfur",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Wolfmanfur",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Decarabialeather",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "DevilBookLeather",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Decimaleather",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Silverwolffur",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Gusionfur",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Poisontoadeye",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Evileye",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "SeekerEye",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "DevilRoyalEyeball",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "ToadHeart",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "BelialHeart",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "EligosHeart",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "AbyssguardianHeart",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "MurmurHeart",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Toadfluid",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "Misteriousfluid",
+    "Value": {
+      "Category": "ECarriedCatalog::Ingredient"
+    }
+  },
+  {
+    "Key": "SeedCorn",
+    "Value": {
+      "Category": "ECarriedCatalog::Seed"
+    }
+  },
+  {
+    "Key": "SeedRice",
+    "Value": {
+      "Category": "ECarriedCatalog::Seed"
+    }
+  },
+  {
+    "Key": "SeedPotato",
+    "Value": {
+      "Category": "ECarriedCatalog::Seed"
+    }
+  }
+]

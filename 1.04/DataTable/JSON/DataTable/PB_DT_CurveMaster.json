@@ -1,0 +1,82 @@
+[
+  {
+    "Key": "SlopeCurve",
+    "Value": {
+      "FileName": {
+        "Package": "None",
+        "Path": ""
+      },
+      "CurveType": "ECurveType::Float"
+    }
+  },
+  {
+    "Key": "speedTest",
+    "Value": {
+      "FileName": {
+        "Package": "None",
+        "Path": ""
+      },
+      "CurveType": "ECurveType::Vector"
+    }
+  },
+  {
+    "Key": "elementalCurve",
+    "Value": {
+      "FileName": {
+        "Package": "None",
+        "Path": ""
+      },
+      "CurveType": "ECurveType::Vector"
+    }
+  },
+  {
+    "Key": "N3102_DEFAULT_SPEED",
+    "Value": {
+      "FileName": {
+        "Package": "None",
+        "Path": ""
+      },
+      "CurveType": "ECurveType::Float"
+    }
+  },
+  {
+    "Key": "N3102_wait_SPEED",
+    "Value": {
+      "FileName": {
+        "Package": "None",
+        "Path": ""
+      },
+      "CurveType": "ECurveType::Float"
+    }
+  },
+  {
+    "Key": "N3090_FLOATING",
+    "Value": {
+      "FileName": {
+        "Package": "None",
+        "Path": ""
+      },
+      "CurveType": "ECurveType::Vector"
+    }
+  },
+  {
+    "Key": "N3073_JUMP",
+    "Value": {
+      "FileName": {
+        "Package": "None",
+        "Path": ""
+      },
+      "CurveType": "ECurveType::Vector"
+    }
+  },
+  {
+    "Key": "N3087_ESCAPE",
+    "Value": {
+      "FileName": {
+        "Package": "None",
+        "Path": ""
+      },
+      "CurveType": "ECurveType::Vector"
+    }
+  }
+]

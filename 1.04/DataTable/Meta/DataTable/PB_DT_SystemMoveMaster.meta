@@ -1,0 +1,59 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 5511
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 158
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 5399
+ImportCount: 4
+ImportOffset: 5287
+DependsOffset: 5503
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 1387881a-7229-4761-840e-d43d201fef4b
+Generations: 1
+CompressionFlags: 0
+PackageSource: 2200865643
+Unversioned: False
+AssetRegistryDataOffset: 5507
+BulkDataStartOffset: 51764
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 5511
+
+
+TYPE DATA FOR PB_DT_SystemMoveMaster:
+MasterID (100|0) -> NameProperty (136|0) 
+NextMasterID (137|0) -> NameProperty (136|0) 
+BeginMovementMode (27|0) -> ByteProperty (30|0) 
+GroundMovementMode (78|0) -> ByteProperty (30|0) 
+FallMovementMode (74|0) -> ByteProperty (30|0) 
+EndMovementMode (67|0) -> ByteProperty (30|0) 
+IsMass (85|0) -> BoolProperty (28|0) 
+IsForce (84|0) -> BoolProperty (28|0) 
+CurveFile (32|0) -> NameProperty (136|0) 
+Distance (65|0) -> FloatProperty (75|0) 
+SecFirst (150|0) -> FloatProperty (75|0) 
+SecBreak (149|0) -> FloatProperty (75|0) 
+MinSpeed (101|0) -> FloatProperty (75|0) 
+IsParabolic (87|0) -> BoolProperty (28|0) 
+BreakDirection (29|0) -> IntProperty (83|0) 
+Gravity (77|0) -> FloatProperty (75|0) 
+SecStartGravity (151|0) -> FloatProperty (75|0) 
+IsNoEnd (86|0) -> BoolProperty (28|0) 
+InheritToAfterSystemMove (82|0) -> BoolProperty (28|0) 
+AfterXYBreak (24|0) -> FloatProperty (75|0) 
+AfterXYEnableSec (25|0) -> FloatProperty (75|0) 
+ToVelocityOnEnd (156|0) -> BoolProperty (28|0) 
+ShouldReverseByWall (152|0) -> BoolProperty (28|0) 

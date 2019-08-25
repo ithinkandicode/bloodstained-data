@@ -1,0 +1,585 @@
+[
+  {
+    "Key": "0",
+    "Value": {
+      "StaffText1": "Special Thanks",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 8.0
+    }
+  },
+  {
+    "Key": "1",
+    "Value": {
+      "StaffText1": "Ben Judd",
+      "StaffText2": "Joe Minton",
+      "StaffText3": "Maarten de Koning",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 1.5
+    }
+  },
+  {
+    "Key": "2",
+    "Value": {
+      "StaffText1": "Ryosuke Jinno",
+      "StaffText2": "Ai Fujie",
+      "StaffText3": "Kensaku Kusuhara",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "3",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "4",
+    "Value": {
+      "StaffText1": "Hiroshi Ishigaki",
+      "StaffText2": "Junichi Ishikawa",
+      "StaffText3": "Yuuki Kuwayama",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "5",
+    "Value": {
+      "StaffText1": "Masaki Sugiyama",
+      "StaffText2": "Sho Chikamatsu",
+      "StaffText3": "Shinichi Sema",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "6",
+    "Value": {
+      "StaffText1": "Katsuya Ueda",
+      "StaffText2": "Yasuhiro Furuya",
+      "StaffText3": "Daisuke Nishiki",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "7",
+    "Value": {
+      "StaffText1": "Takuya Kato",
+      "StaffText2": "Shun Fukuda",
+      "StaffText3": "Shunsuke Ono(G.rev)",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "8",
+    "Value": {
+      "StaffText1": "Shingo Ito",
+      "StaffText2": "Yoshito Ueno",
+      "StaffText3": "Kazuto Kimishima",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "9",
+    "Value": {
+      "StaffText1": "Kunihito Takashima",
+      "StaffText2": "Matt Papa",
+      "StaffText3": "Munehiro Araki",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "10",
+    "Value": {
+      "StaffText1": "Fumika Matsuo",
+      "StaffText2": "Hatsumi Yokoyama",
+      "StaffText3": "Sayaka Yamanaka",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "11",
+    "Value": {
+      "StaffText1": "Yoshiki Kokawa",
+      "StaffText2": "Yukimasa Tamura",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "12",
+    "Value": {
+      "StaffText1": "Suda Makoto(DWE)",
+      "StaffText2": "Sanuki Yuji(DWE)",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "13",
+    "Value": {
+      "StaffText1": "Yuki Sasaki(TypeZero)",
+      "StaffText2": "Yujin Yoshioka(TypeZero)",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "14",
+    "Value": {
+      "StaffText1": "Daisuke Okamoto(TypeZero)",
+      "StaffText2": "Yoshihiro Suzuki(Annapurna)",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "15",
+    "Value": {
+      "StaffText1": "Matias Elsner",
+      "StaffText2": "Takaya Kitabatake",
+      "StaffText3": "Tomoko Takaki",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "16",
+    "Value": {
+      "StaffText1": "Henry Buckley",
+      "StaffText2": "Satoko Ono",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "17",
+    "Value": {
+      "StaffText1": "Steve and Fran Foulkrod",
+      "StaffText2": "Elina Bell",
+      "StaffText3": "Jessica Benefiel",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "18",
+    "Value": {
+      "StaffText1": "Kieren, Chey and B",
+      "StaffText2": "Huascar Bujosa",
+      "StaffText3": "The Solo Family",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "19",
+    "Value": {
+      "StaffText1": "Adriana & Amelia Watson",
+      "StaffText2": "Elisa Ortiz",
+      "StaffText3": "Alexis Ungerer",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "20",
+    "Value": {
+      "StaffText1": "All WayForward Staff",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "21",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "22",
+    "Value": {
+      "StaffText1": "Patrick Plourde",
+      "StaffText2": "Coeur de Pirate",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "23",
+    "Value": {
+      "StaffText1": "The Shovel Knight",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "24",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "25",
+    "Value": {
+      "StaffText1": "Brent Taylor “Purifyweirdsoul”",
+      "StaffText2": "Mike McDaniel “Xombiemike”",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "26",
+    "Value": {
+      "StaffText1": "“Gunlord500”",
+      "StaffText2": "Chad Allan Sheppard “Cecil Kain”",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "27",
+    "Value": {
+      "StaffText1": "Joshua Perry “Paco”",
+      "StaffText2": "Abdullah Al-Shajjar “Dengojin”",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "28",
+    "Value": {
+      "StaffText1": "Alexandre Dery “Burpomatic”",
+      "StaffText2": "Wendy Jones “Aqua Necklace (JoJo)”",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "29",
+    "Value": {
+      "StaffText1": "Marco Cwiklinski “Mizu”",
+      "StaffText2": "Raudel Covarrubias - “Chip”",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "30",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "31",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "32",
+    "Value": {
+      "StaffText1": "Korean Font",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 8.0
+    }
+  },
+  {
+    "Key": "33",
+    "Value": {
+      "StaffText1": "YOONDESIGN GROUP INC",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.4
+    }
+  },
+  {
+    "Key": "34",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "35",
+    "Value": {
+      "StaffText1": "Cooperative Company",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 4.0
+    }
+  },
+  {
+    "Key": "36",
+    "Value": {
+      "StaffText1": "Digital Works Entertainment",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 2.0
+    }
+  },
+  {
+    "Key": "37",
+    "Value": {
+      "StaffText1": "Studio Khronos",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.4
+    }
+  },
+  {
+    "Key": "38",
+    "Value": {
+      "StaffText1": "Annapurna",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.4
+    }
+  },
+  {
+    "Key": "39",
+    "Value": {
+      "StaffText1": "TypeZero.Inc",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.4
+    }
+  },
+  {
+    "Key": "40",
+    "Value": {
+      "StaffText1": "PARABOLA",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.4
+    }
+  },
+  {
+    "Key": "41",
+    "Value": {
+      "StaffText1": "KIRARITO INC",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.4
+    }
+  },
+  {
+    "Key": "42",
+    "Value": {
+      "StaffText1": "Tricrest, Inc",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.4
+    }
+  },
+  {
+    "Key": "43",
+    "Value": {
+      "StaffText1": "Fontworks Inc.",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.4
+    }
+  },
+  {
+    "Key": "44",
+    "Value": {
+      "StaffText1": "Digital Development Management, Inc.",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.4
+    }
+  },
+  {
+    "Key": "45",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "46",
+    "Value": {
+      "StaffText1": "CRI Middleware Co., Ltd.",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 2.0
+    }
+  },
+  {
+    "Key": "47",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "48",
+    "Value": {
+      "StaffText1": "Epic Games, Inc.",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 2.0
+    }
+  },
+  {
+    "Key": "49",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "50",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "51",
+    "Value": {
+      "StaffText1": "Thank you for playing.",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 10.0
+    }
+  },
+  {
+    "Key": "52",
+    "Value": {
+      "StaffText1": "(終了)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 99,
+      "NextInterval": 0.0
+    }
+  }
+]

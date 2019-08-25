@@ -1,0 +1,25 @@
+[
+  {
+    "Key": "YokoyamaTest",
+    "Value": {
+      "IsOverwrite": false,
+      "StartIsGlobal": true,
+      "StartOffset": 90.0,
+      "StartDistance": 10.0,
+      "EndIsGlobal": true,
+      "EndOffset": -90.0,
+      "EndDistance": 10.0,
+      "UseRelayPoint": false,
+      "RelayIsGlobal": true,
+      "PointInputKey": 0.5,
+      "IsBaseFloor": true,
+      "LayTraceMaxDistance": 100.0,
+      "RelayPointOffsetX": 0.0,
+      "RelayPointOffsetY": 0.0,
+      "RelayPointOffsetZ": 2.0,
+      "RelayPointOffset": 0.0,
+      "RelayPointDistance": 10.0,
+      "NextSplineId": "None"
+    }
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "Key": "Diary001",
+    "Value": {
+      "Title": "BOOK_SEN_DiaryTitle",
+      "Turn": "BOOK_SEN_DiaryTurn001",
+      "Page01": "DIARY_TXT_001_00",
+      "Page02": "DIARY_TXT_001_01",
+      "UnlockKey": "Archive_Unlock_Dirly_001",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Diary002",
+    "Value": {
+      "Title": "BOOK_SEN_DiaryTitle",
+      "Turn": "BOOK_SEN_DiaryTurn002",
+      "Page01": "DIARY_TXT_002_00",
+      "Page02": "DIARY_TXT_002_01",
+      "UnlockKey": "Archive_Unlock_Dirly_002",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Diary003",
+    "Value": {
+      "Title": "BOOK_SEN_DiaryTitle",
+      "Turn": "BOOK_SEN_DiaryTurn003",
+      "Page01": "DIARY_TXT_003_00",
+      "Page02": "DIARY_TXT_003_01",
+      "UnlockKey": "Archive_Unlock_Dirly_003",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Diary004",
+    "Value": {
+      "Title": "BOOK_SEN_DiaryTitle",
+      "Turn": "BOOK_SEN_DiaryTurn004",
+      "Page01": "DIARY_TXT_004_00",
+      "Page02": "DIARY_TXT_004_01",
+      "UnlockKey": "Archive_Unlock_Dirly_004",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Diary005",
+    "Value": {
+      "Title": "BOOK_SEN_DiaryTitle",
+      "Turn": "BOOK_SEN_DiaryTurn005",
+      "Page01": "DIARY_TXT_005_00",
+      "Page02": "DIARY_TXT_005_01",
+      "UnlockKey": "Archive_Unlock_Dirly_005",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Diary006",
+    "Value": {
+      "Title": "BOOK_SEN_DiaryTitle",
+      "Turn": "BOOK_SEN_DiaryTurn006",
+      "Page01": "DIARY_TXT_006_00",
+      "Page02": "DIARY_TXT_006_01",
+      "UnlockKey": "Archive_Unlock_Dirly_006",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Diary007",
+    "Value": {
+      "Title": "BOOK_SEN_DiaryTitle",
+      "Turn": "BOOK_SEN_DiaryTurn007",
+      "Page01": "DIARY_TXT_007_00",
+      "Page02": "DIARY_TXT_007_01",
+      "UnlockKey": "Archive_Unlock_Dirly_007",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Diary008",
+    "Value": {
+      "Title": "BOOK_SEN_DiaryTitle",
+      "Turn": "BOOK_SEN_DiaryTurn008",
+      "Page01": "DIARY_TXT_008_00",
+      "Page02": "DIARY_TXT_008_01",
+      "UnlockKey": "Archive_Unlock_Dirly_008",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Diary009",
+    "Value": {
+      "Title": "BOOK_SEN_DiaryTitle",
+      "Turn": "BOOK_SEN_DiaryTurn009",
+      "Page01": "DIARY_TXT_009_00",
+      "Page02": "DIARY_TXT_009_01",
+      "UnlockKey": "Archive_Unlock_Dirly_009",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Diary010",
+    "Value": {
+      "Title": "BOOK_SEN_DiaryTitle",
+      "Turn": "BOOK_SEN_DiaryTurn010",
+      "Page01": "DIARY_TXT_010_00",
+      "Page02": "DIARY_TXT_010_01",
+      "UnlockKey": "Archive_Unlock_Dirly_010",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Diary011",
+    "Value": {
+      "Title": "BOOK_SEN_DiaryTitle",
+      "Turn": "BOOK_SEN_DiaryTurn011",
+      "Page01": "DIARY_TXT_011_00",
+      "Page02": "DIARY_TXT_011_01",
+      "UnlockKey": "Archive_Unlock_Dirly_011",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Diary012",
+    "Value": {
+      "Title": "BOOK_SEN_DiaryTitle",
+      "Turn": "BOOK_SEN_DiaryTurn012",
+      "Page01": "DIARY_TXT_012_00",
+      "Page02": "DIARY_TXT_012_01",
+      "UnlockKey": "Archive_Unlock_Dirly_012",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Diary101",
+    "Value": {
+      "Title": "",
+      "Turn": "",
+      "Page01": "DIARY_TXT_101_01",
+      "Page02": "DIARY_TXT_NONE",
+      "UnlockKey": "",
+      "IsArchives": false
+    }
+  },
+  {
+    "Key": "Diary102",
+    "Value": {
+      "Title": "",
+      "Turn": "",
+      "Page01": "DIARY_TXT_101_02",
+      "Page02": "DIARY_TXT_NONE",
+      "UnlockKey": "",
+      "IsArchives": false
+    }
+  },
+  {
+    "Key": "Help001",
+    "Value": {
+      "Title": "",
+      "Turn": "",
+      "Page01": "HELP_TXT_001_00",
+      "Page02": "DIARY_TXT_NONE",
+      "UnlockKey": "",
+      "IsArchives": false
+    }
+  },
+  {
+    "Key": "Help002",
+    "Value": {
+      "Title": "",
+      "Turn": "",
+      "Page01": "HELP_TXT_002_00",
+      "Page02": "DIARY_TXT_NONE",
+      "UnlockKey": "",
+      "IsArchives": false
+    }
+  },
+  {
+    "Key": "Help003",
+    "Value": {
+      "Title": "",
+      "Turn": "",
+      "Page01": "HELP_TXT_003_00",
+      "Page02": "HELP_TXT_003_01",
+      "UnlockKey": "",
+      "IsArchives": false
+    }
+  },
+  {
+    "Key": "Arts001",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_01",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_001_00",
+      "Page02": "ARTS_TXT_001_01",
+      "UnlockKey": "Archive_Unlock_Arts_001",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts002",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_02",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_002_00",
+      "Page02": "ARTS_TXT_002_01",
+      "UnlockKey": "Archive_Unlock_Arts_002",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts022",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_24",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_022_00",
+      "Page02": "ARTS_TXT_022_01",
+      "UnlockKey": "Archive_Unlock_Arts_003",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts003",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_03",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_003_00",
+      "Page02": "ARTS_TXT_003_01",
+      "UnlockKey": "Archive_Unlock_Arts_004",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts004",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_04",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_004_00",
+      "Page02": "ARTS_TXT_004_01",
+      "UnlockKey": "Archive_Unlock_Arts_005",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts023",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_22",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_023_00",
+      "Page02": "ARTS_TXT_023_01",
+      "UnlockKey": "Archive_Unlock_Arts_006",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts005",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_05",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_005_00",
+      "Page02": "ARTS_TXT_005_01",
+      "UnlockKey": "Archive_Unlock_Arts_007",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts006",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_06",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_006_00",
+      "Page02": "ARTS_TXT_006_01",
+      "UnlockKey": "Archive_Unlock_Arts_008",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts007",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_07",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_007_00",
+      "Page02": "ARTS_TXT_007_01",
+      "UnlockKey": "Archive_Unlock_Arts_009",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts008",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_08",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_008_00",
+      "Page02": "ARTS_TXT_008_01",
+      "UnlockKey": "Archive_Unlock_Arts_010",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts009",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_09",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_009_00",
+      "Page02": "ARTS_TXT_009_01",
+      "UnlockKey": "Archive_Unlock_Arts_011",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts010",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_10",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_010_00",
+      "Page02": "ARTS_TXT_010_01",
+      "UnlockKey": "Archive_Unlock_Arts_012",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts011",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_11",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_011_00",
+      "Page02": "ARTS_TXT_011_01",
+      "UnlockKey": "Archive_Unlock_Arts_013",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts012",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_14",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_012_00",
+      "Page02": "ARTS_TXT_012_01",
+      "UnlockKey": "Archive_Unlock_Arts_015",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts013",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_13",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_013_00",
+      "Page02": "ARTS_TXT_013_01",
+      "UnlockKey": "Archive_Unlock_Arts_014",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts014",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_15",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_014_00",
+      "Page02": "ARTS_TXT_014_01",
+      "UnlockKey": "Archive_Unlock_Arts_016",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts015",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_18",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_015_00",
+      "Page02": "ARTS_TXT_015_01",
+      "UnlockKey": "Archive_Unlock_Arts_019",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts016",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_17",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_016_00",
+      "Page02": "ARTS_TXT_016_01",
+      "UnlockKey": "Archive_Unlock_Arts_018",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts017",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_16",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_017_00",
+      "Page02": "ARTS_TXT_017_01",
+      "UnlockKey": "Archive_Unlock_Arts_017",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts018",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_19",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_018_00",
+      "Page02": "ARTS_TXT_018_01",
+      "UnlockKey": "Archive_Unlock_Arts_020",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts019",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_21",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_019_00",
+      "Page02": "ARTS_TXT_019_01",
+      "UnlockKey": "Archive_Unlock_Arts_022",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts020",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_20",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_020_00",
+      "Page02": "ARTS_TXT_020_01",
+      "UnlockKey": "Archive_Unlock_Arts_021",
+      "IsArchives": true
+    }
+  },
+  {
+    "Key": "Arts021",
+    "Value": {
+      "Title": "BOOK_SEN_ARTS_23",
+      "Turn": "SYS_TEXT_NONE",
+      "Page01": "ARTS_TXT_021_00",
+      "Page02": "ARTS_TXT_021_01",
+      "UnlockKey": "Archive_Unlock_Arts_023",
+      "IsArchives": true
+    }
+  }
+]

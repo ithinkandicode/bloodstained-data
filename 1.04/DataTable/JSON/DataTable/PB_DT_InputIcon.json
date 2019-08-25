@@ -1,0 +1,3614 @@
+[
+  {
+    "Key": "EPBGamePadKey::A",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_BD.key_X1_BD",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_BD.key_X1_BD",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_BD.key_PS4_BD",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_BD.key_SWITCH_BD",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::B",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_BR.key_X1_BR",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_BR.key_X1_BR",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_BR.key_PS4_BR",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_BR.key_SWITCH_BR",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::X",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_BL.key_X1_BL",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_BL.key_X1_BL",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_BL.key_PS4_BL",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_BL.key_SWITCH_BL",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::Y",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_BU.key_X1_BU",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_BU.key_X1_BU",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_BU.key_PS4_BU",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_BU.key_SWITCH_BU",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::LT",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LT.key_X1_LT",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LT.key_X1_LT",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_LT.key_PS4_LT",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_LT.key_SWITCH_LT",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::LB",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LB.key_X1_LB",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LB.key_X1_LB",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_LB.key_PS4_LB",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_LB.key_SWITCH_LB",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::LS",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LS.key_X1_LS",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LS.key_X1_LS",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/Key_PS4_LSB.Key_PS4_LSB",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/Key_SWITCH_LSB.Key_SWITCH_LSB",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::RT",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RT.key_X1_RT",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RT.key_X1_RT",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_RT.key_PS4_RT",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_RT.key_SWITCH_RT",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::RB",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RB.key_X1_RB",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RB.key_X1_RB",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_RB.key_PS4_RB",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_RB.key_SWITCH_RB",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::RS",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RS.key_X1_RS",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RS.key_X1_RS",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/Key_PS4_RSB.Key_PS4_RSB",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/Key_SWITCH_RSB.Key_SWITCH_RSB",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::LU",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LU.key_X1_LU",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LU.key_X1_LU",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_LU.key_PS4_LU",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_LU.key_SWITCH_LU",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::LD",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LD.key_X1_LD",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LD.key_X1_LD",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_LD.key_PS4_LD",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_LD.key_SWITCH_LD",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::LL",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LL.key_X1_LL",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LL.key_X1_LL",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_LL.key_PS4_LL",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_LL.key_SWITCH_LL",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::LR",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LR.key_X1_LR",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LR.key_X1_LR",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_LR.key_PS4_LR",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_LR.key_SWITCH_LR",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::SEL",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_SEL.key_X1_SEL",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_SEL.key_X1_SEL",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_SEL.key_PS4_SEL",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_SEL.key_SWITCH_SEL",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::STA",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_STA.key_X1_STA",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_STA.key_X1_STA",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_STA.key_PS4_STA",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_STA.key_SWITCH_STA",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::LSX",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LSX.key_X1_LSX",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LSX.key_X1_LSX",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_LSX.key_PS4_LSX",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_LSX.key_SWITCH_LSX",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::LSY",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LSY.key_X1_LSY",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LSY.key_X1_LSY",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_LSY.key_PS4_LSY",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_LSY.key_SWITCH_LSY",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::RSX",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RSX.key_X1_RSX",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RSX.key_X1_RSX",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_RSX.key_PS4_RSX",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_RSX.key_SWITCH_RSX",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::RSY",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RSY.key_X1_RSY",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RSY.key_X1_RSY",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_RSY.key_PS4_RSY",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_RSY.key_SWITCH_RSY",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::LSU",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LSU.key_X1_LSU",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LSU.key_X1_LSU",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_LSU.key_PS4_LSU",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_LSU.key_SWITCH_LSU",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::LSD",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LSD.key_X1_LSD",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LSD.key_X1_LSD",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_LSD.key_PS4_LSD",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_LSD.key_SWITCH_LSD",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::LSL",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LSL.key_X1_LSL",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LSL.key_X1_LSL",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_LSL.key_PS4_LSL",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_LSL.key_SWITCH_LSL",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::LSR",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LSR.key_X1_LSR",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LSR.key_X1_LSR",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_LSR.key_PS4_LSR",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_LSR.key_SWITCH_LSR",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::RSU",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RSU.key_X1_RSU",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RSU.key_X1_RSU",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_RSU.key_PS4_RSU",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_RSU.key_SWITCH_RSU",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::RSD",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RSD.key_X1_RSD",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RSD.key_X1_RSD",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_RSD.key_PS4_RSD",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_RSD.key_SWITCH_RSD",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::RSL",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RSL.key_X1_RSL",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RSL.key_X1_RSL",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_RSL.key_PS4_RSL",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_RSL.key_SWITCH_RSL",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::RSR",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RSR.key_X1_RSR",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RSR.key_X1_RSR",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_RSR.key_PS4_RSR",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_RSR.key_SWITCH_RSR",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "LeftParantheses",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_LeftParantheses.Key_LeftParantheses",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "RightParantheses",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_RightParantheses.Key_RightParantheses",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::LREVX",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LREVX.key_X1_LREVX",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LREVX.key_X1_LREVX",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_LREVX.key_PS4_LREVX",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_LREVX.key_SWITCH_LREVX",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::LREVY",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LREVY.key_X1_LREVY",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LREVY.key_X1_LREVY",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_LREVY.key_PS4_LREVY",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_LREVY.key_SWITCH_LREVY",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::RREVX",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RREVX.key_X1_RREVX",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RREVX.key_X1_RREVX",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_RREVX.key_PS4_RREVX",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_RREVX.key_SWITCH_RREVX",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::RREVY",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RREVY.key_X1_RREVY",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RREVY.key_X1_RREVY",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_RREVY.key_PS4_RREVY",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_RREVY.key_SWITCH_RREVY",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "MouseX",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_MouseX.Key_MouseX",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "MouseY",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_MouseY.Key_MouseY",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "MouseScrollUp",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_MouseScrollUp.Key_MouseScrollUp",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "MouseScrollDown",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_MouseScrollDown.Key_MouseScrollDown",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "MouseWheelAxis",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_MouseWheelAxis.Key_MouseWheelAxis",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "LeftMouseButton",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_LeftMouseButton.Key_LeftMouseButton",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "RightMouseButton",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_RightMouseButton.Key_RightMouseButton",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "MiddleMouseButton",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_MiddleMouseButton.Key_MiddleMouseButton",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "BackSpace",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_BackSpace.Key_BackSpace",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Tab",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Tab.Key_Tab",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Enter",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Enter.Key_Enter",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Pause",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Pause.Key_Pause",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "CapsLock",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_CapsLock.Key_CapsLock",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Escape",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Escape.Key_Escape",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "SpaceBar",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_SpaceBar.Key_SpaceBar",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "PageUp",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_PageUp.Key_PageUp",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "PageDown",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_PageDown.Key_PageDown",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "End",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_End.Key_End",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Home",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Home.Key_Home",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Left",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Left.Key_Left",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Up",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Up.Key_Up",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Right",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Right.Key_Right",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Down",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Down.Key_Down",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Insert",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Insert.Key_Insert",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Delete",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Delete.Key_Delete",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Zero",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Zero.Key_Zero",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "One",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_One.Key_One",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Two",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Two.Key_Two",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Three",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Three.Key_Three",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Four",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Four.Key_Four",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Five",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Five.Key_Five",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Six",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Six.Key_Six",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Seven",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Seven.Key_Seven",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Eight",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Eight.Key_Eight",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Nine",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Nine.Key_Nine",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "A",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_A.Key_A",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "B",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_B.Key_B",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "C",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_C.Key_C",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "D",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_D.Key_D",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "E",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_E.Key_E",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "F",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_F.Key_F",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "G",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_G.Key_G",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "H",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_H.Key_H",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "I",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_I.Key_I",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "J",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_J.Key_J",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "K",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_K.Key_K",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "L",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_L.Key_L",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "M",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_M.Key_M",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "N",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_N.Key_N",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "O",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_O.Key_O",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "P",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_P.Key_P",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Q",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Q.Key_Q",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "R",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_R.Key_R",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "S",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_S.Key_S",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "T",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_T.Key_T",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "U",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_U.Key_U",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "V",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_V.Key_V",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "W",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_W.Key_W",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "X",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_X.Key_X",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Y",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Y.Key_Y",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Z",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Z.Key_Z",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "NumPadZero",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Zero.Key_Zero",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "NumPadOne",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_One.Key_One",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "NumPadTwo",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Two.Key_Two",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "NumPadThree",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Three.Key_Three",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "NumPadFour",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Four.Key_Four",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "NumPadFive",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Five.Key_Five",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "NumPadSix",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Six.Key_Six",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "NumPadSeven",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Seven.Key_Seven",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "NumPadEight",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Eight.Key_Eight",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "NumPadNine",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Nine.Key_Nine",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Multiply",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Multiply.Key_Multiply",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Add",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Add.Key_Add",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Subtract",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Subtract.Key_Subtract",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Decimal",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Decimal.Key_Decimal",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Divide",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Divide.Key_Divide",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "F1",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_F1.Key_F1",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "F2",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_F2.Key_F2",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "F3",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_F3.Key_F3",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "F4",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_F4.Key_F4",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "F5",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_F5.Key_F5",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "F6",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_F6.Key_F6",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "F7",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_F7.Key_F7",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "F8",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_F8.Key_F8",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "F9",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_F9.Key_F9",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "F10",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_F10.Key_F10",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "F11",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_F11.Key_F11",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "F12",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_F12.Key_F12",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "NumLock",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_NumLock.Key_NumLock",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "ScrollLock",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_ScrollLock.Key_ScrollLock",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "LeftShift",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_LeftShift.Key_LeftShift",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "RightShift",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_LeftShift.Key_LeftShift",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "LeftControl",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_LeftControl.Key_LeftControl",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "RightControl",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_LeftControl.Key_LeftControl",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "LeftAlt",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_LeftAlt.Key_LeftAlt",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "RightAlt",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_LeftAlt.Key_LeftAlt",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "LeftCommand",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_LeftCommand.Key_LeftCommand",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "RightCommand",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_LeftCommand.Key_LeftCommand",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Semicolon",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Semicolon.Key_Semicolon",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Equals",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Equals.Key_Equals",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Comma",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Comma.Key_Comma",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Underscore",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Underscore.Key_Underscore",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Hyphen",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Hyphen.Key_Hyphen",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Period",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Period.Key_Period",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Slash",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Slash.Key_Slash",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Tilde",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Tilde.Key_Tilde",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "LeftBracket",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_LeftBracket.Key_LeftBracket",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Backslash",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Backslash.Key_Backslash",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "RightBracket",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_RightBracket.Key_RightBracket",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Apostrophe",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Apostrophe.Key_Apostrophe",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Ampersand",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Ampersand.Key_Ampersand",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Asterix",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Asterix.Key_Asterix",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Caret",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Caret.Key_Caret",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Colon",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Colon.Key_Colon",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Dollar",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Dollar.Key_Dollar",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Exclamation",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_Exclamation.Key_Exclamation",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Button1",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_BR.key_X1_BR",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_BR.key_X1_BR",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/Key_PS4_BR.Key_PS4_BR",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/Key_SWITCH_BR.Key_SWITCH_BR",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Button2",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_BD.key_X1_BD",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_BD.key_X1_BD",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/Key_PS4_BD.Key_PS4_BD",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/Key_SWITCH_BD.Key_SWITCH_BD",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Button3",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_BL.key_X1_BL",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_BL.key_X1_BL",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/Key_PS4_BL.Key_PS4_BL",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/Key_SWITCH_BL.Key_SWITCH_BL",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Button4",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_BU.key_X1_BU",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_BU.key_X1_BU",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/Key_PS4_BU.Key_PS4_BU",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/Key_SWITCH_BU.Key_SWITCH_BU",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "L1",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LB.key_X1_LB",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LB.key_X1_LB",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_LB.key_PS4_LB",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_LB.key_SWITCH_LB",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "L2",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LT.key_X1_LT",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LT.key_X1_LT",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_LT.key_PS4_LT",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_LT.key_SWITCH_LT",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "L3",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LS.key_X1_LS",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LS.key_X1_LS",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/Key_PS4_LSB.Key_PS4_LSB",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/Key_SWITCH_LSB.Key_SWITCH_LSB",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "R1",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RB.key_X1_RB",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RB.key_X1_RB",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_RB.key_PS4_RB",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_RB.key_SWITCH_RB",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "R2",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RT.key_X1_RT",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RT.key_X1_RT",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_RT.key_PS4_RT",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_RT.key_SWITCH_RT",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "R3",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RS.key_X1_RS",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RS.key_X1_RS",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/Key_PS4_RSB.Key_PS4_RSB",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/Key_SWITCH_RSB.Key_SWITCH_RSB",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "R_Stick",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RS.key_X1_RS",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_RS.key_X1_RS",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/Key_PS4_RSB.Key_PS4_RSB",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/Key_SWITCH_RSB.Key_SWITCH_RSB",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "L_Stick",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LS.key_X1_LS",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LS.key_X1_LS",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/Key_PS4_LSB.Key_PS4_LSB",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/Key_SWITCH_LSB.Key_SWITCH_LSB",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "LeftRight",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LX.key_X1_LX",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LX.key_X1_LX",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/Key_PS4_LX.Key_PS4_LX",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/Key_SWITCH_LX.Key_SWITCH_LX",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "UpDown",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LY.key_X1_LY",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_LY.key_X1_LY",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/Key_PS4_LY.Key_PS4_LY",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/Key_SWITCH_LY.Key_SWITCH_LY",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Select",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_SEL.key_X1_SEL",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_SEL.key_X1_SEL",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_SEL.key_PS4_SEL",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_SEL.key_SWITCH_SEL",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Start",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_STA.key_X1_STA",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_STA.key_X1_STA",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/key_PS4_STA.key_PS4_STA",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/key_SWITCH_STA.key_SWITCH_STA",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "MouseRBDrug",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/Keyboard/Key_RightMouseButtonDrag.Key_RightMouseButtonDrag",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "None",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "MenuTabLeft",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/ItemMenu/asset/ButtonLB.ButtonLB",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/ItemMenu/asset/ButtonLB.ButtonLB",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/ItemMenu/asset/ButtonL1.ButtonL1",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/ItemMenu/asset/ButtonL.ButtonL",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "MenuTabRight",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/ItemMenu/asset/ButtonRB.ButtonRB",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/ItemMenu/asset/ButtonRB.ButtonRB",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/ItemMenu/asset/ButtonR1.ButtonR1",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/ItemMenu/asset/ButtonR.ButtonR",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "MenuTabBackLeft",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/ItemMenu/asset/ButtonLT.ButtonLT",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/ItemMenu/asset/ButtonLT.ButtonLT",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/ItemMenu/asset/ButtonL2.ButtonL2",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/ItemMenu/asset/ButtonZL.ButtonZL",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "MenuTabBackRight",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/ItemMenu/asset/ButtonRT.ButtonRT",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/ItemMenu/asset/ButtonRT.ButtonRT",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/ItemMenu/asset/ButtonR2.ButtonR2",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/ItemMenu/asset/ButtonZR.ButtonZR",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "EPBGamePadKey::LN",
+    "Value": {
+      "AssetPathDefault": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_CROSS.key_X1_CROSS",
+        "Path": ""
+      },
+      "AssetPathXB1": {
+        "Package": "/Game/Core/UI/Common/KeyButton/X1/key_X1_CROSS.key_X1_CROSS",
+        "Path": ""
+      },
+      "AssetPathPS4": {
+        "Package": "/Game/Core/UI/Common/KeyButton/PEES4/Key_PS4_CROSS.Key_PS4_CROSS",
+        "Path": ""
+      },
+      "AssetPathSwitch": {
+        "Package": "/Game/Core/UI/Common/KeyButton/SWITCI/Key_SWITCH_CROSS.Key_SWITCH_CROSS",
+        "Path": ""
+      }
+    }
+  }
+]

@@ -1,0 +1,5755 @@
+[
+  {
+    "Key": "0",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "/Game/Core/UI/Title/TitleAsset/TitleLogo",
+      "NameType": 3,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "1",
+    "Value": {
+      "StaffText1": "-CAST-",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 2.0
+    }
+  },
+  {
+    "Key": "2",
+    "Value": {
+      "StaffText1": " Japanese Voice Actors",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 1.5
+    }
+  },
+  {
+    "Key": "3",
+    "Value": {
+      "StaffText1": "Miriam",
+      "StaffText2": "Ami Koshimizu",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "4",
+    "Value": {
+      "StaffText1": "Johannes",
+      "StaffText2": "Kazuyuki Okitsu",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "5",
+    "Value": {
+      "StaffText1": "Gebel",
+      "StaffText2": "Shusaku Shirakawa",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "6",
+    "Value": {
+      "StaffText1": "Zangetsu",
+      "StaffText2": "Hiroki Yasumoto",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "7",
+    "Value": {
+      "StaffText1": "Dominique",
+      "StaffText2": "Kaori Mizuhashi",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "8",
+    "Value": {
+      "StaffText1": "Alfred",
+      "StaffText2": "Taiten Kusunoki",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "9",
+    "Value": {
+      "StaffText1": "Anne Knolles",
+      "StaffText2": "Akari Kito",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "10",
+    "Value": {
+      "StaffText1": "Orlok Dracule",
+      "StaffText2": "Ryotaro Okiayu",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "11",
+    "Value": {
+      "StaffText1": "Gremory",
+      "StaffText2": "Saori Goto",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "12",
+    "Value": {
+      "StaffText1": "Harry Benson",
+      "StaffText2": "Kenichi Mine",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "13",
+    "Value": {
+      "StaffText1": "Benjamin Judd",
+      "StaffText2": "Yasuhiro Mamiya",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "14",
+    "Value": {
+      "StaffText1": "Lindsay Blair",
+      "StaffText2": "Reiko Muratsubaki",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "15",
+    "Value": {
+      "StaffText1": "Abigail Creese",
+      "StaffText2": "Aiko Okubo",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "16",
+    "Value": {
+      "StaffText1": "Susie Quinn",
+      "StaffText2": "Reiko Muratsubaki",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "17",
+    "Value": {
+      "StaffText1": "Bloodless",
+      "StaffText2": "Saori Goto",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "18",
+    "Value": {
+      "StaffText1": "Valefar",
+      "StaffText2": "Kenichi Mine",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "19",
+    "Value": {
+      "StaffText1": "Bathin",
+      "StaffText2": "Yu Moriyama",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "20",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "21",
+    "Value": {
+      "StaffText1": "English Voice Actors",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 1.5
+    }
+  },
+  {
+    "Key": "22",
+    "Value": {
+      "StaffText1": "Miriam",
+      "StaffText2": "Erica Lindbeck",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "23",
+    "Value": {
+      "StaffText1": "Johannes",
+      "StaffText2": "Ben Diskin",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "24",
+    "Value": {
+      "StaffText1": "Gebel",
+      "StaffText2": "Ray Chase",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "25",
+    "Value": {
+      "StaffText1": "Zangetsu",
+      "StaffText2": "David Hayter",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "26",
+    "Value": {
+      "StaffText1": "Dominique",
+      "StaffText2": "Fryda Wolff",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "27",
+    "Value": {
+      "StaffText1": "Alfred",
+      "StaffText2": "Christopher Swindle",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "28",
+    "Value": {
+      "StaffText1": "Anne Knolles",
+      "StaffText2": "Rena Strober",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "29",
+    "Value": {
+      "StaffText1": "Orlok Dracule",
+      "StaffText2": "Robbie Belgrade",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "30",
+    "Value": {
+      "StaffText1": "Gremory",
+      "StaffText2": "Kari Wahlgren",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "31",
+    "Value": {
+      "StaffText1": "Harry Benson",
+      "StaffText2": "Christopher Swindle",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "32",
+    "Value": {
+      "StaffText1": "Benjamin Judd",
+      "StaffText2": "Fred Tatasiore",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "33",
+    "Value": {
+      "StaffText1": "Lindsay Blair",
+      "StaffText2": "Kari Wahlgren",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "34",
+    "Value": {
+      "StaffText1": "Abigail Creese",
+      "StaffText2": "Fryda Wolff",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "35",
+    "Value": {
+      "StaffText1": "Susie Quinn",
+      "StaffText2": "Fryda Wolff",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "36",
+    "Value": {
+      "StaffText1": "Bloodless",
+      "StaffText2": "Rena Strober",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "37",
+    "Value": {
+      "StaffText1": "Bathin",
+      "StaffText2": "Ben Diskin",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "38",
+    "Value": {
+      "StaffText1": "Narrator",
+      "StaffText2": "David Hayter",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "39",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "40",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "/Game/Core/UI/StaffRoll/StaffRollAsset/StaffRollPic000",
+      "NameType": 3,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "41",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "42",
+    "Value": {
+      "StaffText1": "-Staffs-",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "43",
+    "Value": {
+      "StaffText1": "ArtPlay, Inc.",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 1.5
+    }
+  },
+  {
+    "Key": "44",
+    "Value": {
+      "StaffText1": "Producer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "45",
+    "Value": {
+      "StaffText1": "IGA",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "46",
+    "Value": {
+      "StaffText1": "Director",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "47",
+    "Value": {
+      "StaffText1": "Shutaro",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "48",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "/Game/Core/UI/StaffRoll/StaffRollAsset/StaffRollCurry",
+      "NameType": 3,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "49",
+    "Value": {
+      "StaffText1": "Game Designer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "50",
+    "Value": {
+      "StaffText1": "Curry the Kid",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "51",
+    "Value": {
+      "StaffText1": "Technical Artist",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "52",
+    "Value": {
+      "StaffText1": "Hagure Ramen Man",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "53",
+    "Value": {
+      "StaffText1": "Communication Manager",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "54",
+    "Value": {
+      "StaffText1": "Mana Ikeda",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "55",
+    "Value": {
+      "StaffText1": "Package Illustrator",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "56",
+    "Value": {
+      "StaffText1": "Vusc",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "57",
+    "Value": {
+      "StaffText1": "Programmer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "58",
+    "Value": {
+      "StaffText1": "Shingo Tate",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "59",
+    "Value": {
+      "StaffText1": "Technical Art Consultant",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "60",
+    "Value": {
+      "StaffText1": "Ai Shinohara (Freelance)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "61",
+    "Value": {
+      "StaffText1": "Executive Producer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "62",
+    "Value": {
+      "StaffText1": "Jacob Feng",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "63",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "64",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "/Game/Core/UI/StaffRoll/StaffRollAsset/StaffRollPic001",
+      "NameType": 3,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "65",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "66",
+    "Value": {
+      "StaffText1": "505 Games Inc.",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "67",
+    "Value": {
+      "StaffText1": "Product Development",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 1.0
+    }
+  },
+  {
+    "Key": "68",
+    "Value": {
+      "StaffText1": "Producer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "69",
+    "Value": {
+      "StaffText1": "Carlos Aguilar",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "70",
+    "Value": {
+      "StaffText1": "Executive Producer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "71",
+    "Value": {
+      "StaffText1": "Michael Meischeid",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "72",
+    "Value": {
+      "StaffText1": "VP, Product Development",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "73",
+    "Value": {
+      "StaffText1": "Kathleen Nicholls",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "74",
+    "Value": {
+      "StaffText1": "Producton Services",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 1.0
+    }
+  },
+  {
+    "Key": "75",
+    "Value": {
+      "StaffText1": "Senior Manager Production Services",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "76",
+    "Value": {
+      "StaffText1": "Mike Motoda",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "77",
+    "Value": {
+      "StaffText1": "Quality Assurance",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 1.0
+    }
+  },
+  {
+    "Key": "78",
+    "Value": {
+      "StaffText1": "Global QA Manager",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "79",
+    "Value": {
+      "StaffText1": "Adam Jones",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "80",
+    "Value": {
+      "StaffText1": "Global QA Test Lead",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "81",
+    "Value": {
+      "StaffText1": "Shant Boyatzian",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "82",
+    "Value": {
+      "StaffText1": "Customer Support",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 1.0
+    }
+  },
+  {
+    "Key": "83",
+    "Value": {
+      "StaffText1": "Customer Support Representative",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "84",
+    "Value": {
+      "StaffText1": "Dane Copsey",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "85",
+    "Value": {
+      "StaffText1": "Patrick Chaney",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "86",
+    "Value": {
+      "StaffText1": "Submissions",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 1.0
+    }
+  },
+  {
+    "Key": "87",
+    "Value": {
+      "StaffText1": "Global Sumissions Manager",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "88",
+    "Value": {
+      "StaffText1": "Chiara Pasquini",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "89",
+    "Value": {
+      "StaffText1": "Submission Manager",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "90",
+    "Value": {
+      "StaffText1": "Marcello Monti",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "91",
+    "Value": {
+      "StaffText1": "Michael Booker",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "92",
+    "Value": {
+      "StaffText1": "Mark Mainey",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "93",
+    "Value": {
+      "StaffText1": "Brand Management",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 1.0
+    }
+  },
+  {
+    "Key": "94",
+    "Value": {
+      "StaffText1": "SVP, Global Brand and Marketing",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "95",
+    "Value": {
+      "StaffText1": "Tim Woodley",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "96",
+    "Value": {
+      "StaffText1": "Senior Brand Director",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "97",
+    "Value": {
+      "StaffText1": "John Merchant",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "98",
+    "Value": {
+      "StaffText1": "Global Brand Director",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "99",
+    "Value": {
+      "StaffText1": "Tim Blair",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "100",
+    "Value": {
+      "StaffText1": "Global Brand Manager",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "101",
+    "Value": {
+      "StaffText1": "Roberto Piraino",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "102",
+    "Value": {
+      "StaffText1": "Community Manager",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "103",
+    "Value": {
+      "StaffText1": "Jason Ryan",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "104",
+    "Value": {
+      "StaffText1": "Creative Services",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 1.0
+    }
+  },
+  {
+    "Key": "105",
+    "Value": {
+      "StaffText1": "Creative Director",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "106",
+    "Value": {
+      "StaffText1": "Mark Stevens",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "107",
+    "Value": {
+      "StaffText1": "Studio Manager",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "108",
+    "Value": {
+      "StaffText1": "Leanne Cornish",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "109",
+    "Value": {
+      "StaffText1": "Multimedia Designer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "110",
+    "Value": {
+      "StaffText1": "Matt Derrick",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "111",
+    "Value": {
+      "StaffText1": "Ben Paulley",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "112",
+    "Value": {
+      "StaffText1": "Graphic Designer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "113",
+    "Value": {
+      "StaffText1": "Andrea Quinteri",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "114",
+    "Value": {
+      "StaffText1": "Art Worker",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "115",
+    "Value": {
+      "StaffText1": "Melissa Duncan",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "116",
+    "Value": {
+      "StaffText1": "Senior Web Developer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "117",
+    "Value": {
+      "StaffText1": "David Dingvean",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "118",
+    "Value": {
+      "StaffText1": "Web Developer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "119",
+    "Value": {
+      "StaffText1": "Francesca Reati",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "120",
+    "Value": {
+      "StaffText1": "Commercial, Marketing & PR",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 1.0
+    }
+  },
+  {
+    "Key": "121",
+    "Value": {
+      "StaffText1": "Director of Global Communications",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "122",
+    "Value": {
+      "StaffText1": "Racheal Caswell ",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "123",
+    "Value": {
+      "StaffText1": "Senior Global Marketing Manager",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "124",
+    "Value": {
+      "StaffText1": "Cameron Turner ",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "125",
+    "Value": {
+      "StaffText1": "Paid Media Manager",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "126",
+    "Value": {
+      "StaffText1": "Marlon Castillo",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "127",
+    "Value": {
+      "StaffText1": "European PR Coordinator",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "128",
+    "Value": {
+      "StaffText1": "William Capriata ",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "129",
+    "Value": {
+      "StaffText1": "Senior PR & Event Manager",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "130",
+    "Value": {
+      "StaffText1": "Alex Munson",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "131",
+    "Value": {
+      "StaffText1": "Influencer Relations Manager",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "132",
+    "Value": {
+      "StaffText1": "Slate Schwertner ",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "133",
+    "Value": {
+      "StaffText1": "Business Development",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 1.0
+    }
+  },
+  {
+    "Key": "134",
+    "Value": {
+      "StaffText1": "Manager",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "135",
+    "Value": {
+      "StaffText1": "Ted Regulski",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "136",
+    "Value": {
+      "StaffText1": "Associate Manager",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "137",
+    "Value": {
+      "StaffText1": "Kyle Beams",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "138",
+    "Value": {
+      "StaffText1": "Executive Management",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 1.0
+    }
+  },
+  {
+    "Key": "139",
+    "Value": {
+      "StaffText1": "President, 505 Games Inc.",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "140",
+    "Value": {
+      "StaffText1": "Neil Ralley",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "141",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "142",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "/Game/Core/UI/StaffRoll/StaffRollAsset/StaffRollPic002",
+      "NameType": 3,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "143",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "144",
+    "Value": {
+      "StaffText1": "DICO Co., Ltd.",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "145",
+    "Value": {
+      "StaffText1": "COO / Producer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "146",
+    "Value": {
+      "StaffText1": "Emilio Gallego",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "147",
+    "Value": {
+      "StaffText1": "Head of Development / Producer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "148",
+    "Value": {
+      "StaffText1": "Taishi Kaneyama",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "149",
+    "Value": {
+      "StaffText1": "Assistant Producer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "150",
+    "Value": {
+      "StaffText1": "Hiroshi Nishinaga",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "151",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "152",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "153",
+    "Value": {
+      "StaffText1": "Lead Game Designer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "154",
+    "Value": {
+      "StaffText1": "Takamasa Miyamoto",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "155",
+    "Value": {
+      "StaffText1": "Sub-Lead Game Designer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "156",
+    "Value": {
+      "StaffText1": "Takeshi Himeno",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "157",
+    "Value": {
+      "StaffText1": "Cinematography Director",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "158",
+    "Value": {
+      "StaffText1": "Hideyuki Ohata",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "159",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "160",
+    "Value": {
+      "StaffText1": "Game Designer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "161",
+    "Value": {
+      "StaffText1": "Masafumi Shirado",
+      "StaffText2": "Hazuki Ohkuma",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "162",
+    "Value": {
+      "StaffText1": "Hideyuki Ohata",
+      "StaffText2": "Ayumi Higuchi",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "163",
+    "Value": {
+      "StaffText1": "Shin Nagayama",
+      "StaffText2": "Tempei Fujii",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "164",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "165",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "166",
+    "Value": {
+      "StaffText1": "Lead Programmer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "167",
+    "Value": {
+      "StaffText1": "Zenta Ishida",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "168",
+    "Value": {
+      "StaffText1": "Sub-Lead Programmer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "169",
+    "Value": {
+      "StaffText1": "Tarl Winteridge",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "170",
+    "Value": {
+      "StaffText1": "Programmer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "171",
+    "Value": {
+      "StaffText1": "Masafumi Shirado",
+      "StaffText2": "Toni Vaquer",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "172",
+    "Value": {
+      "StaffText1": "Chuk Tang",
+      "StaffText2": "Tatsunori Kanno",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "173",
+    "Value": {
+      "StaffText1": "Yoshihito Uchida",
+      "StaffText2": "Paul Caristino",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "174",
+    "Value": {
+      "StaffText1": "Marc Heng",
+      "StaffText2": "Sho Sato",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "175",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "176",
+    "Value": {
+      "StaffText1": "Art Director",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "177",
+    "Value": {
+      "StaffText1": "Takato Yamashita",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "178",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "179",
+    "Value": {
+      "StaffText1": "2D Artist",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "180",
+    "Value": {
+      "StaffText1": "Sachiho Fukui",
+      "StaffText2": "Ayumi Kawaguchi",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "181",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "182",
+    "Value": {
+      "StaffText1": "3D Artist",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "183",
+    "Value": {
+      "StaffText1": "Takaaki Yamashita",
+      "StaffText2": "Yusuke Shimozima",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "184",
+    "Value": {
+      "StaffText1": "Yamaguchi Yu",
+      "StaffText2": "Kinoshita Yuki",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "185",
+    "Value": {
+      "StaffText1": "Matsui Yurai",
+      "StaffText2": "Yui Ayaka",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "186",
+    "Value": {
+      "StaffText1": "Akimoto Kaoru",
+      "StaffText2": "Naoki Ooba",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "187",
+    "Value": {
+      "StaffText1": "Yumiko Nakagawa",
+      "StaffText2": " ",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "188",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "189",
+    "Value": {
+      "StaffText1": "Modeling",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "190",
+    "Value": {
+      "StaffText1": "Miyoshi Tomoko",
+      "StaffText2": "Akatsuka Ai",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "191",
+    "Value": {
+      "StaffText1": "Yoshihisa Shimizu",
+      "StaffText2": "Taichi Toyoda",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "192",
+    "Value": {
+      "StaffText1": "Stefan Vonboe Lang",
+      "StaffText2": "Chihiro Watanabe",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "193",
+    "Value": {
+      "StaffText1": "Iwao Nobuto",
+      "StaffText2": "Lee Sooyoung",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "194",
+    "Value": {
+      "StaffText1": "Davin Hans",
+      "StaffText2": "Kobayashi Makoto",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "195",
+    "Value": {
+      "StaffText1": "Fujihara Kotoko",
+      "StaffText2": "Akira Ueda",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "196",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "197",
+    "Value": {
+      "StaffText1": "Motion Design",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "198",
+    "Value": {
+      "StaffText1": "Masahiro Onoguchi",
+      "StaffText2": "Yamashita Tatsuya",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "199",
+    "Value": {
+      "StaffText1": "Zheng Qifeng",
+      "StaffText2": "Kouji Iwase",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "200",
+    "Value": {
+      "StaffText1": "Tatsuro Oda",
+      "StaffText2": "Masayuki Nakamura",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "201",
+    "Value": {
+      "StaffText1": "Sana Nakamura",
+      "StaffText2": " ",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "202",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "203",
+    "Value": {
+      "StaffText1": "Visual Effects",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "204",
+    "Value": {
+      "StaffText1": "Akimoto Yuki",
+      "StaffText2": "Narita Hiroto　",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "205",
+    "Value": {
+      "StaffText1": "Fujisawa Ryota",
+      "StaffText2": "Ishihara Takayoshi",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "206",
+    "Value": {
+      "StaffText1": "Philippe Santoso",
+      "StaffText2": "Song Im Ho",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "207",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "208",
+    "Value": {
+      "StaffText1": "Sound Artist",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "209",
+    "Value": {
+      "StaffText1": "Hazuki Sannomiya",
+      "StaffText2": "Masataka Saito",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "210",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "211",
+    "Value": {
+      "StaffText1": "CEO",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 1.0
+    }
+  },
+  {
+    "Key": "212",
+    "Value": {
+      "StaffText1": "Koji Nakatsuka",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "213",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "214",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "/Game/Core/UI/StaffRoll/StaffRollAsset/StaffRollPic005",
+      "NameType": 3,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "215",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "216",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "217",
+    "Value": {
+      "StaffText1": "WayForward",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "218",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "219",
+    "Value": {
+      "StaffText1": " Tyrannical Overlord",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "220",
+    "Value": {
+      "StaffText1": "Voldi Way",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "221",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "222",
+    "Value": {
+      "StaffText1": "Creative Director",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "223",
+    "Value": {
+      "StaffText1": "Matt Bozon",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "224",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "225",
+    "Value": {
+      "StaffText1": "Executive Producer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "226",
+    "Value": {
+      "StaffText1": "Chris Watson",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "227",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "228",
+    "Value": {
+      "StaffText1": "Director",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "229",
+    "Value": {
+      "StaffText1": "Tomm Hulett",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "230",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "231",
+    "Value": {
+      "StaffText1": "Producer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "232",
+    "Value": {
+      "StaffText1": "Stephen Foulkrod",
+      "StaffText2": "Brian Smith",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "233",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "234",
+    "Value": {
+      "StaffText1": "Lead Programmer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "235",
+    "Value": {
+      "StaffText1": "Matthew Bell",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "236",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "237",
+    "Value": {
+      "StaffText1": "Programmers",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "238",
+    "Value": {
+      "StaffText1": "Seth Bujosa",
+      "StaffText2": "Edward Fleischman",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "239",
+    "Value": {
+      "StaffText1": "LeJon McGowan",
+      "StaffText2": "Chris Warner",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "240",
+    "Value": {
+      "StaffText1": "Cody Yamamoto",
+      "StaffText2": " ",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "241",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "242",
+    "Value": {
+      "StaffText1": "Programming Manager",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "243",
+    "Value": {
+      "StaffText1": "Robert Koshak",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "244",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "245",
+    "Value": {
+      "StaffText1": "Art Director",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "246",
+    "Value": {
+      "StaffText1": "Damon Dubois",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "247",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "248",
+    "Value": {
+      "StaffText1": "Lead Artist",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "249",
+    "Value": {
+      "StaffText1": "Justin Criswell",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "250",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "251",
+    "Value": {
+      "StaffText1": "Lead Environment Artist",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "252",
+    "Value": {
+      "StaffText1": "Lee Wagner",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "253",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "254",
+    "Value": {
+      "StaffText1": "Environment Artists",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "255",
+    "Value": {
+      "StaffText1": "Elijah Brown",
+      "StaffText2": "Nick Hamilton",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "256",
+    "Value": {
+      "StaffText1": "Robert Hunter",
+      "StaffText2": "Dominique Johnson",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "257",
+    "Value": {
+      "StaffText1": "Joseph Miranda",
+      "StaffText2": "Alexander Tran",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "258",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "259",
+    "Value": {
+      "StaffText1": "Character Modelers",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "260",
+    "Value": {
+      "StaffText1": "Damien Brown",
+      "StaffText2": "Mark Lopez",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "261",
+    "Value": {
+      "StaffText1": "John Pavlinko",
+      "StaffText2": " ",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "262",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "263",
+    "Value": {
+      "StaffText1": "Technical Artists",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "264",
+    "Value": {
+      "StaffText1": "Andrew Marquez",
+      "StaffText2": "Mamata Jaliminche",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "265",
+    "Value": {
+      "StaffText1": "Christian Solo",
+      "StaffText2": " ",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "266",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "267",
+    "Value": {
+      "StaffText1": "Animation Director",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "268",
+    "Value": {
+      "StaffText1": "Armando Soto",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "269",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "270",
+    "Value": {
+      "StaffText1": "Animators",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "271",
+    "Value": {
+      "StaffText1": "Chris Kerlegon",
+      "StaffText2": "Coty Reinhart",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "272",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "273",
+    "Value": {
+      "StaffText1": "Visual Effects Artists",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "274",
+    "Value": {
+      "StaffText1": "Joel Benefiel",
+      "StaffText2": "Angelica Lopez",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "275",
+    "Value": {
+      "StaffText1": "Jordan Vine",
+      "StaffText2": "Martin Ellis",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "276",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "277",
+    "Value": {
+      "StaffText1": "Concept Artist",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "278",
+    "Value": {
+      "StaffText1": "Luvid Gutier",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "279",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "280",
+    "Value": {
+      "StaffText1": "Additional Art",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "281",
+    "Value": {
+      "StaffText1": "Caleb Parrish",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "282",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "283",
+    "Value": {
+      "StaffText1": "Sound Effects",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "284",
+    "Value": {
+      "StaffText1": "Rory Glenn",
+      "StaffText2": "Kevin Samuels",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "285",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "286",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "287",
+    "Value": {
+      "StaffText1": "Quality Assurance Manager",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "288",
+    "Value": {
+      "StaffText1": "Jeremy Pryer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "289",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "290",
+    "Value": {
+      "StaffText1": "Quality Assurance Tester",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "291",
+    "Value": {
+      "StaffText1": "Kim Vinton",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "292",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "293",
+    "Value": {
+      "StaffText1": "Business Development Manager",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "294",
+    "Value": {
+      "StaffText1": "Adam Tierney",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "295",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "296",
+    "Value": {
+      "StaffText1": "Production Translation Support",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "297",
+    "Value": {
+      "StaffText1": "Ken Ogasawara",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "298",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "299",
+    "Value": {
+      "StaffText1": "Contributors",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "300",
+    "Value": {
+      "StaffText1": "James Montagna",
+      "StaffText2": "Austin Ivansmith",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "301",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "302",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "/Game/Core/UI/StaffRoll/StaffRollAsset/StaffRollPic006",
+      "NameType": 3,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "303",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "304",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "305",
+    "Value": {
+      "StaffText1": "Disruptive Games",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "306",
+    "Value": {
+      "StaffText1": "Matthew Arnone",
+      "StaffText2": "Jake Biegel",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "307",
+    "Value": {
+      "StaffText1": "Bryan Corell",
+      "StaffText2": "Patrick Doran",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "308",
+    "Value": {
+      "StaffText1": "Eric Ellis",
+      "StaffText2": "Carolina Gomez",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "309",
+    "Value": {
+      "StaffText1": "Ali Jamalzadeh",
+      "StaffText2": "Jed Melnik",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "310",
+    "Value": {
+      "StaffText1": "Gerardo Perez",
+      "StaffText2": "Elijah Ravitz-Campbell",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "311",
+    "Value": {
+      "StaffText1": "Grant Rogers",
+      "StaffText2": "Tomoko Ruiz",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "312",
+    "Value": {
+      "StaffText1": "Felipe Sanin",
+      "StaffText2": " ",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "313",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "314",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "/Game/Core/UI/StaffRoll/StaffRollAsset/StaffRollPic007",
+      "NameType": 3,
+      "NextInterval": 1.0
+    }
+  },
+  {
+    "Key": "315",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "316",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "317",
+    "Value": {
+      "StaffText1": "NEO FUTURE LABS",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 1.0
+    }
+  },
+  {
+    "Key": "318",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "319",
+    "Value": {
+      "StaffText1": "CEO & Bug Fixing and Polishing",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "320",
+    "Value": {
+      "StaffText1": "Max Preston",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "321",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "322",
+    "Value": {
+      "StaffText1": "Sound Design",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "323",
+    "Value": {
+      "StaffText1": "Jonas Shiervani",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "324",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "325",
+    "Value": {
+      "StaffText1": "Programming",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "326",
+    "Value": {
+      "StaffText1": "Hiromasa Yoshitake",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "327",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "328",
+    "Value": {
+      "StaffText1": "Graphics Consultation",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "329",
+    "Value": {
+      "StaffText1": "Jason Lacroix",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "330",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "331",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "332",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "/Game/Core/UI/StaffRoll/StaffRollAsset/StaffRollPic008",
+      "NameType": 3,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "333",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "334",
+    "Value": {
+      "StaffText1": "INTI CREATES CO., LTD.",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "335",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "336",
+    "Value": {
+      "StaffText1": "Producer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "337",
+    "Value": {
+      "StaffText1": "Takuya Aizu",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "338",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "339",
+    "Value": {
+      "StaffText1": "Director",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "340",
+    "Value": {
+      "StaffText1": "Masato Okudaira",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "341",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "342",
+    "Value": {
+      "StaffText1": "Planner",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "343",
+    "Value": {
+      "StaffText1": "Shotaro Miki",
+      "StaffText2": "Kinshi Ikegami",
+      "StaffText3": "Tomokazu Oonishi",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "344",
+    "Value": {
+      "StaffText1": "Sakiko Nakada",
+      "StaffText2": "Masahiro Ono",
+      "StaffText3": "Mio Yamaguchi",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "345",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "346",
+    "Value": {
+      "StaffText1": "Art Director & Character Design",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "347",
+    "Value": {
+      "StaffText1": "Yuji Natsume",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "348",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "349",
+    "Value": {
+      "StaffText1": "Art",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "350",
+    "Value": {
+      "StaffText1": "Masanori Ito",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "351",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "352",
+    "Value": {
+      "StaffText1": "Character Model",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "353",
+    "Value": {
+      "StaffText1": "Miho Terada",
+      "StaffText2": "Erina Fukuoka",
+      "StaffText3": "Takenari Nomura",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "354",
+    "Value": {
+      "StaffText1": "Minoru Okamoto(G.rev)",
+      "StaffText2": "Koji Hagiwara(G.rev)",
+      "StaffText3": "Makoto Kunieda(G.rev)",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "355",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "356",
+    "Value": {
+      "StaffText1": "Motion",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "357",
+    "Value": {
+      "StaffText1": "Rie Oonishi",
+      "StaffText2": "Yuki Suzuki",
+      "StaffText3": "Hikari Sugiura",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "358",
+    "Value": {
+      "StaffText1": "Yuta Watanabe",
+      "StaffText2": "Hironori Suzuki",
+      "StaffText3": " ",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "359",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "360",
+    "Value": {
+      "StaffText1": "Effect",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "361",
+    "Value": {
+      "StaffText1": "Takenari Nomura",
+      "StaffText2": "Hironori Suzuki",
+      "StaffText3": "Miho Iijima",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "362",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "363",
+    "Value": {
+      "StaffText1": "UI",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "364",
+    "Value": {
+      "StaffText1": "Hidetaka Katsuki",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "365",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "366",
+    "Value": {
+      "StaffText1": "BG",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "367",
+    "Value": {
+      "StaffText1": "Kazuya Hayashi",
+      "StaffText2": "Chie Iwatsuki",
+      "StaffText3": "Naoya Hashimoto",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "368",
+    "Value": {
+      "StaffText1": "Kenta Takeda",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "369",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "370",
+    "Value": {
+      "StaffText1": "Music Composer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "371",
+    "Value": {
+      "StaffText1": "Ippo Yamada",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "372",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "373",
+    "Value": {
+      "StaffText1": "Instrumentalist",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "374",
+    "Value": {
+      "StaffText1": "TAKUYA(Freelance)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "375",
+    "Value": {
+      "StaffText1": "Yuri Tokushima(Freelance)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "376",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "377",
+    "Value": {
+      "StaffText1": "Sound Effect",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "378",
+    "Value": {
+      "StaffText1": "Ippo Yamada",
+      "StaffText2": "Kotaro Yamada",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "379",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "380",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "/Game/Core/UI/StaffRoll/StaffRollAsset/StaffRollPic003",
+      "NameType": 3,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "381",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "382",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "383",
+    "Value": {
+      "StaffText1": "Music Composer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "384",
+    "Value": {
+      "StaffText1": "Michiru Yamane",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "385",
+    "Value": {
+      "StaffText1": "Vocal",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 2.0
+    }
+  },
+  {
+    "Key": "386",
+    "Value": {
+      "StaffText1": "Kahori Yamane",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "387",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "388",
+    "Value": {
+      "StaffText1": "noisycroak Co.,Ltd.",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 2.0
+    }
+  },
+  {
+    "Key": "389",
+    "Value": {
+      "StaffText1": "Composer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "390",
+    "Value": {
+      "StaffText1": "Keisuke Ito",
+      "StaffText2": "Ryusuke Fujioka",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "391",
+    "Value": {
+      "StaffText1": "Atsuhiro Ishizuna",
+      "StaffText2": " ",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "392",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "393",
+    "Value": {
+      "StaffText1": "Voice Edit",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "394",
+    "Value": {
+      "StaffText1": "So Sato",
+      "StaffText2": "Eisei Kudo",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "395",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "396",
+    "Value": {
+      "StaffText1": "Sound Director",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "397",
+    "Value": {
+      "StaffText1": "Sho Oyama",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "398",
+    "Value": {
+      "StaffText1": "Producer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "399",
+    "Value": {
+      "StaffText1": "Hideki Sakamoto",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "400",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "401",
+    "Value": {
+      "StaffText1": "Jetboy&Jetgirl INC.",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 2.0
+    }
+  },
+  {
+    "Key": "402",
+    "Value": {
+      "StaffText1": "Music Direction",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "403",
+    "Value": {
+      "StaffText1": "Akira Miyajima",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "404",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "405",
+    "Value": {
+      "StaffText1": "ONKIO HAUS",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 2.0
+    }
+  },
+  {
+    "Key": "406",
+    "Value": {
+      "StaffText1": "Recording Studio",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "407",
+    "Value": {
+      "StaffText1": "Recording Engineer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "408",
+    "Value": {
+      "StaffText1": "Masaki Takamura",
+      "StaffText2": "Takuya Komiyama",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "409",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "410",
+    "Value": {
+      "StaffText1": "Mixing Engineer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "411",
+    "Value": {
+      "StaffText1": "Masaki Takamura",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "412",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "413",
+    "Value": {
+      "StaffText1": "Hitoshi Konno Strings",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 2.0
+    }
+  },
+  {
+    "Key": "414",
+    "Value": {
+      "StaffText1": "Violin",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "415",
+    "Value": {
+      "StaffText1": "Hitoshi Konno",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "416",
+    "Value": {
+      "StaffText1": "Natsue Kameda",
+      "StaffText2": "Naomi Urushibara",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "417",
+    "Value": {
+      "StaffText1": "Kyoko Ishigame",
+      "StaffText2": "Aoi Serita",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "418",
+    "Value": {
+      "StaffText1": "Yasuhiro Morimoto",
+      "StaffText2": "Ayaka Jomoto",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "419",
+    "Value": {
+      "StaffText1": "Viola",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "420",
+    "Value": {
+      "StaffText1": "Mikiyo Kikuchi",
+      "StaffText2": "Misato Futaki",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "421",
+    "Value": {
+      "StaffText1": "Cello",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "422",
+    "Value": {
+      "StaffText1": "Masami Horisawa",
+      "StaffText2": "Masateru Nishikata",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "423",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "424",
+    "Value": {
+      "StaffText1": "Japanese Voice Production",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 2.0
+    }
+  },
+  {
+    "Key": "425",
+    "Value": {
+      "StaffText1": "Quatle Stella",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 1.0
+    }
+  },
+  {
+    "Key": "426",
+    "Value": {
+      "StaffText1": "Voice Direction",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "427",
+    "Value": {
+      "StaffText1": "Koizumi Yutaka",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "428",
+    "Value": {
+      "StaffText1": "Manager",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "429",
+    "Value": {
+      "StaffText1": "Kodai Ishida",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "430",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "431",
+    "Value": {
+      "StaffText1": "English  Voice Production",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 2.0
+    }
+  },
+  {
+    "Key": "432",
+    "Value": {
+      "StaffText1": "Rocket Sound",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 1.0
+    }
+  },
+  {
+    "Key": "433",
+    "Value": {
+      "StaffText1": "Casting & Voice Direction",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "434",
+    "Value": {
+      "StaffText1": "Jamie Mortellaro",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "435",
+    "Value": {
+      "StaffText1": "Recording Engineer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "436",
+    "Value": {
+      "StaffText1": "Zavoush Rad",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "437",
+    "Value": {
+      "StaffText1": "Production Manager",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "438",
+    "Value": {
+      "StaffText1": "Daniel Khim",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "439",
+    "Value": {
+      "StaffText1": "Session Assistant",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "440",
+    "Value": {
+      "StaffText1": "Stephanie Panisello",
+      "StaffText2": "Morgan Gerhard",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "441",
+    "Value": {
+      "StaffText1": "Dialogue Editor",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "442",
+    "Value": {
+      "StaffText1": "Myon Sample",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "443",
+    "Value": {
+      "StaffText1": "Production Coordinator",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "444",
+    "Value": {
+      "StaffText1": "Ayumi Logan",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "445",
+    "Value": {
+      "StaffText1": "Head of State",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "446",
+    "Value": {
+      "StaffText1": "Tom Hays",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "447",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "448",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "/Game/Core/UI/StaffRoll/StaffRollAsset/StaffRollPic009",
+      "NameType": 3,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "449",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "450",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "451",
+    "Value": {
+      "StaffText1": "Enzyme ",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "452",
+    "Value": {
+      "StaffText1": "Management",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "453",
+    "Value": {
+      "StaffText1": "Gabryel Lapointe",
+      "StaffText2": "Jean-Frédéryk Taché",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "454",
+    "Value": {
+      "StaffText1": "Michael Fisher",
+      "StaffText2": "Pascal Meunier",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "455",
+    "Value": {
+      "StaffText1": "Patrick Carriere-Goulet",
+      "StaffText2": "Sandra Malenfant",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "456",
+    "Value": {
+      "StaffText1": "Simon Ricard",
+      "StaffText2": "Thomas Mann",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "457",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "458",
+    "Value": {
+      "StaffText1": "Functionality Testers",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "459",
+    "Value": {
+      "StaffText1": "Britany Brewster",
+      "StaffText2": "Bruno Merineau",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "460",
+    "Value": {
+      "StaffText1": "Danick Courcelles",
+      "StaffText2": "Félix Renaud-Chartier",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "461",
+    "Value": {
+      "StaffText1": "Guillaume Therrien-Loiseau",
+      "StaffText2": "Jonathan Coulombe",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "462",
+    "Value": {
+      "StaffText1": "Luc-Olivier Therrien-Loiseau",
+      "StaffText2": "Noémy Danis ",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "463",
+    "Value": {
+      "StaffText1": "Olivier Hallé-Malette",
+      "StaffText2": "Philippe Corbeil",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "464",
+    "Value": {
+      "StaffText1": "Samuel Hebert-Moreira",
+      "StaffText2": "Samuel Pronovost",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "465",
+    "Value": {
+      "StaffText1": "Samuel Bolduc",
+      "StaffText2": "Tristan Durocher",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "466",
+    "Value": {
+      "StaffText1": "Julien Lafontaine",
+      "StaffText2": "Nicholas Charron",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "467",
+    "Value": {
+      "StaffText1": "Jeffrey Boisvert",
+      "StaffText2": "Simon Couture",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "468",
+    "Value": {
+      "StaffText1": "Simon-Serge Villeneuve ",
+      "StaffText2": " ",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "469",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "470",
+    "Value": {
+      "StaffText1": "Compliance Testers",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "471",
+    "Value": {
+      "StaffText1": "Annie-Pier Senechal",
+      "StaffText2": "Christian Bertrand",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "472",
+    "Value": {
+      "StaffText1": "Colin Roy-Beulence",
+      "StaffText2": "Laurie Desjardins",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "473",
+    "Value": {
+      "StaffText1": "Marie-Christine Filion",
+      "StaffText2": "Maxime Chevalier",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "474",
+    "Value": {
+      "StaffText1": "Maxime Desautels",
+      "StaffText2": " ",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "475",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "476",
+    "Value": {
+      "StaffText1": "Compliance Testers",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "477",
+    "Value": {
+      "StaffText1": "Maxime Wall-Veilleux",
+      "StaffText2": "Miguel Moreau",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "478",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "479",
+    "Value": {
+      "StaffText1": "Keyword Studios Plc",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 2.0
+    }
+  },
+  {
+    "Key": "480",
+    "Value": {
+      "StaffText1": "Kaoru Akuta ",
+      "StaffText2": "Machiko Murakami",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "481",
+    "Value": {
+      "StaffText1": "Naoya Wada ",
+      "StaffText2": "Shota Fujita",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "482",
+    "Value": {
+      "StaffText1": "Susumu Yamamoto ",
+      "StaffText2": "Yuta Yaguchi",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "483",
+    "Value": {
+      "StaffText1": "Yumena Nagase",
+      "StaffText2": "Seitaro Nagasawa",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "484",
+    "Value": {
+      "StaffText1": "Yoshiko Ichikawa",
+      "StaffText2": "Kento Suto",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "485",
+    "Value": {
+      "StaffText1": "Masamichi Oe",
+      "StaffText2": "Maya Fujimaki",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "486",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "487",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "/Game/Core/UI/StaffRoll/StaffRollAsset/StaffRollPic010",
+      "NameType": 3,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "488",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "489",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "490",
+    "Value": {
+      "StaffText1": "Fangamer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "491",
+    "Value": {
+      "StaffText1": "Campaign",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "492",
+    "Value": {
+      "StaffText1": "Ryan Alyea",
+      "StaffText2": "Steven Campos",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "493",
+    "Value": {
+      "StaffText1": "Dan Moore",
+      "StaffText2": "Reid Young",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "494",
+    "Value": {
+      "StaffText1": "Customer Service",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "495",
+    "Value": {
+      "StaffText1": " Alexandro Arvizu",
+      "StaffText2": "Steph Campos",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "496",
+    "Value": {
+      "StaffText1": "Adil Mohyuddin",
+      "StaffText2": " ",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "497",
+    "Value": {
+      "StaffText1": "Design and Production",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "498",
+    "Value": {
+      "StaffText1": "Brian Carmody",
+      "StaffText2": "Kari Fry",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "499",
+    "Value": {
+      "StaffText1": "Jon Kay",
+      "StaffText2": "Tony Kuchar",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "500",
+    "Value": {
+      "StaffText1": "Laura Verdin",
+      "StaffText2": "Chris Warriner",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "501",
+    "Value": {
+      "StaffText1": "Audrey Waner",
+      "StaffText2": "Drew Wise",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "502",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "503",
+    "Value": {
+      "StaffText1": "English Translation",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 2.0
+    }
+  },
+  {
+    "Key": "504",
+    "Value": {
+      "StaffText1": "8-4, Ltd.",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 1.0
+    }
+  },
+  {
+    "Key": "505",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "506",
+    "Value": {
+      "StaffText1": "Producer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.8
+    }
+  },
+  {
+    "Key": "507",
+    "Value": {
+      "StaffText1": "Graeme Howard",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "508",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "509",
+    "Value": {
+      "StaffText1": "Translator",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "510",
+    "Value": {
+      "StaffText1": "Brian Gray",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "511",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "512",
+    "Value": {
+      "StaffText1": "Support",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "513",
+    "Value": {
+      "StaffText1": "Justin Epperson",
+      "StaffText2": "Mark MacDonald",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "514",
+    "Value": {
+      "StaffText1": "Hiroko Minamoto",
+      "StaffText2": "Sarah Podzorski",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "515",
+    "Value": {
+      "StaffText1": "John Ricciardi",
+      "StaffText2": "Masanobu Suto",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "516",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "517",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "/Game/Core/UI/StaffRoll/StaffRollAsset/StaffRollPic004",
+      "NameType": 3,
+      "NextInterval": 1.0
+    }
+  },
+  {
+    "Key": "518",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "519",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "520",
+    "Value": {
+      "StaffText1": "Backers",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "521",
+    "Value": {
+      "StaffText1": " ",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 1.5
+    }
+  },
+  {
+    "Key": "522",
+    "Value": {
+      "StaffText1": "(終了)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 99,
+      "NextInterval": 0.0
+    }
+  }
+]

@@ -1,0 +1,431 @@
+[
+  {
+    "Key": "TUTORIAL_00_00",
+    "Value": {
+      "Data": "slide",
+      "Id": 0,
+      "Page": 0,
+      "Anim": true,
+      "Rule": "",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "TUTORIAL_00_01",
+    "Value": {
+      "Data": "manaflower",
+      "Id": 1,
+      "Page": 0,
+      "Anim": true,
+      "Rule": "AUTO:5",
+      "Augment": ""
+    }
+  },
+  {
+    "Key": "TUTORIAL_00_02",
+    "Value": {
+      "Data": "SaveRoom",
+      "Id": 2,
+      "Page": 0,
+      "Anim": true,
+      "Rule": "",
+      "Augment": ""
+    }
+  },
+  {
+    "Key": "TUTORIAL_00_03",
+    "Value": {
+      "Data": "FireCannonWall",
+      "Id": 3,
+      "Page": 0,
+      "Anim": true,
+      "Rule": "",
+      "Augment": ""
+    }
+  },
+  {
+    "Key": "Tutorial_CantGo",
+    "Value": {
+      "Data": "CantGo",
+      "Id": 4,
+      "Page": 0,
+      "Anim": true,
+      "Rule": "",
+      "Augment": ""
+    }
+  },
+  {
+    "Key": "SAN_000_01",
+    "Value": {
+      "Data": "Tutorial",
+      "Id": 10,
+      "Page": 0,
+      "Anim": true,
+      "Rule": "AUTO:600",
+      "Augment": "pos(100,500),pivot(centor)"
+    }
+  },
+  {
+    "Key": "SAN_000_04",
+    "Value": {
+      "Data": "Tutorial",
+      "Id": 11,
+      "Page": 0,
+      "Anim": true,
+      "Rule": "AUTOKEY:10",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "SAN_000_05",
+    "Value": {
+      "Data": "Tutorial",
+      "Id": 12,
+      "Page": 0,
+      "Anim": true,
+      "Rule": "AUTO:600",
+      "Augment": "pos(500,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "SAN_000_06",
+    "Value": {
+      "Data": "Tutorial",
+      "Id": 13,
+      "Page": 0,
+      "Anim": true,
+      "Rule": "AUTO:5",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "SAN_000_07",
+    "Value": {
+      "Data": "Tutorial",
+      "Id": 14,
+      "Page": 0,
+      "Anim": true,
+      "Rule": "AUTO:5",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "SAN_000_08",
+    "Value": {
+      "Data": "Tutorial",
+      "Id": 15,
+      "Page": 0,
+      "Anim": true,
+      "Rule": "AUTO:5",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "SAN_003_01",
+    "Value": {
+      "Data": "Tutorial",
+      "Id": 16,
+      "Page": 0,
+      "Anim": true,
+      "Rule": "AUTO:5",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "SAN_003_03",
+    "Value": {
+      "Data": "Tutorial",
+      "Id": 17,
+      "Page": 0,
+      "Anim": true,
+      "Rule": "AUTO:600",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "SAN_000_09",
+    "Value": {
+      "Data": "Tutorial2",
+      "Id": 18,
+      "Page": 0,
+      "Anim": true,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "SAN_000",
+    "Value": {
+      "Data": "Tutorial2",
+      "Id": 18,
+      "Page": 1,
+      "Anim": true,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "SAN_000",
+    "Value": {
+      "Data": "Tutorial2",
+      "Id": 18,
+      "Page": 2,
+      "Anim": true,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "SAN_000",
+    "Value": {
+      "Data": "Tutorial2",
+      "Id": 18,
+      "Page": 3,
+      "Anim": true,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "SAN_000",
+    "Value": {
+      "Data": "Tutorial2",
+      "Id": 18,
+      "Page": 4,
+      "Anim": true,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "Get_FireCannon",
+    "Value": {
+      "Data": "FireCannon",
+      "Id": 19,
+      "Page": 0,
+      "Anim": false,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "Get_Bonethrower",
+    "Value": {
+      "Data": "Bonethrower",
+      "Id": 20,
+      "Page": 0,
+      "Anim": false,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "Get_dog",
+    "Value": {
+      "Data": "dog",
+      "Id": 21,
+      "Page": 0,
+      "Anim": false,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "Get_Spear",
+    "Value": {
+      "Data": "Spear",
+      "Id": 22,
+      "Page": 0,
+      "Anim": false,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "GET_head",
+    "Value": {
+      "Data": "head1",
+      "Id": 23,
+      "Page": 0,
+      "Anim": false,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "Get_ResistHoly",
+    "Value": {
+      "Data": "ResistHoly",
+      "Id": 24,
+      "Page": 0,
+      "Anim": false,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "Get_Optimizer",
+    "Value": {
+      "Data": "Optimizer",
+      "Id": 25,
+      "Page": 0,
+      "Anim": false,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "Get_Head_summon",
+    "Value": {
+      "Data": "head2",
+      "Id": 26,
+      "Page": 0,
+      "Anim": false,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "Get_Ape",
+    "Value": {
+      "Data": "Ape",
+      "Id": 27,
+      "Page": 0,
+      "Anim": false,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "Get_Brood_Still",
+    "Value": {
+      "Data": "brood",
+      "Id": 28,
+      "Page": 0,
+      "Anim": false,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "Get_Jump",
+    "Value": {
+      "Data": "Jump",
+      "Id": 29,
+      "Page": 0,
+      "Anim": false,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "Get_Directional",
+    "Value": {
+      "Data": "Directional",
+      "Id": 30,
+      "Page": 0,
+      "Anim": false,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "GET_Trigger",
+    "Value": {
+      "Data": "Trigger",
+      "Id": 31,
+      "Page": 0,
+      "Anim": false,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "Get_Enchant",
+    "Value": {
+      "Data": "Enchant1",
+      "Id": 32,
+      "Page": 0,
+      "Anim": false,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "Get_Skill",
+    "Value": {
+      "Data": "Skill",
+      "Id": 33,
+      "Page": 0,
+      "Anim": false,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "Get_Effective",
+    "Value": {
+      "Data": "Effective",
+      "Id": 34,
+      "Page": 0,
+      "Anim": false,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "Get_Familia",
+    "Value": {
+      "Data": "Familia",
+      "Id": 35,
+      "Page": 0,
+      "Anim": false,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "Get_First_shard",
+    "Value": {
+      "Data": "shard",
+      "Id": 36,
+      "Page": 0,
+      "Anim": false,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)\"\""
+    }
+  },
+  {
+    "Key": "SAN_000",
+    "Value": {
+      "Data": "Blank",
+      "Id": 99,
+      "Page": 6,
+      "Anim": true,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "SAN_000",
+    "Value": {
+      "Data": "Blank",
+      "Id": 99,
+      "Page": 5,
+      "Anim": true,
+      "Rule": "KEY:0.1",
+      "Augment": "pos(100,200),pivot(centor)"
+    }
+  },
+  {
+    "Key": "AutoMove",
+    "Value": {
+      "Data": "BossMove",
+      "Id": 100,
+      "Page": 0,
+      "Anim": false,
+      "Rule": "AUTO:3",
+      "Augment": ""
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "Key": "07LIB_009",
+    "Value": {
+      "room_id": "m07LIB_009",
+      "sound_id": "BGM_OD_theme",
+      "range_x_min": 0,
+      "range_x_max": 0,
+      "range_z_min": 6570,
+      "range_z_max": 0
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "Key": "BACKER_0000",
+    "Value": {
+      "BackerName": "Luna Moon",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#F9DFB4"
+    }
+  },
+  {
+    "Key": "BACKER_0001",
+    "Value": {
+      "BackerName": "Pablo Alberto Ortega",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#2673E6"
+    }
+  },
+  {
+    "Key": "BACKER_0002",
+    "Value": {
+      "BackerName": "Felicia & Roselyne",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#DBFD2F"
+    }
+  },
+  {
+    "Key": "BACKER_0003",
+    "Value": {
+      "BackerName": "Trent-Caitlin-Bess-Sam",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#E27FE1"
+    }
+  },
+  {
+    "Key": "BACKER_0004",
+    "Value": {
+      "BackerName": "Takashi TORIU",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#A6A06E"
+    }
+  },
+  {
+    "Key": "BACKER_0005",
+    "Value": {
+      "BackerName": "AMWalker320",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#D5B0A5"
+    }
+  },
+  {
+    "Key": "BACKER_0006",
+    "Value": {
+      "BackerName": "krzystokleer",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#CC14D5"
+    }
+  },
+  {
+    "Key": "BACKER_0007",
+    "Value": {
+      "BackerName": "Mitchell T. Petrich",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#D98CFF"
+    }
+  },
+  {
+    "Key": "BACKER_0008",
+    "Value": {
+      "BackerName": "Tukytiky",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#20E9B6"
+    }
+  },
+  {
+    "Key": "BACKER_0009",
+    "Value": {
+      "BackerName": "gingerette95",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#5BC8A5"
+    }
+  },
+  {
+    "Key": "BACKER_0010",
+    "Value": {
+      "BackerName": "Adam aka SwimmingBird941",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#2CDE3E"
+    }
+  },
+  {
+    "Key": "BACKER_0011",
+    "Value": {
+      "BackerName": "Icybird Penguin Heilman",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#5981DA"
+    }
+  }
+]

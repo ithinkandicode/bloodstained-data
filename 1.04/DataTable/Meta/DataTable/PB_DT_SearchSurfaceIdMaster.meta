@@ -1,0 +1,50 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 1911
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 43
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 1799
+ImportCount: 4
+ImportOffset: 1687
+DependsOffset: 1903
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: dcec9479-1e6a-4f8a-a1e6-6869f7924dfa
+Generations: 1
+CompressionFlags: 0
+PackageSource: 2568752347
+Unversioned: False
+AssetRegistryDataOffset: 1907
+BulkDataStartOffset: 4346
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 1911
+
+
+TYPE DATA FOR PB_DT_SearchSurfaceIdMaster:
+Default_4_8E6648AB4CBF3D34E6B5C5B16C5092AA (7|0) -> NameProperty (15|0) 
+Standard_9_FC92585D44B6D3CC625C1098C755A2F7 (34|0) -> NameProperty (15|0) 
+Wood_10_A96EE1754CC1AB8BD58EE283CB800663 (39|0) -> NameProperty (15|0) 
+Wood_wet_11_E859025F4BB850AF92A922B917E32391 (42|0) -> NameProperty (15|0) 
+Wood_box_12_345663174FA81E1E9F4C8C91296016B8 (40|0) -> NameProperty (15|0) 
+Wood_plate_18_AEF159594BB3AC7E373E22A6C792C5FE (41|0) -> NameProperty (15|0) 
+Carpet_19_F88C924D4CB7EC85CA3AB7BA8388A30D (4|0) -> NameProperty (15|0) 
+Net_20_946914D54FF3DA0E79AE678B5E719864 (16|0) -> NameProperty (15|0) 
+Water_shallow_21_76C65850498ABB2053DB4582DDCE72F9 (38|0) -> NameProperty (15|0) 
+Stone_22_F3140A6F42DC1158AB48FC8DA3E710E1 (35|0) -> NameProperty (15|0) 
+Sand_26_49C8AC1E47633F439428209EA059F9FE (28|0) -> NameProperty (15|0) 
+Metal_27_AFD924524BFCE1C06EEC4DAE4A14EABC (9|0) -> NameProperty (15|0) 
+Ground_29_E491A96645DC2A767D0F18859EFFE0A2 (8|0) -> NameProperty (15|0) 
+Water_30_77175FEA45836E29DA6157A56829987C (37|0) -> NameProperty (15|0) 

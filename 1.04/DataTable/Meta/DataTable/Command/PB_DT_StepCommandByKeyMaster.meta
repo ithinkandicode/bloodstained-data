@@ -1,0 +1,44 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 1772
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 45
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 1660
+ImportCount: 4
+ImportOffset: 1548
+DependsOffset: 1764
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 95173e08-c704-4df8-9cbd-5a39c7179863
+Generations: 1
+CompressionFlags: 0
+PackageSource: 2278119686
+Unversioned: False
+AssetRegistryDataOffset: 1768
+BulkDataStartOffset: 6227
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 1772
+
+
+TYPE DATA FOR PB_DT_StepCommandByKeyMaster:
+Command_43_B53A50A84AFB58153553DE967D66D3C6 (11|0) -> NameProperty (27|0) 
+TargetTagName_48_F80861F241A274AAC9C46580A1B9357E (39|0) -> NameProperty (27|0) 
+TargetLocation_45_FFA9A68647D01B56C9D9E6B4460E5C6E (38|0) -> StructProperty (37|0) 
+BoolParam_40_1C75B7834DEE47A17FD7D8941CEB00F8 (6|0) -> BoolProperty (7|0) 
+RotatorParam_37_E6741D09430D57EACE296AADABB29E67 (34|0) -> StructProperty (37|0) 
+IsFinishLookAt_58_C3B292B8442B336433042AADC1277BAC (16|0) -> BoolProperty (7|0) 
+FinishLookAtActorTagName_57_61C97B734C90B123D2E425862220EC6F (15|0) -> NameProperty (27|0) 
+IsWalk_60_05257512429922FE745D9187FB1B7040 (17|0) -> BoolProperty (7|0) 

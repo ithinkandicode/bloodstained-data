@@ -1,0 +1,15 @@
+[
+  {
+    "Key": "SETTING_00",
+    "Value": {
+      "decay_near": 630.0,
+      "decay_far": 1260.0,
+      "decay_far_vol": 0.0,
+      "max_amb": 1000,
+      "max_com_se": 1000,
+      "max_com_voice": 256,
+      "max_se": 1000,
+      "max_voice": 64
+    }
+  }
+]
