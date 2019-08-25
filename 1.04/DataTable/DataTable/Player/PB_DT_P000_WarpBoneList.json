@@ -1,0 +1,278 @@
+[
+  {
+    "Key": "pelvis",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "pelvis"
+    }
+  },
+  {
+    "Key": "spine_01",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "spine_01"
+    }
+  },
+  {
+    "Key": "spine_02",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "spine_02"
+    }
+  },
+  {
+    "Key": "spine_03",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "spine_03"
+    }
+  },
+  {
+    "Key": "neck_01",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "neck_01"
+    }
+  },
+  {
+    "Key": "head",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "head"
+    }
+  },
+  {
+    "Key": "clavicle_l",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "clavicle_l"
+    }
+  },
+  {
+    "Key": "upperarm_l",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "upperarm_l"
+    }
+  },
+  {
+    "Key": "lowerarm_l",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "lowerarm_l"
+    }
+  },
+  {
+    "Key": "hand_l",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "hand_l"
+    }
+  },
+  {
+    "Key": "weapon_l",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "weapon_l"
+    }
+  },
+  {
+    "Key": "clavicle_r",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "clavicle_r"
+    }
+  },
+  {
+    "Key": "upperarm_r",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "upperarm_r"
+    }
+  },
+  {
+    "Key": "upperarm_twist_01_r",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "upperarm_twist_01_r"
+    }
+  },
+  {
+    "Key": "lowerarm_r",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "lowerarm_r"
+    }
+  },
+  {
+    "Key": "hand_r",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "hand_r"
+    }
+  },
+  {
+    "Key": "weapon_r",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "weapon_r"
+    }
+  },
+  {
+    "Key": "bust_r",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "bust_r"
+    }
+  },
+  {
+    "Key": "bust_l",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "bust_l"
+    }
+  },
+  {
+    "Key": "thigh_r",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "thigh_r"
+    }
+  },
+  {
+    "Key": "calf_twist_01_r",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "calf_twist_01_r"
+    }
+  },
+  {
+    "Key": "ball_r",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "ball_r"
+    }
+  },
+  {
+    "Key": "foot_r",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "foot_r"
+    }
+  },
+  {
+    "Key": "calf_r",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "calf_r"
+    }
+  },
+  {
+    "Key": "calf_twist_01_l",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "calf_twist_01_l"
+    }
+  },
+  {
+    "Key": "thigh_l",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "thigh_l"
+    }
+  },
+  {
+    "Key": "calf_l",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "calf_l"
+    }
+  },
+  {
+    "Key": "foot_l",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "foot_l"
+    }
+  },
+  {
+    "Key": "ball_l",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "ball_l"
+    }
+  },
+  {
+    "Key": "_01_CSkirt_m",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "_01_CSkirt_m"
+    }
+  },
+  {
+    "Key": "_01_BSkirt1_l",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "_01_BSkirt1_l"
+    }
+  },
+  {
+    "Key": "_01_BSkirt2_l",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "_01_BSkirt2_l"
+    }
+  },
+  {
+    "Key": "_01_SSkirt1_r",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "_01_SSkirt1_r"
+    }
+  },
+  {
+    "Key": "_01_SSkirt2_r",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "_01_SSkirt2_r"
+    }
+  },
+  {
+    "Key": "_01_FSkirt1_m",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "_01_FSkirt1_m"
+    }
+  },
+  {
+    "Key": "_01_FSkirt2_m",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "_01_FSkirt2_m"
+    }
+  },
+  {
+    "Key": "_01_FSkirt2_l",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "_01_FSkirt2_l"
+    }
+  },
+  {
+    "Key": "_01_FSkirt1_l",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "_01_FSkirt1_l"
+    }
+  },
+  {
+    "Key": "_01_FSkirt1_r",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "_01_FSkirt1_r"
+    }
+  },
+  {
+    "Key": "_01_FSkirt2_r",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "_01_FSkirt2_r"
+    }
+  },
+  {
+    "Key": "_01_SSkirt1_l",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "_01_SSkirt1_l"
+    }
+  },
+  {
+    "Key": "_01_SSkirt2_l",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "_01_SSkirt2_l"
+    }
+  },
+  {
+    "Key": "_01_BSkirt1_m",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "_01_BSkirt1_m"
+    }
+  },
+  {
+    "Key": "_01_BSkirt2_m",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "_01_BSkirt2_m"
+    }
+  },
+  {
+    "Key": "_01_BSkirt1_r",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "_01_BSkirt1_r"
+    }
+  },
+  {
+    "Key": "_01_BSkirt2_r",
+    "Value": {
+      "BoneName_30_789DF3DC4F0AAC1E63FF31B1D2EB4C98": "_01_BSkirt2_r"
+    }
+  }
+]

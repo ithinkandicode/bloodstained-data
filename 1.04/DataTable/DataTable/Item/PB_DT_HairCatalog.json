@@ -1,0 +1,5436 @@
+[
+  {
+    "Key": "Hair01_AriesHorns",
+    "Value": {
+      "EquipID": "AriesHorns",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_Headband",
+    "Value": {
+      "EquipID": "Headband",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_PirateTriangleCap",
+    "Value": {
+      "EquipID": "PirateTriangleCap",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_DurahanMaherm",
+    "Value": {
+      "EquipID": "DurahanMaherm",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_Circlet",
+    "Value": {
+      "EquipID": "Circlet",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_Garbohat",
+    "Value": {
+      "EquipID": "Garbohat",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_Santacap",
+    "Value": {
+      "EquipID": "Santacap",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_Beastberet",
+    "Value": {
+      "EquipID": "Beastberet",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_CatEars",
+    "Value": {
+      "EquipID": "CatEars",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_CowboyHat",
+    "Value": {
+      "EquipID": "CowboyHat",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_WolfHood",
+    "Value": {
+      "EquipID": "WolfHood",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_Circletoffire",
+    "Value": {
+      "EquipID": "Circletoffire",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_Icecirclet",
+    "Value": {
+      "EquipID": "Icecirclet",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_Thunderscirclet",
+    "Value": {
+      "EquipID": "Thunderscirclet",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_BraveBeret",
+    "Value": {
+      "EquipID": "BraveBeret",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_Crowhat",
+    "Value": {
+      "EquipID": "Crowhat",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_GadgetBand",
+    "Value": {
+      "EquipID": "GadgetBand",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_FeatherCrown",
+    "Value": {
+      "EquipID": "FeatherCrown",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_SilverTiara",
+    "Value": {
+      "EquipID": "SilverTiara",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_Magushat",
+    "Value": {
+      "EquipID": "Magushat",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_Cutebeastberet",
+    "Value": {
+      "EquipID": "Cutebeastberet",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_BunnyEars",
+    "Value": {
+      "EquipID": "BunnyEars",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_Dentistshat",
+    "Value": {
+      "EquipID": "Dentistshat",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_Maidheadband",
+    "Value": {
+      "EquipID": "Maidheadband",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_Westernhat",
+    "Value": {
+      "EquipID": "Westernhat",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_ribbon",
+    "Value": {
+      "EquipID": "ribbon",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_Flightcapoftraveler",
+    "Value": {
+      "EquipID": "Flightcapoftraveler",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_HermitsBeret",
+    "Value": {
+      "EquipID": "HermitsBeret",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_KitsuneMask",
+    "Value": {
+      "EquipID": "KitsuneMask",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_DemonHorns",
+    "Value": {
+      "EquipID": "DemonHorns",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_ElderTiara",
+    "Value": {
+      "EquipID": "ElderTiara",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_Recyclehat",
+    "Value": {
+      "EquipID": "Recyclehat",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_Pleiades",
+    "Value": {
+      "EquipID": "Pleiades",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_ValkyrieTiara",
+    "Value": {
+      "EquipID": "ValkyrieTiara",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_HumptyDumpty",
+    "Value": {
+      "EquipID": "HumptyDumpty",
+      "HairID": "Hair01",
+      "HairType": "None",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_Mega64Head",
+    "Value": {
+      "EquipID": "Mega64Head",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_LoveOfBenki",
+    "Value": {
+      "EquipID": "LoveOfBenki",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair01_Plan9FOSpace",
+    "Value": {
+      "EquipID": "Plan9FOSpace",
+      "HairID": "Hair01",
+      "HairType": "Hair01",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_AriesHorns",
+    "Value": {
+      "EquipID": "AriesHorns",
+      "HairID": "Hair02",
+      "HairType": "Hair02",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.6
+    }
+  },
+  {
+    "Key": "Hair02_Headband",
+    "Value": {
+      "EquipID": "Headband",
+      "HairID": "Hair02",
+      "HairType": "Hair02",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_PirateTriangleCap",
+    "Value": {
+      "EquipID": "PirateTriangleCap",
+      "HairID": "Hair02",
+      "HairType": "Hair02_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_DurahanMaherm",
+    "Value": {
+      "EquipID": "DurahanMaherm",
+      "HairID": "Hair02",
+      "HairType": "Hair02_B",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_Circlet",
+    "Value": {
+      "EquipID": "Circlet",
+      "HairID": "Hair02",
+      "HairType": "Hair02",
+      "OffsetX": -0.15,
+      "OffsetY": -0.1,
+      "OffsetZ": 1.1
+    }
+  },
+  {
+    "Key": "Hair02_Garbohat",
+    "Value": {
+      "EquipID": "Garbohat",
+      "HairID": "Hair02",
+      "HairType": "Hair02_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_Santacap",
+    "Value": {
+      "EquipID": "Santacap",
+      "HairID": "Hair02",
+      "HairType": "Hair02_B",
+      "OffsetX": 0.0,
+      "OffsetY": 0.2,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair02_Beastberet",
+    "Value": {
+      "EquipID": "Beastberet",
+      "HairID": "Hair02",
+      "HairType": "Hair02_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_CatEars",
+    "Value": {
+      "EquipID": "CatEars",
+      "HairID": "Hair02",
+      "HairType": "Hair02",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_CowboyHat",
+    "Value": {
+      "EquipID": "CowboyHat",
+      "HairID": "Hair02",
+      "HairType": "Hair02_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_WolfHood",
+    "Value": {
+      "EquipID": "WolfHood",
+      "HairID": "Hair02",
+      "HairType": "Hair02_B",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_Circletoffire",
+    "Value": {
+      "EquipID": "Circletoffire",
+      "HairID": "Hair02",
+      "HairType": "Hair02",
+      "OffsetX": 0.0,
+      "OffsetY": 2.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_Icecirclet",
+    "Value": {
+      "EquipID": "Icecirclet",
+      "HairID": "Hair02",
+      "HairType": "Hair02",
+      "OffsetX": 0.0,
+      "OffsetY": 1.8,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_Thunderscirclet",
+    "Value": {
+      "EquipID": "Thunderscirclet",
+      "HairID": "Hair02",
+      "HairType": "Hair02",
+      "OffsetX": 0.0,
+      "OffsetY": 2.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_BraveBeret",
+    "Value": {
+      "EquipID": "BraveBeret",
+      "HairID": "Hair02",
+      "HairType": "Hair02_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_Crowhat",
+    "Value": {
+      "EquipID": "Crowhat",
+      "HairID": "Hair02",
+      "HairType": "Hair02_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_GadgetBand",
+    "Value": {
+      "EquipID": "GadgetBand",
+      "HairID": "Hair02",
+      "HairType": "Hair02",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_FeatherCrown",
+    "Value": {
+      "EquipID": "FeatherCrown",
+      "HairID": "Hair02",
+      "HairType": "Hair02",
+      "OffsetX": -0.8,
+      "OffsetY": 0.3,
+      "OffsetZ": 2.3
+    }
+  },
+  {
+    "Key": "Hair02_SilverTiara",
+    "Value": {
+      "EquipID": "SilverTiara",
+      "HairID": "Hair02",
+      "HairType": "Hair02",
+      "OffsetX": 0.0,
+      "OffsetY": -0.36,
+      "OffsetZ": 0.16
+    }
+  },
+  {
+    "Key": "Hair02_Magushat",
+    "Value": {
+      "EquipID": "Magushat",
+      "HairID": "Hair02",
+      "HairType": "Hair02_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_Cutebeastberet",
+    "Value": {
+      "EquipID": "Cutebeastberet",
+      "HairID": "Hair02",
+      "HairType": "Hair02_A",
+      "OffsetX": -0.5,
+      "OffsetY": 0.0,
+      "OffsetZ": 1.0
+    }
+  },
+  {
+    "Key": "Hair02_BunnyEars",
+    "Value": {
+      "EquipID": "BunnyEars",
+      "HairID": "Hair02",
+      "HairType": "Hair02",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_Dentistshat",
+    "Value": {
+      "EquipID": "Dentistshat",
+      "HairID": "Hair02",
+      "HairType": "Hair02_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_Maidheadband",
+    "Value": {
+      "EquipID": "Maidheadband",
+      "HairID": "Hair02",
+      "HairType": "Hair02",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_Westernhat",
+    "Value": {
+      "EquipID": "Westernhat",
+      "HairID": "Hair02",
+      "HairType": "Hair02_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_ribbon",
+    "Value": {
+      "EquipID": "ribbon",
+      "HairID": "Hair02",
+      "HairType": "Hair02",
+      "OffsetX": 0.0,
+      "OffsetY": 3.3,
+      "OffsetZ": 2.0
+    }
+  },
+  {
+    "Key": "Hair02_Flightcapoftraveler",
+    "Value": {
+      "EquipID": "Flightcapoftraveler",
+      "HairID": "Hair02",
+      "HairType": "Hair02_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_HermitsBeret",
+    "Value": {
+      "EquipID": "HermitsBeret",
+      "HairID": "Hair02",
+      "HairType": "Hair02_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_KitsuneMask",
+    "Value": {
+      "EquipID": "KitsuneMask",
+      "HairID": "Hair02",
+      "HairType": "Hair02",
+      "OffsetX": -0.83,
+      "OffsetY": 0.0,
+      "OffsetZ": 1.14
+    }
+  },
+  {
+    "Key": "Hair02_DemonHorns",
+    "Value": {
+      "EquipID": "DemonHorns",
+      "HairID": "Hair02",
+      "HairType": "Hair02",
+      "OffsetX": -0.3,
+      "OffsetY": 0.7,
+      "OffsetZ": 0.45
+    }
+  },
+  {
+    "Key": "Hair02_ElderTiara",
+    "Value": {
+      "EquipID": "ElderTiara",
+      "HairID": "Hair02",
+      "HairType": "Hair02",
+      "OffsetX": 0.0,
+      "OffsetY": 2.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_Recyclehat",
+    "Value": {
+      "EquipID": "Recyclehat",
+      "HairID": "Hair02",
+      "HairType": "Hair02_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_Pleiades",
+    "Value": {
+      "EquipID": "Pleiades",
+      "HairID": "Hair02",
+      "HairType": "Hair02",
+      "OffsetX": -0.3,
+      "OffsetY": 1.8,
+      "OffsetZ": -1.2
+    }
+  },
+  {
+    "Key": "Hair02_ValkyrieTiara",
+    "Value": {
+      "EquipID": "ValkyrieTiara",
+      "HairID": "Hair02",
+      "HairType": "Hair02",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_HumptyDumpty",
+    "Value": {
+      "EquipID": "HumptyDumpty",
+      "HairID": "Hair02",
+      "HairType": "None",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_Mega64Head",
+    "Value": {
+      "EquipID": "Mega64Head",
+      "HairID": "Hair02",
+      "HairType": "Hair02_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_LoveOfBenki",
+    "Value": {
+      "EquipID": "LoveOfBenki",
+      "HairID": "Hair02",
+      "HairType": "Hair02_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair02_Plan9FOSpace",
+    "Value": {
+      "EquipID": "Plan9FOSpace",
+      "HairID": "Hair02",
+      "HairType": "Hair02",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair03_AriesHorns",
+    "Value": {
+      "EquipID": "AriesHorns",
+      "HairID": "Hair03",
+      "HairType": "Hair03",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.2
+    }
+  },
+  {
+    "Key": "Hair03_Headband",
+    "Value": {
+      "EquipID": "Headband",
+      "HairID": "Hair03",
+      "HairType": "Hair03",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.45
+    }
+  },
+  {
+    "Key": "Hair03_PirateTriangleCap",
+    "Value": {
+      "EquipID": "PirateTriangleCap",
+      "HairID": "Hair03",
+      "HairType": "Hair03_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair03_DurahanMaherm",
+    "Value": {
+      "EquipID": "DurahanMaherm",
+      "HairID": "Hair03",
+      "HairType": "Hair03_B",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair03_Circlet",
+    "Value": {
+      "EquipID": "Circlet",
+      "HairID": "Hair03",
+      "HairType": "Hair03",
+      "OffsetX": -0.4,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.3
+    }
+  },
+  {
+    "Key": "Hair03_Garbohat",
+    "Value": {
+      "EquipID": "Garbohat",
+      "HairID": "Hair03",
+      "HairType": "Hair03_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair03_Santacap",
+    "Value": {
+      "EquipID": "Santacap",
+      "HairID": "Hair03",
+      "HairType": "Hair03_B",
+      "OffsetX": 0.0,
+      "OffsetY": 0.1,
+      "OffsetZ": 0.35
+    }
+  },
+  {
+    "Key": "Hair03_Beastberet",
+    "Value": {
+      "EquipID": "Beastberet",
+      "HairID": "Hair03",
+      "HairType": "Hair03_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair03_CatEars",
+    "Value": {
+      "EquipID": "CatEars",
+      "HairID": "Hair03",
+      "HairType": "Hair03",
+      "OffsetX": 0.0,
+      "OffsetY": 0.1,
+      "OffsetZ": 0.4
+    }
+  },
+  {
+    "Key": "Hair03_CowboyHat",
+    "Value": {
+      "EquipID": "CowboyHat",
+      "HairID": "Hair03",
+      "HairType": "Hair03_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair03_WolfHood",
+    "Value": {
+      "EquipID": "WolfHood",
+      "HairID": "Hair03",
+      "HairType": "Hair03_B",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair03_Circletoffire",
+    "Value": {
+      "EquipID": "Circletoffire",
+      "HairID": "Hair03",
+      "HairType": "Hair03",
+      "OffsetX": -0.5,
+      "OffsetY": 0.0,
+      "OffsetZ": 1.1
+    }
+  },
+  {
+    "Key": "Hair03_Icecirclet",
+    "Value": {
+      "EquipID": "Icecirclet",
+      "HairID": "Hair03",
+      "HairType": "Hair03",
+      "OffsetX": 0.0,
+      "OffsetY": 1.3,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair03_Thunderscirclet",
+    "Value": {
+      "EquipID": "Thunderscirclet",
+      "HairID": "Hair03",
+      "HairType": "Hair03",
+      "OffsetX": -0.5,
+      "OffsetY": 1.6,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair03_BraveBeret",
+    "Value": {
+      "EquipID": "BraveBeret",
+      "HairID": "Hair03",
+      "HairType": "Hair03_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair03_Crowhat",
+    "Value": {
+      "EquipID": "Crowhat",
+      "HairID": "Hair03",
+      "HairType": "Hair03_A",
+      "OffsetX": 0.0,
+      "OffsetY": -0.7,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair03_GadgetBand",
+    "Value": {
+      "EquipID": "GadgetBand",
+      "HairID": "Hair03",
+      "HairType": "Hair03",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair03_FeatherCrown",
+    "Value": {
+      "EquipID": "FeatherCrown",
+      "HairID": "Hair03",
+      "HairType": "Hair03",
+      "OffsetX": -1.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.75
+    }
+  },
+  {
+    "Key": "Hair03_SilverTiara",
+    "Value": {
+      "EquipID": "SilverTiara",
+      "HairID": "Hair03",
+      "HairType": "Hair03",
+      "OffsetX": 0.0,
+      "OffsetY": -0.4,
+      "OffsetZ": 0.8
+    }
+  },
+  {
+    "Key": "Hair03_Magushat",
+    "Value": {
+      "EquipID": "Magushat",
+      "HairID": "Hair03",
+      "HairType": "Hair03_A",
+      "OffsetX": 0.0,
+      "OffsetY": -0.7,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair03_Cutebeastberet",
+    "Value": {
+      "EquipID": "Cutebeastberet",
+      "HairID": "Hair03",
+      "HairType": "Hair03_A",
+      "OffsetX": -0.3,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.7
+    }
+  },
+  {
+    "Key": "Hair03_BunnyEars",
+    "Value": {
+      "EquipID": "BunnyEars",
+      "HairID": "Hair03",
+      "HairType": "Hair03",
+      "OffsetX": 0.0,
+      "OffsetY": 0.3,
+      "OffsetZ": 0.2
+    }
+  },
+  {
+    "Key": "Hair03_Dentistshat",
+    "Value": {
+      "EquipID": "Dentistshat",
+      "HairID": "Hair03",
+      "HairType": "Hair03_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair03_Maidheadband",
+    "Value": {
+      "EquipID": "Maidheadband",
+      "HairID": "Hair03",
+      "HairType": "Hair03",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.85
+    }
+  },
+  {
+    "Key": "Hair03_Westernhat",
+    "Value": {
+      "EquipID": "Westernhat",
+      "HairID": "Hair03",
+      "HairType": "Hair03_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair03_ribbon",
+    "Value": {
+      "EquipID": "ribbon",
+      "HairID": "Hair03",
+      "HairType": "Hair03",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.8
+    }
+  },
+  {
+    "Key": "Hair03_Flightcapoftraveler",
+    "Value": {
+      "EquipID": "Flightcapoftraveler",
+      "HairID": "Hair03",
+      "HairType": "Hair03_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair03_HermitsBeret",
+    "Value": {
+      "EquipID": "HermitsBeret",
+      "HairID": "Hair03",
+      "HairType": "Hair03_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair03_KitsuneMask",
+    "Value": {
+      "EquipID": "KitsuneMask",
+      "HairID": "Hair03",
+      "HairType": "Hair03",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair03_DemonHorns",
+    "Value": {
+      "EquipID": "DemonHorns",
+      "HairID": "Hair03",
+      "HairType": "Hair03",
+      "OffsetX": -0.45,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.15
+    }
+  },
+  {
+    "Key": "Hair03_ElderTiara",
+    "Value": {
+      "EquipID": "ElderTiara",
+      "HairID": "Hair03",
+      "HairType": "Hair03",
+      "OffsetX": 0.0,
+      "OffsetY": 1.3,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair03_Recyclehat",
+    "Value": {
+      "EquipID": "Recyclehat",
+      "HairID": "Hair03",
+      "HairType": "Hair03_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair03_Pleiades",
+    "Value": {
+      "EquipID": "Pleiades",
+      "HairID": "Hair03",
+      "HairType": "Hair03",
+      "OffsetX": -0.2,
+      "OffsetY": 1.5,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair03_ValkyrieTiara",
+    "Value": {
+      "EquipID": "ValkyrieTiara",
+      "HairID": "Hair03",
+      "HairType": "Hair03",
+      "OffsetX": -0.3,
+      "OffsetY": 1.8,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair03_HumptyDumpty",
+    "Value": {
+      "EquipID": "HumptyDumpty",
+      "HairID": "Hair03",
+      "HairType": "None",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair03_Mega64Head",
+    "Value": {
+      "EquipID": "Mega64Head",
+      "HairID": "Hair03",
+      "HairType": "Hair03_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair03_LoveOfBenki",
+    "Value": {
+      "EquipID": "LoveOfBenki",
+      "HairID": "Hair03",
+      "HairType": "Hair03_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair03_Plan9FOSpace",
+    "Value": {
+      "EquipID": "Plan9FOSpace",
+      "HairID": "Hair03",
+      "HairType": "Hair03",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair04_AriesHorns",
+    "Value": {
+      "EquipID": "AriesHorns",
+      "HairID": "Hair04",
+      "HairType": "Hair04",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -1.0
+    }
+  },
+  {
+    "Key": "Hair04_Headband",
+    "Value": {
+      "EquipID": "Headband",
+      "HairID": "Hair04",
+      "HairType": "Hair04",
+      "OffsetX": 0.0,
+      "OffsetY": -0.15,
+      "OffsetZ": -0.4
+    }
+  },
+  {
+    "Key": "Hair04_PirateTriangleCap",
+    "Value": {
+      "EquipID": "PirateTriangleCap",
+      "HairID": "Hair04",
+      "HairType": "Hair04_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.25
+    }
+  },
+  {
+    "Key": "Hair04_DurahanMaherm",
+    "Value": {
+      "EquipID": "DurahanMaherm",
+      "HairID": "Hair04",
+      "HairType": "Hair04_B",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair04_Circlet",
+    "Value": {
+      "EquipID": "Circlet",
+      "HairID": "Hair04",
+      "HairType": "Hair04",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -1.2
+    }
+  },
+  {
+    "Key": "Hair04_Garbohat",
+    "Value": {
+      "EquipID": "Garbohat",
+      "HairID": "Hair04",
+      "HairType": "Hair04_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair04_Santacap",
+    "Value": {
+      "EquipID": "Santacap",
+      "HairID": "Hair04",
+      "HairType": "Hair04_B",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair04_Beastberet",
+    "Value": {
+      "EquipID": "Beastberet",
+      "HairID": "Hair04",
+      "HairType": "Hair04_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.15
+    }
+  },
+  {
+    "Key": "Hair04_CatEars",
+    "Value": {
+      "EquipID": "CatEars",
+      "HairID": "Hair04",
+      "HairType": "Hair04",
+      "OffsetX": 0.0,
+      "OffsetY": -0.4,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair04_CowboyHat",
+    "Value": {
+      "EquipID": "CowboyHat",
+      "HairID": "Hair04",
+      "HairType": "Hair04_A",
+      "OffsetX": 0.0,
+      "OffsetY": -0.9,
+      "OffsetZ": -0.3
+    }
+  },
+  {
+    "Key": "Hair04_WolfHood",
+    "Value": {
+      "EquipID": "WolfHood",
+      "HairID": "Hair04",
+      "HairType": "Hair04_B",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair04_Circletoffire",
+    "Value": {
+      "EquipID": "Circletoffire",
+      "HairID": "Hair04",
+      "HairType": "Hair04",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair04_Icecirclet",
+    "Value": {
+      "EquipID": "Icecirclet",
+      "HairID": "Hair04",
+      "HairType": "Hair04",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair04_Thunderscirclet",
+    "Value": {
+      "EquipID": "Thunderscirclet",
+      "HairID": "Hair04",
+      "HairType": "Hair04",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair04_BraveBeret",
+    "Value": {
+      "EquipID": "BraveBeret",
+      "HairID": "Hair04",
+      "HairType": "Hair04_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.15
+    }
+  },
+  {
+    "Key": "Hair04_Crowhat",
+    "Value": {
+      "EquipID": "Crowhat",
+      "HairID": "Hair04",
+      "HairType": "Hair04_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair04_GadgetBand",
+    "Value": {
+      "EquipID": "GadgetBand",
+      "HairID": "Hair04",
+      "HairType": "Hair04",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair04_FeatherCrown",
+    "Value": {
+      "EquipID": "FeatherCrown",
+      "HairID": "Hair04",
+      "HairType": "Hair04",
+      "OffsetX": -0.7,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.9
+    }
+  },
+  {
+    "Key": "Hair04_SilverTiara",
+    "Value": {
+      "EquipID": "SilverTiara",
+      "HairID": "Hair04",
+      "HairType": "Hair04",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair04_Magushat",
+    "Value": {
+      "EquipID": "Magushat",
+      "HairID": "Hair04",
+      "HairType": "Hair04_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair04_Cutebeastberet",
+    "Value": {
+      "EquipID": "Cutebeastberet",
+      "HairID": "Hair04",
+      "HairType": "Hair04_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.7
+    }
+  },
+  {
+    "Key": "Hair04_BunnyEars",
+    "Value": {
+      "EquipID": "BunnyEars",
+      "HairID": "Hair04",
+      "HairType": "Hair04",
+      "OffsetX": 0.0,
+      "OffsetY": -0.55,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair04_Dentistshat",
+    "Value": {
+      "EquipID": "Dentistshat",
+      "HairID": "Hair04",
+      "HairType": "Hair04_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair04_Maidheadband",
+    "Value": {
+      "EquipID": "Maidheadband",
+      "HairID": "Hair04",
+      "HairType": "Hair04",
+      "OffsetX": 0.0,
+      "OffsetY": -0.55,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair04_Westernhat",
+    "Value": {
+      "EquipID": "Westernhat",
+      "HairID": "Hair04",
+      "HairType": "Hair04_A",
+      "OffsetX": 0.0,
+      "OffsetY": -0.9,
+      "OffsetZ": -0.3
+    }
+  },
+  {
+    "Key": "Hair04_ribbon",
+    "Value": {
+      "EquipID": "ribbon",
+      "HairID": "Hair04",
+      "HairType": "Hair04",
+      "OffsetX": 0.0,
+      "OffsetY": 2.3,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair04_Flightcapoftraveler",
+    "Value": {
+      "EquipID": "Flightcapoftraveler",
+      "HairID": "Hair04",
+      "HairType": "Hair04_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair04_HermitsBeret",
+    "Value": {
+      "EquipID": "HermitsBeret",
+      "HairID": "Hair04",
+      "HairType": "Hair04_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.15
+    }
+  },
+  {
+    "Key": "Hair04_KitsuneMask",
+    "Value": {
+      "EquipID": "KitsuneMask",
+      "HairID": "Hair04",
+      "HairType": "Hair04",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.55
+    }
+  },
+  {
+    "Key": "Hair04_DemonHorns",
+    "Value": {
+      "EquipID": "DemonHorns",
+      "HairID": "Hair04",
+      "HairType": "Hair04",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair04_ElderTiara",
+    "Value": {
+      "EquipID": "ElderTiara",
+      "HairID": "Hair04",
+      "HairType": "Hair04",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -1.0
+    }
+  },
+  {
+    "Key": "Hair04_Recyclehat",
+    "Value": {
+      "EquipID": "Recyclehat",
+      "HairID": "Hair04",
+      "HairType": "Hair04_A",
+      "OffsetX": 0.0,
+      "OffsetY": -0.9,
+      "OffsetZ": -0.3
+    }
+  },
+  {
+    "Key": "Hair04_Pleiades",
+    "Value": {
+      "EquipID": "Pleiades",
+      "HairID": "Hair04",
+      "HairType": "Hair04",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair04_ValkyrieTiara",
+    "Value": {
+      "EquipID": "ValkyrieTiara",
+      "HairID": "Hair04",
+      "HairType": "Hair04",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -1.0
+    }
+  },
+  {
+    "Key": "Hair04_HumptyDumpty",
+    "Value": {
+      "EquipID": "HumptyDumpty",
+      "HairID": "Hair04",
+      "HairType": "None",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair04_Mega64Head",
+    "Value": {
+      "EquipID": "Mega64Head",
+      "HairID": "Hair04",
+      "HairType": "Hair04_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair04_LoveOfBenki",
+    "Value": {
+      "EquipID": "LoveOfBenki",
+      "HairID": "Hair04",
+      "HairType": "Hair04_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair04_Plan9FOSpace",
+    "Value": {
+      "EquipID": "Plan9FOSpace",
+      "HairID": "Hair04",
+      "HairType": "Hair04",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_AriesHorns",
+    "Value": {
+      "EquipID": "AriesHorns",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_Headband",
+    "Value": {
+      "EquipID": "Headband",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.2,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair05_PirateTriangleCap",
+    "Value": {
+      "EquipID": "PirateTriangleCap",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.4
+    }
+  },
+  {
+    "Key": "Hair05_DurahanMaherm",
+    "Value": {
+      "EquipID": "DurahanMaherm",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": -0.5,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_Circlet",
+    "Value": {
+      "EquipID": "Circlet",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.9
+    }
+  },
+  {
+    "Key": "Hair05_Garbohat",
+    "Value": {
+      "EquipID": "Garbohat",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": -0.6,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_Santacap",
+    "Value": {
+      "EquipID": "Santacap",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": -0.5,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_Beastberet",
+    "Value": {
+      "EquipID": "Beastberet",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": -0.7,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_CatEars",
+    "Value": {
+      "EquipID": "CatEars",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.3,
+      "OffsetZ": 0.3
+    }
+  },
+  {
+    "Key": "Hair05_CowboyHat",
+    "Value": {
+      "EquipID": "CowboyHat",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.6
+    }
+  },
+  {
+    "Key": "Hair05_WolfHood",
+    "Value": {
+      "EquipID": "WolfHood",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": -0.5,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair05_Circletoffire",
+    "Value": {
+      "EquipID": "Circletoffire",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair05_Icecirclet",
+    "Value": {
+      "EquipID": "Icecirclet",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_Thunderscirclet",
+    "Value": {
+      "EquipID": "Thunderscirclet",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair05_BraveBeret",
+    "Value": {
+      "EquipID": "BraveBeret",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": -0.7,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_Crowhat",
+    "Value": {
+      "EquipID": "Crowhat",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": -1.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_GadgetBand",
+    "Value": {
+      "EquipID": "GadgetBand",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_FeatherCrown",
+    "Value": {
+      "EquipID": "FeatherCrown",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_SilverTiara",
+    "Value": {
+      "EquipID": "SilverTiara",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.3
+    }
+  },
+  {
+    "Key": "Hair05_Magushat",
+    "Value": {
+      "EquipID": "Magushat",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_Cutebeastberet",
+    "Value": {
+      "EquipID": "Cutebeastberet",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair05_BunnyEars",
+    "Value": {
+      "EquipID": "BunnyEars",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.3,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair05_Dentistshat",
+    "Value": {
+      "EquipID": "Dentistshat",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.8
+    }
+  },
+  {
+    "Key": "Hair05_Maidheadband",
+    "Value": {
+      "EquipID": "Maidheadband",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.2,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_Westernhat",
+    "Value": {
+      "EquipID": "Westernhat",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.6
+    }
+  },
+  {
+    "Key": "Hair05_ribbon",
+    "Value": {
+      "EquipID": "ribbon",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_Flightcapoftraveler",
+    "Value": {
+      "EquipID": "Flightcapoftraveler",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_HermitsBeret",
+    "Value": {
+      "EquipID": "HermitsBeret",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": -0.7,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_KitsuneMask",
+    "Value": {
+      "EquipID": "KitsuneMask",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": -0.3,
+      "OffsetY": -1.0,
+      "OffsetZ": -0.7
+    }
+  },
+  {
+    "Key": "Hair05_DemonHorns",
+    "Value": {
+      "EquipID": "DemonHorns",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_ElderTiara",
+    "Value": {
+      "EquipID": "ElderTiara",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_Recyclehat",
+    "Value": {
+      "EquipID": "Recyclehat",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.6
+    }
+  },
+  {
+    "Key": "Hair05_Pleiades",
+    "Value": {
+      "EquipID": "Pleiades",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_ValkyrieTiara",
+    "Value": {
+      "EquipID": "ValkyrieTiara",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_HumptyDumpty",
+    "Value": {
+      "EquipID": "HumptyDumpty",
+      "HairID": "Hair05",
+      "HairType": "None",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_Mega64Head",
+    "Value": {
+      "EquipID": "Mega64Head",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_LoveOfBenki",
+    "Value": {
+      "EquipID": "LoveOfBenki",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair05_Plan9FOSpace",
+    "Value": {
+      "EquipID": "Plan9FOSpace",
+      "HairID": "Hair05",
+      "HairType": "Hair05",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair06_AriesHorns",
+    "Value": {
+      "EquipID": "AriesHorns",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair06_Headband",
+    "Value": {
+      "EquipID": "Headband",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair06_PirateTriangleCap",
+    "Value": {
+      "EquipID": "PirateTriangleCap",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair06_DurahanMaherm",
+    "Value": {
+      "EquipID": "DurahanMaherm",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": -0.1,
+      "OffsetY": -0.2,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair06_Circlet",
+    "Value": {
+      "EquipID": "Circlet",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.3,
+      "OffsetZ": 0.4
+    }
+  },
+  {
+    "Key": "Hair06_Garbohat",
+    "Value": {
+      "EquipID": "Garbohat",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.2,
+      "OffsetZ": 1.5
+    }
+  },
+  {
+    "Key": "Hair06_Santacap",
+    "Value": {
+      "EquipID": "Santacap",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": -0.5,
+      "OffsetZ": 2.5
+    }
+  },
+  {
+    "Key": "Hair06_Beastberet",
+    "Value": {
+      "EquipID": "Beastberet",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": -0.2,
+      "OffsetZ": 1.8
+    }
+  },
+  {
+    "Key": "Hair06_CatEars",
+    "Value": {
+      "EquipID": "CatEars",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.2,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair06_CowboyHat",
+    "Value": {
+      "EquipID": "CowboyHat",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.8
+    }
+  },
+  {
+    "Key": "Hair06_WolfHood",
+    "Value": {
+      "EquipID": "WolfHood",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": -0.8,
+      "OffsetZ": 1.0
+    }
+  },
+  {
+    "Key": "Hair06_Circletoffire",
+    "Value": {
+      "EquipID": "Circletoffire",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.5,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair06_Icecirclet",
+    "Value": {
+      "EquipID": "Icecirclet",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 1.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair06_Thunderscirclet",
+    "Value": {
+      "EquipID": "Thunderscirclet",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.2,
+      "OffsetZ": 0.3
+    }
+  },
+  {
+    "Key": "Hair06_BraveBeret",
+    "Value": {
+      "EquipID": "BraveBeret",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": -0.2,
+      "OffsetZ": 1.8
+    }
+  },
+  {
+    "Key": "Hair06_Crowhat",
+    "Value": {
+      "EquipID": "Crowhat",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": -0.5,
+      "OffsetZ": 1.0
+    }
+  },
+  {
+    "Key": "Hair06_GadgetBand",
+    "Value": {
+      "EquipID": "GadgetBand",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair06_FeatherCrown",
+    "Value": {
+      "EquipID": "FeatherCrown",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair06_SilverTiara",
+    "Value": {
+      "EquipID": "SilverTiara",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair06_Magushat",
+    "Value": {
+      "EquipID": "Magushat",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": -0.3,
+      "OffsetZ": 2.0
+    }
+  },
+  {
+    "Key": "Hair06_Cutebeastberet",
+    "Value": {
+      "EquipID": "Cutebeastberet",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 1.0
+    }
+  },
+  {
+    "Key": "Hair06_BunnyEars",
+    "Value": {
+      "EquipID": "BunnyEars",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair06_Dentistshat",
+    "Value": {
+      "EquipID": "Dentistshat",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": -0.3,
+      "OffsetZ": 1.8
+    }
+  },
+  {
+    "Key": "Hair06_Maidheadband",
+    "Value": {
+      "EquipID": "Maidheadband",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair06_Westernhat",
+    "Value": {
+      "EquipID": "Westernhat",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair06_ribbon",
+    "Value": {
+      "EquipID": "ribbon",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.3
+    }
+  },
+  {
+    "Key": "Hair06_Flightcapoftraveler",
+    "Value": {
+      "EquipID": "Flightcapoftraveler",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.8
+    }
+  },
+  {
+    "Key": "Hair06_HermitsBeret",
+    "Value": {
+      "EquipID": "HermitsBeret",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": -0.2,
+      "OffsetZ": 1.8
+    }
+  },
+  {
+    "Key": "Hair06_KitsuneMask",
+    "Value": {
+      "EquipID": "KitsuneMask",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.3,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair06_DemonHorns",
+    "Value": {
+      "EquipID": "DemonHorns",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair06_ElderTiara",
+    "Value": {
+      "EquipID": "ElderTiara",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.8,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair06_Recyclehat",
+    "Value": {
+      "EquipID": "Recyclehat",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair06_Pleiades",
+    "Value": {
+      "EquipID": "Pleiades",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair06_ValkyrieTiara",
+    "Value": {
+      "EquipID": "ValkyrieTiara",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.3,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair06_HumptyDumpty",
+    "Value": {
+      "EquipID": "HumptyDumpty",
+      "HairID": "Hair06",
+      "HairType": "None",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair06_Mega64Head",
+    "Value": {
+      "EquipID": "Mega64Head",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair06_LoveOfBenki",
+    "Value": {
+      "EquipID": "LoveOfBenki",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair06_Plan9FOSpace",
+    "Value": {
+      "EquipID": "Plan9FOSpace",
+      "HairID": "Hair06",
+      "HairType": "Hair06",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_AriesHorns",
+    "Value": {
+      "EquipID": "AriesHorns",
+      "HairID": "Hair07",
+      "HairType": "Hair07",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_Headband",
+    "Value": {
+      "EquipID": "Headband",
+      "HairID": "Hair07",
+      "HairType": "Hair07",
+      "OffsetX": 0.5,
+      "OffsetY": -0.5,
+      "OffsetZ": 1.2
+    }
+  },
+  {
+    "Key": "Hair07_PirateTriangleCap",
+    "Value": {
+      "EquipID": "PirateTriangleCap",
+      "HairID": "Hair07",
+      "HairType": "Hair07_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -1.0
+    }
+  },
+  {
+    "Key": "Hair07_DurahanMaherm",
+    "Value": {
+      "EquipID": "DurahanMaherm",
+      "HairID": "Hair07",
+      "HairType": "Hair07_B",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_Circlet",
+    "Value": {
+      "EquipID": "Circlet",
+      "HairID": "Hair07",
+      "HairType": "Hair07",
+      "OffsetX": 0.0,
+      "OffsetY": 1.5,
+      "OffsetZ": -3.0
+    }
+  },
+  {
+    "Key": "Hair07_Garbohat",
+    "Value": {
+      "EquipID": "Garbohat",
+      "HairID": "Hair07",
+      "HairType": "Hair07_A",
+      "OffsetX": 0.0,
+      "OffsetY": -0.4,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_Santacap",
+    "Value": {
+      "EquipID": "Santacap",
+      "HairID": "Hair07",
+      "HairType": "Hair07_B",
+      "OffsetX": 0.0,
+      "OffsetY": -0.5,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_Beastberet",
+    "Value": {
+      "EquipID": "Beastberet",
+      "HairID": "Hair07",
+      "HairType": "Hair07_A",
+      "OffsetX": 0.0,
+      "OffsetY": -1.2,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_CatEars",
+    "Value": {
+      "EquipID": "CatEars",
+      "HairID": "Hair07",
+      "HairType": "Hair07",
+      "OffsetX": 0.5,
+      "OffsetY": -0.5,
+      "OffsetZ": 1.2
+    }
+  },
+  {
+    "Key": "Hair07_CowboyHat",
+    "Value": {
+      "EquipID": "CowboyHat",
+      "HairID": "Hair07",
+      "HairType": "Hair07_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_WolfHood",
+    "Value": {
+      "EquipID": "WolfHood",
+      "HairID": "Hair07",
+      "HairType": "Hair07_B",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_Circletoffire",
+    "Value": {
+      "EquipID": "Circletoffire",
+      "HairID": "Hair07",
+      "HairType": "Hair07",
+      "OffsetX": 0.5,
+      "OffsetY": 1.0,
+      "OffsetZ": -2.5
+    }
+  },
+  {
+    "Key": "Hair07_Icecirclet",
+    "Value": {
+      "EquipID": "Icecirclet",
+      "HairID": "Hair07",
+      "HairType": "Hair07",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_Thunderscirclet",
+    "Value": {
+      "EquipID": "Thunderscirclet",
+      "HairID": "Hair07",
+      "HairType": "Hair07",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair07_BraveBeret",
+    "Value": {
+      "EquipID": "BraveBeret",
+      "HairID": "Hair07",
+      "HairType": "Hair07_A",
+      "OffsetX": 0.0,
+      "OffsetY": -1.2,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_Crowhat",
+    "Value": {
+      "EquipID": "Crowhat",
+      "HairID": "Hair07",
+      "HairType": "Hair07_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_GadgetBand",
+    "Value": {
+      "EquipID": "GadgetBand",
+      "HairID": "Hair07",
+      "HairType": "Hair07",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_FeatherCrown",
+    "Value": {
+      "EquipID": "FeatherCrown",
+      "HairID": "Hair07",
+      "HairType": "Hair07",
+      "OffsetX": -0.5,
+      "OffsetY": 3.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_SilverTiara",
+    "Value": {
+      "EquipID": "SilverTiara",
+      "HairID": "Hair07",
+      "HairType": "Hair07",
+      "OffsetX": 0.0,
+      "OffsetY": 1.2,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_Magushat",
+    "Value": {
+      "EquipID": "Magushat",
+      "HairID": "Hair07",
+      "HairType": "Hair07_A",
+      "OffsetX": 0.0,
+      "OffsetY": -0.5,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_Cutebeastberet",
+    "Value": {
+      "EquipID": "Cutebeastberet",
+      "HairID": "Hair07",
+      "HairType": "Hair07_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair07_BunnyEars",
+    "Value": {
+      "EquipID": "BunnyEars",
+      "HairID": "Hair07",
+      "HairType": "Hair07",
+      "OffsetX": 0.5,
+      "OffsetY": -0.5,
+      "OffsetZ": 1.2
+    }
+  },
+  {
+    "Key": "Hair07_Dentistshat",
+    "Value": {
+      "EquipID": "Dentistshat",
+      "HairID": "Hair07",
+      "HairType": "Hair07_A",
+      "OffsetX": 0.0,
+      "OffsetY": -0.5,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair07_Maidheadband",
+    "Value": {
+      "EquipID": "Maidheadband",
+      "HairID": "Hair07",
+      "HairType": "Hair07",
+      "OffsetX": 0.5,
+      "OffsetY": 1.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_Westernhat",
+    "Value": {
+      "EquipID": "Westernhat",
+      "HairID": "Hair07",
+      "HairType": "Hair07_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_ribbon",
+    "Value": {
+      "EquipID": "ribbon",
+      "HairID": "Hair07",
+      "HairType": "Hair07",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_Flightcapoftraveler",
+    "Value": {
+      "EquipID": "Flightcapoftraveler",
+      "HairID": "Hair07",
+      "HairType": "Hair07_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_HermitsBeret",
+    "Value": {
+      "EquipID": "HermitsBeret",
+      "HairID": "Hair07",
+      "HairType": "Hair07_A",
+      "OffsetX": 0.0,
+      "OffsetY": -1.2,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_KitsuneMask",
+    "Value": {
+      "EquipID": "KitsuneMask",
+      "HairID": "Hair07",
+      "HairType": "Hair07",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_DemonHorns",
+    "Value": {
+      "EquipID": "DemonHorns",
+      "HairID": "Hair07",
+      "HairType": "Hair07",
+      "OffsetX": 0.5,
+      "OffsetY": 0.0,
+      "OffsetZ": -1.0
+    }
+  },
+  {
+    "Key": "Hair07_ElderTiara",
+    "Value": {
+      "EquipID": "ElderTiara",
+      "HairID": "Hair07",
+      "HairType": "Hair07",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_Recyclehat",
+    "Value": {
+      "EquipID": "Recyclehat",
+      "HairID": "Hair07",
+      "HairType": "Hair07_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_Pleiades",
+    "Value": {
+      "EquipID": "Pleiades",
+      "HairID": "Hair07",
+      "HairType": "Hair07",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -1.0
+    }
+  },
+  {
+    "Key": "Hair07_ValkyrieTiara",
+    "Value": {
+      "EquipID": "ValkyrieTiara",
+      "HairID": "Hair07",
+      "HairType": "Hair07",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_HumptyDumpty",
+    "Value": {
+      "EquipID": "HumptyDumpty",
+      "HairID": "Hair07",
+      "HairType": "None",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_Mega64Head",
+    "Value": {
+      "EquipID": "Mega64Head",
+      "HairID": "Hair07",
+      "HairType": "Hair07_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_LoveOfBenki",
+    "Value": {
+      "EquipID": "LoveOfBenki",
+      "HairID": "Hair07",
+      "HairType": "Hair07_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair07_Plan9FOSpace",
+    "Value": {
+      "EquipID": "Plan9FOSpace",
+      "HairID": "Hair07",
+      "HairType": "Hair07",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair08_AriesHorns",
+    "Value": {
+      "EquipID": "AriesHorns",
+      "HairID": "Hair08",
+      "HairType": "Hair08",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair08_Headband",
+    "Value": {
+      "EquipID": "Headband",
+      "HairID": "Hair08",
+      "HairType": "Hair08",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.3
+    }
+  },
+  {
+    "Key": "Hair08_PirateTriangleCap",
+    "Value": {
+      "EquipID": "PirateTriangleCap",
+      "HairID": "Hair08",
+      "HairType": "Hair08_A",
+      "OffsetX": 0.0,
+      "OffsetY": -1.0,
+      "OffsetZ": -1.5
+    }
+  },
+  {
+    "Key": "Hair08_DurahanMaherm",
+    "Value": {
+      "EquipID": "DurahanMaherm",
+      "HairID": "Hair08",
+      "HairType": "Hair08_A",
+      "OffsetX": 0.0,
+      "OffsetY": -1.5,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair08_Circlet",
+    "Value": {
+      "EquipID": "Circlet",
+      "HairID": "Hair08",
+      "HairType": "Hair08",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair08_Garbohat",
+    "Value": {
+      "EquipID": "Garbohat",
+      "HairID": "Hair08",
+      "HairType": "Hair08_A",
+      "OffsetX": 0.0,
+      "OffsetY": -0.7,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair08_Santacap",
+    "Value": {
+      "EquipID": "Santacap",
+      "HairID": "Hair08",
+      "HairType": "Hair08_A",
+      "OffsetX": 0.0,
+      "OffsetY": -1.5,
+      "OffsetZ": -1.8
+    }
+  },
+  {
+    "Key": "Hair08_Beastberet",
+    "Value": {
+      "EquipID": "Beastberet",
+      "HairID": "Hair08",
+      "HairType": "Hair08_A",
+      "OffsetX": 0.0,
+      "OffsetY": -1.5,
+      "OffsetZ": -1.0
+    }
+  },
+  {
+    "Key": "Hair08_CatEars",
+    "Value": {
+      "EquipID": "CatEars",
+      "HairID": "Hair08",
+      "HairType": "Hair08",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair08_CowboyHat",
+    "Value": {
+      "EquipID": "CowboyHat",
+      "HairID": "Hair08",
+      "HairType": "Hair08_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -1.5
+    }
+  },
+  {
+    "Key": "Hair08_WolfHood",
+    "Value": {
+      "EquipID": "WolfHood",
+      "HairID": "Hair08",
+      "HairType": "Hair08_A",
+      "OffsetX": 0.0,
+      "OffsetY": -2.0,
+      "OffsetZ": 1.0
+    }
+  },
+  {
+    "Key": "Hair08_Circletoffire",
+    "Value": {
+      "EquipID": "Circletoffire",
+      "HairID": "Hair08",
+      "HairType": "Hair08",
+      "OffsetX": 0.0,
+      "OffsetY": -0.5,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair08_Icecirclet",
+    "Value": {
+      "EquipID": "Icecirclet",
+      "HairID": "Hair08",
+      "HairType": "Hair08",
+      "OffsetX": 0.0,
+      "OffsetY": 1.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair08_Thunderscirclet",
+    "Value": {
+      "EquipID": "Thunderscirclet",
+      "HairID": "Hair08",
+      "HairType": "Hair08",
+      "OffsetX": 0.0,
+      "OffsetY": 0.5,
+      "OffsetZ": 0.4
+    }
+  },
+  {
+    "Key": "Hair08_BraveBeret",
+    "Value": {
+      "EquipID": "BraveBeret",
+      "HairID": "Hair08",
+      "HairType": "Hair08_A",
+      "OffsetX": 0.0,
+      "OffsetY": -1.5,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair08_Crowhat",
+    "Value": {
+      "EquipID": "Crowhat",
+      "HairID": "Hair08",
+      "HairType": "Hair08_A",
+      "OffsetX": 0.0,
+      "OffsetY": -1.5,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair08_GadgetBand",
+    "Value": {
+      "EquipID": "GadgetBand",
+      "HairID": "Hair08",
+      "HairType": "Hair08",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair08_FeatherCrown",
+    "Value": {
+      "EquipID": "FeatherCrown",
+      "HairID": "Hair08",
+      "HairType": "Hair08",
+      "OffsetX": 0.0,
+      "OffsetY": 1.9,
+      "OffsetZ": 0.9
+    }
+  },
+  {
+    "Key": "Hair08_SilverTiara",
+    "Value": {
+      "EquipID": "SilverTiara",
+      "HairID": "Hair08",
+      "HairType": "Hair08",
+      "OffsetX": 0.0,
+      "OffsetY": -0.2,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair08_Magushat",
+    "Value": {
+      "EquipID": "Magushat",
+      "HairID": "Hair08",
+      "HairType": "Hair08_A",
+      "OffsetX": 0.0,
+      "OffsetY": -1.5,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair08_Cutebeastberet",
+    "Value": {
+      "EquipID": "Cutebeastberet",
+      "HairID": "Hair08",
+      "HairType": "Hair08_A",
+      "OffsetX": 0.0,
+      "OffsetY": -1.5,
+      "OffsetZ": -1.5
+    }
+  },
+  {
+    "Key": "Hair08_BunnyEars",
+    "Value": {
+      "EquipID": "BunnyEars",
+      "HairID": "Hair08",
+      "HairType": "Hair08",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair08_Dentistshat",
+    "Value": {
+      "EquipID": "Dentistshat",
+      "HairID": "Hair08",
+      "HairType": "Hair08_A",
+      "OffsetX": 0.0,
+      "OffsetY": -1.5,
+      "OffsetZ": -1.0
+    }
+  },
+  {
+    "Key": "Hair08_Maidheadband",
+    "Value": {
+      "EquipID": "Maidheadband",
+      "HairID": "Hair08",
+      "HairType": "Hair08",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair08_Westernhat",
+    "Value": {
+      "EquipID": "Westernhat",
+      "HairID": "Hair08",
+      "HairType": "Hair08_A",
+      "OffsetX": 0.0,
+      "OffsetY": -1.5,
+      "OffsetZ": -1.5
+    }
+  },
+  {
+    "Key": "Hair08_ribbon",
+    "Value": {
+      "EquipID": "ribbon",
+      "HairID": "Hair08",
+      "HairType": "Hair08",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -1.3
+    }
+  },
+  {
+    "Key": "Hair08_Flightcapoftraveler",
+    "Value": {
+      "EquipID": "Flightcapoftraveler",
+      "HairID": "Hair08",
+      "HairType": "Hair08_A",
+      "OffsetX": 0.0,
+      "OffsetY": 1.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair08_HermitsBeret",
+    "Value": {
+      "EquipID": "HermitsBeret",
+      "HairID": "Hair08",
+      "HairType": "Hair08_A",
+      "OffsetX": 0.0,
+      "OffsetY": -1.5,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair08_KitsuneMask",
+    "Value": {
+      "EquipID": "KitsuneMask",
+      "HairID": "Hair08",
+      "HairType": "Hair08",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.4
+    }
+  },
+  {
+    "Key": "Hair08_DemonHorns",
+    "Value": {
+      "EquipID": "DemonHorns",
+      "HairID": "Hair08",
+      "HairType": "Hair08",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair08_ElderTiara",
+    "Value": {
+      "EquipID": "ElderTiara",
+      "HairID": "Hair08",
+      "HairType": "Hair08",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair08_Recyclehat",
+    "Value": {
+      "EquipID": "Recyclehat",
+      "HairID": "Hair08",
+      "HairType": "Hair08_A",
+      "OffsetX": 0.0,
+      "OffsetY": -1.5,
+      "OffsetZ": -1.5
+    }
+  },
+  {
+    "Key": "Hair08_Pleiades",
+    "Value": {
+      "EquipID": "Pleiades",
+      "HairID": "Hair08",
+      "HairType": "Hair08",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair08_ValkyrieTiara",
+    "Value": {
+      "EquipID": "ValkyrieTiara",
+      "HairID": "Hair08",
+      "HairType": "Hair08",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair08_HumptyDumpty",
+    "Value": {
+      "EquipID": "HumptyDumpty",
+      "HairID": "Hair08",
+      "HairType": "None",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair08_Mega64Head",
+    "Value": {
+      "EquipID": "Mega64Head",
+      "HairID": "Hair08",
+      "HairType": "Hair08_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair08_LoveOfBenki",
+    "Value": {
+      "EquipID": "LoveOfBenki",
+      "HairID": "Hair08",
+      "HairType": "Hair08_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair08_Plan9FOSpace",
+    "Value": {
+      "EquipID": "Plan9FOSpace",
+      "HairID": "Hair08",
+      "HairType": "Hair08",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair09_AriesHorns",
+    "Value": {
+      "EquipID": "AriesHorns",
+      "HairID": "Hair09",
+      "HairType": "Hair09",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair09_Headband",
+    "Value": {
+      "EquipID": "Headband",
+      "HairID": "Hair09",
+      "HairType": "Hair09",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair09_PirateTriangleCap",
+    "Value": {
+      "EquipID": "PirateTriangleCap",
+      "HairID": "Hair09",
+      "HairType": "Hair09_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.4
+    }
+  },
+  {
+    "Key": "Hair09_DurahanMaherm",
+    "Value": {
+      "EquipID": "DurahanMaherm",
+      "HairID": "Hair09",
+      "HairType": "Hair09_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.1,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair09_Circlet",
+    "Value": {
+      "EquipID": "Circlet",
+      "HairID": "Hair09",
+      "HairType": "Hair09",
+      "OffsetX": 0.0,
+      "OffsetY": 1.0,
+      "OffsetZ": -1.0
+    }
+  },
+  {
+    "Key": "Hair09_Garbohat",
+    "Value": {
+      "EquipID": "Garbohat",
+      "HairID": "Hair09",
+      "HairType": "Hair09_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.7,
+      "OffsetZ": -0.2
+    }
+  },
+  {
+    "Key": "Hair09_Santacap",
+    "Value": {
+      "EquipID": "Santacap",
+      "HairID": "Hair09",
+      "HairType": "Hair09_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.8
+    }
+  },
+  {
+    "Key": "Hair09_Beastberet",
+    "Value": {
+      "EquipID": "Beastberet",
+      "HairID": "Hair09",
+      "HairType": "Hair09_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 1.0
+    }
+  },
+  {
+    "Key": "Hair09_CatEars",
+    "Value": {
+      "EquipID": "CatEars",
+      "HairID": "Hair09",
+      "HairType": "Hair09",
+      "OffsetX": 0.0,
+      "OffsetY": 0.3,
+      "OffsetZ": 0.2
+    }
+  },
+  {
+    "Key": "Hair09_CowboyHat",
+    "Value": {
+      "EquipID": "CowboyHat",
+      "HairID": "Hair09",
+      "HairType": "Hair09_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.7
+    }
+  },
+  {
+    "Key": "Hair09_WolfHood",
+    "Value": {
+      "EquipID": "WolfHood",
+      "HairID": "Hair09",
+      "HairType": "Hair09_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair09_Circletoffire",
+    "Value": {
+      "EquipID": "Circletoffire",
+      "HairID": "Hair09",
+      "HairType": "Hair09",
+      "OffsetX": 0.0,
+      "OffsetY": 0.8,
+      "OffsetZ": 0.6
+    }
+  },
+  {
+    "Key": "Hair09_Icecirclet",
+    "Value": {
+      "EquipID": "Icecirclet",
+      "HairID": "Hair09",
+      "HairType": "Hair09",
+      "OffsetX": 0.0,
+      "OffsetY": 1.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair09_Thunderscirclet",
+    "Value": {
+      "EquipID": "Thunderscirclet",
+      "HairID": "Hair09",
+      "HairType": "Hair09",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.4
+    }
+  },
+  {
+    "Key": "Hair09_BraveBeret",
+    "Value": {
+      "EquipID": "BraveBeret",
+      "HairID": "Hair09",
+      "HairType": "Hair09_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 1.0
+    }
+  },
+  {
+    "Key": "Hair09_Crowhat",
+    "Value": {
+      "EquipID": "Crowhat",
+      "HairID": "Hair09",
+      "HairType": "Hair09_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair09_GadgetBand",
+    "Value": {
+      "EquipID": "GadgetBand",
+      "HairID": "Hair09",
+      "HairType": "Hair09",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.2
+    }
+  },
+  {
+    "Key": "Hair09_FeatherCrown",
+    "Value": {
+      "EquipID": "FeatherCrown",
+      "HairID": "Hair09",
+      "HairType": "Hair09",
+      "OffsetX": -1.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 1.3
+    }
+  },
+  {
+    "Key": "Hair09_SilverTiara",
+    "Value": {
+      "EquipID": "SilverTiara",
+      "HairID": "Hair09",
+      "HairType": "Hair09",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair09_Magushat",
+    "Value": {
+      "EquipID": "Magushat",
+      "HairID": "Hair09",
+      "HairType": "Hair09_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.5,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair09_Cutebeastberet",
+    "Value": {
+      "EquipID": "Cutebeastberet",
+      "HairID": "Hair09",
+      "HairType": "Hair09_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.5,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair09_BunnyEars",
+    "Value": {
+      "EquipID": "BunnyEars",
+      "HairID": "Hair09",
+      "HairType": "Hair09",
+      "OffsetX": 0.0,
+      "OffsetY": 0.3,
+      "OffsetZ": 0.2
+    }
+  },
+  {
+    "Key": "Hair09_Dentistshat",
+    "Value": {
+      "EquipID": "Dentistshat",
+      "HairID": "Hair09",
+      "HairType": "Hair09_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.3,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair09_Maidheadband",
+    "Value": {
+      "EquipID": "Maidheadband",
+      "HairID": "Hair09",
+      "HairType": "Hair09",
+      "OffsetX": 0.0,
+      "OffsetY": -1.0,
+      "OffsetZ": 0.2
+    }
+  },
+  {
+    "Key": "Hair09_Westernhat",
+    "Value": {
+      "EquipID": "Westernhat",
+      "HairID": "Hair09",
+      "HairType": "Hair09_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.7
+    }
+  },
+  {
+    "Key": "Hair09_ribbon",
+    "Value": {
+      "EquipID": "ribbon",
+      "HairID": "Hair09",
+      "HairType": "Hair09",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 1.2
+    }
+  },
+  {
+    "Key": "Hair09_Flightcapoftraveler",
+    "Value": {
+      "EquipID": "Flightcapoftraveler",
+      "HairID": "Hair09",
+      "HairType": "Hair09_A",
+      "OffsetX": 0.0,
+      "OffsetY": -0.5,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair09_HermitsBeret",
+    "Value": {
+      "EquipID": "HermitsBeret",
+      "HairID": "Hair09",
+      "HairType": "Hair09_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 1.0
+    }
+  },
+  {
+    "Key": "Hair09_KitsuneMask",
+    "Value": {
+      "EquipID": "KitsuneMask",
+      "HairID": "Hair09",
+      "HairType": "Hair09",
+      "OffsetX": -1.3,
+      "OffsetY": 0.0,
+      "OffsetZ": 1.0
+    }
+  },
+  {
+    "Key": "Hair09_DemonHorns",
+    "Value": {
+      "EquipID": "DemonHorns",
+      "HairID": "Hair09",
+      "HairType": "Hair09",
+      "OffsetX": 0.0,
+      "OffsetY": 1.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair09_ElderTiara",
+    "Value": {
+      "EquipID": "ElderTiara",
+      "HairID": "Hair09",
+      "HairType": "Hair09",
+      "OffsetX": 0.0,
+      "OffsetY": 0.8,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair09_Recyclehat",
+    "Value": {
+      "EquipID": "Recyclehat",
+      "HairID": "Hair09",
+      "HairType": "Hair09_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.7
+    }
+  },
+  {
+    "Key": "Hair09_Pleiades",
+    "Value": {
+      "EquipID": "Pleiades",
+      "HairID": "Hair09",
+      "HairType": "Hair09",
+      "OffsetX": 0.0,
+      "OffsetY": 1.0,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair09_ValkyrieTiara",
+    "Value": {
+      "EquipID": "ValkyrieTiara",
+      "HairID": "Hair09",
+      "HairType": "Hair09",
+      "OffsetX": 0.0,
+      "OffsetY": 1.0,
+      "OffsetZ": -1.0
+    }
+  },
+  {
+    "Key": "Hair09_HumptyDumpty",
+    "Value": {
+      "EquipID": "HumptyDumpty",
+      "HairID": "Hair09",
+      "HairType": "None",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair09_Mega64Head",
+    "Value": {
+      "EquipID": "Mega64Head",
+      "HairID": "Hair09",
+      "HairType": "Hair09_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair09_LoveOfBenki",
+    "Value": {
+      "EquipID": "LoveOfBenki",
+      "HairID": "Hair09",
+      "HairType": "Hair09_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair09_Plan9FOSpace",
+    "Value": {
+      "EquipID": "Plan9FOSpace",
+      "HairID": "Hair09",
+      "HairType": "Hair09",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_AriesHorns",
+    "Value": {
+      "EquipID": "AriesHorns",
+      "HairID": "Hair10",
+      "HairType": "Hair10",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_Headband",
+    "Value": {
+      "EquipID": "Headband",
+      "HairID": "Hair10",
+      "HairType": "Hair10",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_PirateTriangleCap",
+    "Value": {
+      "EquipID": "PirateTriangleCap",
+      "HairID": "Hair10",
+      "HairType": "Hair10_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.6
+    }
+  },
+  {
+    "Key": "Hair10_DurahanMaherm",
+    "Value": {
+      "EquipID": "DurahanMaherm",
+      "HairID": "Hair10",
+      "HairType": "Hair10_B",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_Circlet",
+    "Value": {
+      "EquipID": "Circlet",
+      "HairID": "Hair10",
+      "HairType": "Hair10",
+      "OffsetX": 0.0,
+      "OffsetY": 1.5,
+      "OffsetZ": -1.6
+    }
+  },
+  {
+    "Key": "Hair10_Garbohat",
+    "Value": {
+      "EquipID": "Garbohat",
+      "HairID": "Hair10",
+      "HairType": "Hair10_A",
+      "OffsetX": 0.0,
+      "OffsetY": -0.5,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_Santacap",
+    "Value": {
+      "EquipID": "Santacap",
+      "HairID": "Hair10",
+      "HairType": "Hair10_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair10_Beastberet",
+    "Value": {
+      "EquipID": "Beastberet",
+      "HairID": "Hair10",
+      "HairType": "Hair10_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.7
+    }
+  },
+  {
+    "Key": "Hair10_CatEars",
+    "Value": {
+      "EquipID": "CatEars",
+      "HairID": "Hair10",
+      "HairType": "Hair10",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_CowboyHat",
+    "Value": {
+      "EquipID": "CowboyHat",
+      "HairID": "Hair10",
+      "HairType": "Hair10_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.3
+    }
+  },
+  {
+    "Key": "Hair10_WolfHood",
+    "Value": {
+      "EquipID": "WolfHood",
+      "HairID": "Hair10",
+      "HairType": "Hair10_B",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_Circletoffire",
+    "Value": {
+      "EquipID": "Circletoffire",
+      "HairID": "Hair10",
+      "HairType": "Hair10",
+      "OffsetX": 0.0,
+      "OffsetY": 1.5,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_Icecirclet",
+    "Value": {
+      "EquipID": "Icecirclet",
+      "HairID": "Hair10",
+      "HairType": "Hair10",
+      "OffsetX": 0.0,
+      "OffsetY": 1.5,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_Thunderscirclet",
+    "Value": {
+      "EquipID": "Thunderscirclet",
+      "HairID": "Hair10",
+      "HairType": "Hair10",
+      "OffsetX": 0.0,
+      "OffsetY": 1.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_BraveBeret",
+    "Value": {
+      "EquipID": "BraveBeret",
+      "HairID": "Hair10",
+      "HairType": "Hair10_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.7
+    }
+  },
+  {
+    "Key": "Hair10_Crowhat",
+    "Value": {
+      "EquipID": "Crowhat",
+      "HairID": "Hair10",
+      "HairType": "Hair10_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_GadgetBand",
+    "Value": {
+      "EquipID": "GadgetBand",
+      "HairID": "Hair10",
+      "HairType": "Hair10",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_FeatherCrown",
+    "Value": {
+      "EquipID": "FeatherCrown",
+      "HairID": "Hair10",
+      "HairType": "Hair10",
+      "OffsetX": 0.0,
+      "OffsetY": 1.0,
+      "OffsetZ": 0.8
+    }
+  },
+  {
+    "Key": "Hair10_SilverTiara",
+    "Value": {
+      "EquipID": "SilverTiara",
+      "HairID": "Hair10",
+      "HairType": "Hair10",
+      "OffsetX": 0.0,
+      "OffsetY": -0.2,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_Magushat",
+    "Value": {
+      "EquipID": "Magushat",
+      "HairID": "Hair10",
+      "HairType": "Hair10_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.4,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_Cutebeastberet",
+    "Value": {
+      "EquipID": "Cutebeastberet",
+      "HairID": "Hair10",
+      "HairType": "Hair10_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.8
+    }
+  },
+  {
+    "Key": "Hair10_BunnyEars",
+    "Value": {
+      "EquipID": "BunnyEars",
+      "HairID": "Hair10",
+      "HairType": "Hair10",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_Dentistshat",
+    "Value": {
+      "EquipID": "Dentistshat",
+      "HairID": "Hair10",
+      "HairType": "Hair10_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.7
+    }
+  },
+  {
+    "Key": "Hair10_Maidheadband",
+    "Value": {
+      "EquipID": "Maidheadband",
+      "HairID": "Hair10",
+      "HairType": "Hair10",
+      "OffsetX": 0.0,
+      "OffsetY": -0.8,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_Westernhat",
+    "Value": {
+      "EquipID": "Westernhat",
+      "HairID": "Hair10",
+      "HairType": "Hair10_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.3
+    }
+  },
+  {
+    "Key": "Hair10_ribbon",
+    "Value": {
+      "EquipID": "ribbon",
+      "HairID": "Hair10",
+      "HairType": "Hair10",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.2
+    }
+  },
+  {
+    "Key": "Hair10_Flightcapoftraveler",
+    "Value": {
+      "EquipID": "Flightcapoftraveler",
+      "HairID": "Hair10",
+      "HairType": "Hair10_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_HermitsBeret",
+    "Value": {
+      "EquipID": "HermitsBeret",
+      "HairID": "Hair10",
+      "HairType": "Hair10_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.7
+    }
+  },
+  {
+    "Key": "Hair10_KitsuneMask",
+    "Value": {
+      "EquipID": "KitsuneMask",
+      "HairID": "Hair10",
+      "HairType": "Hair10",
+      "OffsetX": 0.3,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair10_DemonHorns",
+    "Value": {
+      "EquipID": "DemonHorns",
+      "HairID": "Hair10",
+      "HairType": "Hair10",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_ElderTiara",
+    "Value": {
+      "EquipID": "ElderTiara",
+      "HairID": "Hair10",
+      "HairType": "Hair10",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_Recyclehat",
+    "Value": {
+      "EquipID": "Recyclehat",
+      "HairID": "Hair10",
+      "HairType": "Hair10_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.3
+    }
+  },
+  {
+    "Key": "Hair10_Pleiades",
+    "Value": {
+      "EquipID": "Pleiades",
+      "HairID": "Hair10",
+      "HairType": "Hair10",
+      "OffsetX": 0.0,
+      "OffsetY": 1.5,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair10_ValkyrieTiara",
+    "Value": {
+      "EquipID": "ValkyrieTiara",
+      "HairID": "Hair10",
+      "HairType": "Hair10",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_HumptyDumpty",
+    "Value": {
+      "EquipID": "HumptyDumpty",
+      "HairID": "Hair10",
+      "HairType": "None",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_Mega64Head",
+    "Value": {
+      "EquipID": "Mega64Head",
+      "HairID": "Hair10",
+      "HairType": "Hair10_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_LoveOfBenki",
+    "Value": {
+      "EquipID": "LoveOfBenki",
+      "HairID": "Hair10",
+      "HairType": "Hair10_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair10_Plan9FOSpace",
+    "Value": {
+      "EquipID": "Plan9FOSpace",
+      "HairID": "Hair10",
+      "HairType": "Hair10",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_AriesHorns",
+    "Value": {
+      "EquipID": "AriesHorns",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_Headband",
+    "Value": {
+      "EquipID": "Headband",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.25,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair11_PirateTriangleCap",
+    "Value": {
+      "EquipID": "PirateTriangleCap",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_DurahanMaherm",
+    "Value": {
+      "EquipID": "DurahanMaherm",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_Circlet",
+    "Value": {
+      "EquipID": "Circlet",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.8
+    }
+  },
+  {
+    "Key": "Hair11_Garbohat",
+    "Value": {
+      "EquipID": "Garbohat",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": -0.6,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_Santacap",
+    "Value": {
+      "EquipID": "Santacap",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": -0.5,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_Beastberet",
+    "Value": {
+      "EquipID": "Beastberet",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.6
+    }
+  },
+  {
+    "Key": "Hair11_CatEars",
+    "Value": {
+      "EquipID": "CatEars",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair11_CowboyHat",
+    "Value": {
+      "EquipID": "CowboyHat",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_WolfHood",
+    "Value": {
+      "EquipID": "WolfHood",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_Circletoffire",
+    "Value": {
+      "EquipID": "Circletoffire",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.8
+    }
+  },
+  {
+    "Key": "Hair11_Icecirclet",
+    "Value": {
+      "EquipID": "Icecirclet",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_Thunderscirclet",
+    "Value": {
+      "EquipID": "Thunderscirclet",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_BraveBeret",
+    "Value": {
+      "EquipID": "BraveBeret",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.6
+    }
+  },
+  {
+    "Key": "Hair11_Crowhat",
+    "Value": {
+      "EquipID": "Crowhat",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_GadgetBand",
+    "Value": {
+      "EquipID": "GadgetBand",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair11_FeatherCrown",
+    "Value": {
+      "EquipID": "FeatherCrown",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_SilverTiara",
+    "Value": {
+      "EquipID": "SilverTiara",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.25,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_Magushat",
+    "Value": {
+      "EquipID": "Magushat",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": -0.5,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_Cutebeastberet",
+    "Value": {
+      "EquipID": "Cutebeastberet",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair11_BunnyEars",
+    "Value": {
+      "EquipID": "BunnyEars",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair11_Dentistshat",
+    "Value": {
+      "EquipID": "Dentistshat",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.6
+    }
+  },
+  {
+    "Key": "Hair11_Maidheadband",
+    "Value": {
+      "EquipID": "Maidheadband",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.3,
+      "OffsetZ": 0.5
+    }
+  },
+  {
+    "Key": "Hair11_Westernhat",
+    "Value": {
+      "EquipID": "Westernhat",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_ribbon",
+    "Value": {
+      "EquipID": "ribbon",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_Flightcapoftraveler",
+    "Value": {
+      "EquipID": "Flightcapoftraveler",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.5,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_HermitsBeret",
+    "Value": {
+      "EquipID": "HermitsBeret",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.6
+    }
+  },
+  {
+    "Key": "Hair11_KitsuneMask",
+    "Value": {
+      "EquipID": "KitsuneMask",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": -0.3,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_DemonHorns",
+    "Value": {
+      "EquipID": "DemonHorns",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.3
+    }
+  },
+  {
+    "Key": "Hair11_ElderTiara",
+    "Value": {
+      "EquipID": "ElderTiara",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_Recyclehat",
+    "Value": {
+      "EquipID": "Recyclehat",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_Pleiades",
+    "Value": {
+      "EquipID": "Pleiades",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 1.0,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair11_ValkyrieTiara",
+    "Value": {
+      "EquipID": "ValkyrieTiara",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_HumptyDumpty",
+    "Value": {
+      "EquipID": "HumptyDumpty",
+      "HairID": "Hair11",
+      "HairType": "None",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_Mega64Head",
+    "Value": {
+      "EquipID": "Mega64Head",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_LoveOfBenki",
+    "Value": {
+      "EquipID": "LoveOfBenki",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair11_Plan9FOSpace",
+    "Value": {
+      "EquipID": "Plan9FOSpace",
+      "HairID": "Hair11",
+      "HairType": "Hair11",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_AriesHorns",
+    "Value": {
+      "EquipID": "AriesHorns",
+      "HairID": "Hair12",
+      "HairType": "Hair12",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_Headband",
+    "Value": {
+      "EquipID": "Headband",
+      "HairID": "Hair12",
+      "HairType": "Hair12",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_PirateTriangleCap",
+    "Value": {
+      "EquipID": "PirateTriangleCap",
+      "HairID": "Hair12",
+      "HairType": "Hair12_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.3
+    }
+  },
+  {
+    "Key": "Hair12_DurahanMaherm",
+    "Value": {
+      "EquipID": "DurahanMaherm",
+      "HairID": "Hair12",
+      "HairType": "Hair12_A",
+      "OffsetX": 0.0,
+      "OffsetY": -0.5,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_Circlet",
+    "Value": {
+      "EquipID": "Circlet",
+      "HairID": "Hair12",
+      "HairType": "Hair12",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_Garbohat",
+    "Value": {
+      "EquipID": "Garbohat",
+      "HairID": "Hair12",
+      "HairType": "Hair12_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_Santacap",
+    "Value": {
+      "EquipID": "Santacap",
+      "HairID": "Hair12",
+      "HairType": "Hair12_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair12_Beastberet",
+    "Value": {
+      "EquipID": "Beastberet",
+      "HairID": "Hair12",
+      "HairType": "Hair12_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair12_CatEars",
+    "Value": {
+      "EquipID": "CatEars",
+      "HairID": "Hair12",
+      "HairType": "Hair12",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_CowboyHat",
+    "Value": {
+      "EquipID": "CowboyHat",
+      "HairID": "Hair12",
+      "HairType": "Hair12_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_WolfHood",
+    "Value": {
+      "EquipID": "WolfHood",
+      "HairID": "Hair12",
+      "HairType": "Hair12_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.2
+    }
+  },
+  {
+    "Key": "Hair12_Circletoffire",
+    "Value": {
+      "EquipID": "Circletoffire",
+      "HairID": "Hair12",
+      "HairType": "Hair12",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_Icecirclet",
+    "Value": {
+      "EquipID": "Icecirclet",
+      "HairID": "Hair12",
+      "HairType": "Hair12",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_Thunderscirclet",
+    "Value": {
+      "EquipID": "Thunderscirclet",
+      "HairID": "Hair12",
+      "HairType": "Hair12",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_BraveBeret",
+    "Value": {
+      "EquipID": "BraveBeret",
+      "HairID": "Hair12",
+      "HairType": "Hair12_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair12_Crowhat",
+    "Value": {
+      "EquipID": "Crowhat",
+      "HairID": "Hair12",
+      "HairType": "Hair12_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_GadgetBand",
+    "Value": {
+      "EquipID": "GadgetBand",
+      "HairID": "Hair12",
+      "HairType": "Hair12",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_FeatherCrown",
+    "Value": {
+      "EquipID": "FeatherCrown",
+      "HairID": "Hair12",
+      "HairType": "Hair12",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_SilverTiara",
+    "Value": {
+      "EquipID": "SilverTiara",
+      "HairID": "Hair12",
+      "HairType": "Hair12",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_Magushat",
+    "Value": {
+      "EquipID": "Magushat",
+      "HairID": "Hair12",
+      "HairType": "Hair12_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.5,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_Cutebeastberet",
+    "Value": {
+      "EquipID": "Cutebeastberet",
+      "HairID": "Hair12",
+      "HairType": "Hair12_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.8
+    }
+  },
+  {
+    "Key": "Hair12_BunnyEars",
+    "Value": {
+      "EquipID": "BunnyEars",
+      "HairID": "Hair12",
+      "HairType": "Hair12",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_Dentistshat",
+    "Value": {
+      "EquipID": "Dentistshat",
+      "HairID": "Hair12",
+      "HairType": "Hair12_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.6
+    }
+  },
+  {
+    "Key": "Hair12_Maidheadband",
+    "Value": {
+      "EquipID": "Maidheadband",
+      "HairID": "Hair12",
+      "HairType": "Hair12",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_Westernhat",
+    "Value": {
+      "EquipID": "Westernhat",
+      "HairID": "Hair12",
+      "HairType": "Hair12_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_ribbon",
+    "Value": {
+      "EquipID": "ribbon",
+      "HairID": "Hair12",
+      "HairType": "Hair12",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_Flightcapoftraveler",
+    "Value": {
+      "EquipID": "Flightcapoftraveler",
+      "HairID": "Hair12",
+      "HairType": "Hair12_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.2,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_HermitsBeret",
+    "Value": {
+      "EquipID": "HermitsBeret",
+      "HairID": "Hair12",
+      "HairType": "Hair12_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair12_KitsuneMask",
+    "Value": {
+      "EquipID": "KitsuneMask",
+      "HairID": "Hair12",
+      "HairType": "Hair12",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_DemonHorns",
+    "Value": {
+      "EquipID": "DemonHorns",
+      "HairID": "Hair12",
+      "HairType": "Hair12",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_ElderTiara",
+    "Value": {
+      "EquipID": "ElderTiara",
+      "HairID": "Hair12",
+      "HairType": "Hair12",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_Recyclehat",
+    "Value": {
+      "EquipID": "Recyclehat",
+      "HairID": "Hair12",
+      "HairType": "Hair12_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_Pleiades",
+    "Value": {
+      "EquipID": "Pleiades",
+      "HairID": "Hair12",
+      "HairType": "Hair12",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": -0.5
+    }
+  },
+  {
+    "Key": "Hair12_ValkyrieTiara",
+    "Value": {
+      "EquipID": "ValkyrieTiara",
+      "HairID": "Hair12",
+      "HairType": "Hair12",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_HumptyDumpty",
+    "Value": {
+      "EquipID": "HumptyDumpty",
+      "HairID": "Hair12",
+      "HairType": "None",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_Mega64Head",
+    "Value": {
+      "EquipID": "Mega64Head",
+      "HairID": "Hair12",
+      "HairType": "Hair12_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_LoveOfBenki",
+    "Value": {
+      "EquipID": "LoveOfBenki",
+      "HairID": "Hair12",
+      "HairType": "Hair12_A",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair12_Plan9FOSpace",
+    "Value": {
+      "EquipID": "Plan9FOSpace",
+      "HairID": "Hair12",
+      "HairType": "Hair12",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_AriesHorns",
+    "Value": {
+      "EquipID": "AriesHorns",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_Headband",
+    "Value": {
+      "EquipID": "Headband",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_PirateTriangleCap",
+    "Value": {
+      "EquipID": "PirateTriangleCap",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_DurahanMaherm",
+    "Value": {
+      "EquipID": "DurahanMaherm",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_Circlet",
+    "Value": {
+      "EquipID": "Circlet",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_Garbohat",
+    "Value": {
+      "EquipID": "Garbohat",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_Santacap",
+    "Value": {
+      "EquipID": "Santacap",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_Beastberet",
+    "Value": {
+      "EquipID": "Beastberet",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_CatEars",
+    "Value": {
+      "EquipID": "CatEars",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_CowboyHat",
+    "Value": {
+      "EquipID": "CowboyHat",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_WolfHood",
+    "Value": {
+      "EquipID": "WolfHood",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_Circletoffire",
+    "Value": {
+      "EquipID": "Circletoffire",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_Icecirclet",
+    "Value": {
+      "EquipID": "Icecirclet",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_Thunderscirclet",
+    "Value": {
+      "EquipID": "Thunderscirclet",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_BraveBeret",
+    "Value": {
+      "EquipID": "BraveBeret",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_Crowhat",
+    "Value": {
+      "EquipID": "Crowhat",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_GadgetBand",
+    "Value": {
+      "EquipID": "GadgetBand",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_FeatherCrown",
+    "Value": {
+      "EquipID": "FeatherCrown",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_SilverTiara",
+    "Value": {
+      "EquipID": "SilverTiara",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_Magushat",
+    "Value": {
+      "EquipID": "Magushat",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_Cutebeastberet",
+    "Value": {
+      "EquipID": "Cutebeastberet",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_BunnyEars",
+    "Value": {
+      "EquipID": "BunnyEars",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_Dentistshat",
+    "Value": {
+      "EquipID": "Dentistshat",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_Maidheadband",
+    "Value": {
+      "EquipID": "Maidheadband",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_Westernhat",
+    "Value": {
+      "EquipID": "Westernhat",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_ribbon",
+    "Value": {
+      "EquipID": "ribbon",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_Flightcapoftraveler",
+    "Value": {
+      "EquipID": "Flightcapoftraveler",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_HermitsBeret",
+    "Value": {
+      "EquipID": "HermitsBeret",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_KitsuneMask",
+    "Value": {
+      "EquipID": "KitsuneMask",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_DemonHorns",
+    "Value": {
+      "EquipID": "DemonHorns",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_ElderTiara",
+    "Value": {
+      "EquipID": "ElderTiara",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_Recyclehat",
+    "Value": {
+      "EquipID": "Recyclehat",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_Pleiades",
+    "Value": {
+      "EquipID": "Pleiades",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_ValkyrieTiara",
+    "Value": {
+      "EquipID": "ValkyrieTiara",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_HumptyDumpty",
+    "Value": {
+      "EquipID": "HumptyDumpty",
+      "HairID": "Hair13",
+      "HairType": "None",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_Mega64Head",
+    "Value": {
+      "EquipID": "Mega64Head",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_LoveOfBenki",
+    "Value": {
+      "EquipID": "LoveOfBenki",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  },
+  {
+    "Key": "Hair13_Plan9FOSpace",
+    "Value": {
+      "EquipID": "Plan9FOSpace",
+      "HairID": "Hair13",
+      "HairType": "Hair13",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    }
+  }
+]

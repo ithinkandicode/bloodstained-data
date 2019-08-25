@@ -1,0 +1,37 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 4568
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 131
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 4456
+ImportCount: 4
+ImportOffset: 4344
+DependsOffset: 4560
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 25fc0e3b-23c0-41d7-87be-cd84de2372a7
+Generations: 1
+CompressionFlags: 0
+PackageSource: 3206909485
+Unversioned: False
+AssetRegistryDataOffset: 4564
+BulkDataStartOffset: 9833
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 4568
+
+
+TYPE DATA FOR PB_DT_CoordinateParameter:
+Value (120|0) -> FloatProperty (28|0) 

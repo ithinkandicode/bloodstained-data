@@ -1,0 +1,698 @@
+[
+  {
+    "Key": "CriticalAttackMinRate",
+    "Value": {
+      "Value": 1.0
+    }
+  },
+  {
+    "Key": "CriticalBulletRate",
+    "Value": {
+      "Value": 30.0
+    }
+  },
+  {
+    "Key": "PlayerBulletInitNum",
+    "Value": {
+      "Value": 29.0
+    }
+  },
+  {
+    "Key": "PlayerBulletMaxNum",
+    "Value": {
+      "Value": 999.0
+    }
+  },
+  {
+    "Key": "EnemyMoneyDropPercentMin",
+    "Value": {
+      "Value": 10.0
+    }
+  },
+  {
+    "Key": "EnemyMoneyDropPercentMax",
+    "Value": {
+      "Value": 30.0
+    }
+  },
+  {
+    "Key": "HardEnemyAttackAdd",
+    "Value": {
+      "Value": 15.0
+    }
+  },
+  {
+    "Key": "HardEnemyDamageRate",
+    "Value": {
+      "Value": 1.1
+    }
+  },
+  {
+    "Key": "HardBossAttackAdd",
+    "Value": {
+      "Value": 30.0
+    }
+  },
+  {
+    "Key": "HardBossDamageRate",
+    "Value": {
+      "Value": 1.1
+    }
+  },
+  {
+    "Key": "HardGimmickDamageRate",
+    "Value": {
+      "Value": 2.0
+    }
+  },
+  {
+    "Key": "NightmareEnemyAttackAdd",
+    "Value": {
+      "Value": 25.0
+    }
+  },
+  {
+    "Key": "NightmareEnemyDamageRate",
+    "Value": {
+      "Value": 1.2
+    }
+  },
+  {
+    "Key": "NightmareBossAttackAdd",
+    "Value": {
+      "Value": 50.0
+    }
+  },
+  {
+    "Key": "NightmareBossDamageRate",
+    "Value": {
+      "Value": 1.2
+    }
+  },
+  {
+    "Key": "NightmareGimmickDamageRate",
+    "Value": {
+      "Value": 3.0
+    }
+  },
+  {
+    "Key": "WeaponGrowMaxAtk_BloodBringer",
+    "Value": {
+      "Value": 55.0
+    }
+  },
+  {
+    "Key": "WeaponGrowMaxAtk_RedbeastEdge",
+    "Value": {
+      "Value": 52.0
+    }
+  },
+  {
+    "Key": "WeaponGrowMaxAtk_Izayoi",
+    "Value": {
+      "Value": 58.0
+    }
+  },
+  {
+    "Key": "GrowNeedBloodAmount_Izayoi",
+    "Value": {
+      "Value": 4444.0
+    }
+  },
+  {
+    "Key": "GrowNeedEatingDishesType_RedbeastEdge",
+    "Value": {
+      "Value": 30.0
+    }
+  },
+  {
+    "Key": "BossFlushTime",
+    "Value": {
+      "Value": 0.3
+    }
+  },
+  {
+    "Key": "DamageDispOffsetZ",
+    "Value": {
+      "Value": 50.0
+    }
+  },
+  {
+    "Key": "StatusDispOffsetZ",
+    "Value": {
+      "Value": 10.0
+    }
+  },
+  {
+    "Key": "PauseLevelUpTime",
+    "Value": {
+      "Value": 2.0
+    }
+  },
+  {
+    "Key": "PauseArtsLevelUpTime",
+    "Value": {
+      "Value": 2.0
+    }
+  },
+  {
+    "Key": "BloodsteelEachDelayTime",
+    "Value": {
+      "Value": 0.05
+    }
+  },
+  {
+    "Key": "ChangeBunnyWeaponAtk",
+    "Value": {
+      "Value": 0.0
+    }
+  },
+  {
+    "Key": "ShovelArmorWeaponAtk",
+    "Value": {
+      "Value": 30.0
+    }
+  },
+  {
+    "Key": "FamiliarStatusGradeBlend",
+    "Value": {
+      "Value": 30.0
+    }
+  },
+  {
+    "Key": "PlayerConRate_ForCalcDamage",
+    "Value": {
+      "Value": 0.5
+    }
+  },
+  {
+    "Key": "PlayerMndRate_ForCalcDamage",
+    "Value": {
+      "Value": 0.5
+    }
+  },
+  {
+    "Key": "PlayerWeaponDamageRate_A",
+    "Value": {
+      "Value": 0.5
+    }
+  },
+  {
+    "Key": "PlayerWeaponDamageRate_B",
+    "Value": {
+      "Value": 1.0
+    }
+  },
+  {
+    "Key": "PlayerWeaponDamageRate_C",
+    "Value": {
+      "Value": 0.02
+    }
+  },
+  {
+    "Key": "PlayerWeaponDamageRate_D",
+    "Value": {
+      "Value": 0.2
+    }
+  },
+  {
+    "Key": "PlayerWeaponDamageRateGun_A",
+    "Value": {
+      "Value": 0.5
+    }
+  },
+  {
+    "Key": "PlayerWeaponDamageRateGun_B",
+    "Value": {
+      "Value": 1.0
+    }
+  },
+  {
+    "Key": "PlayerWeaponDamageRateGun_C",
+    "Value": {
+      "Value": 0.01
+    }
+  },
+  {
+    "Key": "PlayerWeaponDamageRateGun_D",
+    "Value": {
+      "Value": 0.0
+    }
+  },
+  {
+    "Key": "PlayerShardDamageRateA",
+    "Value": {
+      "Value": 1.0
+    }
+  },
+  {
+    "Key": "PlayerShardDamageRateB",
+    "Value": {
+      "Value": 1.0
+    }
+  },
+  {
+    "Key": "PlayerShardDamageRateC",
+    "Value": {
+      "Value": 0.02
+    }
+  },
+  {
+    "Key": "PlayerShardDamageRateD",
+    "Value": {
+      "Value": 0.05
+    }
+  },
+  {
+    "Key": "MiriamGrowthCoeffHp",
+    "Value": {
+      "Value": 12.0
+    }
+  },
+  {
+    "Key": "MiriamGrowthCoeffMp",
+    "Value": {
+      "Value": 8.0
+    }
+  },
+  {
+    "Key": "MiriamGrowthCoeffStr",
+    "Value": {
+      "Value": 1.0
+    }
+  },
+  {
+    "Key": "MiriamGrowthCoeffCon",
+    "Value": {
+      "Value": 0.9
+    }
+  },
+  {
+    "Key": "MiriamGrowthCoeffInt",
+    "Value": {
+      "Value": 1.1
+    }
+  },
+  {
+    "Key": "MiriamGrowthCoeffMnd",
+    "Value": {
+      "Value": 1.0
+    }
+  },
+  {
+    "Key": "MiriamGrowthCoeffLuc",
+    "Value": {
+      "Value": 0.25
+    }
+  },
+  {
+    "Key": "ZangetsuGrowthCoeffHp",
+    "Value": {
+      "Value": 12.0
+    }
+  },
+  {
+    "Key": "ZangetsuGrowthCoeffMp",
+    "Value": {
+      "Value": 8.0
+    }
+  },
+  {
+    "Key": "ZangetsuGrowthCoeffStr",
+    "Value": {
+      "Value": 1.0
+    }
+  },
+  {
+    "Key": "ZangetsuGrowthCoeffCon",
+    "Value": {
+      "Value": 1.0
+    }
+  },
+  {
+    "Key": "ZangetsuGrowthCoeffInt",
+    "Value": {
+      "Value": 1.0
+    }
+  },
+  {
+    "Key": "ZangetsuGrowthCoeffMnd",
+    "Value": {
+      "Value": 1.0
+    }
+  },
+  {
+    "Key": "ZangetsuGrowthCoeffLuc",
+    "Value": {
+      "Value": 0.25
+    }
+  },
+  {
+    "Key": "StickDeadThreshold",
+    "Value": {
+      "Value": 0.4
+    }
+  },
+  {
+    "Key": "StickToPadAngleThresholdX",
+    "Value": {
+      "Value": 68.5
+    }
+  },
+  {
+    "Key": "StickToPadAngleThresholdY",
+    "Value": {
+      "Value": 68.5
+    }
+  },
+  {
+    "Key": "LeverGachaCount",
+    "Value": {
+      "Value": 30.0
+    }
+  },
+  {
+    "Key": "SpawnBloodDecalMax",
+    "Value": {
+      "Value": 128.0
+    }
+  },
+  {
+    "Key": "HpMaxUpLimit",
+    "Value": {
+      "Value": 500.0
+    }
+  },
+  {
+    "Key": "MpMaxUpLimit",
+    "Value": {
+      "Value": 300.0
+    }
+  },
+  {
+    "Key": "FakeMoon_StartColor_R",
+    "Value": {
+      "Value": 30.0
+    }
+  },
+  {
+    "Key": "FakeMoon_StartColor_G",
+    "Value": {
+      "Value": 5.0
+    }
+  },
+  {
+    "Key": "FakeMoon_StartColor_B",
+    "Value": {
+      "Value": 1.0
+    }
+  },
+  {
+    "Key": "FakeMoon_EndColor_R",
+    "Value": {
+      "Value": 5.0
+    }
+  },
+  {
+    "Key": "FakeMoon_EndColor_G",
+    "Value": {
+      "Value": 0.1
+    }
+  },
+  {
+    "Key": "FakeMoon_EndColor_B",
+    "Value": {
+      "Value": 0.1
+    }
+  },
+  {
+    "Key": "FakeMoon_StartEmissivePower",
+    "Value": {
+      "Value": 0.0
+    }
+  },
+  {
+    "Key": "FakeMoon_EndEmissivePower",
+    "Value": {
+      "Value": 3000.0
+    }
+  },
+  {
+    "Key": "FakeMoon_ChangeHPThreshold",
+    "Value": {
+      "Value": 600.0
+    }
+  },
+  {
+    "Key": "N3108_777_MinLuck",
+    "Value": {
+      "Value": 1.0
+    }
+  },
+  {
+    "Key": "N3108_777_MaxLuck",
+    "Value": {
+      "Value": 100.0
+    }
+  },
+  {
+    "Key": "N3108_777_MinValueRate",
+    "Value": {
+      "Value": 1.0
+    }
+  },
+  {
+    "Key": "N3108_777_MaxValueRate",
+    "Value": {
+      "Value": 1.5
+    }
+  },
+  {
+    "Key": "N3108_777_GamblerRingRate",
+    "Value": {
+      "Value": 2.0
+    }
+  },
+  {
+    "Key": "N3108_Value",
+    "Value": {
+      "Value": 3.0
+    }
+  },
+  {
+    "Key": "N3108_Value_CHANCE",
+    "Value": {
+      "Value": 7.0
+    }
+  },
+  {
+    "Key": "N3108_Value_WATER_MELON",
+    "Value": {
+      "Value": 15.0
+    }
+  },
+  {
+    "Key": "N3108_Value_CHERRY",
+    "Value": {
+      "Value": 20.0
+    }
+  },
+  {
+    "Key": "N3108_Value_BELL",
+    "Value": {
+      "Value": 25.0
+    }
+  },
+  {
+    "Key": "N3108_Value_REPLAY",
+    "Value": {
+      "Value": 15.0
+    }
+  },
+  {
+    "Key": "P0000_STEELCY_SMALLATTACK_CHARGE_RATE_MIN",
+    "Value": {
+      "Value": 0.2
+    }
+  },
+  {
+    "Key": "P0000_STEELCY_SMALLATTACK_CHARGE_RATE_MAX",
+    "Value": {
+      "Value": 0.75
+    }
+  },
+  {
+    "Key": "P0000_STEELCY_LARGEATTACK_CHARGE_RATE_MIN",
+    "Value": {
+      "Value": 1.25
+    }
+  },
+  {
+    "Key": "P0000_STEELCY_LARGEATTACK_CHARGE_RATE_MAX",
+    "Value": {
+      "Value": 2.0
+    }
+  },
+  {
+    "Key": "P0000_STEELCY_CHARGE_LIMIT",
+    "Value": {
+      "Value": 2.0
+    }
+  },
+  {
+    "Key": "P0000_SILVERMANRING_ENEMY_KILL_MIN",
+    "Value": {
+      "Value": 0.0
+    }
+  },
+  {
+    "Key": "P0000_SILVERMANRING_ENEMY_KILL_MAX",
+    "Value": {
+      "Value": 9999.0
+    }
+  },
+  {
+    "Key": "P0000_SILVERMANRING_ATTACK_RATE_MIN",
+    "Value": {
+      "Value": 0.0
+    }
+  },
+  {
+    "Key": "P0000_SILVERMANRING_ATTACK_RATE_MAX",
+    "Value": {
+      "Value": 0.3
+    }
+  },
+  {
+    "Key": "P0000_WALKERKING_TRAVERSE_MIN",
+    "Value": {
+      "Value": 0.0
+    }
+  },
+  {
+    "Key": "P0000_WALKERKING_TRAVERSE_MAX",
+    "Value": {
+      "Value": 100.0
+    }
+  },
+  {
+    "Key": "P0000_WALKERKING_ATTACK_RATE_MIN",
+    "Value": {
+      "Value": 0.0
+    }
+  },
+  {
+    "Key": "P0000_WALKERKING_ATTACK_RATE_MAX",
+    "Value": {
+      "Value": 0.2
+    }
+  },
+  {
+    "Key": "P0000_GOLDRING_GOLD_MIN",
+    "Value": {
+      "Value": 0.0
+    }
+  },
+  {
+    "Key": "P0000_GOLDRING_GOLD_MAX",
+    "Value": {
+      "Value": 1000000.0
+    }
+  },
+  {
+    "Key": "P0000_GOLDRING_ATTACK_RATE_MIN",
+    "Value": {
+      "Value": 0.0
+    }
+  },
+  {
+    "Key": "P0000_GOLDRING_ATTACK_RATE_MAX",
+    "Value": {
+      "Value": 0.3
+    }
+  },
+  {
+    "Key": "P0000_MONEYISPOWER_GOLD_MIN",
+    "Value": {
+      "Value": 0.0
+    }
+  },
+  {
+    "Key": "P0000_MONEYISPOWER_GOLD_MAX",
+    "Value": {
+      "Value": 1000000.0
+    }
+  },
+  {
+    "Key": "P0000_MONEYISPOWER_ATTACK_RATE_MIN",
+    "Value": {
+      "Value": 0.0
+    }
+  },
+  {
+    "Key": "P0000_MONEYISPOWER_ATTACK_RATE_MAX",
+    "Value": {
+      "Value": 0.1
+    }
+  },
+  {
+    "Key": "P0000_ADVERSITYRING_POISON_RATE",
+    "Value": {
+      "Value": 0.2
+    }
+  },
+  {
+    "Key": "P0000_ADVERSITYRING_STONE_RATE",
+    "Value": {
+      "Value": 0.2
+    }
+  },
+  {
+    "Key": "P0000_ADVERSITYRING_CURSE_RATE",
+    "Value": {
+      "Value": 0.2
+    }
+  },
+  {
+    "Key": "P0000_ADVERSITYRING_SLOW_RATE",
+    "Value": {
+      "Value": 0.2
+    }
+  },
+  {
+    "Key": "CrystallizationTime",
+    "Value": {
+      "Value": 0.7
+    }
+  },
+  {
+    "Key": "ApronCraftBonusRate",
+    "Value": {
+      "Value": 0.1
+    }
+  },
+  {
+    "Key": "DiscountCardBuyPriceRate",
+    "Value": {
+      "Value": 0.9
+    }
+  },
+  {
+    "Key": "FarmNecessaryDistanceForCountUp",
+    "Value": {
+      "Value": 75.0
+    }
+  },
+  {
+    "Key": "PoisonAddDamageEnemy",
+    "Value": {
+      "Value": 5.0
+    }
+  },
+  {
+    "Key": "PoisonAddDamageBoss",
+    "Value": {
+      "Value": 5.0
+    }
+  }
+]

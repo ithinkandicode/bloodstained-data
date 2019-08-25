@@ -1,0 +1,55 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 22250
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 976
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 22138
+ImportCount: 4
+ImportOffset: 22026
+DependsOffset: 22242
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 03c5459a-bcba-4235-aab9-d0ca30088d9f
+Generations: 1
+CompressionFlags: 0
+PackageSource: 286892424
+Unversioned: False
+AssetRegistryDataOffset: 22246
+BulkDataStartOffset: 395987
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 22250
+
+
+TYPE DATA FOR PB_DT_DropRateMaster:
+Id (237|0) -> UInt32Property (898|0) 
+ShardId (520|0) -> NameProperty (438|0) 
+ShardRate (521|0) -> FloatProperty (189|0) 
+RareItemId (476|0) -> NameProperty (438|0) 
+RareItemQuantity (477|0) -> IntProperty (241|0) 
+RareItemRate (478|0) -> FloatProperty (189|0) 
+CommonItemId (92|0) -> NameProperty (438|0) 
+CommonItemQuantity (93|0) -> IntProperty (241|0) 
+CommonRate (94|0) -> FloatProperty (189|0) 
+RareIngredientId (473|0) -> NameProperty (438|0) 
+RareIngredientQuantity (474|0) -> IntProperty (241|0) 
+RareIngredientRate (475|0) -> FloatProperty (189|0) 
+CommonIngredientId (89|0) -> NameProperty (438|0) 
+CommonIngredientQuantity (90|0) -> IntProperty (241|0) 
+CommonIngredientRate (91|0) -> FloatProperty (189|0) 
+CoinType (88|0) -> ByteProperty (66|0) 
+CoinOverride (86|0) -> IntProperty (241|0) 
+CoinRate (87|0) -> FloatProperty (189|0) 
+AreaChangeTreasureFlag (24|0) -> BoolProperty (58|0) 

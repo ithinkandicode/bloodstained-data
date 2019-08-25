@@ -1,0 +1,42 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 2890
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 118
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 2778
+ImportCount: 4
+ImportOffset: 2666
+DependsOffset: 2882
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 13fc3c0b-c415-4ace-b7ae-e07e153c7e74
+Generations: 1
+CompressionFlags: 0
+PackageSource: 1653752986
+Unversioned: False
+AssetRegistryDataOffset: 2886
+BulkDataStartOffset: 21295
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 2890
+
+
+TYPE DATA FOR PB_DT_ConsumableMaster:
+SpecialEffectId (105|0) -> NameProperty (78|0) 
+IsAutoUse (61|0) -> BoolProperty (9|0) 
+IsUsingFamiliaOnly (62|0) -> BoolProperty (9|0) 
+Category (11|0) -> ByteProperty (10|0) 
+Manipulate (67|0) -> NameProperty (78|0) 
+ManipulateValue (68|0) -> FloatProperty (45|0) 

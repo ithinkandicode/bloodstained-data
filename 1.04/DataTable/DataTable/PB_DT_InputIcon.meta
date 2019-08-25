@@ -1,0 +1,40 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 32958
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 650
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 32846
+ImportCount: 4
+ImportOffset: 32734
+DependsOffset: 32950
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 84ca17a8-0af0-44f9-b5da-5ec9ea579164
+Generations: 1
+CompressionFlags: 0
+PackageSource: 812176843
+Unversioned: False
+AssetRegistryDataOffset: 32954
+BulkDataStartOffset: 61211
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 32958
+
+
+TYPE DATA FOR PB_DT_InputIcon:
+AssetPathDefault (468|0) -> SoftObjectProperty (631|0) 
+AssetPathXB1 (471|0) -> SoftObjectProperty (631|0) 
+AssetPathPS4 (469|0) -> SoftObjectProperty (631|0) 
+AssetPathSwitch (470|0) -> SoftObjectProperty (631|0) 

@@ -1,0 +1,40 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 13486
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 651
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 13374
+ImportCount: 4
+ImportOffset: 13262
+DependsOffset: 13478
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 091274d9-d57a-4e50-880c-67ec733ea0cd
+Generations: 1
+CompressionFlags: 0
+PackageSource: 3339721623
+Unversioned: False
+AssetRegistryDataOffset: 13482
+BulkDataStartOffset: 119908
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 13486
+
+
+TYPE DATA FOR PB_DT_BackerClan_8_Master:
+BackerName (634|0) -> StrProperty (650|0) 
+EntryClan (641|0) -> ByteProperty (635|0) 
+Comment (637|0) -> StrProperty (650|0) 
+Phrase (647|0) -> StrProperty (650|0) 

@@ -1,0 +1,38 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 1477
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 45
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 1365
+ImportCount: 4
+ImportOffset: 1253
+DependsOffset: 1469
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 1fb6e369-d29f-44b9-b7e7-77953b866f6b
+Generations: 1
+CompressionFlags: 0
+PackageSource: 4142251875
+Unversioned: False
+AssetRegistryDataOffset: 1473
+BulkDataStartOffset: 4240
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 1477
+
+
+TYPE DATA FOR PB_DT_ArchiveTimeRecordMaster:
+TitleKey (44|0) -> StrProperty (43|0) 
+bShowInSpeedRunMode (5|0) -> BoolProperty (4|0) 

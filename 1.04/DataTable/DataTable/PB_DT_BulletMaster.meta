@@ -1,0 +1,141 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 86794
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 1879
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 86682
+ImportCount: 4
+ImportOffset: 86570
+DependsOffset: 86786
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 2bb9d2fe-1292-4b35-a8a1-ba8561434971
+Generations: 1
+CompressionFlags: 0
+PackageSource: 2213586343
+Unversioned: False
+AssetRegistryDataOffset: 86790
+BulkDataStartOffset: 2461314
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 86794
+
+
+TYPE DATA FOR PB_DT_BulletMaster:
+ShardIdForRegisterShard (1833|0) -> NameProperty (1305|0) 
+BallisticId (644|0) -> NameProperty (1305|0) 
+DamageId (707|0) -> NameProperty (1305|0) 
+ShapeId (1832|0) -> NameProperty (1305|0) 
+EffectId (716|0) -> NameProperty (1305|0) 
+DefaultPauseCategory (712|0) -> ByteProperty (684|0) 
+CopyCategoryPauseSettings (703|0) -> BoolProperty (671|0) 
+SubActorPath (1858|0) -> SoftObjectProperty (1846|0) 
+InitCharacterToAutoSpline (773|0) -> BoolProperty (671|0) 
+EffectBeginScale (714|0) -> FloatProperty (752|0) 
+EffectEndScale (715|0) -> FloatProperty (752|0) 
+EffectScaleDuration (721|0) -> FloatProperty (752|0) 
+BeginEffectId (655|0) -> NameProperty (1305|0) 
+BeginEffectBeginScale (653|0) -> FloatProperty (752|0) 
+BeginEffectEndScale (654|0) -> FloatProperty (752|0) 
+BeginEffectScaleDuration (656|0) -> FloatProperty (752|0) 
+EndEffectId (726|0) -> NameProperty (1305|0) 
+EndEffectBeginScale (724|0) -> FloatProperty (752|0) 
+EndEffectEndScale (725|0) -> FloatProperty (752|0) 
+EndEffectScaleDuration (727|0) -> FloatProperty (752|0) 
+BeamEffect (647|0) -> BoolProperty (671|0) 
+BeamWall (652|0) -> BoolProperty (671|0) 
+BeamCharacter (646|0) -> BoolProperty (671|0) 
+GuardResultAsWall (759|0) -> BoolProperty (671|0) 
+ScoreEffect (1763|0) -> ByteProperty (684|0) 
+BeamShortSpeed (651|0) -> FloatProperty (752|0) 
+BeamLongSpeed (649|0) -> FloatProperty (752|0) 
+BeamShortLength (650|0) -> FloatProperty (752|0) 
+BeamLongLength (648|0) -> FloatProperty (752|0) 
+LifeTime (784|0) -> FloatProperty (752|0) 
+LifeTimeRand (785|0) -> FloatProperty (752|0) 
+LifeLength (781|0) -> FloatProperty (752|0) 
+LifeLengthRand (783|0) -> FloatProperty (752|0) 
+LifeLengthFromTarget (782|0) -> FloatProperty (752|0) 
+InstantDeath (774|0) -> BoolProperty (671|0) 
+NoDoubleSuicide (1320|0) -> BoolProperty (671|0) 
+NotDestroyWhileEvent (1325|0) -> BoolProperty (671|0) 
+BrokableByCharacter (674|0) -> BoolProperty (671|0) 
+BrokableByCharacterHitCount (675|0) -> IntProperty (775|0) 
+BrokableByGround (677|0) -> BoolProperty (671|0) 
+BrokableByWall (679|0) -> BoolProperty (671|0) 
+BrokableByCeil (673|0) -> BoolProperty (671|0) 
+BrokableByObject (678|0) -> BoolProperty (671|0) 
+BrokableByDamage (676|0) -> BoolProperty (671|0) 
+BrokableByBallisticEnd (672|0) -> BoolProperty (671|0) 
+ReboundableByGround (1760|0) -> BoolProperty (671|0) 
+ReboundableByWall (1761|0) -> BoolProperty (671|0) 
+ReboundableByCeil (1759|0) -> BoolProperty (671|0) 
+NextBulletShouldBeAttachToChara (1316|0) -> NameProperty (1305|0) 
+NextBulletIdOnLifeTime (1313|0) -> NameProperty (1305|0) 
+NextBulletIdOnLifeLength (1312|0) -> NameProperty (1305|0) 
+NextBulletIdOnBroken (1307|0) -> NameProperty (1305|0) 
+NextBulletIdOnBrokenByChara (1309|0) -> NameProperty (1305|0) 
+NextBulletIdOnBrokenByDamage (1310|0) -> NameProperty (1305|0) 
+NextBulletIdOnBrokenByBallisticEnd (1308|0) -> NameProperty (1305|0) 
+NextBulletIdOnKilled (1311|0) -> NameProperty (1305|0) 
+SpawnBulletIdOnReboundPre (1855|0) -> NameProperty (1305|0) 
+SpawnBulletIdOnReboundPost (1854|0) -> NameProperty (1305|0) 
+FusionTargetBullet (756|0) -> NameProperty (1305|0) 
+FusionSpawnBullet (755|0) -> NameProperty (1305|0) 
+NextBulletInheritRotation (1314|0) -> BoolProperty (671|0) 
+NextBulletInheritRotationIgnore (1315|0) -> BoolProperty (671|0) 
+NextBulletCeilRotation (1306|0) -> BoolProperty (671|0) 
+SpawnPitchBase (1856|0) -> FloatProperty (752|0) 
+SpawnYawBase (1857|0) -> FloatProperty (752|0) 
+MultiSpawnNum (800|0) -> IntProperty (775|0) 
+MultiSpawnPitchOffsetMin (802|0) -> FloatProperty (752|0) 
+MultiSpawnPitchOffsetMax (801|0) -> FloatProperty (752|0) 
+MultiSpawnPitchRandomMin (804|0) -> FloatProperty (752|0) 
+MultiSpawnPitchRandomMax (803|0) -> FloatProperty (752|0) 
+MultiSpawnYawOffsetMin (806|0) -> FloatProperty (752|0) 
+MultiSpawnYawOffsetMax (805|0) -> FloatProperty (752|0) 
+MultiSpawnYawRandomMin (808|0) -> FloatProperty (752|0) 
+MultiSpawnYawRandomMax (807|0) -> FloatProperty (752|0) 
+SubBulletId (1860|0) -> NameProperty (1305|0) 
+SubBulletSpawnInterval (1862|0) -> FloatProperty (752|0) 
+SubBulletSpawnStartTime (1863|0) -> FloatProperty (752|0) 
+SubBulletSpawnEndTime (1861|0) -> FloatProperty (752|0) 
+SubBlletSpawnEndTargetDist (1859|0) -> FloatProperty (752|0) 
+BloodType (670|0) -> ByteProperty (684|0) 
+BloodColor (660|0) -> ByteProperty (684|0) 
+BloodBulletInherit (659|0) -> BoolProperty (671|0) 
+BloodOnCeil (661|0) -> BoolProperty (671|0) 
+BloodOnCeilRate (662|0) -> FloatProperty (752|0) 
+BloodOnCeilScale (663|0) -> FloatProperty (752|0) 
+BloodOnWall (667|0) -> BoolProperty (671|0) 
+BloodOnWallRate (668|0) -> FloatProperty (752|0) 
+BloodOnWallScale (669|0) -> FloatProperty (752|0) 
+BloodOnGround (664|0) -> BoolProperty (671|0) 
+BloodOnGroundRate (665|0) -> FloatProperty (752|0) 
+BloodOnGroundScale (666|0) -> FloatProperty (752|0) 
+DecalName (709|0) -> NameProperty (1305|0) 
+OffsetRadiusFromCollisionGround (1330|0) -> BoolProperty (671|0) 
+OffsetValueFromCollisionGround (1331|0) -> FloatProperty (752|0) 
+EffectRoll (720|0) -> FloatProperty (752|0) 
+EffectPitch (719|0) -> FloatProperty (752|0) 
+EffectYaw (722|0) -> FloatProperty (752|0) 
+IgnoreCollisionTime (771|0) -> FloatProperty (752|0) 
+SEID (1829|0) -> NameProperty (1305|0) 
+SELife (1830|0) -> FloatProperty (752|0) 
+SEStopDelay (1831|0) -> FloatProperty (752|0) 
+PanMode (1749|0) -> ByteProperty (684|0) 
+DecayMode (710|0) -> ByteProperty (684|0) 
+VolumeRate (1873|0) -> FloatProperty (752|0) 
+ForceY (754|0) -> BoolProperty (671|0) 

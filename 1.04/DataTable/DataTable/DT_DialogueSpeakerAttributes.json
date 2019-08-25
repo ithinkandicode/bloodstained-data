@@ -1,0 +1,218 @@
+[
+  {
+    "Key": "Miriam",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "AC00710347E030DF10F00B80F8D468E5",
+        "Text": "ミリアム"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Zangetsu",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "7ACAE293483BEE8CEA39D0A46BDB0FD1",
+        "Text": "斬月"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Johannes",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "E957AFD04EDA1F7A0F2CCCBD94F4E1E1",
+        "Text": "ヨハネス"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Ziber",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "8856C5BE443FE55C28596FA22C142915",
+        "Text": "ジーベル"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Dominique",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "9721343A45152B8FC5AFBD82B1B0B5A3",
+        "Text": "ドミニク"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Alfred",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "C340EC2144AB50CBA8EC41B07EAB7259",
+        "Text": "アルフレッド"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Gremory",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "97012CA44CD253ECA0550587ECFBB269",
+        "Text": "グレモリー"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Coachman",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "17BA867D4B422EA06A7C53B0990B6861",
+        "Text": "御者"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "An",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "2F6372AE4B56011A96D99D8B9045E1B0",
+        "Text": "アン"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Hallie",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "A40475FE4173B90585CAD9A965546877",
+        "Text": "ハリー"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Benjamin",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "21EB20E54F153B0C5361BEA2972ADB45",
+        "Text": "ベンジャミン"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Susie",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "A2CA40CE4AD89577513A4FA9E74B4327",
+        "Text": "スージー"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Abigail",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "60AD3A1C481960CF419021BA1DCB4AF3",
+        "Text": "アビゲイル"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Lindsay",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "0BC548C24F117774B813F093CF1A9339",
+        "Text": "リンジー"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "OD",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "D18A252E4EFB096E9EB57CAC747204CA",
+        "Text": "OD"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Todd",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "253FF63544CB197A9C80B987BAE3861C",
+        "Text": "トッド"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Gost",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "B819160F46848E4D6BFCDCB8D60AD7AB",
+        "Text": "Gost"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Miriam",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "119305624A1C800FEC524A9B80A00A87",
+        "Text": "ミリアム"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  }
+]

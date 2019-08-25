@@ -1,0 +1,2316 @@
+[
+  {
+    "Key": "SpeedUP",
+    "Value": {
+      "DefId": "SpeedUP",
+      "Type": "EPBSpecialEffect::None",
+      "Parameter01": 1.5,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "RegistHoly",
+    "Value": {
+      "DefId": "RegistHoly",
+      "Type": "EPBSpecialEffect::Regist",
+      "Parameter01": 7.0,
+      "Parameter02": 3.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ChangeHPByPercentage",
+    "Value": {
+      "DefId": "ChangeHPByPercentage",
+      "Type": "EPBSpecialEffect::ChangeHPByPercentage",
+      "Parameter01": 25.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ChangeMPByPercentage",
+    "Value": {
+      "DefId": "ChangeMPByPercentage",
+      "Type": "EPBSpecialEffect::ChangeMPByPercentage",
+      "Parameter01": 25.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Optimizer",
+    "Value": {
+      "DefId": "Optimizer",
+      "Type": "EPBSpecialEffect::Optimizer",
+      "Parameter01": 1.15,
+      "Parameter02": 1.25,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "BLOOD_STEEL",
+    "Value": {
+      "DefId": "BLOOD_STEEL",
+      "Type": "EPBSpecialEffect::BloodSteel",
+      "Parameter01": 100.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "BLOODLESS_DAMAGE1",
+    "Value": {
+      "DefId": "BLOODLESS_DAMAGE1",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": -5.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "BLOODLESS_DAMAGE2",
+    "Value": {
+      "DefId": "BLOODLESS_DAMAGE2",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": -10.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "HP10000",
+    "Value": {
+      "DefId": "HP10000",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 10000.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "HP_SilentMax",
+    "Value": {
+      "DefId": "HP_SilentMax",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 10000.0,
+      "Parameter02": 1.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "MP_SilentMax",
+    "Value": {
+      "DefId": "MP_SilentMax",
+      "Type": "EPBSpecialEffect::ChangeMP",
+      "Parameter01": 10000.0,
+      "Parameter02": 1.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "EnchantFlame",
+    "Value": {
+      "DefId": "EnchantFlame",
+      "Type": "EPBSpecialEffect::Enchant",
+      "Parameter01": 4.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "EnchantIce",
+    "Value": {
+      "DefId": "EnchantIce",
+      "Type": "EPBSpecialEffect::Enchant",
+      "Parameter01": 5.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "EnchantThunder",
+    "Value": {
+      "DefId": "EnchantThunder",
+      "Type": "EPBSpecialEffect::Enchant",
+      "Parameter01": 6.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "EnchantHolly",
+    "Value": {
+      "DefId": "EnchantIce",
+      "Type": "EPBSpecialEffect::Enchant",
+      "Parameter01": 7.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "EnchantDarkness",
+    "Value": {
+      "DefId": "EnchantThunder",
+      "Type": "EPBSpecialEffect::Enchant",
+      "Parameter01": 8.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Add1PercentExperience",
+    "Value": {
+      "DefId": "Add1PercentExperience",
+      "Type": "EPBSpecialEffect::AddExpByPercentage",
+      "Parameter01": 1.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "OpenMap",
+    "Value": {
+      "DefId": "OpenMap",
+      "Type": "EPBSpecialEffect::OpenMap",
+      "Parameter01": 1.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Potion",
+    "Value": {
+      "DefId": "Potion",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 50.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "HighPotion",
+    "Value": {
+      "DefId": "HighPotion",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 250.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ExPotion",
+    "Value": {
+      "DefId": "ExPotion",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 9999.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Ether",
+    "Value": {
+      "DefId": "Ether",
+      "Type": "EPBSpecialEffect::ChangeMP",
+      "Parameter01": 30.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "HighEther",
+    "Value": {
+      "DefId": "HighEther",
+      "Type": "EPBSpecialEffect::ChangeMP",
+      "Parameter01": 150.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ExEther",
+    "Value": {
+      "DefId": "ExEther",
+      "Type": "EPBSpecialEffect::ChangeMP",
+      "Parameter01": 9999.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Mithridate",
+    "Value": {
+      "DefId": "Mithridate",
+      "Type": "EPBSpecialEffect::ClearPoison",
+      "Parameter01": 0.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "HolyWater",
+    "Value": {
+      "DefId": "HolyWater",
+      "Type": "EPBSpecialEffect::ClearCurse",
+      "Parameter01": 0.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Stonethaw",
+    "Value": {
+      "DefId": "Stonethaw",
+      "Type": "EPBSpecialEffect::ClearStone",
+      "Parameter01": 0.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Waystone",
+    "Value": {
+      "DefId": "Waystone",
+      "Type": "EPBSpecialEffect::WayStone",
+      "Parameter01": 0.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "RiceBall",
+    "Value": {
+      "DefId": "RiceBall",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 30.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "UniDon",
+    "Value": {
+      "DefId": "UniDon",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 375.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "AppleRisotto",
+    "Value": {
+      "DefId": "AppleRisotto",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 320.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "EggonRice",
+    "Value": {
+      "DefId": "EggonRice",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 95.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Omurice",
+    "Value": {
+      "DefId": "Omurice",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 195.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ChickenCasserole",
+    "Value": {
+      "DefId": "ChickenCasserole",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 170.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Curry&Rice",
+    "Value": {
+      "DefId": "Curry&Rice",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 200.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "BeefCurry",
+    "Value": {
+      "DefId": "BeefCurry",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 337.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "PorkCurry",
+    "Value": {
+      "DefId": "PorkCurry",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 237.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ChickenCurry",
+    "Value": {
+      "DefId": "ChickenCurry",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 287.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "SeafoodCurry",
+    "Value": {
+      "DefId": "SeafoodCurry",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 337.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "MacaroniGratin",
+    "Value": {
+      "DefId": "MacaroniGratin",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 220.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ClassicSpaghetti",
+    "Value": {
+      "DefId": "ClassicSpaghetti",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 195.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "PastaCarbonara",
+    "Value": {
+      "DefId": "PastaCarbonara",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 245.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "PastaVongole",
+    "Value": {
+      "DefId": "PastaVongole",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 295.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "SeaUrchinPasta",
+    "Value": {
+      "DefId": "SeaUrchinPasta",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 370.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "BerrySpaghetti",
+    "Value": {
+      "DefId": "BerrySpaghetti",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 320.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ShirukoSpaghetti",
+    "Value": {
+      "DefId": "ShirukoSpaghetti",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 320.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "SaltRamen",
+    "Value": {
+      "DefId": "SaltRamen",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 245.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "SoyRamen",
+    "Value": {
+      "DefId": "SoyRamen",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 245.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "TonkotsuRamen",
+    "Value": {
+      "DefId": "TonkotsuRamen",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 245.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "MisoRamen",
+    "Value": {
+      "DefId": "MisoRamen",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 245.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "CornChowder",
+    "Value": {
+      "DefId": "CornChowder",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 80.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Steak",
+    "Value": {
+      "DefId": "Steak",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 495.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ExquisiteSteak",
+    "Value": {
+      "DefId": "ExquisiteSteak",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 700.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Sukiyaki",
+    "Value": {
+      "DefId": "Sukiyaki",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 375.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ChickenSauté",
+    "Value": {
+      "DefId": "ChickenSauté",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 200.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "GarlicChicken",
+    "Value": {
+      "DefId": "GarlicChicken",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 200.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Tonkatsu",
+    "Value": {
+      "DefId": "Tonkatsu",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 300.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "MisoCutlet",
+    "Value": {
+      "DefId": "MisoCutlet",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 375.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "GingerPork",
+    "Value": {
+      "DefId": "GingerPork",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 175.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "MeatHotPot",
+    "Value": {
+      "DefId": "MeatHotPot",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 495.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "FriedPotatoes",
+    "Value": {
+      "DefId": "FriedPotatoes",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 75.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Pizza",
+    "Value": {
+      "DefId": "Pizza",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 395.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "FriedFish",
+    "Value": {
+      "DefId": "FriedFish",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 100.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "FishAndChips",
+    "Value": {
+      "DefId": "FishAndChips",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 170.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "SimmeredForneus",
+    "Value": {
+      "DefId": "SimmeredForneus",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 320.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ForneusMeunière",
+    "Value": {
+      "DefId": "ForneusMeunière",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 295.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ForneusinGarlic",
+    "Value": {
+      "DefId": "ForneusinGarlic",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 320.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "FishHotPot",
+    "Value": {
+      "DefId": "FishHotPot",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 495.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Flan",
+    "Value": {
+      "DefId": "Flan",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 45.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Manju",
+    "Value": {
+      "DefId": "Manju",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 25.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ApplePie",
+    "Value": {
+      "DefId": "ApplePie",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 370.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "LemonPie",
+    "Value": {
+      "DefId": "LemonPie",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 370.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "StrawberryPie",
+    "Value": {
+      "DefId": "StrawberryPie",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 395.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "StrawberryCrepe",
+    "Value": {
+      "DefId": "StrawberryCrepe",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 195.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ChocolateCrepe",
+    "Value": {
+      "DefId": "ChocolateCrepe",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 145.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Cookies",
+    "Value": {
+      "DefId": "Cookies",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 30.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ChocolateCookies",
+    "Value": {
+      "DefId": "ChocolateCookies",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 37.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "CinnamonCookies",
+    "Value": {
+      "DefId": "CinnamonCookies",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 50.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "SpongeCake",
+    "Value": {
+      "DefId": "SpongeCake",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 70.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ChiffonCake",
+    "Value": {
+      "DefId": "ChiffonCake",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 120.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "CheeseCake",
+    "Value": {
+      "DefId": "CheeseCake",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 145.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ChocolateCake",
+    "Value": {
+      "DefId": "ChocolateCake",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 145.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "StrawberryCake",
+    "Value": {
+      "DefId": "StrawberryCake",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 170.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ScrambledEggs",
+    "Value": {
+      "DefId": "ScrambledEggs",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 57.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "RolledOmelette",
+    "Value": {
+      "DefId": "RolledOmelette",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 80.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "FriedEgg",
+    "Value": {
+      "DefId": "FriedEgg",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 45.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "EggSoufflé",
+    "Value": {
+      "DefId": "EggSoufflé",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 170.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "MacaroniAndCheese",
+    "Value": {
+      "DefId": "MacaroniAndCheese",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 270.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "AppleJuice",
+    "Value": {
+      "DefId": "AppleJuice",
+      "Type": "EPBSpecialEffect::ChangeMP",
+      "Parameter01": 36.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "StrawberryAuLait",
+    "Value": {
+      "DefId": "StrawberryAuLait",
+      "Type": "EPBSpecialEffect::ChangeMP",
+      "Parameter01": 45.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Lemonade",
+    "Value": {
+      "DefId": "Lemonade",
+      "Type": "EPBSpecialEffect::ChangeMP",
+      "Parameter01": 36.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Smoothie",
+    "Value": {
+      "DefId": "Smoothie",
+      "Type": "EPBSpecialEffect::ChangeMP",
+      "Parameter01": 84.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "FruitJuice",
+    "Value": {
+      "DefId": "FruitJuice",
+      "Type": "EPBSpecialEffect::ChangeMP",
+      "Parameter01": 84.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Nectar",
+    "Value": {
+      "DefId": "Nectar",
+      "Type": "EPBSpecialEffect::ChangeMP",
+      "Parameter01": 744.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "DarkMatter",
+    "Value": {
+      "DefId": "DarkMatter",
+      "Type": "EPBSpecialEffect::Poison",
+      "Parameter01": 0.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "POISON_SLIP",
+      "StartRateMin": 100.0,
+      "StartRateMax": 100.0
+    }
+  },
+  {
+    "Key": "N3081_HEAL",
+    "Value": {
+      "DefId": "N3081_HEAL",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 200.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "N3103_HEAL",
+    "Value": {
+      "DefId": "N3103_HEAL",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 50.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "eat80HP",
+    "Value": {
+      "DefId": "eat80HP",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 80.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Recover_Mp_flower",
+    "Value": {
+      "DefId": "Recover_Mp_flower",
+      "Type": "EPBSpecialEffect::ChangeMPByPercentage",
+      "Parameter01": 5.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Recover_Mp_Ether",
+    "Value": {
+      "DefId": "Recover_Mp_Ether",
+      "Type": "EPBSpecialEffect::ChangeMPByPercentage",
+      "Parameter01": 20.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Recover_Mp_HiEther",
+    "Value": {
+      "DefId": "Recover_Mp_HiEther",
+      "Type": "EPBSpecialEffect::ChangeMPByPercentage",
+      "Parameter01": 50.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Coin_S",
+    "Value": {
+      "DefId": "Coin_S",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 1.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Coin_M",
+    "Value": {
+      "DefId": "Coin_M",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 5.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Coin_L",
+    "Value": {
+      "DefId": "Coin_L",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 10.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Natural_MP_Recovery",
+    "Value": {
+      "DefId": "Natural_MP_Recovery",
+      "Type": "EPBSpecialEffect::ChangeMP",
+      "Parameter01": 1.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "MaxHPUP",
+    "Value": {
+      "DefId": "MaxHPUP",
+      "Type": "EPBSpecialEffect::AddMaxHP",
+      "Parameter01": 20.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "MaxMPUP",
+    "Value": {
+      "DefId": "MaxMPUP",
+      "Type": "EPBSpecialEffect::AddMaxMP",
+      "Parameter01": 10.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Add1MaxHP",
+    "Value": {
+      "DefId": "Add1MaxHP",
+      "Type": "EPBSpecialEffect::AddMaxHP",
+      "Parameter01": 1.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Add1MaxMP",
+    "Value": {
+      "DefId": "Add1MaxMP",
+      "Type": "EPBSpecialEffect::AddMaxMP",
+      "Parameter01": 1.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Add5MaxHP",
+    "Value": {
+      "DefId": "Add5MaxHP",
+      "Type": "EPBSpecialEffect::AddMaxHP",
+      "Parameter01": 5.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Add5MaxMP",
+    "Value": {
+      "DefId": "Add5MaxMP",
+      "Type": "EPBSpecialEffect::AddMaxMP",
+      "Parameter01": 5.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "MaxBulletUP",
+    "Value": {
+      "DefId": "MaxBulletUP",
+      "Type": "EPBSpecialEffect::AddMaxBullet",
+      "Parameter01": 5.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "STRUP_FOREVER",
+    "Value": {
+      "DefId": "STRUP_FOREVER",
+      "Type": "EPBSpecialEffect::StatusAdd",
+      "Parameter01": 1.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "STR",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "CONUP_FOREVER",
+    "Value": {
+      "DefId": "CONUP_FOREVER",
+      "Type": "EPBSpecialEffect::StatusAdd",
+      "Parameter01": 1.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "CON",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "INTUP_FOREVER",
+    "Value": {
+      "DefId": "ITLUP_FOREVER",
+      "Type": "EPBSpecialEffect::StatusAdd",
+      "Parameter01": 1.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "INT",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "MNDUP_FOREVER",
+    "Value": {
+      "DefId": "MNDUP_FOREVER",
+      "Type": "EPBSpecialEffect::StatusAdd",
+      "Parameter01": 1.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "MND",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "LUCUP_FOREVER",
+    "Value": {
+      "DefId": "LUCUP_FOREVER",
+      "Type": "EPBSpecialEffect::StatusAdd",
+      "Parameter01": 1.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "LUC",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_ICE",
+    "Value": {
+      "DefId": "REGIST_ICE",
+      "Type": "EPBSpecialEffect::Regist",
+      "Parameter01": 4.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_EDGE",
+    "Value": {
+      "DefId": "REGIST_EDGE",
+      "Type": "EPBSpecialEffect::Regist",
+      "Parameter01": 0.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_CURSE",
+    "Value": {
+      "DefId": "REGIST_CURSE",
+      "Type": "EPBSpecialEffect::Regist",
+      "Parameter01": 9.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_THUNDER",
+    "Value": {
+      "DefId": "REGIST_THUNDER",
+      "Type": "EPBSpecialEffect::Regist",
+      "Parameter01": 5.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_STRUST",
+    "Value": {
+      "DefId": "REGIST_STRUST",
+      "Type": "EPBSpecialEffect::Regist",
+      "Parameter01": 2.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_DARK",
+    "Value": {
+      "DefId": "REGIST_DARK",
+      "Type": "EPBSpecialEffect::Regist",
+      "Parameter01": 7.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_FIRE",
+    "Value": {
+      "DefId": "REGIST_FIRE",
+      "Type": "EPBSpecialEffect::Regist",
+      "Parameter01": 3.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_BROW",
+    "Value": {
+      "DefId": "REGIST_BROW",
+      "Type": "EPBSpecialEffect::Regist",
+      "Parameter01": 1.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_PETRI",
+    "Value": {
+      "DefId": "REGIST_PETRI",
+      "Type": "EPBSpecialEffect::Regist",
+      "Parameter01": 10.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_POISON",
+    "Value": {
+      "DefId": "REGIST_POISON",
+      "Type": "EPBSpecialEffect::Regist",
+      "Parameter01": 8.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "REGIST_HOLLY",
+    "Value": {
+      "DefId": "REGIST_HOLLY",
+      "Type": "EPBSpecialEffect::Regist",
+      "Parameter01": 6.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "BUFF_STR",
+    "Value": {
+      "DefId": "BUFF_STR",
+      "Type": "EPBSpecialEffect::StatusChange",
+      "Parameter01": 12.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "BUFF_INT",
+    "Value": {
+      "DefId": "BUFF_INT",
+      "Type": "EPBSpecialEffect::StatusChange",
+      "Parameter01": 14.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "BUFF_MND",
+    "Value": {
+      "DefId": "BUFF_MND",
+      "Type": "EPBSpecialEffect::StatusChange",
+      "Parameter01": 15.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "BUFF_CON",
+    "Value": {
+      "DefId": "BUFF_CON",
+      "Type": "EPBSpecialEffect::StatusChange",
+      "Parameter01": 13.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "BUFF_LUCK",
+    "Value": {
+      "DefId": "BUFF_LUCK",
+      "Type": "EPBSpecialEffect::StatusChange",
+      "Parameter01": 16.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "BUFF_RATE_STR",
+    "Value": {
+      "DefId": "BUFF_RATE_STR",
+      "Type": "EPBSpecialEffect::StatusChange",
+      "Parameter01": 12.0,
+      "Parameter02": 0.5,
+      "Parameter03": 1.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "BUFF_RATE_INT",
+    "Value": {
+      "DefId": "BUFF_RATE_INT",
+      "Type": "EPBSpecialEffect::StatusChange",
+      "Parameter01": 14.0,
+      "Parameter02": 0.5,
+      "Parameter03": 1.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "BUFF_RATE_MND",
+    "Value": {
+      "DefId": "BUFF_RATE_MND",
+      "Type": "EPBSpecialEffect::StatusChange",
+      "Parameter01": 15.0,
+      "Parameter02": 0.5,
+      "Parameter03": 1.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "BUFF_RATE_CON",
+    "Value": {
+      "DefId": "BUFF_RATE_CON",
+      "Type": "EPBSpecialEffect::StatusChange",
+      "Parameter01": 13.0,
+      "Parameter02": 0.5,
+      "Parameter03": 1.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "BUFF_RATE_LUCK",
+    "Value": {
+      "DefId": "BUFF_RATE_LUCK",
+      "Type": "EPBSpecialEffect::StatusChange",
+      "Parameter01": 16.0,
+      "Parameter02": 0.5,
+      "Parameter03": 1.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Add1STR",
+    "Value": {
+      "DefId": "Add1STR",
+      "Type": "EPBSpecialEffect::StatusAdd",
+      "Parameter01": 1.0,
+      "Parameter02": 1.0,
+      "Parameter03": 0.0,
+      "ParameterName": "STR",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Add1CON",
+    "Value": {
+      "DefId": "Add1CON",
+      "Type": "EPBSpecialEffect::StatusAdd",
+      "Parameter01": 1.0,
+      "Parameter02": 1.0,
+      "Parameter03": 0.0,
+      "ParameterName": "CON",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Add1INT",
+    "Value": {
+      "DefId": "Add1INT",
+      "Type": "EPBSpecialEffect::StatusAdd",
+      "Parameter01": 1.0,
+      "Parameter02": 1.0,
+      "Parameter03": 0.0,
+      "ParameterName": "INT",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Add1MND",
+    "Value": {
+      "DefId": "Add1MND",
+      "Type": "EPBSpecialEffect::StatusAdd",
+      "Parameter01": 1.0,
+      "Parameter02": 1.0,
+      "Parameter03": 0.0,
+      "ParameterName": "MND",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Add1LCK",
+    "Value": {
+      "DefId": "Add1LCK",
+      "Type": "EPBSpecialEffect::StatusAdd",
+      "Parameter01": 1.0,
+      "Parameter02": 1.0,
+      "Parameter03": 0.0,
+      "ParameterName": "LUC",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Add1MPRecoverSpdUp",
+    "Value": {
+      "DefId": "Add1MPRecoverSpdUp",
+      "Type": "EPBSpecialEffect::SpeedUpMPRecover",
+      "Parameter01": 0.01,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "BUFF_RATE_STR_WITH_UPDATE",
+    "Value": {
+      "DefId": "BUFF_RATE_STR_WITH_UPDATE",
+      "Type": "EPBSpecialEffect::UpdateStatusChangeWithP",
+      "Parameter01": 12.0,
+      "Parameter02": 0.0,
+      "Parameter03": 1.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "BUFF_STR_WITH_PARTICLE",
+    "Value": {
+      "DefId": "BUFF_STR_WITH_PARTICLE",
+      "Type": "EPBSpecialEffect::StatusChangeWithP",
+      "Parameter01": 12.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "BUFF_RATE_STR_WITH_PARTICLE",
+    "Value": {
+      "DefId": "BUFF_RATE_STR_WITH_PARTICLE",
+      "Type": "EPBSpecialEffect::StatusChangeWithP",
+      "Parameter01": 12.0,
+      "Parameter02": 0.5,
+      "Parameter03": 1.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "DEBUFF_STR_WITH_EFFECT",
+    "Value": {
+      "DefId": "DEBUFF_STR_WITH_EFFECT",
+      "Type": "EPBSpecialEffect::StatusDownWithEffect",
+      "Parameter01": 12.0,
+      "Parameter02": -10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "DEBUFF_RATE_STR_WITH_EFFECT",
+    "Value": {
+      "DefId": "DEBUFF_RATE_STR_WITH_EFFECT",
+      "Type": "EPBSpecialEffect::StatusDownWithEffect",
+      "Parameter01": 12.0,
+      "Parameter02": -0.2,
+      "Parameter03": 1.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "DEBUFF_CON_WITH_EFFECT",
+    "Value": {
+      "DefId": "DEBUFF_CON_WITH_EFFECT",
+      "Type": "EPBSpecialEffect::StatusDownWithEffect",
+      "Parameter01": 13.0,
+      "Parameter02": -10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "DEBUFF_RATE_CON_WITH_EFFECT",
+    "Value": {
+      "DefId": "DEBUFF_RATE_CON_WITH_EFFECT",
+      "Type": "EPBSpecialEffect::StatusDownWithEffect",
+      "Parameter01": 13.0,
+      "Parameter02": -0.8,
+      "Parameter03": 1.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "REGENE",
+    "Value": {
+      "DefId": "REGENE",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 1.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Stone",
+    "Value": {
+      "DefId": "Stone",
+      "Type": "EPBSpecialEffect::Stone",
+      "Parameter01": 100.0,
+      "Parameter02": 100.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 100.0,
+      "StartRateMax": 100.0
+    }
+  },
+  {
+    "Key": "StoneAnimRate",
+    "Value": {
+      "DefId": "StoneAnimRate",
+      "Type": "EPBSpecialEffect::AnimRate",
+      "Parameter01": 1.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "StoneWeakness",
+    "Value": {
+      "DefId": "StoneWeakness",
+      "Type": "EPBSpecialEffect::Weakness",
+      "Parameter01": 2.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "WeakStone",
+    "Value": {
+      "DefId": "WeakStone",
+      "Type": "EPBSpecialEffect::Stone",
+      "Parameter01": 10.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Poison",
+    "Value": {
+      "DefId": "Poison",
+      "Type": "EPBSpecialEffect::Poison",
+      "Parameter01": 0.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "POISON_SLIP",
+      "StartRateMin": 100.0,
+      "StartRateMax": 100.0
+    }
+  },
+  {
+    "Key": "Curse",
+    "Value": {
+      "DefId": "Curse",
+      "Type": "EPBSpecialEffect::Curse",
+      "Parameter01": 0.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 100.0,
+      "StartRateMax": 100.0
+    }
+  },
+  {
+    "Key": "CurseTempDownMaxHP",
+    "Value": {
+      "DefId": "CurseTempDownMaxHP",
+      "Type": "EPBSpecialEffect::TempDownMaxHP",
+      "Parameter01": 50.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "CurseTempDownMaxMP",
+    "Value": {
+      "DefId": "CurseTempDownMaxMP",
+      "Type": "EPBSpecialEffect::TempDownMaxMP",
+      "Parameter01": 50.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Slow",
+    "Value": {
+      "DefId": "Slow",
+      "Type": "EPBSpecialEffect::Slow",
+      "Parameter01": 0.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 100.0,
+      "StartRateMax": 100.0
+    }
+  },
+  {
+    "Key": "SlowRate",
+    "Value": {
+      "DefId": "SlowRate",
+      "Type": "EPBSpecialEffect::TimeRate",
+      "Parameter01": 0.5,
+      "Parameter02": 0.5,
+      "Parameter03": 20.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "CursedRaySlow",
+    "Value": {
+      "DefId": "Slow",
+      "Type": "EPBSpecialEffect::Slow",
+      "Parameter01": 0.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "SlowOnce",
+    "Value": {
+      "DefId": "SlowOnce",
+      "Type": "EPBSpecialEffect::Slow",
+      "Parameter01": 0.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 100.0,
+      "StartRateMax": 100.0
+    }
+  },
+  {
+    "Key": "SlowOnceRate",
+    "Value": {
+      "DefId": "SlowOnceRate",
+      "Type": "EPBSpecialEffect::TimeRate",
+      "Parameter01": 0.25,
+      "Parameter02": 1.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ClearPoison",
+    "Value": {
+      "DefId": "ClearPoison",
+      "Type": "EPBSpecialEffect::ClearPoison",
+      "Parameter01": 0.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ClearStone",
+    "Value": {
+      "DefId": "ClearStone",
+      "Type": "EPBSpecialEffect::ClearStone",
+      "Parameter01": 0.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ClearCurse",
+    "Value": {
+      "DefId": "ClearCurse",
+      "Type": "EPBSpecialEffect::ClearCurse",
+      "Parameter01": 0.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ZANGETU_ENCHANT_FLAME",
+    "Value": {
+      "DefId": "ZANGETU_ENCHANT_FLAME",
+      "Type": "EPBSpecialEffect::Enchant",
+      "Parameter01": 4.0,
+      "Parameter02": 2.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ZANGETU_ENCHANT_ICE",
+    "Value": {
+      "DefId": "ZANGETU_ENCHANT_ICE",
+      "Type": "EPBSpecialEffect::Enchant",
+      "Parameter01": 5.0,
+      "Parameter02": 2.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ZANGETU_ENCHANT_THUNDER",
+    "Value": {
+      "DefId": "ZANGETU_ENCHANT_THUNDER",
+      "Type": "EPBSpecialEffect::Enchant",
+      "Parameter01": 6.0,
+      "Parameter02": 3.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ZANGETU_TIME_STOP_TARGET",
+    "Value": {
+      "DefId": "ZANGETU_TIME_STOP_TARGET",
+      "Type": "EPBSpecialEffect::AnimRate",
+      "Parameter01": 1.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "ZANGETU_TIME_STOP_SELF",
+    "Value": {
+      "DefId": "ZANGETU_TIME_STOP_SELF",
+      "Type": "EPBSpecialEffect::AnimRate",
+      "Parameter01": 1.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "SwordMastery",
+    "Value": {
+      "DefId": "SwordMastery",
+      "Type": "EPBSpecialEffect::StatusChange",
+      "Parameter01": 12.0,
+      "Parameter02": 10.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "Healing",
+    "Value": {
+      "DefId": "Healing",
+      "Type": "EPBSpecialEffect::ChangeHP",
+      "Parameter01": 3.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "MagGlass",
+    "Value": {
+      "DefId": "MagGlass",
+      "Type": "EPBSpecialEffect::MagGlass",
+      "Parameter01": 0.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "DemagGlass",
+    "Value": {
+      "DefId": "DemagGlass",
+      "Type": "EPBSpecialEffect::DemagGlass",
+      "Parameter01": 0.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  },
+  {
+    "Key": "GaugeGlass",
+    "Value": {
+      "DefId": "GaugeGlass",
+      "Type": "EPBSpecialEffect::GaugeGlass",
+      "Parameter01": 0.0,
+      "Parameter02": 0.0,
+      "Parameter03": 0.0,
+      "ParameterName": "None",
+      "StartRateMin": 0.0,
+      "StartRateMax": 0.0
+    }
+  }
+]

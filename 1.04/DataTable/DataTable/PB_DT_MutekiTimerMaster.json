@@ -1,0 +1,842 @@
+[
+  {
+    "Key": "DEFAULT",
+    "Value": {
+      "Min": 0,
+      "Max": 0,
+      "PlayerUnique": false,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_DEFAULT",
+    "Value": {
+      "Min": 1,
+      "Max": 16,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_ATTACK",
+    "Value": {
+      "Min": 17,
+      "Max": 32,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_GRATEFULDEA",
+    "Value": {
+      "Min": 33,
+      "Max": 35,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_TOXICSTORM",
+    "Value": {
+      "Min": 36,
+      "Max": 40,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_HELLETICAL_GRINDER",
+    "Value": {
+      "Min": 41,
+      "Max": 45,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_BUNNY_ATTACK",
+    "Value": {
+      "Min": 46,
+      "Max": 50,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_AIMINGSHIELD_ATTACK",
+    "Value": {
+      "Min": 51,
+      "Max": 55,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_THROW_AXE",
+    "Value": {
+      "Min": 56,
+      "Max": 59,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_SUMMON_BUTT",
+    "Value": {
+      "Min": 60,
+      "Max": 63,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_SUMMON_APE",
+    "Value": {
+      "Min": 64,
+      "Max": 67,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_SUMMON_YORKTON",
+    "Value": {
+      "Min": 68,
+      "Max": 71,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_SUMMON_GILEMUND",
+    "Value": {
+      "Min": 72,
+      "Max": 75,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_SUMMON_CHAIR",
+    "Value": {
+      "Min": 76,
+      "Max": 79,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_SUMMON_BUELL",
+    "Value": {
+      "Min": 80,
+      "Max": 83,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_SUMMON_TRACER",
+    "Value": {
+      "Min": 84,
+      "Max": 87,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_SUMMON_BUGS",
+    "Value": {
+      "Min": 88,
+      "Max": 91,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_SUMMON_SNAKE",
+    "Value": {
+      "Min": 92,
+      "Max": 95,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_SUMMON_AME",
+    "Value": {
+      "Min": 96,
+      "Max": 99,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_RELEASE_TOADE",
+    "Value": {
+      "Min": 100,
+      "Max": 103,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_ENTANGLE_BIND",
+    "Value": {
+      "Min": 104,
+      "Max": 107,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_SWING_TENTACLE",
+    "Value": {
+      "Min": 108,
+      "Max": 108,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_LSWORD_ATTACK",
+    "Value": {
+      "Min": 109,
+      "Max": 109,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_BULLET_BULTI",
+    "Value": {
+      "Min": 110,
+      "Max": 115,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_TISS_LEIF",
+    "Value": {
+      "Min": 116,
+      "Max": 134,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_GRATEFUL_ASSIST",
+    "Value": {
+      "Min": 135,
+      "Max": 135,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_SHOVEL_ARMOR",
+    "Value": {
+      "Min": 136,
+      "Max": 136,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_SUMMON_LLAMHIGYN",
+    "Value": {
+      "Min": 137,
+      "Max": 145,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_BUNNY_KICK",
+    "Value": {
+      "Min": 146,
+      "Max": 146,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_WILD_SCRATCH",
+    "Value": {
+      "Min": 147,
+      "Max": 151,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_PETRA_RAY",
+    "Value": {
+      "Min": 152,
+      "Max": 152,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_SHOOTING_KNIFE",
+    "Value": {
+      "Min": 153,
+      "Max": 161,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P000_WATER_JET",
+    "Value": {
+      "Min": 162,
+      "Max": 170,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_DRAGONPUNCH",
+    "Value": {
+      "Min": 171,
+      "Max": 171,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_DRAGONEXPLOSION",
+    "Value": {
+      "Min": 172,
+      "Max": 172,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_DRAGONFIREPUNCH",
+    "Value": {
+      "Min": 173,
+      "Max": 173,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_NEVER_SATISFACTION_EXPLOSION",
+    "Value": {
+      "Min": 174,
+      "Max": 181,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_GOLD_BULLET",
+    "Value": {
+      "Min": 182,
+      "Max": 183,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "N3006_ATTACK_001_PL",
+    "Value": {
+      "Min": 184,
+      "Max": 189,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_LIGA_STREYMA",
+    "Value": {
+      "Min": 190,
+      "Max": 197,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_CHASE_ARROW",
+    "Value": {
+      "Min": 198,
+      "Max": 207,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_CHISELBALAGE",
+    "Value": {
+      "Min": 208,
+      "Max": 222,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_RAY",
+    "Value": {
+      "Min": 223,
+      "Max": 238,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_JUCK_POD_COIN",
+    "Value": {
+      "Min": 239,
+      "Max": 252,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_RAPID_SPEAR",
+    "Value": {
+      "Min": 253,
+      "Max": 261,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "Shotshell",
+    "Value": {
+      "Min": 262,
+      "Max": 268,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_WalalSoulimo",
+    "Value": {
+      "Min": 269,
+      "Max": 302,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_TEPES_THURENDER",
+    "Value": {
+      "Min": 303,
+      "Max": 308,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_WEAPON_ATTACK_EXTENT",
+    "Value": {
+      "Min": 309,
+      "Max": 312,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_TORNADOSLICER",
+    "Value": {
+      "Min": 313,
+      "Max": 313,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_LIGA_DOIN_EXPLOSION",
+    "Value": {
+      "Min": 314,
+      "Max": 317,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_BIG_ATTACK",
+    "Value": {
+      "Min": 318,
+      "Max": 318,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_BIG_ATTACK_TORNADE",
+    "Value": {
+      "Min": 319,
+      "Max": 319,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_TISS_ROSAIN",
+    "Value": {
+      "Min": 320,
+      "Max": 320,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_VOIDLAY",
+    "Value": {
+      "Min": 321,
+      "Max": 321,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_THUNDER_SUB",
+    "Value": {
+      "Min": 322,
+      "Max": 322,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_FIRE_SUB",
+    "Value": {
+      "Min": 323,
+      "Max": 323,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_NSWORD_LIDDYL",
+    "Value": {
+      "Min": 324,
+      "Max": 324,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_ShockWave",
+    "Value": {
+      "Min": 325,
+      "Max": 325,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_ArtsSpearRotate",
+    "Value": {
+      "Min": 326,
+      "Max": 326,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_NSWORD_OUTSIDER_KNIGHT_SWORD_SUB",
+    "Value": {
+      "Min": 327,
+      "Max": 327,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_Foot_DropKick_Return",
+    "Value": {
+      "Min": 328,
+      "Max": 329,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000_Foot_DropKick",
+    "Value": {
+      "Min": 330,
+      "Max": 330,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0000と被って問題ない、あったらおかしい",
+    "Value": {
+      "Min": 0,
+      "Max": 0,
+      "PlayerUnique": false,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0001_ATTACK_DEFAULT",
+    "Value": {
+      "Min": 1,
+      "Max": 1,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0001_KNIFE_DEFAULT",
+    "Value": {
+      "Min": 2,
+      "Max": 7,
+      "PlayerUnique": true,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "P0001_KNIFE_THUNDER_FALL",
+    "Value": {
+      "Min": 8,
+      "Max": 15,
+      "PlayerUnique": false,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "ENEMY_DEFAULT",
+    "Value": {
+      "Min": 1000,
+      "Max": 1000,
+      "PlayerUnique": false,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "N1011_ATTACK_006_KNIFE",
+    "Value": {
+      "Min": 1001,
+      "Max": 1005,
+      "PlayerUnique": false,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "N3078_DEFAULT",
+    "Value": {
+      "Min": 1006,
+      "Max": 1006,
+      "PlayerUnique": false,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "N1011_MERAZOMA",
+    "Value": {
+      "Min": 1007,
+      "Max": 1007,
+      "PlayerUnique": false,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "N1011_MERAZOMA_NONE",
+    "Value": {
+      "Min": 1008,
+      "Max": 1008,
+      "PlayerUnique": false,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "N3001_BOUND_COLLISION",
+    "Value": {
+      "Min": 1009,
+      "Max": 1009,
+      "PlayerUnique": false,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "N6001_ATTACK_CONTINUE",
+    "Value": {
+      "Min": 1010,
+      "Max": 1017,
+      "PlayerUnique": false,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "N1011_THUNDER",
+    "Value": {
+      "Min": 3001,
+      "Max": 3001,
+      "PlayerUnique": false,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "N2001_BODY",
+    "Value": {
+      "Min": 3002,
+      "Max": 3002,
+      "PlayerUnique": false,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "N2004_Missile",
+    "Value": {
+      "Min": 3003,
+      "Max": 3003,
+      "PlayerUnique": false,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "N1005_ATTACK_DEFAULT",
+    "Value": {
+      "Min": 3004,
+      "Max": 3004,
+      "PlayerUnique": false,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "N1005_ATTACK_COMBINATION",
+    "Value": {
+      "Min": 3005,
+      "Max": 3005,
+      "PlayerUnique": false,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "N2012_ATTACK_DEFAULT",
+    "Value": {
+      "Min": 3006,
+      "Max": 3009,
+      "PlayerUnique": false,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "N2012_SUCKING_BLOOD",
+    "Value": {
+      "Min": 3010,
+      "Max": 3010,
+      "PlayerUnique": false,
+      "CharacterUnique": true,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "N1002_RED_TYHOON",
+    "Value": {
+      "Min": 3011,
+      "Max": 3011,
+      "PlayerUnique": false,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "N1011_CAPTURE",
+    "Value": {
+      "Min": 3012,
+      "Max": 3012,
+      "PlayerUnique": false,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  },
+  {
+    "Key": "DEBUG_LOOP",
+    "Value": {
+      "Min": 9000,
+      "Max": 9010,
+      "PlayerUnique": false,
+      "CharacterUnique": false,
+      "Counter": 0
+    }
+  }
+]

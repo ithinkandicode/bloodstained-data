@@ -1,0 +1,56 @@
+[
+  {
+    "Key": "M_Body01_01",
+    "Value": {
+      "ReferencePath": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "M_Eye01",
+    "Value": {
+      "ReferencePath": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "M_Face01",
+    "Value": {
+      "ReferencePath": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "M_Foot01",
+    "Value": {
+      "ReferencePath": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "M_Skin01",
+    "Value": {
+      "ReferencePath": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "T_Mouth01",
+    "Value": {
+      "ReferencePath": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  }
+]

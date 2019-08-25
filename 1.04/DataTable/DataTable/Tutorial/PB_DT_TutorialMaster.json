@@ -1,0 +1,722 @@
+[
+  {
+    "Key": "Action",
+    "Value": {
+      "TutorialTextKey": "TST_Action",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 0.5,
+      "YPos": 0.5,
+      "XAlign": 0.5,
+      "YAlign": 0.5,
+      "EnablePosition": false,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "Jump",
+    "Value": {
+      "TutorialTextKey": "TST_Jump",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 1.0,
+      "YPos": 0.92,
+      "XAlign": 1.0,
+      "YAlign": 1.0,
+      "EnablePosition": true,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "DoubleJump",
+    "Value": {
+      "TutorialTextKey": "TST_DoubleJump",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 0.5,
+      "YPos": 0.5,
+      "XAlign": 0.5,
+      "YAlign": 0.5,
+      "EnablePosition": false,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "FallFloor",
+    "Value": {
+      "TutorialTextKey": "TST_FallFloor",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 1.0,
+      "YPos": 0.92,
+      "XAlign": 1.0,
+      "YAlign": 1.0,
+      "EnablePosition": true,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "Crouch",
+    "Value": {
+      "TutorialTextKey": "TST_Crouch",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 0.5,
+      "YPos": 0.5,
+      "XAlign": 0.5,
+      "YAlign": 0.5,
+      "EnablePosition": false,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "BackStep",
+    "Value": {
+      "TutorialTextKey": "TST_BackStep",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 0.5,
+      "YPos": 0.5,
+      "XAlign": 0.5,
+      "YAlign": 0.5,
+      "EnablePosition": false,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "Sliding",
+    "Value": {
+      "TutorialTextKey": "TST_Sliding",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 1.0,
+      "YPos": 0.92,
+      "XAlign": 1.0,
+      "YAlign": 1.0,
+      "EnablePosition": true,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "Attack",
+    "Value": {
+      "TutorialTextKey": "TST_Attack",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 1.0,
+      "YPos": 0.92,
+      "XAlign": 1.0,
+      "YAlign": 1.0,
+      "EnablePosition": true,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "TreaureBox",
+    "Value": {
+      "TutorialTextKey": "TST_TreaureBox",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 1.0,
+      "YPos": 0.92,
+      "XAlign": 1.0,
+      "YAlign": 1.0,
+      "EnablePosition": true,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "OpensMenu",
+    "Value": {
+      "TutorialTextKey": "TST_OpensMenu",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 0.5,
+      "YPos": 0.5,
+      "XAlign": 0.5,
+      "YAlign": 0.5,
+      "EnablePosition": false,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "FullMap",
+    "Value": {
+      "TutorialTextKey": "TST_FullMap",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 1.0,
+      "YPos": 0.92,
+      "XAlign": 1.0,
+      "YAlign": 1.0,
+      "EnablePosition": true,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "DropKick",
+    "Value": {
+      "TutorialTextKey": "TST_DropKick",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 0.5,
+      "YPos": 0.5,
+      "XAlign": 0.5,
+      "YAlign": 0.5,
+      "EnablePosition": false,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "Door",
+    "Value": {
+      "TutorialTextKey": "TST_Door",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 1.0,
+      "YPos": 0.92,
+      "XAlign": 1.0,
+      "YAlign": 1.0,
+      "EnablePosition": true,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "Candlesticks",
+    "Value": {
+      "TutorialTextKey": "TST_Candlesticks",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 0.5,
+      "YPos": 0.5,
+      "XAlign": 0.5,
+      "YAlign": 0.5,
+      "EnablePosition": false,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "EquipStart",
+    "Value": {
+      "TutorialTextKey": "TST_EquipStart",
+      "NextTutorialID": "None",
+      "IsModal": true,
+      "ZOrder": 0,
+      "XPos": 0.5,
+      "YPos": 0.5,
+      "XAlign": 0.5,
+      "YAlign": 0.5,
+      "EnablePosition": false,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Pause",
+      "DisplayModalAction": true,
+      "ModalDelay": 1.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "Equip01",
+    "Value": {
+      "TutorialTextKey": "TST_Equip01",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 99,
+      "XPos": 0.5,
+      "YPos": 0.5,
+      "XAlign": 0.5,
+      "YAlign": 0.5,
+      "EnablePosition": false,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": true
+    }
+  },
+  {
+    "Key": "Equip02",
+    "Value": {
+      "TutorialTextKey": "TST_Equip02",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 99,
+      "XPos": 0.5,
+      "YPos": 0.5,
+      "XAlign": 0.5,
+      "YAlign": 0.5,
+      "EnablePosition": false,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": true
+    }
+  },
+  {
+    "Key": "Equip03",
+    "Value": {
+      "TutorialTextKey": "TST_Equip03",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 99,
+      "XPos": 0.5,
+      "YPos": 0.5,
+      "XAlign": 0.5,
+      "YAlign": 0.5,
+      "EnablePosition": false,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": true
+    }
+  },
+  {
+    "Key": "FullMapClose",
+    "Value": {
+      "TutorialTextKey": "TST_FullMapClose",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 0.5,
+      "YPos": 0.5,
+      "XAlign": 0.5,
+      "YAlign": 0.5,
+      "EnablePosition": false,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "TriggerShard",
+    "Value": {
+      "TutorialTextKey": "TST_TriggerShard",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 0.5,
+      "YPos": 0.5,
+      "XAlign": 0.5,
+      "YAlign": 0.5,
+      "EnablePosition": false,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 1.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "DirectionalShard",
+    "Value": {
+      "TutorialTextKey": "TST_DirectionalShard",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 0.5,
+      "YPos": 0.5,
+      "XAlign": 0.5,
+      "YAlign": 0.5,
+      "EnablePosition": false,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 1.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "EnchantShard",
+    "Value": {
+      "TutorialTextKey": "TST_EnchantShard",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 0.5,
+      "YPos": 0.5,
+      "XAlign": 0.5,
+      "YAlign": 0.5,
+      "EnablePosition": false,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 1.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "EffectiveShard",
+    "Value": {
+      "TutorialTextKey": "TST_EffectiveShard",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 0.5,
+      "YPos": 0.5,
+      "XAlign": 0.5,
+      "YAlign": 0.5,
+      "EnablePosition": false,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 1.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "FamiliarShard",
+    "Value": {
+      "TutorialTextKey": "TST_FamiliarShard",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 0.5,
+      "YPos": 0.5,
+      "XAlign": 0.5,
+      "YAlign": 0.5,
+      "EnablePosition": false,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 1.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "Shard",
+    "Value": {
+      "TutorialTextKey": "TST_Shard",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 0.5,
+      "YPos": 0.5,
+      "XAlign": 0.5,
+      "YAlign": 0.5,
+      "EnablePosition": false,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 1.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "SkillShard",
+    "Value": {
+      "TutorialTextKey": "TST_SkillShard",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 0.5,
+      "YPos": 0.5,
+      "XAlign": 0.5,
+      "YAlign": 0.5,
+      "EnablePosition": false,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 1.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "ShipsCannon",
+    "Value": {
+      "TutorialTextKey": "TST_ShipsCannon",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 1.0,
+      "YPos": 0.92,
+      "XAlign": 1.0,
+      "YAlign": 1.0,
+      "EnablePosition": true,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "Save",
+    "Value": {
+      "TutorialTextKey": "TST_Save",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 1.0,
+      "YPos": 0.92,
+      "XAlign": 1.0,
+      "YAlign": 1.0,
+      "EnablePosition": true,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "ManaRose",
+    "Value": {
+      "TutorialTextKey": "TST_ManaRose",
+      "NextTutorialID": "None",
+      "IsModal": true,
+      "ZOrder": 99,
+      "XPos": 0.5,
+      "YPos": 0.5,
+      "XAlign": 0.5,
+      "YAlign": 0.5,
+      "EnablePosition": false,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 1.0,
+      "ItemIconID": "ManaRose",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "Consumable",
+    "Value": {
+      "TutorialTextKey": "TST_Consumable",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 1.0,
+      "YPos": 0.92,
+      "XAlign": 1.0,
+      "YAlign": 1.0,
+      "EnablePosition": true,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Pause",
+      "DisplayModalAction": true,
+      "ModalDelay": 0.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "Gun",
+    "Value": {
+      "TutorialTextKey": "TST_Gun",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 1.0,
+      "YPos": 0.92,
+      "XAlign": 1.0,
+      "YAlign": 1.0,
+      "EnablePosition": true,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "KeyDoor01",
+    "Value": {
+      "TutorialTextKey": "TST_KeyDoor01",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 1.0,
+      "YPos": 0.92,
+      "XAlign": 1.0,
+      "YAlign": 1.0,
+      "EnablePosition": true,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "KeyDoor02",
+    "Value": {
+      "TutorialTextKey": "TST_KeyDoor02",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 1.0,
+      "YPos": 0.92,
+      "XAlign": 1.0,
+      "YAlign": 1.0,
+      "EnablePosition": true,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "KeyDoor03",
+    "Value": {
+      "TutorialTextKey": "TST_KeyDoor03",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 1.0,
+      "YPos": 0.92,
+      "XAlign": 1.0,
+      "YAlign": 1.0,
+      "EnablePosition": true,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "KeyDoor04",
+    "Value": {
+      "TutorialTextKey": "TST_KeyDoor04",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 1.0,
+      "YPos": 0.92,
+      "XAlign": 1.0,
+      "YAlign": 1.0,
+      "EnablePosition": true,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  },
+  {
+    "Key": "Station",
+    "Value": {
+      "TutorialTextKey": "TST_Station",
+      "NextTutorialID": "None",
+      "IsModal": false,
+      "ZOrder": 0,
+      "XPos": 1.0,
+      "YPos": 0.92,
+      "XAlign": 1.0,
+      "YAlign": 1.0,
+      "EnablePosition": true,
+      "HPadding": 6,
+      "ModalAction": "EPBGameKey::Decide",
+      "DisplayModalAction": true,
+      "ModalDelay": 2.0,
+      "ItemIconID": "None",
+      "OverrideMenu": false
+    }
+  }
+]

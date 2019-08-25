@@ -1,0 +1,74 @@
+[
+  {
+    "Key": "DLC_0001",
+    "Value": {
+      "InstanceClass": "/Game/DLC/Data/DLCInstance_0001",
+      "ChunkId": 0,
+      "PatchVersion": 0,
+      "SteamDLCId": "",
+      "SwitchDLCId": 0,
+      "PS4DLCId": "",
+      "XboxDLCId": ""
+    }
+  },
+  {
+    "Key": "DLC_0002",
+    "Value": {
+      "InstanceClass": "/Game/DLC/Data/DLCInstance_0002",
+      "ChunkId": 2,
+      "PatchVersion": 0,
+      "SteamDLCId": "1041460",
+      "SwitchDLCId": 1,
+      "PS4DLCId": "IGABP1",
+      "XboxDLCId": "BloodstainedIGABackpackDLC"
+    }
+  },
+  {
+    "Key": "DLC_0003",
+    "Value": {
+      "InstanceClass": "/Game/DLC/Data/DLCInstance_0003",
+      "ChunkId": 0,
+      "PatchVersion": 0,
+      "SteamDLCId": "",
+      "SwitchDLCId": 0,
+      "PS4DLCId": "",
+      "XboxDLCId": ""
+    }
+  },
+  {
+    "Key": "DLC_0004",
+    "Value": {
+      "InstanceClass": "/Game/DLC/Data/DLCInstance_0004",
+      "ChunkId": 0,
+      "PatchVersion": 0,
+      "SteamDLCId": "",
+      "SwitchDLCId": 0,
+      "PS4DLCId": "",
+      "XboxDLCId": ""
+    }
+  },
+  {
+    "Key": "DLC_0005",
+    "Value": {
+      "InstanceClass": "/Game/DLC/Data/DLCInstance_0005",
+      "ChunkId": 3,
+      "PatchVersion": 0,
+      "SteamDLCId": "",
+      "SwitchDLCId": 0,
+      "PS4DLCId": "",
+      "XboxDLCId": ""
+    }
+  },
+  {
+    "Key": "DLC_0006",
+    "Value": {
+      "InstanceClass": "/Game/DLC/Data/DLCInstance_0006",
+      "ChunkId": 3,
+      "PatchVersion": 0,
+      "SteamDLCId": "",
+      "SwitchDLCId": 0,
+      "PS4DLCId": "",
+      "XboxDLCId": ""
+    }
+  }
+]

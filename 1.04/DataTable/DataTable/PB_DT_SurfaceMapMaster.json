@@ -1,0 +1,80 @@
+[
+  {
+    "Key": "Wood",
+    "Value": {
+      "surfaceID": "Wood"
+    }
+  },
+  {
+    "Key": "Wood_wet",
+    "Value": {
+      "surfaceID": "Wood_wet"
+    }
+  },
+  {
+    "Key": "Wood_box",
+    "Value": {
+      "surfaceID": "Wood_box"
+    }
+  },
+  {
+    "Key": "Wood_plate",
+    "Value": {
+      "surfaceID": "Wood_plate"
+    }
+  },
+  {
+    "Key": "Carpet",
+    "Value": {
+      "surfaceID": "Carpet"
+    }
+  },
+  {
+    "Key": "Net",
+    "Value": {
+      "surfaceID": "Net"
+    }
+  },
+  {
+    "Key": "Water_shallow",
+    "Value": {
+      "surfaceID": "Water_shallow"
+    }
+  },
+  {
+    "Key": "Stone",
+    "Value": {
+      "surfaceID": "Stone"
+    }
+  },
+  {
+    "Key": "Stone_Dry",
+    "Value": {
+      "surfaceID": "Stone_Dry"
+    }
+  },
+  {
+    "Key": "Sand",
+    "Value": {
+      "surfaceID": "Sand"
+    }
+  },
+  {
+    "Key": "Metal",
+    "Value": {
+      "surfaceID": "Metal"
+    }
+  },
+  {
+    "Key": "Ground",
+    "Value": {
+      "surfaceID": "Ground"
+    }
+  },
+  {
+    "Key": "Water",
+    "Value": {
+      "surfaceID": "Water"
+    }
+  }
+]

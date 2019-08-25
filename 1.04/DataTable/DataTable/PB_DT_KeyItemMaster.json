@@ -1,0 +1,714 @@
+[
+  {
+    "Key": "ShipMap",
+    "Value": {
+      "SpecialEffectId": "OpenMap",
+      "Manipulate": "OpenMap",
+      "ManipulateValue": 1.0
+    }
+  },
+  {
+    "Key": "CastleMap1",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "CastleMap2",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Certificationboard",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "IDphoto",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Silverbromide",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Keyofbacker1",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Keyofbacker2",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Keyofbacker3",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Keyofbacker4",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Worldfashionfirstissue",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "WorldfashionNo02",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "WorldfashionNo03",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "WorldfashionNo04",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "WorldfashionNo05",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "WorldfashionNo06",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "WorldfashionNo07",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "WorldfashionNo08",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "WorldfashionNo09",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "WorldfashionNo10",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "WorldfashionNo11",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "WorldfashionNo12",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "WorldfashionNo13",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "VillageKey",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ItemRecipe001",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ItemRecipe002",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ItemRecipe003",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "BalletRecipe001",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "BalletRecipe002",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "BalletRecipe003",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "BalletRecipe004",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ArmsRecipe001",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ArmsRecipe002",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ArmsRecipe003",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ArmsRecipe004",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ArmsRecipe005",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ArmsRecipe006",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ArmsRecipe007",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ArmsRecipe008",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ArmsRecipe009",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ArmsRecipe010",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ArmsRecipe011",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ArmsRecipe012",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ArmsRecipe013",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ArmsRecipe014",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ArmsRecipe015",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ArmsRecipe016",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ArmsRecipe017",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ArmsRecipe018",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ArmsRecipe019",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ArmsRecipe020",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ArmsRecipe021",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "DishRecipe001",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "DishRecipe002",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "DishRecipe003",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "DishRecipe004",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "DishRecipe005",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "DishRecipe006",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "DishRecipe007",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "DishRecipe008",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "DishRecipe009",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "DishRecipe010",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "DishRecipe011",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "DishRecipe012",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "DishRecipe013",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "DishRecipe014",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "DishRecipe015",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "DiscountCard",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Medal001",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Medal002",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Medal003",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Medal004",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Medal005",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Medal006",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Medal007",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Medal008",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Medal009",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Medal010",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Medal011",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Medal023",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Medal012",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Medal013",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Medal014",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Medal015",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Medal016",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Medal017",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Medal018",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Medal020",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Medal021",
+    "Value": {
+      "SpecialEffectId": "None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  }
+]

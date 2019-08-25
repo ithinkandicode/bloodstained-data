@@ -1,0 +1,42 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 1577
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 56
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 1465
+ImportCount: 4
+ImportOffset: 1353
+DependsOffset: 1569
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 0df14377-4f93-49d3-9512-4d5320bb52ed
+Generations: 1
+CompressionFlags: 0
+PackageSource: 1622211419
+Unversioned: False
+AssetRegistryDataOffset: 1573
+BulkDataStartOffset: 10446
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 1577
+
+
+TYPE DATA FOR PB_DT_WindowTemplateMaster:
+Data (9|0) -> StrProperty (50|0) 
+Id (29|0) -> IntProperty (30|0) 
+Page (34|0) -> IntProperty (30|0) 
+Anim (4|0) -> BoolProperty (7|0) 
+Rule (38|0) -> StrProperty (50|0) 
+Augment (5|0) -> StrProperty (50|0) 

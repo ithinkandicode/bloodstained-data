@@ -1,0 +1,47 @@
+[
+  {
+    "Key": "04SAN_N1002",
+    "Value": {
+      "Path": "LevelSequence'/Game/Core/Environment/ACT05_SAN/Sequence/SAN_023_Sequence_master.SAN_023_Sequence_master'",
+      "PlayerActive": false,
+      "NpcActive": false,
+      "RoomChange": false,
+      "Offset": "SEQUENCER_FOLLOW_MODE::MAP",
+      "OffsetChara": "",
+      "Camera": true,
+      "CameraPushInterpolate": 0.0,
+      "CameraPopInterpolate": 1.0,
+      "EventPath": ""
+    }
+  },
+  {
+    "Key": "04SAN_N1002",
+    "Value": {
+      "Path": "LevelSequence'/Game/Core/Environment/ACT05_SAN/Sequence/SAN_023_Swqence_Dead_1.SAN_023_Swqence_Dead_1'",
+      "PlayerActive": false,
+      "NpcActive": false,
+      "RoomChange": false,
+      "Offset": "SEQUENCER_FOLLOW_MODE::CHARA",
+      "OffsetChara": "",
+      "Camera": true,
+      "CameraPushInterpolate": 0.5,
+      "CameraPopInterpolate": 0.5,
+      "EventPath": ""
+    }
+  },
+  {
+    "Key": "07LIB_N2004",
+    "Value": {
+      "Path": "LevelSequence'/Game/Core/Environment/ACT07_LIB/Sequence/N2004_Cine.N2004_Cine'",
+      "PlayerActive": false,
+      "NpcActive": false,
+      "RoomChange": false,
+      "Offset": "SEQUENCER_FOLLOW_MODE::MAP",
+      "OffsetChara": "",
+      "Camera": true,
+      "CameraPushInterpolate": 0.5,
+      "CameraPopInterpolate": 0.5,
+      "EventPath": "07LIB_N2004_1\""
+    }
+  }
+]

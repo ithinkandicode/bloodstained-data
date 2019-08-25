@@ -1,0 +1,170 @@
+[
+  {
+    "Key": "DPad",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/Tutorialv2/Icons/DPad.DPad'"
+    }
+  },
+  {
+    "Key": "RStickMove",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/Tutorialv2/Icons/RStickMove.RStickMove'"
+    }
+  },
+  {
+    "Key": "ManaRose",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/Tutorialv2/Icons/ManaRose.ManaRose'"
+    }
+  },
+  {
+    "Key": "Text_Command_Arrow_BottomLeft",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/Common/KeyButton/CommandArrow/Command_Arrow_BottomLeft.Command_Arrow_BottomLeft'"
+    }
+  },
+  {
+    "Key": "Text_Command_Arrow_BottomRight",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/Common/KeyButton/CommandArrow/Command_Arrow_BottomRight.Command_Arrow_BottomRight'"
+    }
+  },
+  {
+    "Key": "Text_Command_Arrow_Dot",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/Common/KeyButton/CommandArrow/Command_Arrow_Dot.Command_Arrow_Dot'"
+    }
+  },
+  {
+    "Key": "Text_Command_Arrow_Down",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/Common/KeyButton/CommandArrow/Command_Arrow_Down.Command_Arrow_Down'"
+    }
+  },
+  {
+    "Key": "Text_Command_Arrow_Left",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/Common/KeyButton/CommandArrow/Command_Arrow_Left.Command_Arrow_Left'"
+    }
+  },
+  {
+    "Key": "Text_Command_Arrow_Plus",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/Common/KeyButton/CommandArrow/Command_Arrow_Plus.Command_Arrow_Plus'"
+    }
+  },
+  {
+    "Key": "Text_Command_Arrow_Right",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/Common/KeyButton/CommandArrow/Command_Arrow_Right.Command_Arrow_Right'"
+    }
+  },
+  {
+    "Key": "Text_Command_Arrow_Up",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/Common/KeyButton/CommandArrow/Command_Arrow_Up.Command_Arrow_Up'"
+    }
+  },
+  {
+    "Key": "Text_Command_Arrow_UpperLeft",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/Common/KeyButton/CommandArrow/Command_Arrow_UpperLeft.Command_Arrow_UpperLeft'"
+    }
+  },
+  {
+    "Key": "Text_Command_Arrow_UpperRight",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/Common/KeyButton/CommandArrow/Command_Arrow_UpperRight.Command_Arrow_UpperRight'"
+    }
+  },
+  {
+    "Key": "Text_IconThunder",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/UI_Pause/Menu/CommonMenu/CommonMenuStatus/Asset/IconThunder.IconThunder'"
+    }
+  },
+  {
+    "Key": "Text_IconUp",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/UI_Pause/Menu/CommonMenu/CommonMenuStatus/Asset/IconUp.IconUp'"
+    }
+  },
+  {
+    "Key": "Text_IconCurse",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/UI_Pause/Menu/CommonMenu/CommonMenuStatus/Asset/IconCurse.IconCurse'"
+    }
+  },
+  {
+    "Key": "Text_IconCut",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/UI_Pause/Menu/CommonMenu/CommonMenuStatus/Asset/IconCut.IconCut'"
+    }
+  },
+  {
+    "Key": "Text_IconDark",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/UI_Pause/Menu/CommonMenu/CommonMenuStatus/Asset/IconDark.IconDark'"
+    }
+  },
+  {
+    "Key": "Text_IconDown",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/UI_Pause/Menu/CommonMenu/CommonMenuStatus/Asset/IconDown.IconDown'"
+    }
+  },
+  {
+    "Key": "Text_IconFlame",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/UI_Pause/Menu/CommonMenu/CommonMenuStatus/Asset/IconFlame.IconFlame'"
+    }
+  },
+  {
+    "Key": "Text_IconIce",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/UI_Pause/Menu/CommonMenu/CommonMenuStatus/Asset/IconIce.IconIce'"
+    }
+  },
+  {
+    "Key": "Text_IconLight",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/UI_Pause/Menu/CommonMenu/CommonMenuStatus/Asset/IconLight.IconLight'"
+    }
+  },
+  {
+    "Key": "Text_IconPoison",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/UI_Pause/Menu/CommonMenu/CommonMenuStatus/Asset/IconPoison.IconPoison'"
+    }
+  },
+  {
+    "Key": "Text_IconSlow",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/UI_Pause/Menu/CommonMenu/CommonMenuStatus/Asset/IconSlow.IconSlow'"
+    }
+  },
+  {
+    "Key": "Text_IconStab",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/UI_Pause/Menu/CommonMenu/CommonMenuStatus/Asset/IconStab.IconStab'"
+    }
+  },
+  {
+    "Key": "Text_IconStone",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/UI_Pause/Menu/CommonMenu/CommonMenuStatus/Asset/IconStone.IconStone'"
+    }
+  },
+  {
+    "Key": "Text_IconStop",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/UI_Pause/Menu/CommonMenu/CommonMenuStatus/Asset/IconStop.IconStop'"
+    }
+  },
+  {
+    "Key": "Text_IconStrike",
+    "Value": {
+      "AssetPath": "Texture2D'/Game/Core/UI/UI_Pause/Menu/CommonMenu/CommonMenuStatus/Asset/IconStrike.IconStrike'"
+    }
+  }
+]

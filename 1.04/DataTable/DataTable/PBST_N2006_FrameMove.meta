@@ -1,0 +1,40 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 2087
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 117
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 1975
+ImportCount: 4
+ImportOffset: 1863
+DependsOffset: 2079
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 55b4a3c8-afac-4b6a-a6d3-a1e14f0968d1
+Generations: 1
+CompressionFlags: 0
+PackageSource: 1513700178
+Unversioned: False
+AssetRegistryDataOffset: 2083
+BulkDataStartOffset: 14645
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 2087
+
+
+TYPE DATA FOR PBST_N2006_FrameMove:
+IsGround_27_AD71F1744F5D4CE73B3A0CA859322EB1 (109|0) -> BoolProperty (101|0) 
+FrameTimer_29_6D7D1A544353F82E08EA0084478E7761 (107|0) -> FloatProperty (104|0) 
+FrameIndex_32_15731BA147AC1D08CC65F5A43C507DCC (105|0) -> IntProperty (108|0) 
+FrameScale_31_7ACE9B2C4BF504B91663AFB83B331CB7 (106|0) -> FloatProperty (104|0) 

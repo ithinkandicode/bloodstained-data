@@ -1,0 +1,58 @@
+[
+  {
+    "Key": "Slash",
+    "Value": {
+      "id": "Hit_Slash_Default",
+      "id_critical": "Hit_Slash_Default_Critical"
+    }
+  },
+  {
+    "Key": "Blow",
+    "Value": {
+      "id": "Hit_Blow_Default",
+      "id_critical": "Hit_Blow_Default_Critical"
+    }
+  },
+  {
+    "Key": "Stab",
+    "Value": {
+      "id": "Hit_Stab_Default",
+      "id_critical": "Hit_Stab_Default_Critical"
+    }
+  },
+  {
+    "Key": "Fire",
+    "Value": {
+      "id": "NF_Hit_Fire",
+      "id_critical": "NF_Hit_Fire_Critical"
+    }
+  },
+  {
+    "Key": "Water",
+    "Value": {
+      "id": "Hit_Water_Default",
+      "id_critical": "Hit_Water_Default_Critical"
+    }
+  },
+  {
+    "Key": "Thunder",
+    "Value": {
+      "id": "NF_Hit_Thunder",
+      "id_critical": "NF_Hit_Thunder_Critical"
+    }
+  },
+  {
+    "Key": "Light",
+    "Value": {
+      "id": "Hit_Light_Default",
+      "id_critical": "Hit_Light_Default_Critical"
+    }
+  },
+  {
+    "Key": "Dark",
+    "Value": {
+      "id": "NF_Hit_Dark",
+      "id_critical": "NF_Hit_Dark_Critical"
+    }
+  }
+]

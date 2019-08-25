@@ -1,0 +1,98 @@
+[
+  {
+    "Key": "burner_upper_1_l",
+    "Value": {
+      "BoneName_4_9436433E4C312F2774B78C88C8F6E307": "burner_upper_1_l",
+      "Class_6_5E5D363B40DE0EE48DBACEA992E7BEDB": 0,
+      "FloatValue_9_1E49E7FA4FE2DA04F74398B15EBF5F92": 0.75
+    }
+  },
+  {
+    "Key": "burner_upper_2_l",
+    "Value": {
+      "BoneName_4_9436433E4C312F2774B78C88C8F6E307": "burner_upper_2_l",
+      "Class_6_5E5D363B40DE0EE48DBACEA992E7BEDB": 0,
+      "FloatValue_9_1E49E7FA4FE2DA04F74398B15EBF5F92": 1.25
+    }
+  },
+  {
+    "Key": "burner_upper_3_l",
+    "Value": {
+      "BoneName_4_9436433E4C312F2774B78C88C8F6E307": "burner_upper_3_l",
+      "Class_6_5E5D363B40DE0EE48DBACEA992E7BEDB": 0,
+      "FloatValue_9_1E49E7FA4FE2DA04F74398B15EBF5F92": 1.5
+    }
+  },
+  {
+    "Key": "burner_upper_end1_l",
+    "Value": {
+      "BoneName_4_9436433E4C312F2774B78C88C8F6E307": "burner_upper_end1_l",
+      "Class_6_5E5D363B40DE0EE48DBACEA992E7BEDB": 0,
+      "FloatValue_9_1E49E7FA4FE2DA04F74398B15EBF5F92": 2.0
+    }
+  },
+  {
+    "Key": "burner_center_1_l",
+    "Value": {
+      "BoneName_4_9436433E4C312F2774B78C88C8F6E307": "burner_center_1_l",
+      "Class_6_5E5D363B40DE0EE48DBACEA992E7BEDB": 0,
+      "FloatValue_9_1E49E7FA4FE2DA04F74398B15EBF5F92": 0.75
+    }
+  },
+  {
+    "Key": "burner_center_2_l",
+    "Value": {
+      "BoneName_4_9436433E4C312F2774B78C88C8F6E307": "burner_center_2_l",
+      "Class_6_5E5D363B40DE0EE48DBACEA992E7BEDB": 0,
+      "FloatValue_9_1E49E7FA4FE2DA04F74398B15EBF5F92": 1.25
+    }
+  },
+  {
+    "Key": "burner_center_3_l",
+    "Value": {
+      "BoneName_4_9436433E4C312F2774B78C88C8F6E307": "burner_center_3_l",
+      "Class_6_5E5D363B40DE0EE48DBACEA992E7BEDB": 0,
+      "FloatValue_9_1E49E7FA4FE2DA04F74398B15EBF5F92": 1.5
+    }
+  },
+  {
+    "Key": "burner_center_4_l",
+    "Value": {
+      "BoneName_4_9436433E4C312F2774B78C88C8F6E307": "burner_center_4_l",
+      "Class_6_5E5D363B40DE0EE48DBACEA992E7BEDB": 0,
+      "FloatValue_9_1E49E7FA4FE2DA04F74398B15EBF5F92": 2.0
+    }
+  },
+  {
+    "Key": "burner_lower_1_l",
+    "Value": {
+      "BoneName_4_9436433E4C312F2774B78C88C8F6E307": "burner_lower_1_l",
+      "Class_6_5E5D363B40DE0EE48DBACEA992E7BEDB": 0,
+      "FloatValue_9_1E49E7FA4FE2DA04F74398B15EBF5F92": 0.75
+    }
+  },
+  {
+    "Key": "burner_lower_2_l",
+    "Value": {
+      "BoneName_4_9436433E4C312F2774B78C88C8F6E307": "burner_lower_2_l",
+      "Class_6_5E5D363B40DE0EE48DBACEA992E7BEDB": 0,
+      "FloatValue_9_1E49E7FA4FE2DA04F74398B15EBF5F92": 1.25
+    }
+  },
+  {
+    "Key": "burner_lower_3_l",
+    "Value": {
+      "BoneName_4_9436433E4C312F2774B78C88C8F6E307": "burner_lower_3_l",
+      "Class_6_5E5D363B40DE0EE48DBACEA992E7BEDB": 0,
+      "FloatValue_9_1E49E7FA4FE2DA04F74398B15EBF5F92": 1.5
+    }
+  },
+  {
+    "Key": "burner_lower_4_l",
+    "Value": {
+      "BoneName_4_9436433E4C312F2774B78C88C8F6E307": "burner_lower_4_l",
+      "Class_6_5E5D363B40DE0EE48DBACEA992E7BEDB": 0,
+      "FloatValue_9_1E49E7FA4FE2DA04F74398B15EBF5F92": 2.0
+    }
+  }
+]

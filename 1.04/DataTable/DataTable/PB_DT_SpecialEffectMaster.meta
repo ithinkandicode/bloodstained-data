@@ -1,0 +1,44 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 4854
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 204
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 4742
+ImportCount: 4
+ImportOffset: 4630
+DependsOffset: 4846
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: ce524b31-ff2a-4b07-930f-ff735352eca4
+Generations: 1
+CompressionFlags: 0
+PackageSource: 2659061263
+Unversioned: False
+AssetRegistryDataOffset: 4850
+BulkDataStartOffset: 50159
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 4854
+
+
+TYPE DATA FOR PB_DT_SpecialEffectMaster:
+Id (102|0) -> NameProperty (125|0) 
+GroupId (91|0) -> NameProperty (125|0) 
+LifeTime (108|0) -> FloatProperty (80|0) 
+StatusNo (182|0) -> IntProperty (104|0) 
+SEIdArray (172|0) -> ArrayProperty (7|0) [NameProperty]
+ShouldBeSaved (174|0) -> BoolProperty (13|0) 
+Truncation (195|0) -> BoolProperty (13|0) 
+NoStartExec (129|0) -> BoolProperty (13|0) 

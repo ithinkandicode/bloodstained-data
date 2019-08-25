@@ -1,0 +1,78 @@
+[
+  {
+    "Key": "N1001_HEAD_PARTS",
+    "Value": {
+      "PartsGroup": "EPBBodyPartsGroup::DEFAULT",
+      "Bones": [
+        "head",
+        "clavicle_l",
+        "upperarm_twist_01_r"
+      ],
+      "CharacterParameterID": "N1001_HEAD",
+      "DamagePriority": "EPBDamagePriority::Higher"
+    }
+  },
+  {
+    "Key": "N2001_HEAD_PARTS",
+    "Value": {
+      "PartsGroup": "EPBBodyPartsGroup::DEFAULT",
+      "Bones": [
+        "mouth"
+      ],
+      "CharacterParameterID": "N2001_HEAD",
+      "DamagePriority": "EPBDamagePriority::Higher"
+    }
+  },
+  {
+    "Key": "N2013_HEAD_PARTS",
+    "Value": {
+      "PartsGroup": "EPBBodyPartsGroup::DEFAULT",
+      "Bones": [
+        "Neck1",
+        "Head"
+      ],
+      "CharacterParameterID": "N2013_HEAD",
+      "DamagePriority": "EPBDamagePriority::Highest"
+    }
+  },
+  {
+    "Key": "N3003_HEAD_PARTS",
+    "Value": {
+      "PartsGroup": "EPBBodyPartsGroup::DEFAULT",
+      "Bones": [
+        "neck_01",
+        "head",
+        "spine_03",
+        "spine_02",
+        "clavicle_l",
+        "clavicle_r"
+      ],
+      "CharacterParameterID": "N3003_HEAD",
+      "DamagePriority": "EPBDamagePriority::Higher"
+    }
+  },
+  {
+    "Key": "N3015_HEAD_PARTS",
+    "Value": {
+      "PartsGroup": "EPBBodyPartsGroup::DEFAULT",
+      "Bones": [
+        "neck_01",
+        "Uni"
+      ],
+      "CharacterParameterID": "N3015_HEAD",
+      "DamagePriority": "EPBDamagePriority::Higher"
+    }
+  },
+  {
+    "Key": "N3024_RHAND_PARTS",
+    "Value": {
+      "PartsGroup": "EPBBodyPartsGroup::DEFAULT",
+      "Bones": [
+        "hand_r",
+        "middle_01_r"
+      ],
+      "CharacterParameterID": "N3024_RHAND",
+      "DamagePriority": "EPBDamagePriority::Higher"
+    }
+  }
+]

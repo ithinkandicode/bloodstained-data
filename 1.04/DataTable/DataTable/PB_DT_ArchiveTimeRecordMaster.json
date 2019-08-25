@@ -1,0 +1,198 @@
+[
+  {
+    "Key": "RecordTime001",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName001",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime002",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName002",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime003",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName003",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime004",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName004",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime005",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName005",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime006",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName006",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime007",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName007",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime008",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName008",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime009",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName009",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime010",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName010",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime011",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName011",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime012",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName012",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime013",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName013",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime014",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName014",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime015",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName015",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime016",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName016",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "Record_DefeatBathin",
+    "Value": {
+      "TitleKey": "ACV_SEN_CP_DefeatBathin",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime018",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName018",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime020",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName020",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "Record_DefeatDoppelganger",
+    "Value": {
+      "TitleKey": "ACV_SEN_CP_DefeatDoppelganger",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime021",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName021",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime023",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName023",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime022",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName022",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime024",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName024",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime017",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName017",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime025",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName025",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTime026",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName026",
+      "bShowInSpeedRunMode": true
+    }
+  },
+  {
+    "Key": "RecordTimeFinal",
+    "Value": {
+      "TitleKey": "ACV_SEN_CheckpointName027",
+      "bShowInSpeedRunMode": true
+    }
+  }
+]

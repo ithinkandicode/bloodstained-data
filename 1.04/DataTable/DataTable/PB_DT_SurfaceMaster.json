@@ -1,0 +1,106 @@
+[
+  {
+    "Key": "metal",
+    "Value": {
+      "SurfaceStr": "MTL",
+      "DamageIdSuffix": "",
+      "ThroughDamage": false
+    }
+  },
+  {
+    "Key": "wood",
+    "Value": {
+      "SurfaceStr": "WOD",
+      "DamageIdSuffix": "",
+      "ThroughDamage": false
+    }
+  },
+  {
+    "Key": "water",
+    "Value": {
+      "SurfaceStr": "WAT",
+      "DamageIdSuffix": "",
+      "ThroughDamage": false
+    }
+  },
+  {
+    "Key": "fire",
+    "Value": {
+      "SurfaceStr": "FIR",
+      "DamageIdSuffix": "",
+      "ThroughDamage": false
+    }
+  },
+  {
+    "Key": "meat",
+    "Value": {
+      "SurfaceStr": "MET",
+      "DamageIdSuffix": "",
+      "ThroughDamage": false
+    }
+  },
+  {
+    "Key": "mud",
+    "Value": {
+      "SurfaceStr": "MUD",
+      "DamageIdSuffix": "",
+      "ThroughDamage": false
+    }
+  },
+  {
+    "Key": "jelly",
+    "Value": {
+      "SurfaceStr": "JEL",
+      "DamageIdSuffix": "",
+      "ThroughDamage": false
+    }
+  },
+  {
+    "Key": "wood_wet",
+    "Value": {
+      "SurfaceStr": "WET",
+      "DamageIdSuffix": "",
+      "ThroughDamage": false
+    }
+  },
+  {
+    "Key": "wood_box",
+    "Value": {
+      "SurfaceStr": "BOX",
+      "DamageIdSuffix": "",
+      "ThroughDamage": false
+    }
+  },
+  {
+    "Key": "wood_plate",
+    "Value": {
+      "SurfaceStr": "PLT",
+      "DamageIdSuffix": "",
+      "ThroughDamage": false
+    }
+  },
+  {
+    "Key": "carpet",
+    "Value": {
+      "SurfaceStr": "CAR",
+      "DamageIdSuffix": "",
+      "ThroughDamage": false
+    }
+  },
+  {
+    "Key": "net",
+    "Value": {
+      "SurfaceStr": "NET",
+      "DamageIdSuffix": "",
+      "ThroughDamage": false
+    }
+  },
+  {
+    "Key": "stone",
+    "Value": {
+      "SurfaceStr": "STN",
+      "DamageIdSuffix": "",
+      "ThroughDamage": false
+    }
+  }
+]

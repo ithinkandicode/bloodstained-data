@@ -1,0 +1,23 @@
+{
+  "Name": "CharaExplainStringTable",
+  "Table": {
+    "ENEMY_EXPLAIN_N1001": "海の魔神。嵐を起こし、船を沈ませる",
+    "ENEMY_EXPLAIN_N1011": "復讐のため、海を渡った東洋の退魔士",
+    "ENEMY_EXPLAIN_N3003": "形を持たない下級悪魔。\n何かを取り込むことで知性を得る",
+    "ENEMY_EXPLAIN_N3004": "人間を取り込んだ悪魔。取り込まれた者は\n消化され骨となる",
+    "ENEMY_EXPLAIN_N3005": "大砲にとり憑いた悪魔。\n火炎を撃つ力に目覚めた",
+    "ENEMY_EXPLAIN_N3006": "主に海中で行動する多足の怪物。\n陸でも活動できる",
+    "ENEMY_EXPLAIN_N3007": "羽ばたきで風を巻き起こす怪鳥",
+    "ENEMY_EXPLAIN_N3011": "狙った獲物は逃さない、恐るべき射手",
+    "ENEMY_EXPLAIN_N3013": "触れた者を遅くする幽霊",
+    "ENEMY_EXPLAIN_N3015": "頭部を凶器として扱う死霊騎士",
+    "ENEMY_EXPLAIN_N3029": "邪悪なコウモリ",
+    "ENEMY_EXPLAIN_N3042": "人肉を食らう凶暴なカエル",
+    "ENEMY_EXPLAIN_N3065": "血肉を求めて漂う、豚の怪物",
+    "ENEMY_EXPLAIN_N3066": "踏みつけた者に喰らいつく怪草",
+    "ENEMY_EXPLAIN_N3073": "漆黒の飢狼。その飢えが満たされることはない",
+    "ENEMY_EXPLAIN_N3080": "屈強な獅子の武人",
+    "ENEMY_EXPLAIN_N3082": "血に飢えた巨大な昆虫",
+    "ENEMY_EXPLAIN_N3110": "魔導により改造された斧を持つ屈強な鎧騎士"
+  }
+}
