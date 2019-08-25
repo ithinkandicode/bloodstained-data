@@ -1,0 +1,38 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 955
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 19
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 843
+ImportCount: 4
+ImportOffset: 731
+DependsOffset: 947
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 505ec726-9ae8-47e7-8a4d-c88d0f312af8
+Generations: 1
+CompressionFlags: 0
+PackageSource: 4066701551
+Unversioned: False
+AssetRegistryDataOffset: 951
+BulkDataStartOffset: 1078
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 955
+
+
+TYPE DATA FOR PB_DT_SpecialEffectManID:
+SpecialEffectID_4_193E32A34F26870E6C3D8F9DF51FDB5A (17|0) -> NameProperty (9|0) 
+ManID_5_7B1568204C0921A7C8CB5CA2098ADD0A (8|0) -> IntProperty (7|0) 

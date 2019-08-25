@@ -1,0 +1,296 @@
+[
+  {
+    "Key": "CmdParam001",
+    "Value": {
+      "Command_43_B53A50A84AFB58153553DE967D66D3C6": "MOVE",
+      "TargetTagName_48_F80861F241A274AAC9C46580A1B9357E": "None",
+      "TargetLocation_45_FFA9A68647D01B56C9D9E6B4460E5C6E": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoolParam_40_1C75B7834DEE47A17FD7D8941CEB00F8": false,
+      "RotatorParam_37_E6741D09430D57EACE296AADABB29E67": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 0.0
+      },
+      "IsFinishLookAt_58_C3B292B8442B336433042AADC1277BAC": false,
+      "FinishLookAtActorTagName_57_61C97B734C90B123D2E425862220EC6F": "None",
+      "IsWalk_60_05257512429922FE745D9187FB1B7040": false
+    }
+  },
+  {
+    "Key": "CmdParma002",
+    "Value": {
+      "Command_43_B53A50A84AFB58153553DE967D66D3C6": "WARP",
+      "TargetTagName_48_F80861F241A274AAC9C46580A1B9357E": "None",
+      "TargetLocation_45_FFA9A68647D01B56C9D9E6B4460E5C6E": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoolParam_40_1C75B7834DEE47A17FD7D8941CEB00F8": false,
+      "RotatorParam_37_E6741D09430D57EACE296AADABB29E67": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 0.0
+      },
+      "IsFinishLookAt_58_C3B292B8442B336433042AADC1277BAC": false,
+      "FinishLookAtActorTagName_57_61C97B734C90B123D2E425862220EC6F": "None",
+      "IsWalk_60_05257512429922FE745D9187FB1B7040": false
+    }
+  },
+  {
+    "Key": "N5001_BIG_003_Start_Move",
+    "Value": {
+      "Command_43_B53A50A84AFB58153553DE967D66D3C6": "MOVE",
+      "TargetTagName_48_F80861F241A274AAC9C46580A1B9357E": "5001_Start",
+      "TargetLocation_45_FFA9A68647D01B56C9D9E6B4460E5C6E": {
+        "X": 126302.4,
+        "Y": -864.79974,
+        "Z": 25800.0
+      },
+      "BoolParam_40_1C75B7834DEE47A17FD7D8941CEB00F8": true,
+      "RotatorParam_37_E6741D09430D57EACE296AADABB29E67": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 0.0
+      },
+      "IsFinishLookAt_58_C3B292B8442B336433042AADC1277BAC": false,
+      "FinishLookAtActorTagName_57_61C97B734C90B123D2E425862220EC6F": "None",
+      "IsWalk_60_05257512429922FE745D9187FB1B7040": false
+    }
+  },
+  {
+    "Key": "N5001_BIG_003_End_Move",
+    "Value": {
+      "Command_43_B53A50A84AFB58153553DE967D66D3C6": "WALK",
+      "TargetTagName_48_F80861F241A274AAC9C46580A1B9357E": "5001_End",
+      "TargetLocation_45_FFA9A68647D01B56C9D9E6B4460E5C6E": {
+        "X": 127025.4,
+        "Y": 0.0,
+        "Z": 25800.0
+      },
+      "BoolParam_40_1C75B7834DEE47A17FD7D8941CEB00F8": true,
+      "RotatorParam_37_E6741D09430D57EACE296AADABB29E67": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 0.0
+      },
+      "IsFinishLookAt_58_C3B292B8442B336433042AADC1277BAC": false,
+      "FinishLookAtActorTagName_57_61C97B734C90B123D2E425862220EC6F": "None",
+      "IsWalk_60_05257512429922FE745D9187FB1B7040": false
+    }
+  },
+  {
+    "Key": "Miriam_BIG_003_1st_Move",
+    "Value": {
+      "Command_43_B53A50A84AFB58153553DE967D66D3C6": "MOVE",
+      "TargetTagName_48_F80861F241A274AAC9C46580A1B9357E": "miriam_Target",
+      "TargetLocation_45_FFA9A68647D01B56C9D9E6B4460E5C6E": {
+        "X": 126425.0,
+        "Y": -667.0,
+        "Z": 25800.0
+      },
+      "BoolParam_40_1C75B7834DEE47A17FD7D8941CEB00F8": false,
+      "RotatorParam_37_E6741D09430D57EACE296AADABB29E67": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 0.0
+      },
+      "IsFinishLookAt_58_C3B292B8442B336433042AADC1277BAC": false,
+      "FinishLookAtActorTagName_57_61C97B734C90B123D2E425862220EC6F": "None",
+      "IsWalk_60_05257512429922FE745D9187FB1B7040": false
+    }
+  },
+  {
+    "Key": "Miriam_BIG_003_2nd_Move",
+    "Value": {
+      "Command_43_B53A50A84AFB58153553DE967D66D3C6": "MOVE",
+      "TargetTagName_48_F80861F241A274AAC9C46580A1B9357E": "miriam_Target",
+      "TargetLocation_45_FFA9A68647D01B56C9D9E6B4460E5C6E": {
+        "X": 126893.0,
+        "Y": 0.0,
+        "Z": 25800.0
+      },
+      "BoolParam_40_1C75B7834DEE47A17FD7D8941CEB00F8": false,
+      "RotatorParam_37_E6741D09430D57EACE296AADABB29E67": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 0.0
+      },
+      "IsFinishLookAt_58_C3B292B8442B336433042AADC1277BAC": true,
+      "FinishLookAtActorTagName_57_61C97B734C90B123D2E425862220EC6F": "N5001_TargetPoint_End",
+      "IsWalk_60_05257512429922FE745D9187FB1B7040": true
+    }
+  },
+  {
+    "Key": "Miriam_BIG_003_3nd_Move",
+    "Value": {
+      "Command_43_B53A50A84AFB58153553DE967D66D3C6": "MOVE",
+      "TargetTagName_48_F80861F241A274AAC9C46580A1B9357E": "miriam_Target",
+      "TargetLocation_45_FFA9A68647D01B56C9D9E6B4460E5C6E": {
+        "X": 126449.0,
+        "Y": -480.0,
+        "Z": 25800.0
+      },
+      "BoolParam_40_1C75B7834DEE47A17FD7D8941CEB00F8": false,
+      "RotatorParam_37_E6741D09430D57EACE296AADABB29E67": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 0.0
+      },
+      "IsFinishLookAt_58_C3B292B8442B336433042AADC1277BAC": false,
+      "FinishLookAtActorTagName_57_61C97B734C90B123D2E425862220EC6F": "None",
+      "IsWalk_60_05257512429922FE745D9187FB1B7040": false
+    }
+  },
+  {
+    "Key": "CROUCH_START",
+    "Value": {
+      "Command_43_B53A50A84AFB58153553DE967D66D3C6": "CROUCH_START",
+      "TargetTagName_48_F80861F241A274AAC9C46580A1B9357E": "None",
+      "TargetLocation_45_FFA9A68647D01B56C9D9E6B4460E5C6E": {
+        "X": 126449.0,
+        "Y": -480.0,
+        "Z": 25800.0
+      },
+      "BoolParam_40_1C75B7834DEE47A17FD7D8941CEB00F8": false,
+      "RotatorParam_37_E6741D09430D57EACE296AADABB29E67": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 0.0
+      },
+      "IsFinishLookAt_58_C3B292B8442B336433042AADC1277BAC": false,
+      "FinishLookAtActorTagName_57_61C97B734C90B123D2E425862220EC6F": "None",
+      "IsWalk_60_05257512429922FE745D9187FB1B7040": false
+    }
+  },
+  {
+    "Key": "CROUCH_END",
+    "Value": {
+      "Command_43_B53A50A84AFB58153553DE967D66D3C6": "CROUCH_END",
+      "TargetTagName_48_F80861F241A274AAC9C46580A1B9357E": "None",
+      "TargetLocation_45_FFA9A68647D01B56C9D9E6B4460E5C6E": {
+        "X": 126449.0,
+        "Y": -480.0,
+        "Z": 25800.0
+      },
+      "BoolParam_40_1C75B7834DEE47A17FD7D8941CEB00F8": false,
+      "RotatorParam_37_E6741D09430D57EACE296AADABB29E67": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 0.0
+      },
+      "IsFinishLookAt_58_C3B292B8442B336433042AADC1277BAC": false,
+      "FinishLookAtActorTagName_57_61C97B734C90B123D2E425862220EC6F": "None",
+      "IsWalk_60_05257512429922FE745D9187FB1B7040": false
+    }
+  },
+  {
+    "Key": "Miriam_Move",
+    "Value": {
+      "Command_43_B53A50A84AFB58153553DE967D66D3C6": "MOVE",
+      "TargetTagName_48_F80861F241A274AAC9C46580A1B9357E": "miriam_Target",
+      "TargetLocation_45_FFA9A68647D01B56C9D9E6B4460E5C6E": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoolParam_40_1C75B7834DEE47A17FD7D8941CEB00F8": false,
+      "RotatorParam_37_E6741D09430D57EACE296AADABB29E67": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 0.0
+      },
+      "IsFinishLookAt_58_C3B292B8442B336433042AADC1277BAC": false,
+      "FinishLookAtActorTagName_57_61C97B734C90B123D2E425862220EC6F": "None",
+      "IsWalk_60_05257512429922FE745D9187FB1B7040": true
+    }
+  },
+  {
+    "Key": "VIL003_Miriam",
+    "Value": {
+      "Command_43_B53A50A84AFB58153553DE967D66D3C6": "MOVE",
+      "TargetTagName_48_F80861F241A274AAC9C46580A1B9357E": "VIL003_Miriam",
+      "TargetLocation_45_FFA9A68647D01B56C9D9E6B4460E5C6E": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoolParam_40_1C75B7834DEE47A17FD7D8941CEB00F8": false,
+      "RotatorParam_37_E6741D09430D57EACE296AADABB29E67": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 90.0
+      },
+      "IsFinishLookAt_58_C3B292B8442B336433042AADC1277BAC": false,
+      "FinishLookAtActorTagName_57_61C97B734C90B123D2E425862220EC6F": "None",
+      "IsWalk_60_05257512429922FE745D9187FB1B7040": false
+    }
+  },
+  {
+    "Key": "VIL003_Miriam",
+    "Value": {
+      "Command_43_B53A50A84AFB58153553DE967D66D3C6": "MOVE",
+      "TargetTagName_48_F80861F241A274AAC9C46580A1B9357E": "VIL003_Miriam",
+      "TargetLocation_45_FFA9A68647D01B56C9D9E6B4460E5C6E": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoolParam_40_1C75B7834DEE47A17FD7D8941CEB00F8": false,
+      "RotatorParam_37_E6741D09430D57EACE296AADABB29E67": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 90.0
+      },
+      "IsFinishLookAt_58_C3B292B8442B336433042AADC1277BAC": false,
+      "FinishLookAtActorTagName_57_61C97B734C90B123D2E425862220EC6F": "None",
+      "IsWalk_60_05257512429922FE745D9187FB1B7040": false
+    }
+  },
+  {
+    "Key": "VIL003_Miriam",
+    "Value": {
+      "Command_43_B53A50A84AFB58153553DE967D66D3C6": "MOVE",
+      "TargetTagName_48_F80861F241A274AAC9C46580A1B9357E": "VIL003_Miriam",
+      "TargetLocation_45_FFA9A68647D01B56C9D9E6B4460E5C6E": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoolParam_40_1C75B7834DEE47A17FD7D8941CEB00F8": false,
+      "RotatorParam_37_E6741D09430D57EACE296AADABB29E67": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 90.0
+      },
+      "IsFinishLookAt_58_C3B292B8442B336433042AADC1277BAC": false,
+      "FinishLookAtActorTagName_57_61C97B734C90B123D2E425862220EC6F": "None",
+      "IsWalk_60_05257512429922FE745D9187FB1B7040": false
+    }
+  },
+  {
+    "Key": "VIL003_Miriam",
+    "Value": {
+      "Command_43_B53A50A84AFB58153553DE967D66D3C6": "MOVE",
+      "TargetTagName_48_F80861F241A274AAC9C46580A1B9357E": "VIL003_Miriam",
+      "TargetLocation_45_FFA9A68647D01B56C9D9E6B4460E5C6E": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoolParam_40_1C75B7834DEE47A17FD7D8941CEB00F8": false,
+      "RotatorParam_37_E6741D09430D57EACE296AADABB29E67": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 90.0
+      },
+      "IsFinishLookAt_58_C3B292B8442B336433042AADC1277BAC": false,
+      "FinishLookAtActorTagName_57_61C97B734C90B123D2E425862220EC6F": "None",
+      "IsWalk_60_05257512429922FE745D9187FB1B7040": false
+    }
+  }
+]

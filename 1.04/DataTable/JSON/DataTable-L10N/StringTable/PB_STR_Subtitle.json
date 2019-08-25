@@ -1,0 +1,14 @@
+{
+  "Name": "SubtitleStringTable",
+  "Table": {
+    "SST_Event_02_001": "Come, Gremory. We're leaving.",
+    "SST_Event_02_002": "Gebel! Wait!",
+    "SST_Event_06_001": "Me? I am your executioner.",
+    "SST_Event_10_001": "At last, the Liber Logaeth is mine.",
+    "SST_Event_10_002": "Think again!",
+    "SST_Event_15_001": "Good luck,",
+    "SST_Event_15_002": "Miriam...",
+    "SST_Event_B2_001": "I need more blood...",
+    "SST_Event_14_001": "...Alfred?"
+  }
+}

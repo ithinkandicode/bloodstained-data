@@ -1,0 +1,39 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 147640
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 5393
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 147528
+ImportCount: 4
+ImportOffset: 147416
+DependsOffset: 147632
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: c7e5be63-b769-41d7-97c2-b25857d9fb35
+Generations: 1
+CompressionFlags: 0
+PackageSource: 1233099475
+Unversioned: False
+AssetRegistryDataOffset: 147636
+BulkDataStartOffset: 765733
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 147640
+
+
+TYPE DATA FOR PB_DT_SoundTestMaster:
+Type (4239|0) -> ByteProperty (166|0) 
+Name (2570|0) -> NameProperty (2571|0) 
+IsSoundTest (1420|0) -> BoolProperty (165|0) 

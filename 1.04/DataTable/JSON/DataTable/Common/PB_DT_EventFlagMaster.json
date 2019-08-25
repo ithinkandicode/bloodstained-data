@@ -1,0 +1,464 @@
+[
+  {
+    "Key": "Event_01_001_0000",
+    "Value": {
+      "Id": 1
+    }
+  },
+  {
+    "Key": "Event_01_001_0001",
+    "Value": {
+      "Id": 2
+    }
+  },
+  {
+    "Key": "Event_01_001_0002",
+    "Value": {
+      "Id": 3
+    }
+  },
+  {
+    "Key": "Event_01_001_0003",
+    "Value": {
+      "Id": 4
+    }
+  },
+  {
+    "Key": "Event_01_002_0000",
+    "Value": {
+      "Id": 5
+    }
+  },
+  {
+    "Key": "Event_01_003_0000",
+    "Value": {
+      "Id": 6
+    }
+  },
+  {
+    "Key": "Event_01_004_0000",
+    "Value": {
+      "Id": 7
+    }
+  },
+  {
+    "Key": "Event_02_000_0000",
+    "Value": {
+      "Id": 8
+    }
+  },
+  {
+    "Key": "Event_02_001_0000",
+    "Value": {
+      "Id": 9
+    }
+  },
+  {
+    "Key": "Event_03_001_0000",
+    "Value": {
+      "Id": 10
+    }
+  },
+  {
+    "Key": "Event_03_001_0001",
+    "Value": {
+      "Id": 11
+    }
+  },
+  {
+    "Key": "Event_04_001_0000",
+    "Value": {
+      "Id": 12
+    }
+  },
+  {
+    "Key": "Event_04_002_0000",
+    "Value": {
+      "Id": 13
+    }
+  },
+  {
+    "Key": "Event_04_003_0000",
+    "Value": {
+      "Id": 14
+    }
+  },
+  {
+    "Key": "Event_04_004_0000",
+    "Value": {
+      "Id": 15
+    }
+  },
+  {
+    "Key": "Event_04_005_0000",
+    "Value": {
+      "Id": 16
+    }
+  },
+  {
+    "Key": "Event_05_001_0000",
+    "Value": {
+      "Id": 17
+    }
+  },
+  {
+    "Key": "Event_06_001_0000",
+    "Value": {
+      "Id": 18
+    }
+  },
+  {
+    "Key": "Event_06_001_0001",
+    "Value": {
+      "Id": 19
+    }
+  },
+  {
+    "Key": "Event_06_006_0001",
+    "Value": {
+      "Id": 20
+    }
+  },
+  {
+    "Key": "Event_06_006_0002",
+    "Value": {
+      "Id": 21
+    }
+  },
+  {
+    "Key": "Event_07_001_0000",
+    "Value": {
+      "Id": 22
+    }
+  },
+  {
+    "Key": "Event_08_001_0000",
+    "Value": {
+      "Id": 23
+    }
+  },
+  {
+    "Key": "Event_08_001_0001",
+    "Value": {
+      "Id": 24
+    }
+  },
+  {
+    "Key": "Event_08_001_0002",
+    "Value": {
+      "Id": 25
+    }
+  },
+  {
+    "Key": "Event_08_002_0000",
+    "Value": {
+      "Id": 26
+    }
+  },
+  {
+    "Key": "Event_09_001_0000",
+    "Value": {
+      "Id": 27
+    }
+  },
+  {
+    "Key": "Event_10_001_0000",
+    "Value": {
+      "Id": 28
+    }
+  },
+  {
+    "Key": "Event_10_001_0001",
+    "Value": {
+      "Id": 29
+    }
+  },
+  {
+    "Key": "Event_10_001_0002",
+    "Value": {
+      "Id": 30
+    }
+  },
+  {
+    "Key": "Event_10_001_0003",
+    "Value": {
+      "Id": 31
+    }
+  },
+  {
+    "Key": "Event_10_001_0004",
+    "Value": {
+      "Id": 32
+    }
+  },
+  {
+    "Key": "Event_10_002_0000",
+    "Value": {
+      "Id": 33
+    }
+  },
+  {
+    "Key": "Event_10_003_0000",
+    "Value": {
+      "Id": 34
+    }
+  },
+  {
+    "Key": "Event_11_001_0000",
+    "Value": {
+      "Id": 35
+    }
+  },
+  {
+    "Key": "Event_12_001_0000",
+    "Value": {
+      "Id": 36
+    }
+  },
+  {
+    "Key": "Event_13_000_0000",
+    "Value": {
+      "Id": 37
+    }
+  },
+  {
+    "Key": "Event_13_001_0000",
+    "Value": {
+      "Id": 38
+    }
+  },
+  {
+    "Key": "Event_13_001_0001",
+    "Value": {
+      "Id": 39
+    }
+  },
+  {
+    "Key": "Event_13_001_0002",
+    "Value": {
+      "Id": 40
+    }
+  },
+  {
+    "Key": "Event_13_001_0003",
+    "Value": {
+      "Id": 41
+    }
+  },
+  {
+    "Key": "Event_13_001_0004",
+    "Value": {
+      "Id": 42
+    }
+  },
+  {
+    "Key": "Event_13_002_0000",
+    "Value": {
+      "Id": 43
+    }
+  },
+  {
+    "Key": "Event_14_001_0000",
+    "Value": {
+      "Id": 44
+    }
+  },
+  {
+    "Key": "Event_15_001_0000",
+    "Value": {
+      "Id": 45
+    }
+  },
+  {
+    "Key": "Event_15_geki_End",
+    "Value": {
+      "Id": 46
+    }
+  },
+  {
+    "Key": "Event_15_Cine_End",
+    "Value": {
+      "Id": 47
+    }
+  },
+  {
+    "Key": "Event_15_N1008_BattleStart",
+    "Value": {
+      "Id": 48
+    }
+  },
+  {
+    "Key": "Event_16_001_0000",
+    "Value": {
+      "Id": 49
+    }
+  },
+  {
+    "Key": "Event_16_001_0001",
+    "Value": {
+      "Id": 50
+    }
+  },
+  {
+    "Key": "Event_16_001_0002",
+    "Value": {
+      "Id": 51
+    }
+  },
+  {
+    "Key": "Event_17_000_0000",
+    "Value": {
+      "Id": 52
+    }
+  },
+  {
+    "Key": "Event_17_001_0000",
+    "Value": {
+      "Id": 53
+    }
+  },
+  {
+    "Key": "Event_18_001_0000",
+    "Value": {
+      "Id": 54
+    }
+  },
+  {
+    "Key": "Event_88_001_0000",
+    "Value": {
+      "Id": 55
+    }
+  },
+  {
+    "Key": "Event_88_002_0000",
+    "Value": {
+      "Id": 56
+    }
+  },
+  {
+    "Key": "Event_88_004_0000",
+    "Value": {
+      "Id": 57
+    }
+  },
+  {
+    "Key": "Event_19_001_0000",
+    "Value": {
+      "Id": 58
+    }
+  },
+  {
+    "Key": "Event_19_001_0001",
+    "Value": {
+      "Id": 59
+    }
+  },
+  {
+    "Key": "Event_20_001_0000",
+    "Value": {
+      "Id": 60
+    }
+  },
+  {
+    "Key": "Event_21_001_0000",
+    "Value": {
+      "Id": 61
+    }
+  },
+  {
+    "Key": "Event_22_001_0000",
+    "Value": {
+      "Id": 62
+    }
+  },
+  {
+    "Key": "Event_23_001_0000",
+    "Value": {
+      "Id": 63
+    }
+  },
+  {
+    "Key": "Event_24_001_0000",
+    "Value": {
+      "Id": 64
+    }
+  },
+  {
+    "Key": "Event_24_001_0001",
+    "Value": {
+      "Id": 65
+    }
+  },
+  {
+    "Key": "Event_25_001_0000",
+    "Value": {
+      "Id": 66
+    }
+  },
+  {
+    "Key": "Event_26_001_0000",
+    "Value": {
+      "Id": 67
+    }
+  },
+  {
+    "Key": "Event_26_001_0001",
+    "Value": {
+      "Id": 68
+    }
+  },
+  {
+    "Key": "Event_27_001_0000",
+    "Value": {
+      "Id": 69
+    }
+  },
+  {
+    "Key": "Event_Deepsinker_Get",
+    "Value": {
+      "Id": 70
+    }
+  },
+  {
+    "Key": "Event_SAN_Shortcut_Get",
+    "Value": {
+      "Id": 71
+    }
+  },
+  {
+    "Key": "Event_UND_Shortcut_Get",
+    "Value": {
+      "Id": 72
+    }
+  },
+  {
+    "Key": "Event_SilverKnights_Get",
+    "Value": {
+      "Id": 73
+    }
+  },
+  {
+    "Key": "Debug_GDN_001",
+    "Value": {
+      "Id": 74
+    }
+  },
+  {
+    "Key": "N1009_crystal",
+    "Value": {
+      "Id": 75
+    }
+  },
+  {
+    "Key": "Zangetutou_EffectON",
+    "Value": {
+      "Id": 76
+    }
+  },
+  {
+    "Key": "Zangetutou_EffectOFF",
+    "Value": {
+      "Id": 77
+    }
+  }
+]

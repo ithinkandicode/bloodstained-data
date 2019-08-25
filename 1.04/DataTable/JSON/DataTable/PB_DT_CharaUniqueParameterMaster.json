@@ -1,0 +1,4334 @@
+[
+  {
+    "Key": "N9999_TYPEA_TestFloat_N9999",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N9999_TYPEA",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N9999",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "TestFloat",
+      "ParamValue": 3.5,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 100.0
+    }
+  },
+  {
+    "Key": "N9999_TYPEB_TestFloat_N9999",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N9999_TYPEB",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N9999",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "TestFloat",
+      "ParamValue": 8.0,
+      "ParamValueHard": 8.0,
+      "ParamValueNightmare": 8.0
+    }
+  },
+  {
+    "Key": "N9999_TYPEA_TestInt_N9999",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N9999_TYPEA",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N9999",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "TestInt",
+      "ParamValue": 3.5,
+      "ParamValueHard": 3.5,
+      "ParamValueNightmare": 3.5
+    }
+  },
+  {
+    "Key": "N9999_TYPEB_TestInt_N9999",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N9999_TYPEB",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N9999",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "TestInt",
+      "ParamValue": 8.0,
+      "ParamValueHard": 8.0,
+      "ParamValueNightmare": 8.0
+    }
+  },
+  {
+    "Key": "N9999_TYPEA_TestBool_N9999",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N9999_TYPEA",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N9999",
+      "ParamType": "EPBCharaUniqueParameterType::Bool",
+      "ParamName": "TestBool",
+      "ParamValue": 3.5,
+      "ParamValueHard": 3.5,
+      "ParamValueNightmare": 3.5
+    }
+  },
+  {
+    "Key": "N9999_TYPEB_TestBool_N9999",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N9999_TYPEB",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N9999",
+      "ParamType": "EPBCharaUniqueParameterType::Bool",
+      "ParamName": "TestBool",
+      "ParamValue": 8.0,
+      "ParamValueHard": 8.0,
+      "ParamValueNightmare": 8.0
+    }
+  },
+  {
+    "Key": "P0000_DefaultBrake_BrakeSpeed_P0000",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0000",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0000",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "DefaultBrake_BrakeSpeed",
+      "ParamValue": 3500.0,
+      "ParamValueHard": 3500.0,
+      "ParamValueNightmare": 3500.0
+    }
+  },
+  {
+    "Key": "P0000_Sliding_InitialSpeed_P0000",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0000",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0000",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Sliding_InitialSpeed",
+      "ParamValue": 1000.0,
+      "ParamValueHard": 1000.0,
+      "ParamValueNightmare": 1000.0
+    }
+  },
+  {
+    "Key": "P0000_Sliding_ReduceSpeed_P0000",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0000",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0000",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Sliding_ReduceSpeed",
+      "ParamValue": 350.0,
+      "ParamValueHard": 350.0,
+      "ParamValueNightmare": 350.0
+    }
+  },
+  {
+    "Key": "P0000_BackStep_InitialSpeed_P0000",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0000",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0000",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "BackStep_InitialSpeed",
+      "ParamValue": -800.0,
+      "ParamValueHard": -800.0,
+      "ParamValueNightmare": -800.0
+    }
+  },
+  {
+    "Key": "P0000_BackStep_Brake_P0000",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0000",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0000",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "BackStep_Brake",
+      "ParamValue": 500.0,
+      "ParamValueHard": 500.0,
+      "ParamValueNightmare": 500.0
+    }
+  },
+  {
+    "Key": "P0000_BackStepBunny_InitialSpeed_P0000",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0000",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0000",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "BackStepBunny_InitialSpeed",
+      "ParamValue": -800.0,
+      "ParamValueHard": -800.0,
+      "ParamValueNightmare": -800.0
+    }
+  },
+  {
+    "Key": "P0000_BackStepBunny_Brake_P0000",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0000",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0000",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "BackStepBunny_Brake",
+      "ParamValue": 500.0,
+      "ParamValueHard": 500.0,
+      "ParamValueNightmare": 500.0
+    }
+  },
+  {
+    "Key": "P0000_Bunny_HundredKickCancelTime_P0000",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0000",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0000",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Bunny_HundredKickCancelTime",
+      "ParamValue": 0.15,
+      "ParamValueHard": 0.15,
+      "ParamValueNightmare": 0.15
+    }
+  },
+  {
+    "Key": "P0000_Bunny_HundredKickRendaTime_P0000",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0000",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0000",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Bunny_HundredKickRendaTime",
+      "ParamValue": 5.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "P0000_Bunny_HundredKickRendaNum_P0000",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0000",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0000",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "Bunny_HundredKickRendaNum",
+      "ParamValue": 10.0,
+      "ParamValueHard": 10.0,
+      "ParamValueNightmare": 10.0
+    }
+  },
+  {
+    "Key": "P0000_JumpKick_InitialSpeed_P0000",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0000",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0000",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "JumpKick_InitialSpeed",
+      "ParamValue": 2000.0,
+      "ParamValueHard": 2000.0,
+      "ParamValueNightmare": 2000.0
+    }
+  },
+  {
+    "Key": "P0000_JumpKick_Accel_P0000",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0000",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0000",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "JumpKick_Accel",
+      "ParamValue": 2000.0,
+      "ParamValueHard": 2000.0,
+      "ParamValueNightmare": 2000.0
+    }
+  },
+  {
+    "Key": "P0000_JumpKick_BoundSpeed_P0000",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0000",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0000",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "JumpKick_BoundSpeed",
+      "ParamValue": 1200.0,
+      "ParamValueHard": 1200.0,
+      "ParamValueNightmare": 1200.0
+    }
+  },
+  {
+    "Key": "P0000_JumpKick_BoundGravity_P0000",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0000",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0000",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "JumpKick_BoundGravity",
+      "ParamValue": -2500.0,
+      "ParamValueHard": -2500.0,
+      "ParamValueNightmare": -2500.0
+    }
+  },
+  {
+    "Key": "P0001_DefaultBrake_BrakeSpeed_P0001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "DefaultBrake_BrakeSpeed",
+      "ParamValue": 3500.0,
+      "ParamValueHard": 3500.0,
+      "ParamValueNightmare": 3500.0
+    }
+  },
+  {
+    "Key": "P0001_Sliding_InitialSpeed_P0001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Sliding_InitialSpeed",
+      "ParamValue": 1000.0,
+      "ParamValueHard": 1000.0,
+      "ParamValueNightmare": 1000.0
+    }
+  },
+  {
+    "Key": "P0001_Sliding_ReduceSpeed_P0001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Sliding_ReduceSpeed",
+      "ParamValue": 350.0,
+      "ParamValueHard": 350.0,
+      "ParamValueNightmare": 350.0
+    }
+  },
+  {
+    "Key": "P0001_BackStep_InitialSpeed_P0001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "BackStep_InitialSpeed",
+      "ParamValue": -800.0,
+      "ParamValueHard": -800.0,
+      "ParamValueNightmare": -800.0
+    }
+  },
+  {
+    "Key": "P0001_BackStep_Brake_P0001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "BackStep_Brake",
+      "ParamValue": 500.0,
+      "ParamValueHard": 500.0,
+      "ParamValueNightmare": 500.0
+    }
+  },
+  {
+    "Key": "P0001_BackStepBunny_InitialSpeed_P0001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "BackStepBunny_InitialSpeed",
+      "ParamValue": -800.0,
+      "ParamValueHard": -800.0,
+      "ParamValueNightmare": -800.0
+    }
+  },
+  {
+    "Key": "P0001_BackStepBunny_Brake_P0001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "BackStepBunny_Brake",
+      "ParamValue": 500.0,
+      "ParamValueHard": 500.0,
+      "ParamValueNightmare": 500.0
+    }
+  },
+  {
+    "Key": "P0001_Bunny_HundredKickCancelTime_P0001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Bunny_HundredKickCancelTime",
+      "ParamValue": 0.15,
+      "ParamValueHard": 0.15,
+      "ParamValueNightmare": 0.15
+    }
+  },
+  {
+    "Key": "P0001_Bunny_HundredKickRendaTime_P0001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Bunny_HundredKickRendaTime",
+      "ParamValue": 5.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "P0001_Bunny_HundredKickRendaNum_P0001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0001",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "Bunny_HundredKickRendaNum",
+      "ParamValue": 10.0,
+      "ParamValueHard": 10.0,
+      "ParamValueNightmare": 10.0
+    }
+  },
+  {
+    "Key": "P0001_JumpKick_InitialSpeed_P0001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0001",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "JumpKick_InitialSpeed",
+      "ParamValue": 2000.0,
+      "ParamValueHard": 2000.0,
+      "ParamValueNightmare": 2000.0
+    }
+  },
+  {
+    "Key": "P0001_JumpKick_Accel_P0001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0001",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "JumpKick_Accel",
+      "ParamValue": 2000.0,
+      "ParamValueHard": 2000.0,
+      "ParamValueNightmare": 2000.0
+    }
+  },
+  {
+    "Key": "P0001_JumpKick_BoundSpeed_P0001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0001",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "JumpKick_BoundSpeed",
+      "ParamValue": 1200.0,
+      "ParamValueHard": 1200.0,
+      "ParamValueNightmare": 1200.0
+    }
+  },
+  {
+    "Key": "P0001_JumpKick_BoundGravity_P0001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::P0001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::P0001",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "JumpKick_BoundGravity",
+      "ParamValue": -2500.0,
+      "ParamValueHard": -2500.0,
+      "ParamValueNightmare": -2500.0
+    }
+  },
+  {
+    "Key": "N1004_AttackInterval_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackInterval",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N1004_CoinTossStartTime_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "CoinTossStartTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N1004_CoinTossWaitTime_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "CoinTossWaitTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N1004_CoinTossShotBeforeTime_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "CoinTossShotBeforeTime",
+      "ParamValue": 0.5,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N1004_CoinTossNextTime_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "CoinTossNextTime",
+      "ParamValue": 0.7,
+      "ParamValueHard": 0.7,
+      "ParamValueNightmare": 0.7
+    }
+  },
+  {
+    "Key": "N1004_CoinTossShotAfterTime_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "CoinTossShotAfterTime",
+      "ParamValue": 0.5,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N1004_CoinTossEndTime_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "CoinTossEndTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N1004_CoinTossShotMaxCountBefore_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "CoinTossShotMaxCountBefore",
+      "ParamValue": 1.0,
+      "ParamValueHard": 2.0,
+      "ParamValueNightmare": 2.0
+    }
+  },
+  {
+    "Key": "N1004_CoinTossShotMaxCountAfter_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "CoinTossShotMaxCountAfter",
+      "ParamValue": 3.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "N1004_GrabAnimationRateBefore_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "GrabAnimationRateBefore",
+      "ParamValue": 0.75,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N1004_GrabAnimationRateAfter_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "GrabAnimationRateAfter",
+      "ParamValue": 1.5,
+      "ParamValueHard": 2.0,
+      "ParamValueNightmare": 2.0
+    }
+  },
+  {
+    "Key": "N1004_GrabAdjustFactor_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "GrabAdjustFactor",
+      "ParamValue": 0.0,
+      "ParamValueHard": 2.0,
+      "ParamValueNightmare": 2.0
+    }
+  },
+  {
+    "Key": "N1004_GrabLoopDamageIntervalTime_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "GrabLoopDamageIntervalTime",
+      "ParamValue": 0.7,
+      "ParamValueHard": 0.7,
+      "ParamValueNightmare": 0.7
+    }
+  },
+  {
+    "Key": "N1004_GrabLoopDamageCountBefore_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "GrabLoopDamageCountBefore",
+      "ParamValue": 2.0,
+      "ParamValueHard": 3.0,
+      "ParamValueNightmare": 3.0
+    }
+  },
+  {
+    "Key": "N1004_GrabLoopDamageCountAfter_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "GrabLoopDamageCountAfter",
+      "ParamValue": 3.0,
+      "ParamValueHard": 4.0,
+      "ParamValueNightmare": 4.0
+    }
+  },
+  {
+    "Key": "N1004_GrabLoopFailedTime_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "GrabLoopFailedTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N1004_RaiseCoinTowerOffsetX_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "RaiseCoinTowerOffsetX",
+      "ParamValue": 520.0,
+      "ParamValueHard": 520.0,
+      "ParamValueNightmare": 520.0
+    }
+  },
+  {
+    "Key": "N1004_RaiseHandAccelBefore_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "RaiseHandAccelBefore",
+      "ParamValue": 1500.0,
+      "ParamValueHard": 1500.0,
+      "ParamValueNightmare": 1500.0
+    }
+  },
+  {
+    "Key": "N1004_RaiseHandAccelAfter_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "RaiseHandAccelAfter",
+      "ParamValue": 1500.0,
+      "ParamValueHard": 1500.0,
+      "ParamValueNightmare": 1500.0
+    }
+  },
+  {
+    "Key": "N1004_SmashPreTimeInit_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SmashPreTimeInit",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N1004_SmashPreTimeNext_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SmashPreTimeNext",
+      "ParamValue": 0.5,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N1004_SmashAdjustFactorBofore_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SmashAdjustFactorBofore",
+      "ParamValue": 2.0,
+      "ParamValueHard": 3.0,
+      "ParamValueNightmare": 3.0
+    }
+  },
+  {
+    "Key": "N1004_SmashAdjustFactorAfter_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SmashAdjustFactorAfter",
+      "ParamValue": 3.0,
+      "ParamValueHard": 4.0,
+      "ParamValueNightmare": 4.0
+    }
+  },
+  {
+    "Key": "N1004_SmashMaxCountBofore_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "SmashMaxCountBofore",
+      "ParamValue": 1.0,
+      "ParamValueHard": 2.0,
+      "ParamValueNightmare": 2.0
+    }
+  },
+  {
+    "Key": "N1004_SmashMaxCountAfter_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "SmashMaxCountAfter",
+      "ParamValue": 3.0,
+      "ParamValueHard": 4.0,
+      "ParamValueNightmare": 4.0
+    }
+  },
+  {
+    "Key": "N1004_MoneyStealTime_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoneyStealTime",
+      "ParamValue": 5.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "N1004_MoneyStealHealRate_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "MoneyStealHealRate",
+      "ParamValue": 5.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "N1004_MoneySteelVoiceCoin1_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "MoneySteelVoiceCoin1",
+      "ParamValue": 10000.0,
+      "ParamValueHard": 10000.0,
+      "ParamValueNightmare": 10000.0
+    }
+  },
+  {
+    "Key": "N1004_MoneySteelVoiceCoin2_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "MoneySteelVoiceCoin2",
+      "ParamValue": 100000.0,
+      "ParamValueHard": 100000.0,
+      "ParamValueNightmare": 100000.0
+    }
+  },
+  {
+    "Key": "N1004_DamageReactionRate_N1004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "DamageReactionRate",
+      "ParamValue": 0.1,
+      "ParamValueHard": 0.01,
+      "ParamValueNightmare": 0.01
+    }
+  },
+  {
+    "Key": "N1005_N1005_DashRootMotionRate_N1005",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1005",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1005",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "N1005_DashRootMotionRate",
+      "ParamValue": 2.0,
+      "ParamValueHard": 2.0,
+      "ParamValueNightmare": 2.0
+    }
+  },
+  {
+    "Key": "N1003_FirstThrow_N1003",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1003",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1003",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "FirstThrow",
+      "ParamValue": 10.0,
+      "ParamValueHard": 10.0,
+      "ParamValueNightmare": 10.0
+    }
+  },
+  {
+    "Key": "N1003_SecondThrow_N1003",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1003",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1003",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SecondThrow",
+      "ParamValue": 120.0,
+      "ParamValueHard": 90.0,
+      "ParamValueNightmare": 90.0
+    }
+  },
+  {
+    "Key": "N1003_Attack_CoolTimeRate_N1003",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1003",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1003",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Attack_CoolTimeRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.25,
+      "ParamValueNightmare": 0.25
+    }
+  },
+  {
+    "Key": "N1003_Dekopin_Power_N1003",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1003",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1003",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Dekopin_Power",
+      "ParamValue": 5000.0,
+      "ParamValueHard": 8000.0,
+      "ParamValueNightmare": 8000.0
+    }
+  },
+  {
+    "Key": "N1003_Hyaku_Count_N1003",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1003",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1003",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "Hyaku_Count",
+      "ParamValue": 1.0,
+      "ParamValueHard": 3.0,
+      "ParamValueNightmare": 3.0
+    }
+  },
+  {
+    "Key": "N1003_Throw_PrevTime_N1003",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1003",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1003",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Throw_PrevTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N1003_Throw_AfterTime_N1003",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1003",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1003",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Throw_AfterTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.25,
+      "ParamValueNightmare": 0.25
+    }
+  },
+  {
+    "Key": "N1003_Guillotine_MovePower_N1003",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1003",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1003",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Guillotine_MovePower",
+      "ParamValue": 8000.0,
+      "ParamValueHard": 8000.0,
+      "ParamValueNightmare": 8000.0
+    }
+  },
+  {
+    "Key": "N1003_Guillotine_JumpPower_N1003",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1003",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1003",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Guillotine_JumpPower",
+      "ParamValue": 15000.0,
+      "ParamValueHard": 15000.0,
+      "ParamValueNightmare": 15000.0
+    }
+  },
+  {
+    "Key": "N1003_Guillotine_JumpSpeed_N1003",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1003",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1003",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Guillotine_JumpSpeed",
+      "ParamValue": 1000.0,
+      "ParamValueHard": 1200.0,
+      "ParamValueNightmare": 1200.0
+    }
+  },
+  {
+    "Key": "N1003_Guillotine_DragTime_N1003",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1003",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1003",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Guillotine_DragTime",
+      "ParamValue": 2.0,
+      "ParamValueHard": 3.0,
+      "ParamValueNightmare": 3.0
+    }
+  },
+  {
+    "Key": "N1003_Guillotine_JumpWaitTime_N1003",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1003",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1003",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Guillotine_JumpWaitTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N1012_MoonCut_HP_N1012",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1012",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1012",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoonCut_HP",
+      "ParamValue": 500.0,
+      "ParamValueHard": 500.0,
+      "ParamValueNightmare": 500.0
+    }
+  },
+  {
+    "Key": "N1012_MoonEmissivePower_N1012",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1012",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1012",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoonEmissivePower",
+      "ParamValue": 10.0,
+      "ParamValueHard": 10.0,
+      "ParamValueNightmare": 10.0
+    }
+  },
+  {
+    "Key": "N1012_MoonFlashSpeed_N1012",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N1012",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N1012",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoonFlashSpeed",
+      "ParamValue": 3.0,
+      "ParamValueHard": 3.0,
+      "ParamValueNightmare": 3.0
+    }
+  },
+  {
+    "Key": "N2014_MoveRate_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.5,
+      "ParamValueNightmare": 1.5
+    }
+  },
+  {
+    "Key": "N2014_Doping_STR_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Doping_STR",
+      "ParamValue": 0.5,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N2014_Doping_INT_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Doping_INT",
+      "ParamValue": 0.5,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N2014_Doping_MND_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Doping_MND",
+      "ParamValue": 0.5,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N2014_Doping_CON_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Doping_CON",
+      "ParamValue": 0.5,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N2014_SpecialArts_Time_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SpecialArts_Time",
+      "ParamValue": 60.0,
+      "ParamValueHard": 90.0,
+      "ParamValueNightmare": 90.0
+    }
+  },
+  {
+    "Key": "N2014_MiddleRange_Begin_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MiddleRange_Begin",
+      "ParamValue": 6.0,
+      "ParamValueHard": 6.0,
+      "ParamValueNightmare": 6.0
+    }
+  },
+  {
+    "Key": "N2014_LongRange_Begin_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "LongRange_Begin",
+      "ParamValue": 11.0,
+      "ParamValueHard": 11.0,
+      "ParamValueNightmare": 11.0
+    }
+  },
+  {
+    "Key": "N2014_Near_Lot_ActMixAndDrink_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Near_Lot_ActMixAndDrink",
+      "ParamValue": 20.0,
+      "ParamValueHard": 20.0,
+      "ParamValueNightmare": 20.0
+    }
+  },
+  {
+    "Key": "N2014_Near_Lot_ActMixAndClash_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Near_Lot_ActMixAndClash",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N2014_Near_Lot_ActDrink_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Near_Lot_ActDrink",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N2014_Near_Lot_ActClash_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Near_Lot_ActClash",
+      "ParamValue": 5.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "N2014_Near_Lot_ActMagicSmall1_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Near_Lot_ActMagicSmall1",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N2014_Near_Lot_ActMagicSmall2_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Near_Lot_ActMagicSmall2",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N2014_Near_Lot_ActMagicLarge_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Near_Lot_ActMagicLarge",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N2014_Near_Lot_ActNearWarp_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Near_Lot_ActNearWarp",
+      "ParamValue": 30.0,
+      "ParamValueHard": 30.0,
+      "ParamValueNightmare": 30.0
+    }
+  },
+  {
+    "Key": "N2014_Near_Lot_ActEscape_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Near_Lot_ActEscape",
+      "ParamValue": 30.0,
+      "ParamValueHard": 30.0,
+      "ParamValueNightmare": 30.0
+    }
+  },
+  {
+    "Key": "N2014_Near_CT_ActMixAndDrink_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Near_CT_ActMixAndDrink",
+      "ParamValue": 35.0,
+      "ParamValueHard": 35.0,
+      "ParamValueNightmare": 35.0
+    }
+  },
+  {
+    "Key": "N2014_Near_CT_ActMixAndClash_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Near_CT_ActMixAndClash",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N2014_Near_CT_ActDrink_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Near_CT_ActDrink",
+      "ParamValue": 35.0,
+      "ParamValueHard": 35.0,
+      "ParamValueNightmare": 35.0
+    }
+  },
+  {
+    "Key": "N2014_Near_CT_ActClash_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Near_CT_ActClash",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N2014_Near_CT_ActMagicSmall1_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Near_CT_ActMagicSmall1",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N2014_Near_CT_ActMagicSmall2_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Near_CT_ActMagicSmall2",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N2014_Near_CT_ActMagicLarge_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Near_CT_ActMagicLarge",
+      "ParamValue": 90.0,
+      "ParamValueHard": 90.0,
+      "ParamValueNightmare": 90.0
+    }
+  },
+  {
+    "Key": "N2014_Near_CT_ActNearWarp_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Near_CT_ActNearWarp",
+      "ParamValue": 7.0,
+      "ParamValueHard": 7.0,
+      "ParamValueNightmare": 7.0
+    }
+  },
+  {
+    "Key": "N2014_Near_CT_ActEscape_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Near_CT_ActEscape",
+      "ParamValue": 5.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "N2014_Middle_Lot_ActMixAndDrink_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Middle_Lot_ActMixAndDrink",
+      "ParamValue": 300.0,
+      "ParamValueHard": 300.0,
+      "ParamValueNightmare": 300.0
+    }
+  },
+  {
+    "Key": "N2014_Middle_Lot_ActMixAndClash_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Middle_Lot_ActMixAndClash",
+      "ParamValue": 10.0,
+      "ParamValueHard": 10.0,
+      "ParamValueNightmare": 10.0
+    }
+  },
+  {
+    "Key": "N2014_Middle_Lot_ActDrink_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Middle_Lot_ActDrink",
+      "ParamValue": 50.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "N2014_Middle_Lot_ActClash_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Middle_Lot_ActClash",
+      "ParamValue": 50.0,
+      "ParamValueHard": 50.0,
+      "ParamValueNightmare": 50.0
+    }
+  },
+  {
+    "Key": "N2014_Middle_Lot_ActMagicSmall1_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Middle_Lot_ActMagicSmall1",
+      "ParamValue": 10.0,
+      "ParamValueHard": 10.0,
+      "ParamValueNightmare": 10.0
+    }
+  },
+  {
+    "Key": "N2014_Middle_Lot_ActMagicSmall2_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Middle_Lot_ActMagicSmall2",
+      "ParamValue": 10.0,
+      "ParamValueHard": 10.0,
+      "ParamValueNightmare": 10.0
+    }
+  },
+  {
+    "Key": "N2014_Middle_Lot_ActMagicLarge_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Middle_Lot_ActMagicLarge",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N2014_Middle_Lot_ActNearWarp_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Middle_Lot_ActNearWarp",
+      "ParamValue": 20.0,
+      "ParamValueHard": 20.0,
+      "ParamValueNightmare": 20.0
+    }
+  },
+  {
+    "Key": "N2014_Middle_Lot_ActEscape_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Middle_Lot_ActEscape",
+      "ParamValue": 20.0,
+      "ParamValueHard": 20.0,
+      "ParamValueNightmare": 20.0
+    }
+  },
+  {
+    "Key": "N2014_Middle_CT_ActMixAndDrink_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Middle_CT_ActMixAndDrink",
+      "ParamValue": 35.0,
+      "ParamValueHard": 35.0,
+      "ParamValueNightmare": 35.0
+    }
+  },
+  {
+    "Key": "N2014_Middle_CT_ActMixAndClash_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Middle_CT_ActMixAndClash",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N2014_Middle_CT_ActDrink_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Middle_CT_ActDrink",
+      "ParamValue": 35.0,
+      "ParamValueHard": 35.0,
+      "ParamValueNightmare": 35.0
+    }
+  },
+  {
+    "Key": "N2014_Middle_CT_ActClash_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Middle_CT_ActClash",
+      "ParamValue": 5.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "N2014_Middle_CT_ActMagicSmall1_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Middle_CT_ActMagicSmall1",
+      "ParamValue": 10.0,
+      "ParamValueHard": 10.0,
+      "ParamValueNightmare": 10.0
+    }
+  },
+  {
+    "Key": "N2014_Middle_CT_ActMagicSmall2_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Middle_CT_ActMagicSmall2",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N2014_Middle_CT_ActMagicLarge_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Middle_CT_ActMagicLarge",
+      "ParamValue": 90.0,
+      "ParamValueHard": 90.0,
+      "ParamValueNightmare": 90.0
+    }
+  },
+  {
+    "Key": "N2014_Middle_CT_ActNearWarp_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Middle_CT_ActNearWarp",
+      "ParamValue": 10.0,
+      "ParamValueHard": 10.0,
+      "ParamValueNightmare": 10.0
+    }
+  },
+  {
+    "Key": "N2014_Middle_CT_ActEscape_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Middle_CT_ActEscape",
+      "ParamValue": 3.0,
+      "ParamValueHard": 3.0,
+      "ParamValueNightmare": 3.0
+    }
+  },
+  {
+    "Key": "N2014_Long_Lot_ActMixAndDrink_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Long_Lot_ActMixAndDrink",
+      "ParamValue": 500.0,
+      "ParamValueHard": 500.0,
+      "ParamValueNightmare": 500.0
+    }
+  },
+  {
+    "Key": "N2014_Long_Lot_ActMixAndClash_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Long_Lot_ActMixAndClash",
+      "ParamValue": 20.0,
+      "ParamValueHard": 20.0,
+      "ParamValueNightmare": 20.0
+    }
+  },
+  {
+    "Key": "N2014_Long_Lot_ActDrink_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Long_Lot_ActDrink",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N2014_Long_Lot_ActClash_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Long_Lot_ActClash",
+      "ParamValue": 40.0,
+      "ParamValueHard": 40.0,
+      "ParamValueNightmare": 40.0
+    }
+  },
+  {
+    "Key": "N2014_Long_Lot_ActMagicSmall1_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Long_Lot_ActMagicSmall1",
+      "ParamValue": 60.0,
+      "ParamValueHard": 60.0,
+      "ParamValueNightmare": 60.0
+    }
+  },
+  {
+    "Key": "N2014_Long_Lot_ActMagicSmall2_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Long_Lot_ActMagicSmall2",
+      "ParamValue": 60.0,
+      "ParamValueHard": 60.0,
+      "ParamValueNightmare": 60.0
+    }
+  },
+  {
+    "Key": "N2014_Long_Lot_ActMagicLarge_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Long_Lot_ActMagicLarge",
+      "ParamValue": 500.0,
+      "ParamValueHard": 500.0,
+      "ParamValueNightmare": 500.0
+    }
+  },
+  {
+    "Key": "N2014_Long_Lot_ActNearWarp_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Long_Lot_ActNearWarp",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N2014_Long_Lot_ActEscape_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Long_Lot_ActEscape",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N2014_Long_CT_ActMixAndDrink_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Long_CT_ActMixAndDrink",
+      "ParamValue": 35.0,
+      "ParamValueHard": 35.0,
+      "ParamValueNightmare": 35.0
+    }
+  },
+  {
+    "Key": "N2014_Long_CT_ActMixAndClash_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Long_CT_ActMixAndClash",
+      "ParamValue": 5.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "N2014_Long_CT_ActDrink_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Long_CT_ActDrink",
+      "ParamValue": 35.0,
+      "ParamValueHard": 35.0,
+      "ParamValueNightmare": 35.0
+    }
+  },
+  {
+    "Key": "N2014_Long_CT_ActClash_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Long_CT_ActClash",
+      "ParamValue": 5.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "N2014_Long_CT_ActMagicSmall1_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Long_CT_ActMagicSmall1",
+      "ParamValue": 5.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "N2014_Long_CT_ActMagicSmall2_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Long_CT_ActMagicSmall2",
+      "ParamValue": 5.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "N2014_Long_CT_ActMagicLarge_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Long_CT_ActMagicLarge",
+      "ParamValue": 90.0,
+      "ParamValueHard": 90.0,
+      "ParamValueNightmare": 90.0
+    }
+  },
+  {
+    "Key": "N2014_Long_CT_ActNearWarp_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Long_CT_ActNearWarp",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N2014_Long_CT_ActEscape_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Long_CT_ActEscape",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N2014_Flask_NearFar_Threshold_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Flask_NearFar_Threshold",
+      "ParamValue": 7.0,
+      "ParamValueHard": 7.0,
+      "ParamValueNightmare": 7.0
+    }
+  },
+  {
+    "Key": "N2014_Flask_1ST_Near_Ice_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Flask_1ST_Near_Ice",
+      "ParamValue": 0.6,
+      "ParamValueHard": 0.6,
+      "ParamValueNightmare": 0.6
+    }
+  },
+  {
+    "Key": "N2014_Flask_1ST_Near_Fire_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Flask_1ST_Near_Fire",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N2014_Flask_1ST_Near_Poison_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Flask_1ST_Near_Poison",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N2014_Flask_1ST_Near_Stone_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Flask_1ST_Near_Stone",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N2014_Flask_1ST_Far_Ice_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Flask_1ST_Far_Ice",
+      "ParamValue": 0.6,
+      "ParamValueHard": 0.6,
+      "ParamValueNightmare": 0.6
+    }
+  },
+  {
+    "Key": "N2014_Flask_1ST_Far_Fire_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Flask_1ST_Far_Fire",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N2014_Flask_1ST_Far_Poison_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Flask_1ST_Far_Poison",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N2014_Flask_1ST_Far_Stone_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Flask_1ST_Far_Stone",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N2014_Flask_2ND_Near_Ice_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Flask_2ND_Near_Ice",
+      "ParamValue": 0.4,
+      "ParamValueHard": 0.4,
+      "ParamValueNightmare": 0.4
+    }
+  },
+  {
+    "Key": "N2014_Flask_2ND_Near_Fire_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Flask_2ND_Near_Fire",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N2014_Flask_2ND_Near_Poison_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Flask_2ND_Near_Poison",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N2014_Flask_2ND_Near_Stone_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Flask_2ND_Near_Stone",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N2014_Flask_2ND_Far_Ice_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Flask_2ND_Far_Ice",
+      "ParamValue": 0.4,
+      "ParamValueHard": 0.4,
+      "ParamValueNightmare": 0.4
+    }
+  },
+  {
+    "Key": "N2014_Flask_2ND_Far_Fire_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Flask_2ND_Far_Fire",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N2014_Flask_2ND_Far_Poison_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Flask_2ND_Far_Poison",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N2014_Flask_2ND_Far_Stone_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Flask_2ND_Far_Stone",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N2014_Flask_Common_CoolTime_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "Flask_Common_CoolTime",
+      "ParamValue": 5.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "N2014_MagicSpeedUp_N2014",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2014",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2014",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MagicSpeedUp",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.3,
+      "ParamValueNightmare": 1.3
+    }
+  },
+  {
+    "Key": "N2015_IdleWaitTime_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "IdleWaitTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N2015_JumpReadyTime_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "JumpReadyTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N2015_JumpInitVelocityX_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "JumpInitVelocityX",
+      "ParamValue": 850.0,
+      "ParamValueHard": 850.0,
+      "ParamValueNightmare": 850.0
+    }
+  },
+  {
+    "Key": "N2015_JumpInitVelocityZ_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "JumpInitVelocityZ",
+      "ParamValue": 500.0,
+      "ParamValueHard": 500.0,
+      "ParamValueNightmare": 500.0
+    }
+  },
+  {
+    "Key": "N2015_JumpRageReadyTime_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "JumpRageReadyTime",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N2015_JumpRageInitVelocityZ_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "JumpRageInitVelocityZ",
+      "ParamValue": 800.0,
+      "ParamValueHard": 800.0,
+      "ParamValueNightmare": 800.0
+    }
+  },
+  {
+    "Key": "N2015_StompingAdjustHeight_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "StompingAdjustHeight",
+      "ParamValue": 350.0,
+      "ParamValueHard": 350.0,
+      "ParamValueNightmare": 350.0
+    }
+  },
+  {
+    "Key": "N2015_StompingAdjustInitVelocityZ_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "StompingAdjustInitVelocityZ",
+      "ParamValue": 300.0,
+      "ParamValueHard": 300.0,
+      "ParamValueNightmare": 300.0
+    }
+  },
+  {
+    "Key": "N2015_StompingAdjustRate_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "StompingAdjustRate",
+      "ParamValue": 2.0,
+      "ParamValueHard": 2.0,
+      "ParamValueNightmare": 2.0
+    }
+  },
+  {
+    "Key": "N2015_StompingAdjustAccel_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "StompingAdjustAccel",
+      "ParamValue": 800.0,
+      "ParamValueHard": 800.0,
+      "ParamValueNightmare": 800.0
+    }
+  },
+  {
+    "Key": "N2015_StompingAdjustTime_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "StompingAdjustTime",
+      "ParamValue": 3.0,
+      "ParamValueHard": 3.0,
+      "ParamValueNightmare": 3.0
+    }
+  },
+  {
+    "Key": "N2015_StompingBeforeFallWaitTime_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "StompingBeforeFallWaitTime",
+      "ParamValue": 0.6,
+      "ParamValueHard": 0.6,
+      "ParamValueNightmare": 0.6
+    }
+  },
+  {
+    "Key": "N2015_StompingFallGravityScale_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "StompingFallGravityScale",
+      "ParamValue": 10.0,
+      "ParamValueHard": 10.0,
+      "ParamValueNightmare": 10.0
+    }
+  },
+  {
+    "Key": "N2015_StompingAfterFallWaitTime_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "StompingAfterFallWaitTime",
+      "ParamValue": 2.5,
+      "ParamValueHard": 2.5,
+      "ParamValueNightmare": 2.5
+    }
+  },
+  {
+    "Key": "N2015_WindBackJumpWallDistance_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "WindBackJumpWallDistance",
+      "ParamValue": 180.0,
+      "ParamValueHard": 180.0,
+      "ParamValueNightmare": 180.0
+    }
+  },
+  {
+    "Key": "N2015_WindBackJumpMaxDistance_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "WindBackJumpMaxDistance",
+      "ParamValue": 1800.0,
+      "ParamValueHard": 1800.0,
+      "ParamValueNightmare": 1800.0
+    }
+  },
+  {
+    "Key": "N2015_WindBackJumpInitVelocityZ_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "WindBackJumpInitVelocityZ",
+      "ParamValue": 800.0,
+      "ParamValueHard": 800.0,
+      "ParamValueNightmare": 800.0
+    }
+  },
+  {
+    "Key": "N2015_WindBeforeWaitTime_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "WindBeforeWaitTime",
+      "ParamValue": 2.0,
+      "ParamValueHard": 2.0,
+      "ParamValueNightmare": 2.0
+    }
+  },
+  {
+    "Key": "N2015_WindBlastCount_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "WindBlastCount",
+      "ParamValue": 7.0,
+      "ParamValueHard": 9.0,
+      "ParamValueNightmare": 9.0
+    }
+  },
+  {
+    "Key": "N2015_WindBlastIntervalTime_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "WindBlastIntervalTime",
+      "ParamValue": 0.9,
+      "ParamValueHard": 0.9,
+      "ParamValueNightmare": 0.9
+    }
+  },
+  {
+    "Key": "N2015_WindAfterWaitTime_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "WindAfterWaitTime",
+      "ParamValue": 2.0,
+      "ParamValueHard": 2.0,
+      "ParamValueNightmare": 2.0
+    }
+  },
+  {
+    "Key": "N2015_FirePillarBackJumpWallDistance_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "FirePillarBackJumpWallDistance",
+      "ParamValue": 180.0,
+      "ParamValueHard": 180.0,
+      "ParamValueNightmare": 180.0
+    }
+  },
+  {
+    "Key": "N2015_FirePillarBackJumpMaxDistance_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "FirePillarBackJumpMaxDistance",
+      "ParamValue": 1800.0,
+      "ParamValueHard": 1800.0,
+      "ParamValueNightmare": 1800.0
+    }
+  },
+  {
+    "Key": "N2015_FirePillarBackJumpInitVelocityZ_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "FirePillarBackJumpInitVelocityZ",
+      "ParamValue": 800.0,
+      "ParamValueHard": 800.0,
+      "ParamValueNightmare": 800.0
+    }
+  },
+  {
+    "Key": "N2015_FirePillarBeforeWaitTime_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "FirePillarBeforeWaitTime",
+      "ParamValue": 2.0,
+      "ParamValueHard": 2.0,
+      "ParamValueNightmare": 2.0
+    }
+  },
+  {
+    "Key": "N2015_FirePillarSpawnIntervalTime_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "FirePillarSpawnIntervalTime",
+      "ParamValue": 0.1,
+      "ParamValueHard": 0.1,
+      "ParamValueNightmare": 0.1
+    }
+  },
+  {
+    "Key": "N2015_FirePillarWaitTime_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "FirePillarWaitTime",
+      "ParamValue": 4.0,
+      "ParamValueHard": 4.0,
+      "ParamValueNightmare": 4.0
+    }
+  },
+  {
+    "Key": "N2015_FirePillarRageFireBlastReadyTime_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "FirePillarRageFireBlastReadyTime",
+      "ParamValue": 1.1,
+      "ParamValueHard": 1.1,
+      "ParamValueNightmare": 1.1
+    }
+  },
+  {
+    "Key": "N2015_FirePillarRageFireBlastZanshinTime_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "FirePillarRageFireBlastZanshinTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N2015_FirePillarRageFireBlastAfterWaitTime_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "FirePillarRageFireBlastAfterWaitTime",
+      "ParamValue": 3.5,
+      "ParamValueHard": 3.5,
+      "ParamValueNightmare": 3.5
+    }
+  },
+  {
+    "Key": "N2015_DeadTime_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "DeadTime",
+      "ParamValue": 7.0,
+      "ParamValueHard": 7.0,
+      "ParamValueNightmare": 7.0
+    }
+  },
+  {
+    "Key": "N2015_RageHpRate_N2015",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N2015",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N2015",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "RageHpRate",
+      "ParamValue": 0.5,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3004_AttackInterval_N3004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackInterval",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3004_MoveRate_N3004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3004",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.5,
+      "ParamValueNightmare": 1.5
+    }
+  },
+  {
+    "Key": "N3004_BulletNum_N3004",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3004",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3004",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "BulletNum",
+      "ParamValue": 1.0,
+      "ParamValueHard": 3.0,
+      "ParamValueNightmare": 3.0
+    }
+  },
+  {
+    "Key": "N3011_IdleMinTime_N3011",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3011",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3011",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "IdleMinTime",
+      "ParamValue": 0.5,
+      "ParamValueHard": 0.25,
+      "ParamValueNightmare": 0.25
+    }
+  },
+  {
+    "Key": "N3011_IdleMaxTime_N3011",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3011",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3011",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "IdleMaxTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3011_AttackCoolTime_N3011",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3011",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3011",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackCoolTime",
+      "ParamValue": 0.5,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3011_UseArrowHoming_N3011",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3011",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3011",
+      "ParamType": "EPBCharaUniqueParameterType::Bool",
+      "ParamName": "UseArrowHoming",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N3011_NoMove_N3011",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3011",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3011",
+      "ParamType": "EPBCharaUniqueParameterType::Bool",
+      "ParamName": "NoMove",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N3012_IdleMinTime_N3012",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3012",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3012",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "IdleMinTime",
+      "ParamValue": 0.5,
+      "ParamValueHard": 0.25,
+      "ParamValueNightmare": 0.25
+    }
+  },
+  {
+    "Key": "N3012_IdleMaxTime_N3012",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3012",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3012",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "IdleMaxTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3012_AttackCoolTime_N3012",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3012",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3012",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackCoolTime",
+      "ParamValue": 0.5,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3012_UseArrowHoming_N3012",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3012",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3012",
+      "ParamType": "EPBCharaUniqueParameterType::Bool",
+      "ParamName": "UseArrowHoming",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3012_NoMove_N3012",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3012",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3012",
+      "ParamType": "EPBCharaUniqueParameterType::Bool",
+      "ParamName": "NoMove",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N3028_MoveRate_N3028",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3028",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3028",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.5,
+      "ParamValueNightmare": 1.5
+    }
+  },
+  {
+    "Key": "N3028_StepStopTime_N3028",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3028",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3028",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "StepStopTime",
+      "ParamValue": 0.15,
+      "ParamValueHard": 0.15,
+      "ParamValueNightmare": 0.15
+    }
+  },
+  {
+    "Key": "N3052_AttackInterval_N3052",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackInterval",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3052_MoveRate_N3052",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.5,
+      "ParamValueNightmare": 1.5
+    }
+  },
+  {
+    "Key": "N3052_SlashDownAttackRate_N3052",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SlashDownAttackRate",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N3052_SlashDownMoveTime_N3052",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SlashDownMoveTime",
+      "ParamValue": 2.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3052_SlashDownBeforeTime_N3052",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SlashDownBeforeTime",
+      "ParamValue": 0.8,
+      "ParamValueHard": 0.8,
+      "ParamValueNightmare": 0.8
+    }
+  },
+  {
+    "Key": "N3052_SlashUpAttackRate_N3052",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SlashUpAttackRate",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N3052_SlashUpWaitTime_N3052",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SlashUpWaitTime",
+      "ParamValue": 0.5,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3052_SlashUpMoveSpeedRate_N3052",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SlashUpMoveSpeedRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3052_ThrustDownAttackRate_N3052",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ThrustDownAttackRate",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N3052_ThrustDownUpMoveRate_N3052",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ThrustDownUpMoveRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3052_ThrustDownBeforeTime_N3052",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ThrustDownBeforeTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3052_ThrustDownDownMoveRate_N3052",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ThrustDownDownMoveRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3052_Familia_AttackIntervalLvMin_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackIntervalLvMin",
+      "ParamValue": 2.0,
+      "ParamValueHard": 2.0,
+      "ParamValueNightmare": 2.0
+    }
+  },
+  {
+    "Key": "N3052_Familia_AttackIntervalLvMax_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackIntervalLvMax",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3052_Familia_MoveRateLvMin_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveRateLvMin",
+      "ParamValue": 1.5,
+      "ParamValueHard": 1.5,
+      "ParamValueNightmare": 1.5
+    }
+  },
+  {
+    "Key": "N3052_Familia_MoveRateLvMax_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveRateLvMax",
+      "ParamValue": 2.0,
+      "ParamValueHard": 2.0,
+      "ParamValueNightmare": 2.0
+    }
+  },
+  {
+    "Key": "N3052_Familia_SlashDownAttackRate_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SlashDownAttackRate",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N3052_Familia_SlashDownMoveTime_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SlashDownMoveTime",
+      "ParamValue": 3.0,
+      "ParamValueHard": 3.0,
+      "ParamValueNightmare": 3.0
+    }
+  },
+  {
+    "Key": "N3052_Familia_SlashDownBeforeTime_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SlashDownBeforeTime",
+      "ParamValue": 0.8,
+      "ParamValueHard": 0.8,
+      "ParamValueNightmare": 0.8
+    }
+  },
+  {
+    "Key": "N3052_Familia_SlashUpAttackRate_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SlashUpAttackRate",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N3052_Familia_SlashUpWaitTime_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SlashUpWaitTime",
+      "ParamValue": 0.5,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3052_Familia_SlashUpMoveSpeedRate_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SlashUpMoveSpeedRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3052_Familia_ThrustDownAttackRate_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ThrustDownAttackRate",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N3052_Familia_ThrustDownUpMoveRate_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ThrustDownUpMoveRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3052_Familia_ThrustDownBeforeTime_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ThrustDownBeforeTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3052_Familia_ThrustDownDownMoveRate_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ThrustDownDownMoveRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3052_Familia_SkeweringAttackRate_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SkeweringAttackRate",
+      "ParamValue": 0.5,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3052_Familia_SkeweringMoveSpeed_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SkeweringMoveSpeed",
+      "ParamValue": 5000.0,
+      "ParamValueHard": 5000.0,
+      "ParamValueNightmare": 5000.0
+    }
+  },
+  {
+    "Key": "N3052_Familia_SkeweringMoveAccel_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SkeweringMoveAccel",
+      "ParamValue": 15000.0,
+      "ParamValueHard": 15000.0,
+      "ParamValueNightmare": 15000.0
+    }
+  },
+  {
+    "Key": "N3052_Familia_SkeweringBreakAccel_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SkeweringBreakAccel",
+      "ParamValue": 10000.0,
+      "ParamValueHard": 10000.0,
+      "ParamValueNightmare": 10000.0
+    }
+  },
+  {
+    "Key": "N3052_Familia_SkeweringMoveTime_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SkeweringMoveTime",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N3052_Familia_SlashDownRank_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "SlashDownRank",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3052_Familia_SlashUpRank_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "SlashUpRank",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3052_Familia_ThrustDownRank_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "ThrustDownRank",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3052_Familia_SkeweringRank_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "SkeweringRank",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3052_Familia_ModelChangeLevel2_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "ModelChangeLevel2",
+      "ParamValue": 25.0,
+      "ParamValueHard": 25.0,
+      "ParamValueNightmare": 25.0
+    }
+  },
+  {
+    "Key": "N3052_Familia_ModelChangeLevel3_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "ModelChangeLevel3",
+      "ParamValue": 50.0,
+      "ParamValueHard": 50.0,
+      "ParamValueNightmare": 50.0
+    }
+  },
+  {
+    "Key": "N3052_Familia_ModelChangeLevel4_N3052_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3052_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3052_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "ModelChangeLevel4",
+      "ParamValue": 75.0,
+      "ParamValueHard": 75.0,
+      "ParamValueNightmare": 75.0
+    }
+  },
+  {
+    "Key": "N3053_AttackInterval_N3053",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3053",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3053",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackInterval",
+      "ParamValue": 1.5,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3053_MoveRate_N3053",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3053",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3053",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.5,
+      "ParamValueNightmare": 1.5
+    }
+  },
+  {
+    "Key": "N3053_ChargeAttackRate_N3053",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3053",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3053",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ChargeAttackRate",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N3053_StoneBeamWaitTime_N3053",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3053",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3053",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "StoneBeamWaitTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3054_AttackInterval_N3054",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3054",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3054",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackInterval",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3054_BerserkAttackInterval_N3054",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3054",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3054",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "BerserkAttackInterval",
+      "ParamValue": 0.5,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N3054_MoveRate_N3054",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3054",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3054",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3054_BerserkMoveRate_N3054",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3054",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3054",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "BerserkMoveRate",
+      "ParamValue": 1.5,
+      "ParamValueHard": 1.5,
+      "ParamValueNightmare": 1.5
+    }
+  },
+  {
+    "Key": "N3054_ChargeAttackRate_N3054",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3054",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3054",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ChargeAttackRate",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N3054_StoneBeamWaitTime_N3054",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3054",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3054",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "StoneBeamWaitTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3054_BerserkAttackRate_N3054",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3054",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3054",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "BerserkAttackRate",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3058_AttackCoolTime_N3058",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3058",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3058",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackCoolTime",
+      "ParamValue": 0.25,
+      "ParamValueHard": 0.25,
+      "ParamValueNightmare": 0.25
+    }
+  },
+  {
+    "Key": "N3058_MoveCoolTime_N3058",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3058",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3058",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveCoolTime",
+      "ParamValue": 0.5,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3058_ForciblyMoveCoolTime_N3058",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3058",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3058",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ForciblyMoveCoolTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3058_UseThrowKnife_N3058",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3058",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3058",
+      "ParamType": "EPBCharaUniqueParameterType::Bool",
+      "ParamName": "UseThrowKnife",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3058_UseJumpKick_N3058",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3058",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3058",
+      "ParamType": "EPBCharaUniqueParameterType::Bool",
+      "ParamName": "UseJumpKick",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3058_UseGroundWhip_N3058",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3058",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3058",
+      "ParamType": "EPBCharaUniqueParameterType::Bool",
+      "ParamName": "UseGroundWhip",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N3058_UseJumpDuringJumpKick_N3058",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3058",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3058",
+      "ParamType": "EPBCharaUniqueParameterType::Bool",
+      "ParamName": "UseJumpDuringJumpKick",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3058_UseJumpDuringJumpWhip_N3058",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3058",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3058",
+      "ParamType": "EPBCharaUniqueParameterType::Bool",
+      "ParamName": "UseJumpDuringJumpWhip",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N3058_UniqueAttackBeginWaitRate_N3058",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3058",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3058",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "UniqueAttackBeginWaitRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3058_UniqueAttackFinishWaitRate_N3058",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3058",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3058",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "UniqueAttackFinishWaitRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3058_JumpKickBeginWaitRate_N3058",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3058",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3058",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "JumpKickBeginWaitRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3058_JumpKickFinishWaitRate_N3058",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3058",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3058",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "JumpKickFinishWaitRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3058_DuringJumpAttackBeginWaitRate_N3058",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3058",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3058",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "DuringJumpAttackBeginWaitRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3058_DuringJumpAttackFinishWaitRate_N3058",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3058",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3058",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "DuringJumpAttackFinishWaitRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3059_AttackCoolTime_N3059",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3059",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3059",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackCoolTime",
+      "ParamValue": 0.25,
+      "ParamValueHard": 0.25,
+      "ParamValueNightmare": 0.25
+    }
+  },
+  {
+    "Key": "N3059_MoveCoolTime_N3059",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3059",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3059",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveCoolTime",
+      "ParamValue": 0.5,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3059_ForciblyMoveCoolTime_N3059",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3059",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3059",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ForciblyMoveCoolTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3059_UseThrowKnife_N3059",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3059",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3059",
+      "ParamType": "EPBCharaUniqueParameterType::Bool",
+      "ParamName": "UseThrowKnife",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N3059_UseJumpKick_N3059",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3059",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3059",
+      "ParamType": "EPBCharaUniqueParameterType::Bool",
+      "ParamName": "UseJumpKick",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3059_UseGroundWhip_N3059",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3059",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3059",
+      "ParamType": "EPBCharaUniqueParameterType::Bool",
+      "ParamName": "UseGroundWhip",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3059_UseJumpDuringJumpKick_N3059",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3059",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3059",
+      "ParamType": "EPBCharaUniqueParameterType::Bool",
+      "ParamName": "UseJumpDuringJumpKick",
+      "ParamValue": 0.0,
+      "ParamValueHard": 0.0,
+      "ParamValueNightmare": 0.0
+    }
+  },
+  {
+    "Key": "N3059_UseJumpDuringJumpWhip_N3059",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3059",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3059",
+      "ParamType": "EPBCharaUniqueParameterType::Bool",
+      "ParamName": "UseJumpDuringJumpWhip",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3059_UniqueAttackBeginWaitRate_N3059",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3059",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3059",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "UniqueAttackBeginWaitRate",
+      "ParamValue": 0.4,
+      "ParamValueHard": 0.4,
+      "ParamValueNightmare": 0.4
+    }
+  },
+  {
+    "Key": "N3059_UniqueAttackFinishWaitRate_N3059",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3059",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3059",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "UniqueAttackFinishWaitRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3059_JumpKickBeginWaitRate_N3059",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3059",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3059",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "JumpKickBeginWaitRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3059_JumpKickFinishWaitRate_N3059",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3059",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3059",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "JumpKickFinishWaitRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3059_DuringJumpAttackBeginWaitRate_N3059",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3059",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3059",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "DuringJumpAttackBeginWaitRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3059_DuringJumpAttackFinishWaitRate_N3059",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3059",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3059",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "DuringJumpAttackFinishWaitRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3063_Familia_MoveRateLvMin_N3063_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3063_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3063_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveRateLvMin",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3063_Familia_MoveRateLvMax_N3063_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3063_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3063_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveRateLvMax",
+      "ParamValue": 1.5,
+      "ParamValueHard": 1.5,
+      "ParamValueNightmare": 1.5
+    }
+  },
+  {
+    "Key": "N3063_Familia_AttackMagicIntervalGradeMin_N3063_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3063_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3063_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackMagicIntervalGradeMin",
+      "ParamValue": 4.0,
+      "ParamValueHard": 4.0,
+      "ParamValueNightmare": 4.0
+    }
+  },
+  {
+    "Key": "N3063_Familia_AttackMagicIntervalGradeMax_N3063_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3063_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3063_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackMagicIntervalGradeMax",
+      "ParamValue": 2.0,
+      "ParamValueHard": 2.0,
+      "ParamValueNightmare": 2.0
+    }
+  },
+  {
+    "Key": "N3063_Familia_AttackMagicSensorLvMin_N3063_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3063_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3063_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackMagicSensorLvMin",
+      "ParamValue": 500.0,
+      "ParamValueHard": 500.0,
+      "ParamValueNightmare": 500.0
+    }
+  },
+  {
+    "Key": "N3063_Familia_AttackMagicSensorLvMax_N3063_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3063_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3063_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackMagicSensorLvMax",
+      "ParamValue": 1000.0,
+      "ParamValueHard": 1000.0,
+      "ParamValueNightmare": 1000.0
+    }
+  },
+  {
+    "Key": "N3063_Familia_BuffMagicSpecRateGradeMin_N3063_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3063_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3063_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "BuffMagicSpecRateGradeMin",
+      "ParamValue": 5.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "N3063_Familia_BuffMagicSpecRateGradeMax_N3063_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3063_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3063_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "BuffMagicSpecRateGradeMax",
+      "ParamValue": 20.0,
+      "ParamValueHard": 20.0,
+      "ParamValueNightmare": 20.0
+    }
+  },
+  {
+    "Key": "N3063_Familia_BuffMagicIntervalLvMin_N3063_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3063_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3063_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "BuffMagicIntervalLvMin",
+      "ParamValue": 4.0,
+      "ParamValueHard": 4.0,
+      "ParamValueNightmare": 4.0
+    }
+  },
+  {
+    "Key": "N3063_Familia_BuffMagicIntervalLvMax_N3063_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3063_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3063_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "BuffMagicIntervalLvMax",
+      "ParamValue": 2.0,
+      "ParamValueHard": 2.0,
+      "ParamValueNightmare": 2.0
+    }
+  },
+  {
+    "Key": "N3063_Familia_RushLevel_N3063_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3063_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3063_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "RushLevel",
+      "ParamValue": 5.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "N3087_AttackInterval_N3087",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3087",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3087",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackInterval",
+      "ParamValue": 2.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3087_MoveRate_N3087",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3087",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3087",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.5,
+      "ParamValueNightmare": 1.5
+    }
+  },
+  {
+    "Key": "N3087_AvoidMoveRate_N3087",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3087",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3087",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AvoidMoveRate",
+      "ParamValue": 1.25,
+      "ParamValueHard": 1.5,
+      "ParamValueNightmare": 1.5
+    }
+  },
+  {
+    "Key": "N3087_EmbraceAttackRate_N3087",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3087",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3087",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "EmbraceAttackRate",
+      "ParamValue": 0.5,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3087_EmbraceWaitTime_N3087",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3087",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3087",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "EmbraceWaitTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3087_EmbraceMoveRate_N3087",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3087",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3087",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "EmbraceMoveRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3090_Familia_MoveRudiusRate_N3090_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3090_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3090_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveRudiusRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3090_Familia_MoveRate_N3090_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3090_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3090_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3090_Familia_AttackIntervalMin_N3090_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3090_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3090_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackIntervalMin",
+      "ParamValue": 4.0,
+      "ParamValueHard": 4.0,
+      "ParamValueNightmare": 4.0
+    }
+  },
+  {
+    "Key": "N3090_Familia_AttackIntervalMax_N3090_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3090_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3090_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackIntervalMax",
+      "ParamValue": 2.0,
+      "ParamValueHard": 2.0,
+      "ParamValueNightmare": 2.0
+    }
+  },
+  {
+    "Key": "N3090_Familia_SpawnMax_N3090_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3090_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3090_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "SpawnMax",
+      "ParamValue": 5.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "N3091_AttackInterval_N3091",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3091",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3091",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackInterval",
+      "ParamValue": 2.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3091_MoveRate_N3091",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3091",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3091",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.5,
+      "ParamValueNightmare": 1.5
+    }
+  },
+  {
+    "Key": "N3091_ShootWaitTime_N3091",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3091",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3091",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ShootWaitTime",
+      "ParamValue": 1.5,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3091_Familia_AttackInterval_N3091_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3091_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3091_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackInterval",
+      "ParamValue": 2.0,
+      "ParamValueHard": 2.0,
+      "ParamValueNightmare": 2.0
+    }
+  },
+  {
+    "Key": "N3091_Familia_MoveRate_N3091_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3091_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3091_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3091_Familia_ShootWaitTime_N3091_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3091_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3091_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ShootWaitTime",
+      "ParamValue": 1.5,
+      "ParamValueHard": 1.5,
+      "ParamValueNightmare": 1.5
+    }
+  },
+  {
+    "Key": "N3091_Familia_DetectWallDistanceMin_N3091_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3091_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3091_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "DetectWallDistanceMin",
+      "ParamValue": 400.0,
+      "ParamValueHard": 400.0,
+      "ParamValueNightmare": 400.0
+    }
+  },
+  {
+    "Key": "N3091_Familia_DetectWallDistanceMax_N3091_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3091_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3091_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "DetectWallDistanceMax",
+      "ParamValue": 600.0,
+      "ParamValueHard": 600.0,
+      "ParamValueNightmare": 600.0
+    }
+  },
+  {
+    "Key": "N3091_Familia_DetectWallRank_N3091_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3091_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3091_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "DetectWallRank",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3091_Familia_ShootAttackRank_N3091_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3091_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3091_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "ShootAttackRank",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3091_Familia_CureStatusRank_N3091_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3091_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3091_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "CureStatusRank",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3091_Familia_CureHpRank_N3091_Familia",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3091_Familia",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3091_Familia",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "CureHpRank",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3092_AttackInterval_N3092",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3092",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3092",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackInterval",
+      "ParamValue": 2.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3092_MoveRate_N3092",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3092",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3092",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveRate",
+      "ParamValue": 1.2,
+      "ParamValueHard": 1.75,
+      "ParamValueNightmare": 1.75
+    }
+  },
+  {
+    "Key": "N3092_ShootWaitTime_N3092",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3092",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3092",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ShootWaitTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3092_ScaleMoveRate_N3092",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3092",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3092",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ScaleMoveRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3092_ScaleInterval_N3092",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3092",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3092",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ScaleInterval",
+      "ParamValue": 0.5,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3092_ScaleTime_N3092",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3092",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3092",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ScaleTime",
+      "ParamValue": 3.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "N3093_AttackInterval_N3093",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3093",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3093",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackInterval",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3093_MoveRate_N3093",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3093",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3093",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveRate",
+      "ParamValue": 1.5,
+      "ParamValueHard": 2.0,
+      "ParamValueNightmare": 2.0
+    }
+  },
+  {
+    "Key": "N3093_ShootWaitTime_N3093",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3093",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3093",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ShootWaitTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3093_StingAttackRate_N3093",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3093",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3093",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "StingAttackRate",
+      "ParamValue": 0.2,
+      "ParamValueHard": 0.2,
+      "ParamValueNightmare": 0.2
+    }
+  },
+  {
+    "Key": "N3093_StingWaitTime_N3093",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3093",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3093",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "StingWaitTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3093_StingMoveRate_N3093",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3093",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3093",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "StingMoveRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.5,
+      "ParamValueNightmare": 1.5
+    }
+  },
+  {
+    "Key": "N3108_SevenProbability_N3108",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3108",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3108",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SevenProbability",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N3108_ChanceProbability_N3108",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3108",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3108",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ChanceProbability",
+      "ParamValue": 3.0,
+      "ParamValueHard": 3.0,
+      "ParamValueNightmare": 3.0
+    }
+  },
+  {
+    "Key": "N3108_WaterMelonProbability_N3108",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3108",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3108",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "WaterMelonProbability",
+      "ParamValue": 15.0,
+      "ParamValueHard": 15.0,
+      "ParamValueNightmare": 15.0
+    }
+  },
+  {
+    "Key": "N3108_CherryProbability_N3108",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3108",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3108",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "CherryProbability",
+      "ParamValue": 15.0,
+      "ParamValueHard": 15.0,
+      "ParamValueNightmare": 15.0
+    }
+  },
+  {
+    "Key": "N3108_BelleProbability_N3108",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3108",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3108",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "BelleProbability",
+      "ParamValue": 20.0,
+      "ParamValueHard": 20.0,
+      "ParamValueNightmare": 20.0
+    }
+  },
+  {
+    "Key": "N3108_ReplayProbability_N3108",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3108",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3108",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ReplayProbability",
+      "ParamValue": 10.0,
+      "ParamValueHard": 10.0,
+      "ParamValueNightmare": 10.0
+    }
+  },
+  {
+    "Key": "N3119_AttackInterval_N3119",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3119",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3119",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackInterval",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3119_MoveRate_N3119",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3119",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3119",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveRate",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.5,
+      "ParamValueNightmare": 1.5
+    }
+  },
+  {
+    "Key": "N3119_BulletNum_N3119",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3119",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3119",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "BulletNum",
+      "ParamValue": 2.0,
+      "ParamValueHard": 4.0,
+      "ParamValueNightmare": 4.0
+    }
+  },
+  {
+    "Key": "N3121_MoveSpeed_N3121",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3121",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3121",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveSpeed",
+      "ParamValue": 300.0,
+      "ParamValueHard": 500.0,
+      "ParamValueNightmare": 500.0
+    }
+  },
+  {
+    "Key": "N3122_ApearTime_N3122",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3122",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3122",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ApearTime",
+      "ParamValue": 1.0,
+      "ParamValueHard": 0.5,
+      "ParamValueNightmare": 0.5
+    }
+  },
+  {
+    "Key": "N3122_MoveAccel_N3122",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3122",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3122",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MoveAccel",
+      "ParamValue": 100.0,
+      "ParamValueHard": 100.0,
+      "ParamValueNightmare": 100.0
+    }
+  },
+  {
+    "Key": "N3122_MaxMoveSpeed_N3122",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3122",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3122",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MaxMoveSpeed",
+      "ParamValue": 200.0,
+      "ParamValueHard": 300.0,
+      "ParamValueNightmare": 300.0
+    }
+  },
+  {
+    "Key": "N3122_MaxAngleSpeed_N3122",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3122",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3122",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MaxAngleSpeed",
+      "ParamValue": 180.0,
+      "ParamValueHard": 180.0,
+      "ParamValueNightmare": 180.0
+    }
+  },
+  {
+    "Key": "N3122_MinAngleSpeed_N3122",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N3122",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N3122",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "MinAngleSpeed",
+      "ParamValue": 45.0,
+      "ParamValueHard": 45.0,
+      "ParamValueNightmare": 45.0
+    }
+  },
+  {
+    "Key": "N6001_AttackIntervalThrustMin_N6001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N6001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N6001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackIntervalThrustMin",
+      "ParamValue": 5.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "N6001_AttackIntervalThrustMax_N6001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N6001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N6001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackIntervalThrustMax",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N6001_AttackIntervalContinuityThrustMin_N6001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N6001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N6001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackIntervalContinuityThrustMin",
+      "ParamValue": 5.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "N6001_AttackIntervalContinuityThrustMax_N6001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N6001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N6001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackIntervalContinuityThrustMax",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  },
+  {
+    "Key": "N6001_AttackIntervalSkyLightBrustMin_N6001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N6001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N6001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackIntervalSkyLightBrustMin",
+      "ParamValue": 10.0,
+      "ParamValueHard": 10.0,
+      "ParamValueNightmare": 10.0
+    }
+  },
+  {
+    "Key": "N6001_AttackIntervalSkyLightBrustMax_N6001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N6001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N6001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "AttackIntervalSkyLightBrustMax",
+      "ParamValue": 5.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "N6001_GuardMin_N6001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N6001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N6001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "GuardMin",
+      "ParamValue": 50.0,
+      "ParamValueHard": 50.0,
+      "ParamValueNightmare": 50.0
+    }
+  },
+  {
+    "Key": "N6001_GuardmMax_N6001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N6001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N6001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "GuardmMax",
+      "ParamValue": 80.0,
+      "ParamValueHard": 80.0,
+      "ParamValueNightmare": 80.0
+    }
+  },
+  {
+    "Key": "N6001_ThrustWaitTime_N6001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N6001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N6001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ThrustWaitTime",
+      "ParamValue": 0.1,
+      "ParamValueHard": 0.1,
+      "ParamValueNightmare": 0.1
+    }
+  },
+  {
+    "Key": "N6001_ContinuityThrustWaitTime_N6001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N6001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N6001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "ContinuityThrustWaitTime",
+      "ParamValue": 0.1,
+      "ParamValueHard": 0.1,
+      "ParamValueNightmare": 0.1
+    }
+  },
+  {
+    "Key": "N6001_SkyLightBrustWaitTime_N6001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N6001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N6001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "SkyLightBrustWaitTime",
+      "ParamValue": 5.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "N6001_GuardMoveSpeedMin_N6001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N6001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N6001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "GuardMoveSpeedMin",
+      "ParamValue": 1500.0,
+      "ParamValueHard": 1500.0,
+      "ParamValueNightmare": 1500.0
+    }
+  },
+  {
+    "Key": "N6001_GuardMoveSpeedMax_N6001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N6001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N6001",
+      "ParamType": "EPBCharaUniqueParameterType::Float",
+      "ParamName": "GuardMoveSpeedMax",
+      "ParamValue": 3500.0,
+      "ParamValueHard": 3500.0,
+      "ParamValueNightmare": 3500.0
+    }
+  },
+  {
+    "Key": "N6001_SkyLightBrustRank_N6001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N6001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N6001",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "SkyLightBrustRank",
+      "ParamValue": 5.0,
+      "ParamValueHard": 5.0,
+      "ParamValueNightmare": 5.0
+    }
+  },
+  {
+    "Key": "N6001_SkyLightBrustCount_N6001",
+    "Value": {
+      "CharaParaId": "EPBCharacterUniqueParameterId::N6001",
+      "CharaParaType": "EPBCharacterUniqueParameterType::N6001",
+      "ParamType": "EPBCharaUniqueParameterType::Int",
+      "ParamName": "SkyLightBrustCount",
+      "ParamValue": 1.0,
+      "ParamValueHard": 1.0,
+      "ParamValueNightmare": 1.0
+    }
+  }
+]

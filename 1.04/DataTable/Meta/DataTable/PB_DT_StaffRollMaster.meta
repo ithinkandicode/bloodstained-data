@@ -1,0 +1,42 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 7066
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 545
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 6954
+ImportCount: 4
+ImportOffset: 6842
+DependsOffset: 7058
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 56566f31-3c18-4da3-926d-85c3f4f92d98
+Generations: 1
+CompressionFlags: 0
+PackageSource: 990680
+Unversioned: False
+AssetRegistryDataOffset: 7062
+BulkDataStartOffset: 115430
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 7066
+
+
+TYPE DATA FOR PB_DT_StaffRollMaster:
+StaffText1 (541|0) -> StrProperty (544|0) 
+StaffText2 (542|0) -> StrProperty (544|0) 
+StaffText3 (543|0) -> StrProperty (544|0) 
+ImagePath (530|0) -> StrProperty (544|0) 
+NameType (532|0) -> IntProperty (531|0) 
+NextInterval (533|0) -> FloatProperty (529|0) 

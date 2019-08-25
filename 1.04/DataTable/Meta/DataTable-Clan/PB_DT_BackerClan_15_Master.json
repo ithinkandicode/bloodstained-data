@@ -1,0 +1,1091 @@
+[
+  {
+    "Key": "BACKER_0000",
+    "Value": {
+      "BackerName": "Klubach 'Mumpi' Davud",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#BD9796"
+    }
+  },
+  {
+    "Key": "BACKER_0001",
+    "Value": {
+      "BackerName": "Maarten van der Meer",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#9D5387"
+    }
+  },
+  {
+    "Key": "BACKER_0002",
+    "Value": {
+      "BackerName": "Hadesbane",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#D73098"
+    }
+  },
+  {
+    "Key": "BACKER_0003",
+    "Value": {
+      "BackerName": "Linobro",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#F3550C"
+    }
+  },
+  {
+    "Key": "BACKER_0004",
+    "Value": {
+      "BackerName": "Lance Erickson",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#B7C209"
+    }
+  },
+  {
+    "Key": "BACKER_0005",
+    "Value": {
+      "BackerName": "Victor White",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#D5A243"
+    }
+  },
+  {
+    "Key": "BACKER_0006",
+    "Value": {
+      "BackerName": "David W Hill",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#CD39B3"
+    }
+  },
+  {
+    "Key": "BACKER_0007",
+    "Value": {
+      "BackerName": "Thomas S. de Boer",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#54DE1D"
+    }
+  },
+  {
+    "Key": "BACKER_0008",
+    "Value": {
+      "BackerName": "Lumineko",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#CB91A3"
+    }
+  },
+  {
+    "Key": "BACKER_0009",
+    "Value": {
+      "BackerName": "Lawrence Toyer",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#AB9686"
+    }
+  },
+  {
+    "Key": "BACKER_0010",
+    "Value": {
+      "BackerName": "Hieu Tran",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#A65F5B"
+    }
+  },
+  {
+    "Key": "BACKER_0011",
+    "Value": {
+      "BackerName": "ElPolloLoco391",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#D9AC18"
+    }
+  },
+  {
+    "Key": "BACKER_0012",
+    "Value": {
+      "BackerName": "Victor B",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#379C72"
+    }
+  },
+  {
+    "Key": "BACKER_0013",
+    "Value": {
+      "BackerName": "da_crank",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#AA513D"
+    }
+  },
+  {
+    "Key": "BACKER_0014",
+    "Value": {
+      "BackerName": "Yannick Seyeux",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#8A8AB8"
+    }
+  },
+  {
+    "Key": "BACKER_0015",
+    "Value": {
+      "BackerName": "SOULeiMAN Alkhouri",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#FF276F"
+    }
+  },
+  {
+    "Key": "BACKER_0016",
+    "Value": {
+      "BackerName": "RAM",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#AE01B3"
+    }
+  },
+  {
+    "Key": "BACKER_0017",
+    "Value": {
+      "BackerName": "the_fallensage",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#458AB2"
+    }
+  },
+  {
+    "Key": "BACKER_0018",
+    "Value": {
+      "BackerName": "Coti Sipe",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#AA8765"
+    }
+  },
+  {
+    "Key": "BACKER_0019",
+    "Value": {
+      "BackerName": "Sysaphys",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#0AE18C"
+    }
+  },
+  {
+    "Key": "BACKER_0020",
+    "Value": {
+      "BackerName": "JPacalypse",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#05E484"
+    }
+  },
+  {
+    "Key": "BACKER_0021",
+    "Value": {
+      "BackerName": "Tristan \"KoRT\" Outeiral",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#2B375B"
+    }
+  },
+  {
+    "Key": "BACKER_0022",
+    "Value": {
+      "BackerName": "Eric McClure",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#899703"
+    }
+  },
+  {
+    "Key": "BACKER_0023",
+    "Value": {
+      "BackerName": "Brendan Lauver",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#A7E41E"
+    }
+  },
+  {
+    "Key": "BACKER_0024",
+    "Value": {
+      "BackerName": "Justin Fruhling",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#143CBB"
+    }
+  },
+  {
+    "Key": "BACKER_0025",
+    "Value": {
+      "BackerName": "KayC",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#83429B"
+    }
+  },
+  {
+    "Key": "BACKER_0026",
+    "Value": {
+      "BackerName": "LadyKatherine",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#536122"
+    }
+  },
+  {
+    "Key": "BACKER_0027",
+    "Value": {
+      "BackerName": "Jason \"Swordsman\" Lee",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#21AFDA"
+    }
+  },
+  {
+    "Key": "BACKER_0028",
+    "Value": {
+      "BackerName": "der_pepe",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#5217BF"
+    }
+  },
+  {
+    "Key": "BACKER_0029",
+    "Value": {
+      "BackerName": "Clayton Ziemer",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#4A9C65"
+    }
+  },
+  {
+    "Key": "BACKER_0030",
+    "Value": {
+      "BackerName": "HNNJ EJ GLAYZ",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#12CD39"
+    }
+  },
+  {
+    "Key": "BACKER_0031",
+    "Value": {
+      "BackerName": "Gerardo Arrambide ",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#41C839"
+    }
+  },
+  {
+    "Key": "BACKER_0032",
+    "Value": {
+      "BackerName": "Luckyblackcatxiii",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#C15F90"
+    }
+  },
+  {
+    "Key": "BACKER_0033",
+    "Value": {
+      "BackerName": "Martin Ellis",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#3B8216"
+    }
+  },
+  {
+    "Key": "BACKER_0034",
+    "Value": {
+      "BackerName": "Craig Home_Rowed Zitchick",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#7D7527"
+    }
+  },
+  {
+    "Key": "BACKER_0035",
+    "Value": {
+      "BackerName": "Matt Mason",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#A8CC76"
+    }
+  },
+  {
+    "Key": "BACKER_0036",
+    "Value": {
+      "BackerName": "Linestar",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#BC8B4F"
+    }
+  },
+  {
+    "Key": "BACKER_0037",
+    "Value": {
+      "BackerName": "Yoshi #Forever",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#AA13F2"
+    }
+  },
+  {
+    "Key": "BACKER_0038",
+    "Value": {
+      "BackerName": "Michinobe",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#4DDB65"
+    }
+  },
+  {
+    "Key": "BACKER_0039",
+    "Value": {
+      "BackerName": "Joshua D Bucklin",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#4DFE17"
+    }
+  },
+  {
+    "Key": "BACKER_0040",
+    "Value": {
+      "BackerName": "Jeff Even",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#909949"
+    }
+  },
+  {
+    "Key": "BACKER_0041",
+    "Value": {
+      "BackerName": "Justin Grimmett",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#A3E7CC"
+    }
+  },
+  {
+    "Key": "BACKER_0042",
+    "Value": {
+      "BackerName": "Carter B",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#66539B"
+    }
+  },
+  {
+    "Key": "BACKER_0043",
+    "Value": {
+      "BackerName": "Darien Liu and Wendy Qin",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#15D84C"
+    }
+  },
+  {
+    "Key": "BACKER_0044",
+    "Value": {
+      "BackerName": "Adrian Yoshiyama",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#95C952"
+    }
+  },
+  {
+    "Key": "BACKER_0045",
+    "Value": {
+      "BackerName": "William S. Habdas",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#2297E2"
+    }
+  },
+  {
+    "Key": "BACKER_0046",
+    "Value": {
+      "BackerName": "MAENNLEIN Nicolas",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#B2894A"
+    }
+  },
+  {
+    "Key": "BACKER_0047",
+    "Value": {
+      "BackerName": "Yu'ghara",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#8BEB95"
+    }
+  },
+  {
+    "Key": "BACKER_0048",
+    "Value": {
+      "BackerName": "Nicholas Major",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#C77A87"
+    }
+  },
+  {
+    "Key": "BACKER_0049",
+    "Value": {
+      "BackerName": "Andre Talbot",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#0CE3EC"
+    }
+  },
+  {
+    "Key": "BACKER_0050",
+    "Value": {
+      "BackerName": "Ruud Campsteijn",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#F58FF4"
+    }
+  },
+  {
+    "Key": "BACKER_0051",
+    "Value": {
+      "BackerName": "Ben Clifton",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#B96000"
+    }
+  },
+  {
+    "Key": "BACKER_0052",
+    "Value": {
+      "BackerName": "newoiehf",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#10191F"
+    }
+  },
+  {
+    "Key": "BACKER_0053",
+    "Value": {
+      "BackerName": "Nulani t'Acraya",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#4F0EC1"
+    }
+  },
+  {
+    "Key": "BACKER_0054",
+    "Value": {
+      "BackerName": "Chester T Kwan",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#CE4DEB"
+    }
+  },
+  {
+    "Key": "BACKER_0055",
+    "Value": {
+      "BackerName": "joshfiles",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#03D62D"
+    }
+  },
+  {
+    "Key": "BACKER_0056",
+    "Value": {
+      "BackerName": "JT Brennan",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#CDC7B7"
+    }
+  },
+  {
+    "Key": "BACKER_0057",
+    "Value": {
+      "BackerName": "Robert Hallock",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#AEDF89"
+    }
+  },
+  {
+    "Key": "BACKER_0058",
+    "Value": {
+      "BackerName": "Dustin K. Brantley",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#2D46BF"
+    }
+  },
+  {
+    "Key": "BACKER_0059",
+    "Value": {
+      "BackerName": "Stidham Little",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#3C14FB"
+    }
+  },
+  {
+    "Key": "BACKER_0060",
+    "Value": {
+      "BackerName": "Antti Enukonda",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#A84F80"
+    }
+  },
+  {
+    "Key": "BACKER_0061",
+    "Value": {
+      "BackerName": "Eric McLeod/Enjoy",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#1429EB"
+    }
+  },
+  {
+    "Key": "BACKER_0062",
+    "Value": {
+      "BackerName": "Bradley R. Nelson",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#CC5626"
+    }
+  },
+  {
+    "Key": "BACKER_0063",
+    "Value": {
+      "BackerName": "Viredae",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#A8415B"
+    }
+  },
+  {
+    "Key": "BACKER_0064",
+    "Value": {
+      "BackerName": "Tom, you will succeed",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#F41C1A"
+    }
+  },
+  {
+    "Key": "BACKER_0065",
+    "Value": {
+      "BackerName": "cfxxl",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#D6F97A"
+    }
+  },
+  {
+    "Key": "BACKER_0066",
+    "Value": {
+      "BackerName": "Michaelino",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#DF961A"
+    }
+  },
+  {
+    "Key": "BACKER_0067",
+    "Value": {
+      "BackerName": "Philippe Cardona",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#3DB95A"
+    }
+  },
+  {
+    "Key": "BACKER_0068",
+    "Value": {
+      "BackerName": "Axel P Flores",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#03227B"
+    }
+  },
+  {
+    "Key": "BACKER_0069",
+    "Value": {
+      "BackerName": "Valerie George & George T.",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#2D0BC4"
+    }
+  },
+  {
+    "Key": "BACKER_0070",
+    "Value": {
+      "BackerName": "MaroonSharkBrennus",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#8FD011"
+    }
+  },
+  {
+    "Key": "BACKER_0071",
+    "Value": {
+      "BackerName": "\"Newt\" Armstrong",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#740063"
+    }
+  },
+  {
+    "Key": "BACKER_0072",
+    "Value": {
+      "BackerName": "Michael B. Shore",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#100611"
+    }
+  },
+  {
+    "Key": "BACKER_0073",
+    "Value": {
+      "BackerName": "Unzareh",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#2BA5A0"
+    }
+  },
+  {
+    "Key": "BACKER_0074",
+    "Value": {
+      "BackerName": "Nightshade",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#4AB2B9"
+    }
+  },
+  {
+    "Key": "BACKER_0075",
+    "Value": {
+      "BackerName": "PA Novak 2435",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#3BA330"
+    }
+  },
+  {
+    "Key": "BACKER_0076",
+    "Value": {
+      "BackerName": "Bonefoot",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#002752"
+    }
+  },
+  {
+    "Key": "BACKER_0077",
+    "Value": {
+      "BackerName": "ScooterDrivinMama",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#17A6A0"
+    }
+  },
+  {
+    "Key": "BACKER_0078",
+    "Value": {
+      "BackerName": "C Crosher",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#84123E"
+    }
+  },
+  {
+    "Key": "BACKER_0079",
+    "Value": {
+      "BackerName": "RipVan the Sailorman ",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#405AD8"
+    }
+  },
+  {
+    "Key": "BACKER_0080",
+    "Value": {
+      "BackerName": "Draggeta",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#D5FEA0"
+    }
+  },
+  {
+    "Key": "BACKER_0081",
+    "Value": {
+      "BackerName": "kyosukekusanagi",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#53AD85"
+    }
+  },
+  {
+    "Key": "BACKER_0082",
+    "Value": {
+      "BackerName": "Gorka78 (Henke)",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#5202B4"
+    }
+  },
+  {
+    "Key": "BACKER_0083",
+    "Value": {
+      "BackerName": "Xofo",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#FDEA8A"
+    }
+  },
+  {
+    "Key": "BACKER_0084",
+    "Value": {
+      "BackerName": "Levi Mendenhall",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#1B94AB"
+    }
+  },
+  {
+    "Key": "BACKER_0085",
+    "Value": {
+      "BackerName": "Josue Silva ",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#CA0982"
+    }
+  },
+  {
+    "Key": "BACKER_0086",
+    "Value": {
+      "BackerName": "Robin Schalin",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#A1BB2D"
+    }
+  },
+  {
+    "Key": "BACKER_0087",
+    "Value": {
+      "BackerName": "Jacob Covington",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#5ECA4F"
+    }
+  },
+  {
+    "Key": "BACKER_0088",
+    "Value": {
+      "BackerName": "Michael Pimentel",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#1BDF8C"
+    }
+  },
+  {
+    "Key": "BACKER_0089",
+    "Value": {
+      "BackerName": "Sylian",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#79C34B"
+    }
+  },
+  {
+    "Key": "BACKER_0090",
+    "Value": {
+      "BackerName": "Jon Nguyen",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#B7D2E5"
+    }
+  },
+  {
+    "Key": "BACKER_0091",
+    "Value": {
+      "BackerName": "Glenn Davies",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#A155DC"
+    }
+  },
+  {
+    "Key": "BACKER_0092",
+    "Value": {
+      "BackerName": "RoseRed",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#40F89D"
+    }
+  },
+  {
+    "Key": "BACKER_0093",
+    "Value": {
+      "BackerName": "Marten van der Leij",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#414599"
+    }
+  },
+  {
+    "Key": "BACKER_0094",
+    "Value": {
+      "BackerName": "Daverball",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#E36C3B"
+    }
+  },
+  {
+    "Key": "BACKER_0095",
+    "Value": {
+      "BackerName": "Danny O'Leary",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#B6C91A"
+    }
+  },
+  {
+    "Key": "BACKER_0096",
+    "Value": {
+      "BackerName": "Nick Whaley",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#EE9EC4"
+    }
+  },
+  {
+    "Key": "BACKER_0097",
+    "Value": {
+      "BackerName": "Russell Forbes",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#06829C"
+    }
+  },
+  {
+    "Key": "BACKER_0098",
+    "Value": {
+      "BackerName": "Lars E. Brennvall",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#6F66C1"
+    }
+  },
+  {
+    "Key": "BACKER_0099",
+    "Value": {
+      "BackerName": "tontoBlackadder",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#B09961"
+    }
+  },
+  {
+    "Key": "BACKER_0100",
+    "Value": {
+      "BackerName": "Zelda Tredwell",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#A00EDE"
+    }
+  },
+  {
+    "Key": "BACKER_0101",
+    "Value": {
+      "BackerName": "Emmanuel M",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#80D005"
+    }
+  },
+  {
+    "Key": "BACKER_0102",
+    "Value": {
+      "BackerName": "Mike Tisdell",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#331BFE"
+    }
+  },
+  {
+    "Key": "BACKER_0103",
+    "Value": {
+      "BackerName": "Matthew Kaplowitz",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#67891C"
+    }
+  },
+  {
+    "Key": "BACKER_0104",
+    "Value": {
+      "BackerName": "Chris Fiolka (Hybris)",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#32F0BB"
+    }
+  },
+  {
+    "Key": "BACKER_0105",
+    "Value": {
+      "BackerName": "Christoph van Dommelen",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#A7AEA1"
+    }
+  },
+  {
+    "Key": "BACKER_0106",
+    "Value": {
+      "BackerName": "Danix The 3rd",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#FB33A2"
+    }
+  },
+  {
+    "Key": "BACKER_0107",
+    "Value": {
+      "BackerName": "Shane Forker",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#0FFB20"
+    }
+  },
+  {
+    "Key": "BACKER_0108",
+    "Value": {
+      "BackerName": "OGCFB (Connor)",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#078E59"
+    }
+  },
+  {
+    "Key": "BACKER_0109",
+    "Value": {
+      "BackerName": "Chris Stone",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#B95697"
+    }
+  },
+  {
+    "Key": "BACKER_0110",
+    "Value": {
+      "BackerName": "Kristofer Santos",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#34F25F"
+    }
+  },
+  {
+    "Key": "BACKER_0111",
+    "Value": {
+      "BackerName": "EazyCheeze1978",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#52E742"
+    }
+  },
+  {
+    "Key": "BACKER_0112",
+    "Value": {
+      "BackerName": "Fraser \"Frash Frash\" Agar",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#4B32D5"
+    }
+  },
+  {
+    "Key": "BACKER_0113",
+    "Value": {
+      "BackerName": "Cristopher Daedalus Bryant",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#4C7445"
+    }
+  },
+  {
+    "Key": "BACKER_0114",
+    "Value": {
+      "BackerName": "NightFury_NN",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#2056CB"
+    }
+  },
+  {
+    "Key": "BACKER_0115",
+    "Value": {
+      "BackerName": "Nashmy Maequez",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#A22864"
+    }
+  },
+  {
+    "Key": "BACKER_0116",
+    "Value": {
+      "BackerName": "Phillip ruth",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#61ED6C"
+    }
+  },
+  {
+    "Key": "BACKER_0117",
+    "Value": {
+      "BackerName": "ZONE0 WING HERO",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#F5CC8D"
+    }
+  },
+  {
+    "Key": "BACKER_0118",
+    "Value": {
+      "BackerName": "Noj Strebor",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#B109DD"
+    }
+  },
+  {
+    "Key": "BACKER_0119",
+    "Value": {
+      "BackerName": "Peter Fagervall",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#F11CF4"
+    }
+  },
+  {
+    "Key": "BACKER_0120",
+    "Value": {
+      "BackerName": "Wicked_Toker",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#66F36C"
+    }
+  }
+]

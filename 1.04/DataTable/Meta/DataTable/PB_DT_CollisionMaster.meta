@@ -1,0 +1,84 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 37033
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 1896
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 36921
+ImportCount: 4
+ImportOffset: 36809
+DependsOffset: 37025
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 33358db9-87aa-4943-bf22-ae3a5ef8ba8b
+Generations: 1
+CompressionFlags: 0
+PackageSource: 1835434477
+Unversioned: False
+AssetRegistryDataOffset: 37029
+BulkDataStartOffset: 1059016
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 37033
+
+
+TYPE DATA FOR PB_DT_CollisionMaster:
+DamageTag (744|0) -> NameProperty (1391|0) 
+CollisionShape (730|0) -> IntProperty (835|0) 
+ToEnemy (1834|0) -> BoolProperty (716|0) 
+ToAlly (1827|0) -> BoolProperty (716|0) 
+ToSelf (1846|0) -> BoolProperty (716|0) 
+ToTarget (1848|0) -> BoolProperty (716|0) 
+ToSlip (1847|0) -> BoolProperty (716|0) 
+ToGround (1837|0) -> BoolProperty (716|0) 
+IgnoreMeshScale (830|0) -> BoolProperty (716|0) 
+R00 (1593|0) -> FloatProperty (754|0) 
+R01 (1594|0) -> FloatProperty (754|0) 
+RTime0 (1636|0) -> FloatProperty (754|0) 
+IsMirror0 (839|0) -> BoolProperty (716|0) 
+Socket00 (1762|0) -> NameProperty (1391|0) 
+Socket01 (1763|0) -> NameProperty (1391|0) 
+R10 (1595|0) -> FloatProperty (754|0) 
+R11 (1596|0) -> FloatProperty (754|0) 
+RTime1 (1637|0) -> FloatProperty (754|0) 
+IsMirror1 (840|0) -> BoolProperty (716|0) 
+Socket10 (1764|0) -> NameProperty (1391|0) 
+Socket11 (1765|0) -> NameProperty (1391|0) 
+R20 (1597|0) -> FloatProperty (754|0) 
+R21 (1598|0) -> FloatProperty (754|0) 
+RTime2 (1638|0) -> FloatProperty (754|0) 
+IsMirror2 (841|0) -> BoolProperty (716|0) 
+Socket20 (1766|0) -> NameProperty (1391|0) 
+Socket21 (1767|0) -> NameProperty (1391|0) 
+R30 (1599|0) -> FloatProperty (754|0) 
+R31 (1600|0) -> FloatProperty (754|0) 
+RTime3 (1639|0) -> FloatProperty (754|0) 
+IsMirror3 (842|0) -> BoolProperty (716|0) 
+Socket30 (1768|0) -> NameProperty (1391|0) 
+Socket31 (1769|0) -> NameProperty (1391|0) 
+R40 (1601|0) -> FloatProperty (754|0) 
+R41 (1602|0) -> FloatProperty (754|0) 
+RTime4 (1640|0) -> FloatProperty (754|0) 
+IsMirror4 (843|0) -> BoolProperty (716|0) 
+Socket40 (1770|0) -> NameProperty (1391|0) 
+Socket41 (1771|0) -> NameProperty (1391|0) 
+Is2DHit (836|0) -> BoolProperty (716|0) 
+IsBullet (838|0) -> BoolProperty (716|0) 
+ProjectionDistance (1591|0) -> FloatProperty (754|0) 
+Guard (777|0) -> BoolProperty (716|0) 
+IsRapidMove (844|0) -> BoolProperty (716|0) 
+IsBeam (837|0) -> BoolProperty (716|0) 
+BulletLength (719|0) -> FloatProperty (754|0) 
+ToAttach (1828|0) -> BoolProperty (716|0) 
+Range (1626|0) -> FloatProperty (754|0) 

@@ -1,0 +1,39 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 1013
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 31
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 901
+ImportCount: 4
+ImportOffset: 789
+DependsOffset: 1005
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: 8cc3c937-7fd5-42b8-8c39-d5659f963244
+Generations: 1
+CompressionFlags: 0
+PackageSource: 2903671546
+Unversioned: False
+AssetRegistryDataOffset: 1009
+BulkDataStartOffset: 2410
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 1013
+
+
+TYPE DATA FOR PB_DT_SurfaceMaster:
+SurfaceStr (24|0) -> StrProperty (23|0) 
+DamageIdSuffix (7|0) -> StrProperty (23|0) 
+ThroughDamage (25|0) -> BoolProperty (4|0) 

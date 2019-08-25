@@ -1,0 +1,38 @@
+[
+  {
+    "Key": "SeedCorn",
+    "Value": {
+      "SeedItemId": "SeedCorn",
+      "RoomChangeCountToEarly": 2,
+      "RoomChangeCountToMid": 2,
+      "RoomChangeCountToLate": 2,
+      "RoomChangeCountToComplete": 2,
+      "HarvestItemId": "Corn",
+      "HarvestItemNum": 10
+    }
+  },
+  {
+    "Key": "SeedRice",
+    "Value": {
+      "SeedItemId": "SeedRice",
+      "RoomChangeCountToEarly": 2,
+      "RoomChangeCountToMid": 2,
+      "RoomChangeCountToLate": 2,
+      "RoomChangeCountToComplete": 2,
+      "HarvestItemId": "Paddy",
+      "HarvestItemNum": 10
+    }
+  },
+  {
+    "Key": "SeedPotato",
+    "Value": {
+      "SeedItemId": "SeedPotato",
+      "RoomChangeCountToEarly": 2,
+      "RoomChangeCountToMid": 2,
+      "RoomChangeCountToLate": 2,
+      "RoomChangeCountToComplete": 2,
+      "HarvestItemId": "Potato",
+      "HarvestItemNum": 10
+    }
+  }
+]

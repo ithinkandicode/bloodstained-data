@@ -1,0 +1,36 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 562
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 8
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 450
+ImportCount: 2
+ImportOffset: 394
+DependsOffset: 554
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: a006e5e7-c763-4cfe-b89b-46d120ff8f03
+Generations: 1
+CompressionFlags: 0
+PackageSource: 1074016995
+Unversioned: False
+AssetRegistryDataOffset: 558
+BulkDataStartOffset: 1744
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 562
+
+
+TYPE DATA FOR PB_STR_CharaExplain:

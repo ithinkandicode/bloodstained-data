@@ -1,0 +1,218 @@
+[
+  {
+    "Key": "Miriam",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "01257BD74C16EF00689FA9B68D03C1C3",
+        "Text": "Miriam"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Zangetsu",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "17CA9B1B451BB8C5F85831BA05C72F2C",
+        "Text": "Zangetsu"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Johannes",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "1031E66144C2E81F30B2FDBE22555D53",
+        "Text": "Johannes"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Ziber",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "41D3D4F846D7AB8058673F962AF78553",
+        "Text": "Gebel"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Dominique",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "9172E0AB4C0A0EE8FFD4DFA6B8AC0035",
+        "Text": "Dominique"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Alfred",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "FED166234FF2B7ECF5F84DAD08B5D25F",
+        "Text": "Alfred"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Gremory",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "536CE32C47A61CD9A8E609811B7ACAA7",
+        "Text": "Gremory"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Coachman",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "C16FD09B414E345CE2335E8705354B04",
+        "Text": "Coachman"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "An",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "E1728DDC4238B948F4D3BFBC17CB45C8",
+        "Text": "Anne"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Hallie",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "2DCF86584CE27C4C4D525E80B4E1334F",
+        "Text": "Harry"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Benjamin",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "DB716BA047D13E34DBCA37A9074EBCBC",
+        "Text": "Benjamin"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Susie",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "2A04D3C64BE3CD4F9BB42896F922C8D9",
+        "Text": "Susie"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Abigail",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "49AB2066409B2EBCBFA8D38369B3F652",
+        "Text": "Abigail"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Lindsay",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "BED0EBAC457C05F804C737A00DD135C6",
+        "Text": "Lindsay"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "OD",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "4B3501664A10BBC3BDB2C5999902B1C0",
+        "Text": "O.D."
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Todd",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "F9D501EE4A05A61F852E4FAD5905A7CC",
+        "Text": "Todd"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Gost",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "224754D44CD364CA34DE50BD9B5EAD5F",
+        "Text": "Ghost"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  },
+  {
+    "Key": "Miriam",
+    "Value": {
+      "SpeakerName_2_83069B2041718856548D2C934F9BD01A": {
+        "Hash": "28B3EE0745687485E0BAFC9D6F2BD91F",
+        "Text": "Miriam"
+      },
+      "SpeakerPortrait_5_425915B34212329875BECD87464FB73C": null,
+      "bIsPlayer_11_A503BFDF42F0D014365361B804DD6189": false,
+      "bSilentResponses_10_2AE59CC84BF4AB3EF2FE7697BE1696CA": false
+    }
+  }
+]

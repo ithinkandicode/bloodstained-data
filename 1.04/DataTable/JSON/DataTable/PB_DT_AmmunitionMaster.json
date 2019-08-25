@@ -1,0 +1,114 @@
+[
+  {
+    "Key": "Bullet_Defaultbullet",
+    "Value": {
+      "MeleeAttack": 5,
+      "BulletID": "P0001_GUN_DEFAULT"
+    }
+  },
+  {
+    "Key": "Softpoint",
+    "Value": {
+      "MeleeAttack": 15,
+      "BulletID": "Softpoint"
+    }
+  },
+  {
+    "Key": "Hollowpoint",
+    "Value": {
+      "MeleeAttack": 40,
+      "BulletID": "Hollowpoint"
+    }
+  },
+  {
+    "Key": "ArmorPiercing",
+    "Value": {
+      "MeleeAttack": 50,
+      "BulletID": "ArmorPiercing"
+    }
+  },
+  {
+    "Key": "Firebullet",
+    "Value": {
+      "MeleeAttack": 30,
+      "BulletID": "Firebullet"
+    }
+  },
+  {
+    "Key": "Icebullet",
+    "Value": {
+      "MeleeAttack": 60,
+      "BulletID": "Icebullet"
+    }
+  },
+  {
+    "Key": "ThunderRounds",
+    "Value": {
+      "MeleeAttack": 50,
+      "BulletID": "Thunderbrett"
+    }
+  },
+  {
+    "Key": "SilverBullets",
+    "Value": {
+      "MeleeAttack": 80,
+      "BulletID": "SilverBullet"
+    }
+  },
+  {
+    "Key": "WeaponbaneRounds",
+    "Value": {
+      "MeleeAttack": 20,
+      "BulletID": "WeaponbaneRounds"
+    }
+  },
+  {
+    "Key": "ShieldbaneRounds",
+    "Value": {
+      "MeleeAttack": 20,
+      "BulletID": "ShieldbaneRounds"
+    }
+  },
+  {
+    "Key": "PoisonRounds",
+    "Value": {
+      "MeleeAttack": 20,
+      "BulletID": "PoisonRounds"
+    }
+  },
+  {
+    "Key": "PetrifyingRounds",
+    "Value": {
+      "MeleeAttack": 20,
+      "BulletID": "PetrifyingRounds"
+    }
+  },
+  {
+    "Key": "CurseRounds",
+    "Value": {
+      "MeleeAttack": 20,
+      "BulletID": "CurseRounds"
+    }
+  },
+  {
+    "Key": "Shotshell",
+    "Value": {
+      "MeleeAttack": 5,
+      "BulletID": "Shotshell"
+    }
+  },
+  {
+    "Key": "CriticalBullet",
+    "Value": {
+      "MeleeAttack": 80,
+      "BulletID": "CriticalBullet"
+    }
+  },
+  {
+    "Key": "DiamondBullets",
+    "Value": {
+      "MeleeAttack": 120,
+      "BulletID": "DiamondBullets"
+    }
+  }
+]

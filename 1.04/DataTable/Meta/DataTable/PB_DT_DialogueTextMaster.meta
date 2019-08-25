@@ -1,0 +1,40 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 372974
+FolderName: None
+PackageFlags: 2147745792
+NameCount: 5719
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 372862
+ImportCount: 4
+ImportOffset: 372750
+DependsOffset: 372966
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: f3993922-d19c-42b0-b5ad-576dbb07483d
+Generations: 1
+CompressionFlags: 0
+PackageSource: 3886571505
+Unversioned: False
+AssetRegistryDataOffset: 372970
+BulkDataStartOffset: 656987
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 372974
+
+
+TYPE DATA FOR PB_DT_DialogueTextMaster:
+DialogueText (4816|0) -> TextProperty (5542|0) 
+DialogueAudioID (4815|0) -> NameProperty (5262|0) 
+JPLipRef (5261|0) -> SoftObjectProperty (5541|0) 
+ENLipRef (4817|0) -> SoftObjectProperty (5541|0) 

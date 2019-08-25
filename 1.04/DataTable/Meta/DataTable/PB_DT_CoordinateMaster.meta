@@ -1,0 +1,42 @@
+﻿Tag: -1641380927
+FileVersionUE4: -7
+FileVersionLicenseeUE4: 0
+FileVersionUE3: 0
+FileVersionLicenseeUE3: 0
+CustomVersion: 0
+TotalHeaderSize: 19163
+FolderName: None
+PackageFlags: 2147483648
+NameCount: 262
+NameOffset: 193
+GatherableNameCount: 0
+GatherableNameOffset: 0
+ExportCount: 1
+ExportOffset: 19051
+ImportCount: 4
+ImportOffset: 18939
+DependsOffset: 19155
+SoftPackageReferencesCount: 0
+SoftPackageReferencesOffset: 0
+SearchableNamesOffset: 0
+ThumbnailTableOffset: 0
+Guid: dabb85c5-810e-4173-b7ec-c7b35fd2a8fc
+Generations: 1
+CompressionFlags: 0
+PackageSource: 1327418311
+Unversioned: False
+AssetRegistryDataOffset: 19159
+BulkDataStartOffset: 34392
+WorldTileInfoDataOffset: 0
+ChunkIDs: 0
+PreloadDependencyCount: -1
+PreloadDependencyOffset: 19163
+
+
+TYPE DATA FOR PB_DT_CoordinateMaster:
+ID (207|0) -> IntProperty (208|0) 
+Category (152|0) -> ByteProperty (151|0) 
+UnlockItem (250|0) -> NameProperty (211|0) 
+IsDLC_ChildOfRight (209|0) -> BoolProperty (150|0) 
+IsDLC_WhiteMiriam (210|0) -> BoolProperty (150|0) 
+IconPath (206|0) -> SoftObjectProperty (249|0) 

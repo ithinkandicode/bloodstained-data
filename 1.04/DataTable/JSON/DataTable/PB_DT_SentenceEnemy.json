@@ -1,0 +1,149 @@
+[
+  {
+    "Key": "SEN_Enemy_N3004",
+    "Value": {
+      "Japanese": "モートボーン",
+      "English": "Morte Bone"
+    }
+  },
+  {
+    "Key": "SEN_Enemy_N3073",
+    "Value": {
+      "Japanese": "ギーレムント",
+      "English": "Gieremund"
+    }
+  },
+  {
+    "Key": "N1001",
+    "Value": {
+      "Japanese": "ウェパル",
+      "English": "Vepar"
+    }
+  },
+  {
+    "Key": "N1011",
+    "Value": {
+      "Japanese": "斬月",
+      "English": "Zangetsu"
+    }
+  },
+  {
+    "Key": "N3006",
+    "Value": {
+      "Japanese": "シーマ",
+      "English": "Seama"
+    }
+  },
+  {
+    "Key": "N3004",
+    "Value": {
+      "Japanese": "モート・ボーン",
+      "English": "Morte Bone"
+    }
+  },
+  {
+    "Key": "N3005",
+    "Value": {
+      "Japanese": "モート・カノン",
+      "English": "Morte Cannon"
+    }
+  },
+  {
+    "Key": "N3007",
+    "Value": {
+      "Japanese": "アエロー",
+      "English": "Aello"
+    }
+  },
+  {
+    "Key": "N3011",
+    "Value": {
+      "Japanese": "バルバトス",
+      "English": "Barbatos"
+    }
+  },
+  {
+    "Key": "N3013",
+    "Value": {
+      "Japanese": "ゴースト",
+      "English": "Ghost"
+    }
+  },
+  {
+    "Key": "N3015",
+    "Value": {
+      "Japanese": "デュラハンマ",
+      "English": "Dullahammer"
+    }
+  },
+  {
+    "Key": "N3017",
+    "Value": {
+      "Japanese": "モート・ガナー",
+      "English": "Morte Gunner"
+    }
+  },
+  {
+    "Key": "N3029",
+    "Value": {
+      "Japanese": "バット",
+      "English": "Bat"
+    }
+  },
+  {
+    "Key": "N3042",
+    "Value": {
+      "Japanese": "トード",
+      "English": "Toad"
+    }
+  },
+  {
+    "Key": "N3051",
+    "Value": {
+      "Japanese": "ジャイアント・ラット",
+      "English": "Giant Rat"
+    }
+  },
+  {
+    "Key": "N3065",
+    "Value": {
+      "Japanese": "プルムパルマ",
+      "English": "Plume Parma"
+    }
+  },
+  {
+    "Key": "N3066",
+    "Value": {
+      "Japanese": "モコプラント",
+      "English": "Mocoplant"
+    }
+  },
+  {
+    "Key": "N3073",
+    "Value": {
+      "Japanese": "ギーレムント",
+      "English": "Gieremund"
+    }
+  },
+  {
+    "Key": "N3080",
+    "Value": {
+      "Japanese": "サブナック",
+      "English": "Sabnock"
+    }
+  },
+  {
+    "Key": "N3003",
+    "Value": {
+      "Japanese": "モート",
+      "English": "Morte"
+    }
+  },
+  {
+    "Key": "Dummy",
+    "Value": {
+      "Japanese": "ダミー",
+      "English": "Dummy"
+    }
+  }
+]

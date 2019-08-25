@@ -1,0 +1,992 @@
+[
+  {
+    "Key": "Potion",
+    "Value": {
+      "SpecialEffectId": "Potion",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Potion",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "HighPotion",
+    "Value": {
+      "SpecialEffectId": "HighPotion",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Potion",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ExPotion",
+    "Value": {
+      "SpecialEffectId": "ExPotion",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Potion",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Ether",
+    "Value": {
+      "SpecialEffectId": "Ether",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Potion",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "HighEther",
+    "Value": {
+      "SpecialEffectId": "HighEther",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Potion",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ExEther",
+    "Value": {
+      "SpecialEffectId": "ExEther",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Potion",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Mithridate",
+    "Value": {
+      "SpecialEffectId": "Mithridate",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Potion",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "HolyWater",
+    "Value": {
+      "SpecialEffectId": "HolyWater",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Potion",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Stonethaw",
+    "Value": {
+      "SpecialEffectId": "Stonethaw",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Potion",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Poison",
+    "Value": {
+      "SpecialEffectId": "Poison",
+      "IsAutoUse": false,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Potion",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Waystone",
+    "Value": {
+      "SpecialEffectId": "Waystone",
+      "IsAutoUse": false,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Potion",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "GateWaystone",
+    "Value": {
+      "SpecialEffectId": "GateWaystone",
+      "IsAutoUse": false,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Potion",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "IdolWaystone",
+    "Value": {
+      "SpecialEffectId": "IdolWaystone",
+      "IsAutoUse": false,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Potion",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Panacea",
+    "Value": {
+      "SpecialEffectId": "Panacea",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Potion",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "FaerieMedicine",
+    "Value": {
+      "SpecialEffectId": "FaerieMedicine",
+      "IsAutoUse": false,
+      "IsUsingFamiliaOnly": true,
+      "Category": "ECarriedCatalog::Potion",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "FaerieElixir",
+    "Value": {
+      "SpecialEffectId": "FaerieElixir",
+      "IsAutoUse": false,
+      "IsUsingFamiliaOnly": true,
+      "Category": "ECarriedCatalog::Potion",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "FaerieAllheal",
+    "Value": {
+      "SpecialEffectId": "FaerieAllheal",
+      "IsAutoUse": false,
+      "IsUsingFamiliaOnly": true,
+      "Category": "ECarriedCatalog::Potion",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "FaeriePanacea",
+    "Value": {
+      "SpecialEffectId": "FaeriePanacea",
+      "IsAutoUse": false,
+      "IsUsingFamiliaOnly": true,
+      "Category": "ECarriedCatalog::Potion",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "MaxHPUP",
+    "Value": {
+      "SpecialEffectId": "MaxHPUP",
+      "IsAutoUse": false,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "MaxMPUP",
+    "Value": {
+      "SpecialEffectId": "MaxMPUP",
+      "IsAutoUse": false,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "MaxBulletUP",
+    "Value": {
+      "SpecialEffectId": "MaxBulletUP",
+      "IsAutoUse": false,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "HPFullRecovery",
+    "Value": {
+      "SpecialEffectId": "HP10000",
+      "IsAutoUse": false,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "MPFullRecovery",
+    "Value": {
+      "SpecialEffectId": "MPFullRecovery",
+      "IsAutoUse": false,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::None",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "RiceBall",
+    "Value": {
+      "SpecialEffectId": "RiceBall",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "UniDon",
+    "Value": {
+      "SpecialEffectId": "UniDon",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "AppleRisotto",
+    "Value": {
+      "SpecialEffectId": "AppleRisotto",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "EggonRice",
+    "Value": {
+      "SpecialEffectId": "EggonRice",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Omurice",
+    "Value": {
+      "SpecialEffectId": "Omurice",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ChickenCasserole",
+    "Value": {
+      "SpecialEffectId": "ChickenCasserole",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Curry&Rice",
+    "Value": {
+      "SpecialEffectId": "Curry&Rice",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "BeefCurry",
+    "Value": {
+      "SpecialEffectId": "BeefCurry",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "PorkCurry",
+    "Value": {
+      "SpecialEffectId": "PorkCurry",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ChickenCurry",
+    "Value": {
+      "SpecialEffectId": "ChickenCurry",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "SeafoodCurry",
+    "Value": {
+      "SpecialEffectId": "SeafoodCurry",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "MacaroniGratin",
+    "Value": {
+      "SpecialEffectId": "MacaroniGratin",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ClassicSpaghetti",
+    "Value": {
+      "SpecialEffectId": "ClassicSpaghetti",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "PastaCarbonara",
+    "Value": {
+      "SpecialEffectId": "PastaCarbonara",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "PastaVongole",
+    "Value": {
+      "SpecialEffectId": "PastaVongole",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "SeaUrchinPasta",
+    "Value": {
+      "SpecialEffectId": "SeaUrchinPasta",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "BerrySpaghetti",
+    "Value": {
+      "SpecialEffectId": "BerrySpaghetti",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ShirukoSpaghetti",
+    "Value": {
+      "SpecialEffectId": "ShirukoSpaghetti",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "SaltRamen",
+    "Value": {
+      "SpecialEffectId": "SaltRamen",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "SoyRamen",
+    "Value": {
+      "SpecialEffectId": "SoyRamen",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "TonkotsuRamen",
+    "Value": {
+      "SpecialEffectId": "TonkotsuRamen",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "MisoRamen",
+    "Value": {
+      "SpecialEffectId": "MisoRamen",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "CornChowder",
+    "Value": {
+      "SpecialEffectId": "CornChowder",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Steak",
+    "Value": {
+      "SpecialEffectId": "Steak",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ExquisiteSteak",
+    "Value": {
+      "SpecialEffectId": "ExquisiteSteak",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Sukiyaki",
+    "Value": {
+      "SpecialEffectId": "Sukiyaki",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ChickenSauté",
+    "Value": {
+      "SpecialEffectId": "ChickenSauté",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "GarlicChicken",
+    "Value": {
+      "SpecialEffectId": "GarlicChicken",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Tonkatsu",
+    "Value": {
+      "SpecialEffectId": "Tonkatsu",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "MisoCutlet",
+    "Value": {
+      "SpecialEffectId": "MisoCutlet",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "GingerPork",
+    "Value": {
+      "SpecialEffectId": "GingerPork",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "MeatHotPot",
+    "Value": {
+      "SpecialEffectId": "MeatHotPot",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "FriedPotatoes",
+    "Value": {
+      "SpecialEffectId": "FriedPotatoes",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Pizza",
+    "Value": {
+      "SpecialEffectId": "Pizza",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "FriedFish",
+    "Value": {
+      "SpecialEffectId": "FriedFish",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "FishAndChips",
+    "Value": {
+      "SpecialEffectId": "FishAndChips",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "SimmeredForneus",
+    "Value": {
+      "SpecialEffectId": "SimmeredForneus",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ForneusMeunière",
+    "Value": {
+      "SpecialEffectId": "ForneusMeunière",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ForneusinGarlic",
+    "Value": {
+      "SpecialEffectId": "ForneusinGarlic",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "FishHotPot",
+    "Value": {
+      "SpecialEffectId": "FishHotPot",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Flan",
+    "Value": {
+      "SpecialEffectId": "Flan",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Manju",
+    "Value": {
+      "SpecialEffectId": "Manju",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ApplePie",
+    "Value": {
+      "SpecialEffectId": "ApplePie",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "LemonPie",
+    "Value": {
+      "SpecialEffectId": "LemonPie",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "StrawberryPie",
+    "Value": {
+      "SpecialEffectId": "StrawberryPie",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "StrawberryCrepe",
+    "Value": {
+      "SpecialEffectId": "StrawberryCrepe",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ChocolateCrepe",
+    "Value": {
+      "SpecialEffectId": "ChocolateCrepe",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Cookies",
+    "Value": {
+      "SpecialEffectId": "Cookies",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ChocolateCookies",
+    "Value": {
+      "SpecialEffectId": "ChocolateCookies",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "CinnamonCookies",
+    "Value": {
+      "SpecialEffectId": "CinnamonCookies",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "SpongeCake",
+    "Value": {
+      "SpecialEffectId": "SpongeCake",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ChiffonCake",
+    "Value": {
+      "SpecialEffectId": "ChiffonCake",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "CheeseCake",
+    "Value": {
+      "SpecialEffectId": "CheeseCake",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ChocolateCake",
+    "Value": {
+      "SpecialEffectId": "ChocolateCake",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "StrawberryCake",
+    "Value": {
+      "SpecialEffectId": "StrawberryCake",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "ScrambledEggs",
+    "Value": {
+      "SpecialEffectId": "ScrambledEggs",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "RolledOmelette",
+    "Value": {
+      "SpecialEffectId": "RolledOmelette",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "FriedEgg",
+    "Value": {
+      "SpecialEffectId": "FriedEgg",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "EggSoufflé",
+    "Value": {
+      "SpecialEffectId": "EggSoufflé",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "AppleJuice",
+    "Value": {
+      "SpecialEffectId": "AppleJuice",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "StrawberryAuLait",
+    "Value": {
+      "SpecialEffectId": "StrawberryAuLait",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Lemonade",
+    "Value": {
+      "SpecialEffectId": "Lemonade",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Smoothie",
+    "Value": {
+      "SpecialEffectId": "Smoothie",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "FruitJuice",
+    "Value": {
+      "SpecialEffectId": "FruitJuice",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "Nectar",
+    "Value": {
+      "SpecialEffectId": "Nectar",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "DarkMatter",
+    "Value": {
+      "SpecialEffectId": "DarkMatter",
+      "IsAutoUse": false,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  },
+  {
+    "Key": "MacaroniAndCheese",
+    "Value": {
+      "SpecialEffectId": "MacaroniAndCheese",
+      "IsAutoUse": true,
+      "IsUsingFamiliaOnly": false,
+      "Category": "ECarriedCatalog::Food",
+      "Manipulate": "None",
+      "ManipulateValue": 0.0
+    }
+  }
+]

@@ -1,0 +1,866 @@
+[
+  {
+    "Key": "ShardAttackRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::ShardAttackRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "ShardIntervalRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::ShardIntervalRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "ShardMpRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::ShardMpRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "FlaDamageRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::FlaDamageRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "IceDamageRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::IceDamageRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "LigDamageRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::LigDamageRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "CriticalDamageRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::CriticalDamageRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "CriticalRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::CriticalRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "DropMoneyRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::DropMoneyRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "DropItemRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::DropItemRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "DropShardRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::DropShardRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "GainExpRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::GainExpRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "RecoveryHpRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::RecoveryHpRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "RecoveryMpRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::RecoveryMpRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "SlidingRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::SlidingRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "BackStepRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BackStepRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "MPRecoverySpeedRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::MPRecoverySpeedRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "DamageVanishCondition",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::DamageVanishCondition",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "MagicSpeedRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::MagicSpeedRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "MagicCancelTiming",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::MagicCancelTiming",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "GimmickDamageRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::GimmickDamageRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "NormalMoveUpRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::NormalMoveUpRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "GunBulletReduceRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::GunBulletReduceRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "GunBulletReduceNum",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::GunBulletReduceNum",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "GunBulletAttackrate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::GunBulletAttackrate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "MapAchievedAttackRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::MapAchievedAttackRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "MapAchievedAttackValue",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::MapAchievedAttackValue",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "KillEnemyAttackRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::KillEnemyAttackRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "KillEnemyAttackValue",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::KillEnemyAttackValue",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "HaveMoneyAttackRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::HaveMoneyAttackRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "HaveMoneyAttackValue",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::HaveMoneyAttackValue",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "BadStatusAttackRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BadStatusAttackRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "BadStatusAttackValue",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BadStatusAttackValue",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "MoneyIsPowerStatusValue",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::MoneyIsPowerStatusValue",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "MoneyIsPowerStatusRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::MoneyIsPowerStatusRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "WhipAttackRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::WhipAttackRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "GunAttackRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::GunAttackRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "BootsAttackRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BootsAttackRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "LargeSwordAttackRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::LargeSwordAttackRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "SpearAttackRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::SpearAttackRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "ShortSwordAttackRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::ShortSwordAttackRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "KnifeAttackRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::KnifeAttackRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "KatanaAttackRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::KatanaAttackRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "LongSwordAttackRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::LongSwordAttackRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "OptimizerAttackRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::OptimizerAttackRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "MaxHpUp",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::MaxHpUp",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "MaxMpUp",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::MaxMpUp",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "AttackSpeedRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::AttackSpeedRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "ActionSpeedRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::ActionSpeedRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "SameCraftRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::SameCraftRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "ShardMpZeroRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::ShardMpZeroRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "RegenerationInWater",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::RegenerationInWater",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "DetectiveEyeBonusRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::DetectiveEyeBonusRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "DrainRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::DrainRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "BloodSuckBonusRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BloodSuckBonusRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "SellingPriceRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::SellingPriceRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "GetLuckyMoneyRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::GetLuckyMoneyRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "RegenerationRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::RegenerationRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "RegenerationInterval",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::RegenerationInterval",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 5.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "IgnoreRateZAN",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::IgnoreRateZAN",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "IgnoreRateDAG",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::IgnoreRateDAG",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "IgnoreRateTOT",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::IgnoreRateTOT",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "IgnoreRateFLA",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::IgnoreRateFLA",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "IgnoreRateICE",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::IgnoreRateICE",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "IgnoreRateLIG",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::IgnoreRateLIG",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "IgnoreRateHOL",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::IgnoreRateHOL",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "IgnoreRateDAR",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::IgnoreRateDAR",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "IgnoreRatePOI",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::IgnoreRatePOI",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "IgnoreRateCUR",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::IgnoreRateCUR",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "IgnoreRateSTO",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::IgnoreRateSTO",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "IgnoreRateMagic",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::IgnoreRateMagic",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "MutekiTimerByInvert",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::MutekiTimerByInvert",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "MutekiTimerByDoubleJump",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::MutekiTimerByDoubleJump",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "MutekiTimerByHighJump",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::MutekiTimerByHighJump",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "StatusUpInwater",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::StatusUpInwater",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "DashSpeedRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::DashSpeedRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 1.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "WaterHPRecoverValue",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::None",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "WaterHPRecoverRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::WaterHPRecoverRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "WaterHPRecoverInterval",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::WaterHPRecoverInterval",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "WaterSpeedHorizontalRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::WaterSpeedHorizontalRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.5,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "WaterSpeedVerticalRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::WaterSpeedVerticalRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.5,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "WaterBuffValue",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::WaterBuffValue",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "WaterBuffRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::WaterBuffRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "BloodStealRate",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BloodStealRate",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "BloodStealRadius",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BloodStealRadius",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": false
+    }
+  },
+  {
+    "Key": "BuffZAN",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffZAN",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffDAG",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffDAG",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffTOT",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffTOT",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffFLA",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffFLA",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffICE",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffICE",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffLIG",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffLIG",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffHOL",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffHOL",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffDAR",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffDAR",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffPOI",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffPOI",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffCUR",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffCUR",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffSTO",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffSTO",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffSTR",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffSTR",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffCON",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffCON",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffINT",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffINT",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffMND",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffMND",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffLUC",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffLUC",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffMeleeATK",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffMeleeATK",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffMeleeATK_Mastery",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::None",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffMagicATK",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffMagicATK",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffMeleeDEF",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffMeleeDEF",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffMagicDEF",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffMagicDEF",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffMaxHP",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffMaxHP",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  },
+  {
+    "Key": "BuffMaxMP",
+    "Value": {
+      "Type_5_BF08F4064B9CF244C30C7788588CFDF5": "EPBEquipSpecialAttribute::BuffMaxMP",
+      "DefaultValue_36_E89AC59B4CE8DA314A516BAB741AA8CB": 0.0,
+      "IsRate_39_123266E146D0DB06BBE7DD8457E2EEC2": true
+    }
+  }
+]

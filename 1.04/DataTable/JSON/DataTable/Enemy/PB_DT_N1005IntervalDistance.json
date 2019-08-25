@@ -1,0 +1,162 @@
+[
+  {
+    "Key": "DEAD",
+    "Value": {
+      "CoopType_28_A72780E140BFFBD6908A40B67AFFAC23": "EPB_N1005_CoopActionList::NewEnumerator11",
+      "MaleDistance_37_59FA707B413EAC53A7EFD38DCF959B7A": -1400.0,
+      "FemaleDistance_40_B4A2F84049575253BB69898116355959": 1400.0
+    }
+  },
+  {
+    "Key": "BITE_COMB",
+    "Value": {
+      "CoopType_28_A72780E140BFFBD6908A40B67AFFAC23": "EPB_N1005_CoopActionList::NewEnumerator12",
+      "MaleDistance_37_59FA707B413EAC53A7EFD38DCF959B7A": -1150.0,
+      "FemaleDistance_40_B4A2F84049575253BB69898116355959": 1150.0
+    }
+  },
+  {
+    "Key": "ROPE_JUMP",
+    "Value": {
+      "CoopType_28_A72780E140BFFBD6908A40B67AFFAC23": "EPB_N1005_CoopActionList::NewEnumerator9",
+      "MaleDistance_37_59FA707B413EAC53A7EFD38DCF959B7A": -1150.0,
+      "FemaleDistance_40_B4A2F84049575253BB69898116355959": 1150.0
+    }
+  },
+  {
+    "Key": "FIRE_COMB",
+    "Value": {
+      "CoopType_28_A72780E140BFFBD6908A40B67AFFAC23": "EPB_N1005_CoopActionList::NewEnumerator10",
+      "MaleDistance_37_59FA707B413EAC53A7EFD38DCF959B7A": -1400.0,
+      "FemaleDistance_40_B4A2F84049575253BB69898116355959": 1400.0
+    }
+  },
+  {
+    "Key": "FIRE_DASH",
+    "Value": {
+      "CoopType_28_A72780E140BFFBD6908A40B67AFFAC23": "EPB_N1005_CoopActionList::NewEnumerator13",
+      "MaleDistance_37_59FA707B413EAC53A7EFD38DCF959B7A": -1500.0,
+      "FemaleDistance_40_B4A2F84049575253BB69898116355959": 1000.0
+    }
+  },
+  {
+    "Key": "FIRE_UPDOWN",
+    "Value": {
+      "CoopType_28_A72780E140BFFBD6908A40B67AFFAC23": "EPB_N1005_CoopActionList::NewEnumerator14",
+      "MaleDistance_37_59FA707B413EAC53A7EFD38DCF959B7A": -1800.0,
+      "FemaleDistance_40_B4A2F84049575253BB69898116355959": 1800.0
+    }
+  },
+  {
+    "Key": "ROPE_UPDOWN",
+    "Value": {
+      "CoopType_28_A72780E140BFFBD6908A40B67AFFAC23": "EPB_N1005_CoopActionList::NewEnumerator15",
+      "MaleDistance_37_59FA707B413EAC53A7EFD38DCF959B7A": -1150.0,
+      "FemaleDistance_40_B4A2F84049575253BB69898116355959": 1150.0
+    }
+  },
+  {
+    "Key": "BITE_COMB_REVERSE",
+    "Value": {
+      "CoopType_28_A72780E140BFFBD6908A40B67AFFAC23": "EPB_N1005_CoopActionList::NewEnumerator18",
+      "MaleDistance_37_59FA707B413EAC53A7EFD38DCF959B7A": -1150.0,
+      "FemaleDistance_40_B4A2F84049575253BB69898116355959": 1150.0
+    }
+  },
+  {
+    "Key": "ROPE_JUMP_REVERSE",
+    "Value": {
+      "CoopType_28_A72780E140BFFBD6908A40B67AFFAC23": "EPB_N1005_CoopActionList::NewEnumerator16",
+      "MaleDistance_37_59FA707B413EAC53A7EFD38DCF959B7A": -1150.0,
+      "FemaleDistance_40_B4A2F84049575253BB69898116355959": 1150.0
+    }
+  },
+  {
+    "Key": "FIRE_COMB_REVERSE",
+    "Value": {
+      "CoopType_28_A72780E140BFFBD6908A40B67AFFAC23": "EPB_N1005_CoopActionList::NewEnumerator17",
+      "MaleDistance_37_59FA707B413EAC53A7EFD38DCF959B7A": -1400.0,
+      "FemaleDistance_40_B4A2F84049575253BB69898116355959": 1400.0
+    }
+  },
+  {
+    "Key": "FIRE_DASH_REVERSE",
+    "Value": {
+      "CoopType_28_A72780E140BFFBD6908A40B67AFFAC23": "EPB_N1005_CoopActionList::NewEnumerator19",
+      "MaleDistance_37_59FA707B413EAC53A7EFD38DCF959B7A": -1500.0,
+      "FemaleDistance_40_B4A2F84049575253BB69898116355959": 1000.0
+    }
+  },
+  {
+    "Key": "FIRE_UPDOWN_REVERSE",
+    "Value": {
+      "CoopType_28_A72780E140BFFBD6908A40B67AFFAC23": "EPB_N1005_CoopActionList::NewEnumerator20",
+      "MaleDistance_37_59FA707B413EAC53A7EFD38DCF959B7A": -1800.0,
+      "FemaleDistance_40_B4A2F84049575253BB69898116355959": 1800.0
+    }
+  },
+  {
+    "Key": "ROPE_UPDOWN_REVERSE",
+    "Value": {
+      "CoopType_28_A72780E140BFFBD6908A40B67AFFAC23": "EPB_N1005_CoopActionList::NewEnumerator21",
+      "MaleDistance_37_59FA707B413EAC53A7EFD38DCF959B7A": -1150.0,
+      "FemaleDistance_40_B4A2F84049575253BB69898116355959": 1150.0
+    }
+  },
+  {
+    "Key": "BITE_LIGHT",
+    "Value": {
+      "CoopType_28_A72780E140BFFBD6908A40B67AFFAC23": "EPB_N1005_CoopActionList::NewEnumerator25",
+      "MaleDistance_37_59FA707B413EAC53A7EFD38DCF959B7A": -1150.0,
+      "FemaleDistance_40_B4A2F84049575253BB69898116355959": 1150.0
+    }
+  },
+  {
+    "Key": "ROPE_LIGHT",
+    "Value": {
+      "CoopType_28_A72780E140BFFBD6908A40B67AFFAC23": "EPB_N1005_CoopActionList::NewEnumerator23",
+      "MaleDistance_37_59FA707B413EAC53A7EFD38DCF959B7A": -1150.0,
+      "FemaleDistance_40_B4A2F84049575253BB69898116355959": 1150.0
+    }
+  },
+  {
+    "Key": "BITE_LIGHT_REVERSE",
+    "Value": {
+      "CoopType_28_A72780E140BFFBD6908A40B67AFFAC23": "EPB_N1005_CoopActionList::NewEnumerator25",
+      "MaleDistance_37_59FA707B413EAC53A7EFD38DCF959B7A": -1150.0,
+      "FemaleDistance_40_B4A2F84049575253BB69898116355959": 1150.0
+    }
+  },
+  {
+    "Key": "ROPE_LIGHT_REVERSE",
+    "Value": {
+      "CoopType_28_A72780E140BFFBD6908A40B67AFFAC23": "EPB_N1005_CoopActionList::NewEnumerator23",
+      "MaleDistance_37_59FA707B413EAC53A7EFD38DCF959B7A": -1150.0,
+      "FemaleDistance_40_B4A2F84049575253BB69898116355959": 1150.0
+    }
+  },
+  {
+    "Key": "BITE_RUSH",
+    "Value": {
+      "CoopType_28_A72780E140BFFBD6908A40B67AFFAC23": "EPB_N1005_CoopActionList::NewEnumerator27",
+      "MaleDistance_37_59FA707B413EAC53A7EFD38DCF959B7A": -1150.0,
+      "FemaleDistance_40_B4A2F84049575253BB69898116355959": 1150.0
+    }
+  },
+  {
+    "Key": "BITE_RUSH_REVERSE",
+    "Value": {
+      "CoopType_28_A72780E140BFFBD6908A40B67AFFAC23": "EPB_N1005_CoopActionList::NewEnumerator28",
+      "MaleDistance_37_59FA707B413EAC53A7EFD38DCF959B7A": -1150.0,
+      "FemaleDistance_40_B4A2F84049575253BB69898116355959": 1150.0
+    }
+  },
+  {
+    "Key": "COMBINED_ATTACK",
+    "Value": {
+      "CoopType_28_A72780E140BFFBD6908A40B67AFFAC23": "EPB_N1005_CoopActionList::NewEnumerator29",
+      "MaleDistance_37_59FA707B413EAC53A7EFD38DCF959B7A": -1150.0,
+      "FemaleDistance_40_B4A2F84049575253BB69898116355959": 1150.0
+    }
+  }
+]

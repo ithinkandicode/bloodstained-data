@@ -1,0 +1,14 @@
+[
+  {
+    "Key": "SplashShard",
+    "Value": {
+      "InitialSpeed": 6.0,
+      "Accelleration": 18.0,
+      "MinSpeed": 0.0,
+      "MaxSpeed": 10.0,
+      "Attenuation": 3.0,
+      "AttenuationPassive": 7.0,
+      "WalkingAttenuationRate": 5.0
+    }
+  }
+]

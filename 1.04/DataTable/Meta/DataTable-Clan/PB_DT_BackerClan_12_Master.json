@@ -1,0 +1,74 @@
+[
+  {
+    "Key": "BACKER_0000",
+    "Value": {
+      "BackerName": "Zakanuva",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#687014"
+    }
+  },
+  {
+    "Key": "BACKER_0001",
+    "Value": {
+      "BackerName": "Aaron Rupp",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#1C6FF6"
+    }
+  },
+  {
+    "Key": "BACKER_0002",
+    "Value": {
+      "BackerName": "Dannie A. Quiros",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#4615F6"
+    }
+  },
+  {
+    "Key": "BACKER_0003",
+    "Value": {
+      "BackerName": "Hai Pham",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#B78D92"
+    }
+  },
+  {
+    "Key": "BACKER_0004",
+    "Value": {
+      "BackerName": "Alton \"CourierDan\" Barak",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#900BEC"
+    }
+  },
+  {
+    "Key": "BACKER_0005",
+    "Value": {
+      "BackerName": "Aaron Beck (ce1545)",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#9C3D92"
+    }
+  },
+  {
+    "Key": "BACKER_0006",
+    "Value": {
+      "BackerName": "God Of Chickens",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#D66531"
+    }
+  },
+  {
+    "Key": "BACKER_0007",
+    "Value": {
+      "BackerName": "Josh Jepson",
+      "EntryClan": "EClanType::None",
+      "Comment": "",
+      "Phrase": "#469A44"
+    }
+  }
+]

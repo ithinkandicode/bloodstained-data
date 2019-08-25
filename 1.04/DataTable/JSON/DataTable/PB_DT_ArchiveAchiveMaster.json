@@ -1,0 +1,222 @@
+[
+  {
+    "Key": "ACHIVE_001",
+    "Value": {
+      "Index": 0,
+      "Name": "ACV_SEN_ACHIVE_CATEGORY_001",
+      "Category": "EArchiveUnitType::Count",
+      "Max": 100000000.0,
+      "Unlockkey": "Archive_Unlock_Achive_001",
+      "MiriamOnly": false
+    }
+  },
+  {
+    "Key": "ACHIVE_002",
+    "Value": {
+      "Index": 1,
+      "Name": "ACV_SEN_ACHIVE_CATEGORY_002",
+      "Category": "EArchiveUnitType::Rate",
+      "Max": 100.0,
+      "Unlockkey": "Archive_Unlock_Achive_002",
+      "MiriamOnly": false
+    }
+  },
+  {
+    "Key": "ACHIVE_003",
+    "Value": {
+      "Index": 2,
+      "Name": "ACV_SEN_ACHIVE_CATEGORY_003",
+      "Category": "EArchiveUnitType::Meter",
+      "Max": 100000000.0,
+      "Unlockkey": "Archive_Unlock_Achive_003",
+      "MiriamOnly": false
+    }
+  },
+  {
+    "Key": "ACHIVE_004",
+    "Value": {
+      "Index": 3,
+      "Name": "ACV_SEN_ACHIVE_CATEGORY_004",
+      "Category": "EArchiveUnitType::Meter",
+      "Max": 100000000.0,
+      "Unlockkey": "Archive_Unlock_Achive_004",
+      "MiriamOnly": false
+    }
+  },
+  {
+    "Key": "ACHIVE_005",
+    "Value": {
+      "Index": 4,
+      "Name": "ACV_SEN_ACHIVE_CATEGORY_005",
+      "Category": "EArchiveUnitType::Price",
+      "Max": 100000000.0,
+      "Unlockkey": "Archive_Unlock_Achive_005",
+      "MiriamOnly": true
+    }
+  },
+  {
+    "Key": "ACHIVE_006",
+    "Value": {
+      "Index": 5,
+      "Name": "ACV_SEN_ACHIVE_CATEGORY_006",
+      "Category": "EArchiveUnitType::Price",
+      "Max": 100000000.0,
+      "Unlockkey": "Archive_Unlock_Achive_006",
+      "MiriamOnly": true
+    }
+  },
+  {
+    "Key": "ACHIVE_007",
+    "Value": {
+      "Index": 6,
+      "Name": "ACV_SEN_ACHIVE_CATEGORY_007",
+      "Category": "EArchiveUnitType::Count",
+      "Max": 100000000.0,
+      "Unlockkey": "Archive_Unlock_Achive_007",
+      "MiriamOnly": true
+    }
+  },
+  {
+    "Key": "ACHIVE_008",
+    "Value": {
+      "Index": 7,
+      "Name": "ACV_SEN_ACHIVE_CATEGORY_008",
+      "Category": "EArchiveUnitType::None",
+      "Max": 100000000.0,
+      "Unlockkey": "Archive_Unlock_Achive_008",
+      "MiriamOnly": true
+    }
+  },
+  {
+    "Key": "ACHIVE_009",
+    "Value": {
+      "Index": 8,
+      "Name": "ACV_SEN_ACHIVE_CATEGORY_009",
+      "Category": "EArchiveUnitType::None",
+      "Max": 100000000.0,
+      "Unlockkey": "Archive_Unlock_Achive_009",
+      "MiriamOnly": true
+    }
+  },
+  {
+    "Key": "ACHIVE_010",
+    "Value": {
+      "Index": 9,
+      "Name": "ACV_SEN_ACHIVE_CATEGORY_010",
+      "Category": "EArchiveUnitType::Count",
+      "Max": 100000000.0,
+      "Unlockkey": "Archive_Unlock_Achive_010",
+      "MiriamOnly": true
+    }
+  },
+  {
+    "Key": "ACHIVE_011",
+    "Value": {
+      "Index": 10,
+      "Name": "ACV_SEN_ACHIVE_CATEGORY_011",
+      "Category": "EArchiveUnitType::Count",
+      "Max": 100000000.0,
+      "Unlockkey": "Archive_Unlock_Achive_011",
+      "MiriamOnly": true
+    }
+  },
+  {
+    "Key": "ACHIVE_012",
+    "Value": {
+      "Index": 11,
+      "Name": "ACV_SEN_ACHIVE_CATEGORY_012",
+      "Category": "EArchiveUnitType::None",
+      "Max": 100000000.0,
+      "Unlockkey": "Archive_Unlock_Achive_012",
+      "MiriamOnly": true
+    }
+  },
+  {
+    "Key": "ACHIVE_013",
+    "Value": {
+      "Index": 12,
+      "Name": "ACV_SEN_ACHIVE_CATEGORY_013",
+      "Category": "EArchiveUnitType::None",
+      "Max": 100000000.0,
+      "Unlockkey": "Archive_Unlock_Achive_013",
+      "MiriamOnly": true
+    }
+  },
+  {
+    "Key": "ACHIVE_014",
+    "Value": {
+      "Index": 13,
+      "Name": "ACV_SEN_ACHIVE_CATEGORY_014",
+      "Category": "EArchiveUnitType::Liter",
+      "Max": 100000000.0,
+      "Unlockkey": "Archive_Unlock_Achive_014",
+      "MiriamOnly": true
+    }
+  },
+  {
+    "Key": "ACHIVE_015",
+    "Value": {
+      "Index": 14,
+      "Name": "ACV_SEN_ACHIVE_CATEGORY_015",
+      "Category": "EArchiveUnitType::Count",
+      "Max": 100000000.0,
+      "Unlockkey": "Archive_Unlock_Achive_015",
+      "MiriamOnly": true
+    }
+  },
+  {
+    "Key": "ACHIVE_016",
+    "Value": {
+      "Index": 15,
+      "Name": "ACV_SEN_ACHIVE_CATEGORY_016",
+      "Category": "EArchiveUnitType::None",
+      "Max": 100000000.0,
+      "Unlockkey": "Archive_Unlock_Achive_016",
+      "MiriamOnly": false
+    }
+  },
+  {
+    "Key": "ACHIVE_017",
+    "Value": {
+      "Index": 16,
+      "Name": "ACV_SEN_ACHIVE_CATEGORY_017",
+      "Category": "EArchiveUnitType::Count",
+      "Max": 100000000.0,
+      "Unlockkey": "Archive_Unlock_Achive_017",
+      "MiriamOnly": false
+    }
+  },
+  {
+    "Key": "ACHIVE_018",
+    "Value": {
+      "Index": 17,
+      "Name": "ACV_SEN_ACHIVE_CATEGORY_018",
+      "Category": "EArchiveUnitType::Count",
+      "Max": 100000000.0,
+      "Unlockkey": "Archive_Unlock_Achive_018",
+      "MiriamOnly": false
+    }
+  },
+  {
+    "Key": "ACHIVE_019",
+    "Value": {
+      "Index": 18,
+      "Name": "ACV_SEN_ACHIVE_CATEGORY_019",
+      "Category": "EArchiveUnitType::Rate",
+      "Max": 100.0,
+      "Unlockkey": "Archive_Unlock_Achive_019",
+      "MiriamOnly": false
+    }
+  },
+  {
+    "Key": "ACHIVE_020",
+    "Value": {
+      "Index": 19,
+      "Name": "ACV_SEN_ACHIVE_CATEGORY_020",
+      "Category": "EArchiveUnitType::Rate",
+      "Max": 100.0,
+      "Unlockkey": "Archive_Unlock_Achive_020",
+      "MiriamOnly": true
+    }
+  }
+]
