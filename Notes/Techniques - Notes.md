@@ -5,3 +5,5 @@ The following weapons cannot use the weapon arts of other weapon types:
 - WalalSoulimo
 - ValralAltar
 - ShieldWeapon
+
+For input commands, numbers mean directions. Check your numpad for reference.

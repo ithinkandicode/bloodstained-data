@@ -1,0 +1,12 @@
+```
+FOT-NewCezannePro-M.uasset
+FOT-NewCezannePro-M.ufont
+FOT-UDKakugo_LargePro-M.uasset
+FOT-UDKakugo_LargePro-M.ufont
+FOT-UDKakugo_LargePro-M_Font.uasset
+FOT-UDMINCHOPRO-DB.uasset
+FOT-UDMINCHOPRO-DB.ufont
+FOT-UDMINCHOPRO-DB_Font.uasset
+OpenSans-Regular.uasset
+OpenSans-Regular.ufont
+```

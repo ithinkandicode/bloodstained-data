@@ -20,3 +20,18 @@ Flat damage increases (hard/nightmare):
 - Bosses: ATK +30/50
 - Both enemies & bosses: Attack speed +10/20%
 - Environmental hazards: Damage x2/x3
+
+### Game Data
+
+```
+HardEnemyAttackAdd	15
+HardEnemyDamageRate	1.1
+HardBossAttackAdd	30
+HardBossDamageRate	1.1
+HardGimmickDamageRate	2
+NightmareEnemyAttackAdd	25
+NightmareEnemyDamageRate	1.2
+NightmareBossAttackAdd	50
+NightmareBossDamageRate	1.2
+NightmareGimmickDamageRate	3
+```
