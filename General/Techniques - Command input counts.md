@@ -1,0 +1,30 @@
+```
+Ssword_BackStab	5
+Ssword_Throw	4
+Ssword_BackSteal	4
+NSword_ChargeAttack	4
+NSword_Parry	3
+NSword_PowerSlash	5
+NSword_ThrowWeapon	3
+LSword_GroundMoon	4
+Staff_Suchisai	5
+Nsword_HundredFlowers	6
+Nsword_Shandy	4
+Spear_Charge	4
+Spear_ThreeStaff	3
+Spear_Roll	5
+Foot_DropKick	3
+WpnSP_ThreeKicks	4
+Whip_BigAttack	4
+Jsword_BloodSnowStorm	5
+JSowrd_Kabut	3
+JSword_GodSpeed	4
+Jsword_CircleEdge	5
+Jsword_GratefulDead	4
+JSword_Parry	3
+Invert	3
+Gun_Burst	4
+Zangetu_ShizukuJin	3
+Zangetu_KiriageZan	4
+Zangetu_MatterOfVoid	4
+```
