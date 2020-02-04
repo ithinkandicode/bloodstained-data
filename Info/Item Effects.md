@@ -107,9 +107,19 @@ Many cheat code weapons can perform Force Blast:
 - Gold Cross
 - Hikari
 - Moonwake
-- Prismatic Heart (can also perform Power Slash)
+- Prismatic Heart ─ can also perform Power Slash
 - Sicilian Slicer
 - Vine Sword
+
+### Weapons with locked techniques
+
+The following weapons cannot use the techniques of their weapon types, even after mastery:
+
+- Oracle Blade
+- Flying Edge
+- Shield Weapon
+- Rhava Velar
+- Rhava Búral
 
 ---
 
